@@ -1,0 +1,2102 @@
+{
+  "type": "bouquet",
+  "label": "tivusat",
+  "bouquet_id": "tivusat",
+  "updated_at": "2026-09-22T21:20:58.635664",
+  "count": 68,
+  "channels": [
+    {
+      "channel_name": "Horse TV HD",
+      "country": "Italia",
+      "category": "Racing",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "16942",
+      "vpid": "1421",
+      "audio_tracks": [
+        {
+          "pid": "1422",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1420",
+      "pcr": "1421",
+      "txt": "",
+      "frequency": "10930.20",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12100",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Super!",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "16947",
+      "vpid": "1471",
+      "audio_tracks": [
+        {
+          "pid": "1472",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1473",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1470",
+      "pcr": "1471",
+      "txt": "",
+      "frequency": "10930.20",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12100",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai YoYo HD",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "RAISky ItaliaTivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "8511",
+      "vpid": "512",
+      "audio_tracks": [
+        {
+          "pid": "650",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1104",
+      "pcr": "512",
+      "txt": "576",
+      "frequency": "10992.16",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "12400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai Radio 2 Visual",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAISky ItaliaTivùSat",
+      "encryption": "FTA + Nagravision 3 + Mediaguard 2 + VideoGuard",
+      "sid": "8512",
+      "vpid": "513",
+      "audio_tracks": [
+        {
+          "pid": "651",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1105",
+      "pcr": "513",
+      "txt": "577",
+      "frequency": "10992.16",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "12400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai Premium HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "8522",
+      "vpid": "522",
+      "audio_tracks": [
+        {
+          "pid": "662",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "772",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "792",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1122",
+      "pcr": "522",
+      "txt": "565",
+      "frequency": "10992.16",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "12400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai Sport HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA + Nagravision 3",
+      "sid": "17714",
+      "vpid": "1840",
+      "audio_tracks": [
+        {
+          "pid": "1841",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1842",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "1843",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1984",
+      "pcr": "1840",
+      "txt": "572",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 5 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17716",
+      "vpid": "1860",
+      "audio_tracks": [
+        {
+          "pid": "1861",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1862",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "1863",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1986",
+      "pcr": "1860",
+      "txt": "584",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Puglia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17731",
+      "vpid": "801",
+      "audio_tracks": [
+        {
+          "pid": "901",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1901",
+      "pcr": "801",
+      "txt": "501",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17732",
+      "vpid": "802",
+      "audio_tracks": [
+        {
+          "pid": "902",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1902",
+      "pcr": "802",
+      "txt": "502",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Calabria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17733",
+      "vpid": "803",
+      "audio_tracks": [
+        {
+          "pid": "903",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1903",
+      "pcr": "803",
+      "txt": "503",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Sicilia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17734",
+      "vpid": "804",
+      "audio_tracks": [
+        {
+          "pid": "904",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1904",
+      "pcr": "804",
+      "txt": "504",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Liguria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17735",
+      "vpid": "805",
+      "audio_tracks": [
+        {
+          "pid": "905",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1905",
+      "pcr": "805",
+      "txt": "505",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Toscana",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17736",
+      "vpid": "806",
+      "audio_tracks": [
+        {
+          "pid": "906",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1906",
+      "pcr": "806",
+      "txt": "506",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Umbria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17737",
+      "vpid": "807",
+      "audio_tracks": [
+        {
+          "pid": "907",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1907",
+      "pcr": "807",
+      "txt": "507",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Marche",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17738",
+      "vpid": "808",
+      "audio_tracks": [
+        {
+          "pid": "908",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1908",
+      "pcr": "808",
+      "txt": "508",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Piemonte",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17739",
+      "vpid": "809",
+      "audio_tracks": [
+        {
+          "pid": "909",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1909",
+      "pcr": "809",
+      "txt": "509",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Lombardia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17740",
+      "vpid": "810",
+      "audio_tracks": [
+        {
+          "pid": "910",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1910",
+      "pcr": "810",
+      "txt": "510",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Emilia Romagna",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17741",
+      "vpid": "811",
+      "audio_tracks": [
+        {
+          "pid": "911",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1911",
+      "pcr": "811",
+      "txt": "511",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Veneto",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17742",
+      "vpid": "812",
+      "audio_tracks": [
+        {
+          "pid": "912",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1912",
+      "pcr": "812",
+      "txt": "512",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Südtirol",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17743",
+      "vpid": "813",
+      "audio_tracks": [
+        {
+          "pid": "913",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1913",
+      "pcr": "813",
+      "txt": "513",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Valle d'Aosta",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17744",
+      "vpid": "814",
+      "audio_tracks": [
+        {
+          "pid": "914",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1914",
+      "pcr": "814",
+      "txt": "514",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Sardegna",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17745",
+      "vpid": "815",
+      "audio_tracks": [
+        {
+          "pid": "915",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1915",
+      "pcr": "815",
+      "txt": "515",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Abruzzo",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17746",
+      "vpid": "816",
+      "audio_tracks": [
+        {
+          "pid": "916",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1916",
+      "pcr": "816",
+      "txt": "516",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Molise",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17747",
+      "vpid": "817",
+      "audio_tracks": [
+        {
+          "pid": "917",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1917",
+      "pcr": "817",
+      "txt": "517",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Campania",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17748",
+      "vpid": "818",
+      "audio_tracks": [
+        {
+          "pid": "918",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1918",
+      "pcr": "818",
+      "txt": "518",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Friuli Venezia Giulia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17749",
+      "vpid": "819",
+      "audio_tracks": [
+        {
+          "pid": "919",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1919",
+      "pcr": "819",
+      "txt": "519",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Furlanija Julijska Krajina",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17750",
+      "vpid": "820",
+      "audio_tracks": [
+        {
+          "pid": "920",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1920",
+      "pcr": "820",
+      "txt": "520",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Trentino Alto Adige Trento",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17751",
+      "vpid": "821",
+      "audio_tracks": [
+        {
+          "pid": "921",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1921",
+      "pcr": "821",
+      "txt": "521",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Trentino Alto Adige Bolzano",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17752",
+      "vpid": "822",
+      "audio_tracks": [
+        {
+          "pid": "922",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1922",
+      "pcr": "822",
+      "txt": "522",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 TGR Lazio",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17753",
+      "vpid": "823",
+      "audio_tracks": [
+        {
+          "pid": "923",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1923",
+      "pcr": "823",
+      "txt": "523",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Real Time HD Italia",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "15201",
+      "vpid": "501",
+      "audio_tracks": [
+        {
+          "pid": "711",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "712",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "301",
+      "pcr": "501",
+      "txt": "",
+      "frequency": "11257.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "300",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "DMAX HD Italia",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "15202",
+      "vpid": "502",
+      "audio_tracks": [
+        {
+          "pid": "721",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "722",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "302",
+      "pcr": "502",
+      "txt": "",
+      "frequency": "11257.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "300",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Food Network HD Italy",
+      "country": "Italia",
+      "category": "Cooking",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "15203",
+      "vpid": "503",
+      "audio_tracks": [
+        {
+          "pid": "731",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "732",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "303",
+      "pcr": "503",
+      "txt": "",
+      "frequency": "11257.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "300",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Discovery Channel HD Italy",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "15212",
+      "vpid": "512",
+      "audio_tracks": [
+        {
+          "pid": "821",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "822",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "312",
+      "pcr": "512",
+      "txt": "",
+      "frequency": "11257.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "300",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Discovery Italy HD",
+      "country": "",
+      "category": "",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "15214",
+      "vpid": "512",
+      "audio_tracks": [
+        {
+          "pid": "821",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "822",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "314",
+      "pcr": "512",
+      "txt": "",
+      "frequency": "11257.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "300",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "11393.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Discovery Turbo Italy",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "4321",
+      "vpid": "522",
+      "audio_tracks": [
+        {
+          "pid": "750",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "751",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "270",
+      "pcr": "522",
+      "txt": "",
+      "frequency": "11393.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Giallo HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "4322",
+      "vpid": "523",
+      "audio_tracks": [
+        {
+          "pid": "760",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "761",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "271",
+      "pcr": "523",
+      "txt": "",
+      "frequency": "11393.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Nove HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "4323",
+      "vpid": "524",
+      "audio_tracks": [
+        {
+          "pid": "770",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "771",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "272",
+      "pcr": "524",
+      "txt": "",
+      "frequency": "11393.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "HGTV Italy HD",
+      "country": "Italia",
+      "category": "Lifestyle",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "4334",
+      "vpid": "535",
+      "audio_tracks": [
+        {
+          "pid": "880",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "881",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "283",
+      "pcr": "535",
+      "txt": "",
+      "frequency": "11393.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Cine34",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "111",
+      "vpid": "1004",
+      "audio_tracks": [
+        {
+          "pid": "1104",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "211",
+      "pcr": "1004",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Virgin Radio",
+      "country": "Italia",
+      "category": "Music",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "118",
+      "vpid": "1030",
+      "audio_tracks": [
+        {
+          "pid": "1130",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "218",
+      "pcr": "1030",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Radio Monte Carlo",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "119",
+      "vpid": "1026",
+      "audio_tracks": [
+        {
+          "pid": "1126",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "219",
+      "pcr": "1026",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "20 Mediaset HD",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "120",
+      "vpid": "1054",
+      "audio_tracks": [
+        {
+          "pid": "1154",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1254",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "220",
+      "pcr": "1054",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Italia 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "121",
+      "vpid": "1060",
+      "audio_tracks": [
+        {
+          "pid": "1160",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1260",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "221",
+      "pcr": "1060",
+      "txt": "2000",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Canale 5 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "122",
+      "vpid": "1058",
+      "audio_tracks": [
+        {
+          "pid": "1158",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1258",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "222",
+      "pcr": "1058",
+      "txt": "2000",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rete 4 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "123",
+      "vpid": "1056",
+      "audio_tracks": [
+        {
+          "pid": "1156",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1256",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "223",
+      "pcr": "1056",
+      "txt": "2000",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Iris",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "124",
+      "vpid": "1046",
+      "audio_tracks": [
+        {
+          "pid": "1146",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1246",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "224",
+      "pcr": "1046",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Boing",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "126",
+      "vpid": "1010",
+      "audio_tracks": [
+        {
+          "pid": "1110",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "226",
+      "pcr": "1010",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "La5",
+      "country": "Italia",
+      "category": "Lifestyle",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "127",
+      "vpid": "1015",
+      "audio_tracks": [
+        {
+          "pid": "1115",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1215",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "227",
+      "pcr": "1015",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Mediaset Extra",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "129",
+      "vpid": "1003",
+      "audio_tracks": [
+        {
+          "pid": "1103",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "229",
+      "pcr": "1003",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Mediaset Italia Due",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "130",
+      "vpid": "1021",
+      "audio_tracks": [
+        {
+          "pid": "1121",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1221",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "230",
+      "pcr": "1021",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TOPcrime",
+      "country": "Italia",
+      "category": "Series",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "132",
+      "vpid": "1051",
+      "audio_tracks": [
+        {
+          "pid": "1151",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1251",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "232",
+      "pcr": "1051",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Cartoonito Italy",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "133",
+      "vpid": "1012",
+      "audio_tracks": [
+        {
+          "pid": "1112",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "233",
+      "pcr": "1012",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Focus",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "134",
+      "vpid": "1016",
+      "audio_tracks": [
+        {
+          "pid": "1116",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1216",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "234",
+      "pcr": "1016",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "27 Twentyseven HD",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "MediasetTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "135",
+      "vpid": "1038",
+      "audio_tracks": [
+        {
+          "pid": "1138",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1238",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "235",
+      "pcr": "1038",
+      "txt": "",
+      "frequency": "11431.90",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "272",
+      "tid": "1200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA",
+      "sid": "3401",
+      "vpid": "501",
+      "audio_tracks": [
+        {
+          "pid": "601",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "611",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "621",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1101",
+      "pcr": "501",
+      "txt": "567",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA + Nagravision 3 + Mediaguard",
+      "sid": "3402",
+      "vpid": "502",
+      "audio_tracks": [
+        {
+          "pid": "602",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "612",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "622",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1102",
+      "pcr": "502",
+      "txt": "568",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA",
+      "sid": "3403",
+      "vpid": "503",
+      "audio_tracks": [
+        {
+          "pid": "603",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "613",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1103",
+      "pcr": "503",
+      "txt": "569",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai 4 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "3405",
+      "vpid": "505",
+      "audio_tracks": [
+        {
+          "pid": "605",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "615",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "625",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1105",
+      "pcr": "505",
+      "txt": "583",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai Movie HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "3406",
+      "vpid": "506",
+      "audio_tracks": [
+        {
+          "pid": "606",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "616",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "626",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1106",
+      "pcr": "506",
+      "txt": "586",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "La7 Cinema",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "73",
+      "vpid": "1540",
+      "audio_tracks": [
+        {
+          "pid": "1542",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "274",
+      "pcr": "1540",
+      "txt": "",
+      "frequency": "11919.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "190",
+      "tid": "6000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "La 7 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "TivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "79",
+      "vpid": "1440",
+      "audio_tracks": [
+        {
+          "pid": "1442",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "273",
+      "pcr": "1440",
+      "txt": "",
+      "frequency": "11919.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "190",
+      "tid": "6000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TV 2000",
+      "country": "Italia",
+      "category": "Religious",
+      "bouquet": "TivùSat",
+      "encryption": "FTA + Nagravision 3 + VideoGuard",
+      "sid": "91",
+      "vpid": "391",
+      "audio_tracks": [
+        {
+          "pid": "491",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "291",
+      "pcr": "391",
+      "txt": "",
+      "frequency": "11919.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "190",
+      "tid": "6000",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Cielo",
+      "country": "Italia",
+      "category": "Various",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "4120",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "425",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "426",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1017",
+      "pcr": "172",
+      "txt": "704",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "cielo",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "4121",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "425",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "426",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1027",
+      "pcr": "172",
+      "txt": "704",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TV8 HD (Italy)",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "7260",
+      "vpid": "175",
+      "audio_tracks": [
+        {
+          "pid": "434",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "435",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1104",
+      "pcr": "175",
+      "txt": "706",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TV8 HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "7270",
+      "vpid": "175",
+      "audio_tracks": [
+        {
+          "pid": "434",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "435",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1028",
+      "pcr": "175",
+      "txt": "706",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    }
+  ]
+}
