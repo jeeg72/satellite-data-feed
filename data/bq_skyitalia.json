@@ -1,0 +1,3951 @@
+{
+  "type": "bouquet",
+  "label": "skyitalia",
+  "bouquet_id": "skyitalia",
+  "updated_at": "2026-09-22T21:20:58.635664",
+  "count": 137,
+  "channels": [
+    {
+      "channel_name": "Horse TV HD",
+      "country": "Italia",
+      "category": "Racing",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "16942",
+      "vpid": "1421",
+      "audio_tracks": [
+        {
+          "pid": "1422",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1420",
+      "pcr": "1421",
+      "txt": "",
+      "frequency": "10930.20",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12100",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai YoYo HD",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "RAISky ItaliaTivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "8511",
+      "vpid": "512",
+      "audio_tracks": [
+        {
+          "pid": "650",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1104",
+      "pcr": "512",
+      "txt": "576",
+      "frequency": "10992.16",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "12400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Rai Radio 2 Visual",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAISky ItaliaTivùSat",
+      "encryption": "FTA + Nagravision 3 + Mediaguard 2 + VideoGuard",
+      "sid": "8512",
+      "vpid": "513",
+      "audio_tracks": [
+        {
+          "pid": "651",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1105",
+      "pcr": "513",
+      "txt": "577",
+      "frequency": "10992.16",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "12400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Business 2",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3562",
+      "vpid": "174",
+      "audio_tracks": [
+        {
+          "pid": "402",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "403",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1122",
+      "pcr": "174",
+      "txt": "",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Stories",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3564",
+      "vpid": "167",
+      "audio_tracks": [
+        {
+          "pid": "425",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "426",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1010",
+      "pcr": "167",
+      "txt": "711",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "DAZN 1 Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3566",
+      "vpid": "169",
+      "audio_tracks": [
+        {
+          "pid": "430",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1008",
+      "pcr": "169",
+      "txt": "703",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Prime Video Sportsbar",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4118",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "420",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "421",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1121",
+      "pcr": "165",
+      "txt": "",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Uno",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4202",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "423",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1023",
+      "pcr": "173",
+      "txt": "701",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Uno",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4203",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "423",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1024",
+      "pcr": "173",
+      "txt": "701",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Basket",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7764",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1001",
+      "pcr": "160",
+      "txt": "700",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7775",
+      "vpid": "171",
+      "audio_tracks": [
+        {
+          "pid": "412",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "413",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1018",
+      "pcr": "171",
+      "txt": "",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Supertennis HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11305",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "408",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1127",
+      "pcr": "164",
+      "txt": "",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11613",
+      "vpid": "168",
+      "audio_tracks": [
+        {
+          "pid": "428",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "429",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1119",
+      "pcr": "168",
+      "txt": "722",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Serie HD",
+      "country": "Italia",
+      "category": "Series",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11684",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "414",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "415",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1126",
+      "pcr": "172",
+      "txt": "705",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Investigation HD",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11686",
+      "vpid": "170",
+      "audio_tracks": [
+        {
+          "pid": "410",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "411",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1017",
+      "pcr": "170",
+      "txt": "712",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Atlantic HD Italia",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "14226",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1025",
+      "pcr": "163",
+      "txt": "704",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 7790",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "7790",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "7798",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11842.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "5600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky TG24 HD",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3519",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "401",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1003",
+      "pcr": "160",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky TG24 HD",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3521",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "401",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1004",
+      "pcr": "160",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky TG24 HD",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3532",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "401",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1005",
+      "pcr": "160",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Business 1",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3561",
+      "vpid": "161",
+      "audio_tracks": [
+        {
+          "pid": "404",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "405",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1006",
+      "pcr": "161",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3696",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3120",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "86",
+      "pcr": "8190",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Gestione Collegam. Telefonico",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3669",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1107",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Connessione internet Primafila",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3670",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1108",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "FGDL_5800",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3671",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "DL IKUSI EPG",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3673",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "",
+      "pcr": "",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "BGDL_5800",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3674",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "",
+      "pcr": "",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "GFD Service",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3686",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1012",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "BEM Service",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3687",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1011",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 3690",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3690",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TMS Service",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3693",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1109",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "AdSmart Metadata",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3694",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1110",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "BDL Service",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "3695",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "5001",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion FGDL",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "8173",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "95",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11881.00",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "5800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Tennis",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3559",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "420",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "421",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1105",
+      "pcr": "165",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Calcio HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7209",
+      "vpid": "179",
+      "audio_tracks": [
+        {
+          "pid": "480",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "481482",
+          "format": "",
+          "language": "ben"
+        }
+      ],
+      "pmt": "1136",
+      "pcr": "179",
+      "txt": "719",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Calcio HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7230",
+      "vpid": "179",
+      "audio_tracks": [
+        {
+          "pid": "480",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "481482",
+          "format": "",
+          "language": "ben"
+        }
+      ],
+      "pmt": "1137",
+      "pcr": "179",
+      "txt": "719",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Uno HD",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "9477",
+      "vpid": "166",
+      "audio_tracks": [
+        {
+          "pid": "428",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "429",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1110",
+      "pcr": "166",
+      "txt": "708",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport 1 HD Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11023",
+      "vpid": "180",
+      "audio_tracks": [
+        {
+          "pid": "474",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "475476",
+          "format": "",
+          "language": "ben"
+        }
+      ],
+      "pmt": "1138",
+      "pcr": "180",
+      "txt": "720",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport 24",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11035",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1102",
+      "pcr": "160",
+      "txt": "711",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport24",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11037",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1103",
+      "pcr": "160",
+      "txt": "711",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport24",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11040",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1104",
+      "pcr": "160",
+      "txt": "711",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 10991",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "10991",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Dl622",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "10992",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Dl621",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "10997",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "",
+      "pcr": "",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "10999",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport F1",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "9478",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1122",
+      "pcr": "164",
+      "txt": "",
+      "frequency": "11996.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport MotoGP",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "9483",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "436",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "437",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1123",
+      "pcr": "165",
+      "txt": "",
+      "frequency": "11996.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Arena",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11024",
+      "vpid": "162",
+      "audio_tracks": [
+        {
+          "pid": "402",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "403",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1111",
+      "pcr": "162",
+      "txt": "",
+      "frequency": "11996.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport 4k Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11628",
+      "vpid": "161",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1110",
+      "pcr": "161",
+      "txt": "701",
+      "frequency": "11996.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 11090",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11090",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11996.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11095",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11996.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "64511",
+      "tid": "6400",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Comedy Central Italia",
+      "country": "Italia",
+      "category": "Comedy",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "1404",
+      "vpid": "194",
+      "audio_tracks": [
+        {
+          "pid": "408",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "409",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1156",
+      "pcr": "194",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Nick Junior Italia",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "1424",
+      "vpid": "193",
+      "audio_tracks": [
+        {
+          "pid": "473",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "474",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1155",
+      "pcr": "193",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Collection",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "1431",
+      "vpid": "179",
+      "audio_tracks": [
+        {
+          "pid": "426",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "427",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1118",
+      "pcr": "179",
+      "txt": "702",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Uno +",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "1432",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "430",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "431",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1157",
+      "pcr": "160",
+      "txt": "707",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Class CNBC",
+      "country": "Italia",
+      "category": "Business",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "1433",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1122",
+      "pcr": "163",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Adventure Italia",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3961",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "436",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "437",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1028",
+      "pcr": "173",
+      "txt": "703",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Adventure",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3962",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "436",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "437",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1029",
+      "pcr": "173",
+      "txt": "703",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Classica Italy",
+      "country": "Italia",
+      "category": "Music",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4170",
+      "vpid": "181",
+      "audio_tracks": [
+        {
+          "pid": "407",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1032",
+      "pcr": "181",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TG24 PrimoPiano",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4328",
+      "vpid": "183",
+      "audio_tracks": [
+        {
+          "pid": "403",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1031",
+      "pcr": "183",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Uno +24",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7224",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "423",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1104",
+      "pcr": "164",
+      "txt": "704",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Romance",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7231",
+      "vpid": "178",
+      "audio_tracks": [
+        {
+          "pid": "438",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "439",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1030",
+      "pcr": "178",
+      "txt": "705",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky News International",
+      "country": "Regno Unito",
+      "category": "News",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "8108",
+      "vpid": "185",
+      "audio_tracks": [
+        {
+          "pid": "445",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1005",
+      "pcr": "185",
+      "txt": "721",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Arte HD",
+      "country": "Italia",
+      "category": "Cultural",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11074",
+      "vpid": "162",
+      "audio_tracks": [
+        {
+          "pid": "404",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "405",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1102",
+      "pcr": "162",
+      "txt": "701",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Arte",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11075",
+      "vpid": "162",
+      "audio_tracks": [
+        {
+          "pid": "404",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "405",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1103",
+      "pcr": "162",
+      "txt": "701",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "CNN International Europe",
+      "country": "Regno Unito",
+      "category": "News",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11211",
+      "vpid": "182",
+      "audio_tracks": [
+        {
+          "pid": "432",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1112",
+      "pcr": "182",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Deejay TV",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11304",
+      "vpid": "180",
+      "audio_tracks": [],
+      "pmt": "1149",
+      "pcr": "180",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Documentari HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11307",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1134",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Info Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11311",
+      "vpid": "174",
+      "audio_tracks": [],
+      "pmt": "1129",
+      "pcr": "174",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "DeA Junior",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11313",
+      "vpid": "171",
+      "audio_tracks": [
+        {
+          "pid": "418",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "419",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1126",
+      "pcr": "171",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Bambini HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11314",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1136",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "News HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11325",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1138",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Cinema HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11334",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1141",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Primafila HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11341",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1143",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sport HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11346",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1144",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Intrattenim. HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11371",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1145",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11383",
+      "vpid": "177",
+      "audio_tracks": [],
+      "pmt": "1148",
+      "pcr": "177",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "DeA Kids",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11460",
+      "vpid": "175",
+      "audio_tracks": [
+        {
+          "pid": "424",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "425",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1130",
+      "pcr": "175",
+      "txt": "479",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Milan Channel",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "14261",
+      "vpid": "186",
+      "audio_tracks": [
+        {
+          "pid": "414",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1140",
+      "pcr": "186",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Caccia e Pesca",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "15344",
+      "vpid": "168",
+      "audio_tracks": [
+        {
+          "pid": "412",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "413",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1124",
+      "pcr": "168",
+      "txt": "722",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Boomerang Italia",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "15367",
+      "vpid": "188",
+      "audio_tracks": [
+        {
+          "pid": "440",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "441",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1147",
+      "pcr": "188",
+      "txt": "476",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 11190",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11190",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11199",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6600",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "History Channel Italia",
+      "country": "Italia",
+      "category": "History",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3513",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "410",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "411",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1015",
+      "pcr": "165",
+      "txt": "705",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "History",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3522",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "410",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "411",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1016",
+      "pcr": "165",
+      "txt": "705",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Zona DAZN 2",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3535",
+      "vpid": "166",
+      "audio_tracks": [
+        {
+          "pid": "416",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1021",
+      "pcr": "166",
+      "txt": "723",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Mix",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3579",
+      "vpid": "179",
+      "audio_tracks": [
+        {
+          "pid": "420",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "421",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1023",
+      "pcr": "179",
+      "txt": "",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3917",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "414",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "415",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1014",
+      "pcr": "164",
+      "txt": "",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Cielo",
+      "country": "Italia",
+      "category": "Various",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "4120",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "425",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "426",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1017",
+      "pcr": "172",
+      "txt": "704",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "cielo",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "4121",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "425",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "426",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1027",
+      "pcr": "172",
+      "txt": "704",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4233",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1013",
+      "pcr": "163",
+      "txt": "",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4234",
+      "vpid": "176",
+      "audio_tracks": [
+        {
+          "pid": "412",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "413",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1020",
+      "pcr": "176",
+      "txt": "",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Max",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7248",
+      "vpid": "178",
+      "audio_tracks": [
+        {
+          "pid": "418",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "419",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1022",
+      "pcr": "178",
+      "txt": "",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TV8 HD (Italy)",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "7260",
+      "vpid": "175",
+      "audio_tracks": [
+        {
+          "pid": "434",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "435",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1104",
+      "pcr": "175",
+      "txt": "706",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "TV8 HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky ItaliaTivùSat",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "7270",
+      "vpid": "175",
+      "audio_tracks": [
+        {
+          "pid": "434",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "435",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1028",
+      "pcr": "175",
+      "txt": "706",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Comedy",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11030",
+      "vpid": "177",
+      "audio_tracks": [
+        {
+          "pid": "408",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "409",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1019",
+      "pcr": "177",
+      "txt": "707",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 4190",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "4190",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "4195",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12072.80",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "6800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Business 3",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3565",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "408",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "409",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1006",
+      "pcr": "164",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Legend",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3578",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "410",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "411",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1007",
+      "pcr": "165",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3910",
+      "vpid": "167",
+      "audio_tracks": [
+        {
+          "pid": "414",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "415",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1009",
+      "pcr": "167",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3912",
+      "vpid": "168",
+      "audio_tracks": [
+        {
+          "pid": "416",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "417",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1010",
+      "pcr": "168",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3951",
+      "vpid": "169",
+      "audio_tracks": [
+        {
+          "pid": "418",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "419",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1011",
+      "pcr": "169",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Action",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4206",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1001",
+      "pcr": "160",
+      "txt": "701",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Meteo24",
+      "country": "Italia",
+      "category": "Weather",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4321",
+      "vpid": "171",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1013",
+      "pcr": "171",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "DreamWorks Collection HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7255",
+      "vpid": "166",
+      "audio_tracks": [
+        {
+          "pid": "412",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "413",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1008",
+      "pcr": "166",
+      "txt": "706",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Golf",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7768",
+      "vpid": "162",
+      "audio_tracks": [
+        {
+          "pid": "404",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "405",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1003",
+      "pcr": "162",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Drama",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7769",
+      "vpid": "170",
+      "audio_tracks": [
+        {
+          "pid": "420",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "421",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1012",
+      "pcr": "170",
+      "txt": "711",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Suspense HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11047",
+      "vpid": "161",
+      "audio_tracks": [
+        {
+          "pid": "402",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "403",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1002",
+      "pcr": "161",
+      "txt": "702",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Nature Italia",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11695",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1004",
+      "pcr": "163",
+      "txt": "704",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Nature",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11710",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1005",
+      "pcr": "163",
+      "txt": "704",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion Bootloader",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "4289",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 4292",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "4292",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "4298",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12341.30",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8200",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Disney Jr. Central Europe",
+      "country": "Repubblica Ceca",
+      "category": "Children",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3581",
+      "vpid": "162",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1010",
+      "pcr": "162",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Cinema Restart",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "4039",
+      "vpid": "160",
+      "audio_tracks": [],
+      "pmt": "1000",
+      "pcr": "160",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Crime Italia",
+      "country": "Italia",
+      "category": "Series",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4128",
+      "vpid": "161",
+      "audio_tracks": [
+        {
+          "pid": "421",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "422",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1001",
+      "pcr": "161",
+      "txt": "701",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fast & Furious Collection HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4204",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "413",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "414",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1003",
+      "pcr": "163",
+      "txt": "703",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Caccia e Pesca",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4350",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "426",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "427",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1005",
+      "pcr": "165",
+      "txt": "722",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "MTV Italia HD",
+      "country": "Italia",
+      "category": "Music",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7763",
+      "vpid": "168",
+      "audio_tracks": [
+        {
+          "pid": "442",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "443",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1008",
+      "pcr": "168",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "7772",
+      "vpid": "187",
+      "audio_tracks": [
+        {
+          "pid": "404",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "405",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1016",
+      "pcr": "187",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Inter TV Shop",
+      "country": "non definito",
+      "category": "Teleshopping",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "9487",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "409",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1014",
+      "pcr": "164",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Nickelodeon Italia",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11320",
+      "vpid": "166",
+      "audio_tracks": [
+        {
+          "pid": "444",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "445",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1006",
+      "pcr": "166",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Documentaries HD",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11697",
+      "vpid": "185",
+      "audio_tracks": [
+        {
+          "pid": "415",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "416",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1035",
+      "pcr": "185",
+      "txt": "714",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Documentaries HD",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "11698",
+      "vpid": "185",
+      "audio_tracks": [
+        {
+          "pid": "415",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "416",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1037",
+      "pcr": "185",
+      "txt": "714",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Gambero Rosso HD",
+      "country": "Italia",
+      "category": "Cooking",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "12228",
+      "vpid": "170",
+      "audio_tracks": [
+        {
+          "pid": "446",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "447",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1070",
+      "pcr": "170",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Gambero Rosso HD",
+      "country": "Italia",
+      "category": "Cooking",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "12229",
+      "vpid": "170",
+      "audio_tracks": [
+        {
+          "pid": "446",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "447",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1170",
+      "pcr": "170",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Sky Crime",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "14249",
+      "vpid": "161",
+      "audio_tracks": [
+        {
+          "pid": "421",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "422",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1101",
+      "pcr": "161",
+      "txt": "701",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Cartoon Network",
+      "country": "Regno Unito",
+      "category": "Children",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "14258",
+      "vpid": "186",
+      "audio_tracks": [
+        {
+          "pid": "402",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "403",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1013",
+      "pcr": "186",
+      "txt": "706",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "SDMS Service1",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11065",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1119",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "SDMS Service2",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11067",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "1120",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "Fusion BGDL 11690",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11690",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "87",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    },
+    {
+      "channel_name": "IEPG Data",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "FTA",
+      "sid": "11699",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "86",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": ""
+    }
+  ]
+}
