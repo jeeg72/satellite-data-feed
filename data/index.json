@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-09-22T21:21:54.638578",
+  "satellites": [
+    {
+      "label": "13E",
+      "file": "sat_13E.json",
+      "count": 1511,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    },
+    {
+      "label": "19_2E",
+      "file": "sat_19_2E.json",
+      "count": 1020,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    },
+    {
+      "label": "28_2E",
+      "file": "sat_28_2E.json",
+      "count": 607,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    },
+    {
+      "label": "5W",
+      "file": "sat_5W.json",
+      "count": 569,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    },
+    {
+      "label": "30W",
+      "file": "sat_30W.json",
+      "count": 321,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    }
+  ],
+  "bouquets": [
+    {
+      "label": "tivusat",
+      "file": "bq_tivusat.json",
+      "count": 68,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    },
+    {
+      "label": "skyitalia",
+      "file": "bq_skyitalia.json",
+      "count": 137,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    },
+    {
+      "label": "rai",
+      "file": "bq_rai.json",
+      "count": 200,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    },
+    {
+      "label": "mediaset",
+      "file": "bq_mediaset.json",
+      "count": 72,
+      "updated_at": "2026-09-22T21:20:58.635664"
+    }
+  ]
+}
