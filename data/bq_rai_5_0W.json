@@ -1,0 +1,5081 @@
+{
+  "type": "bouquet",
+  "label": "rai — 5.0W",
+  "bouquet_id": "rai",
+  "satellite_pos": "5.0W",
+  "updated_at": "2026-09-23T17:23:34.799972",
+  "count": 160,
+  "channels": [
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1551",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1552",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1553",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1560",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Sicilia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1561",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Calabria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1562",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1563",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Sicilia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1564",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Calabria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1565",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1566",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1568",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12535.00",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "QPSKStream 4",
+      "nid": "8572",
+      "tid": "203",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1301",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1302",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1303",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1310",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Puglia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1311",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1312",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Molise",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1313",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Puglia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1314",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1315",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Molise",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1316",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1318",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12535.80",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "153",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1101",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "301",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1103",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1110",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1451",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1452",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1453",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1460",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Liguria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1461",
+      "vpid": "271",
+      "audio_tracks": [
+        {
+          "pid": "371",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "471",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "271",
+      "txt": "671",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Sardegna",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1462",
+      "vpid": "272",
+      "audio_tracks": [
+        {
+          "pid": "372",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "472",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "272",
+      "txt": "672",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Toscana",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1463",
+      "vpid": "273",
+      "audio_tracks": [
+        {
+          "pid": "373",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "473",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "273",
+      "txt": "673",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Liguria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1464",
+      "vpid": "271",
+      "audio_tracks": [
+        {
+          "pid": "371",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "471",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "271",
+      "txt": "671",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Sardegna",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1465",
+      "vpid": "272",
+      "audio_tracks": [
+        {
+          "pid": "372",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "472",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "272",
+      "txt": "672",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Toscana",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1466",
+      "vpid": "273",
+      "audio_tracks": [
+        {
+          "pid": "373",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "473",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "273",
+      "txt": "673",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1468",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Sport HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1001",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "301",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Movie HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1002",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Gulp",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1004",
+      "vpid": "204",
+      "audio_tracks": [
+        {
+          "pid": "304",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "404",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "104",
+      "pcr": "204",
+      "txt": "604",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Yoyo",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1005",
+      "vpid": "205",
+      "audio_tracks": [
+        {
+          "pid": "305",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "405",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "105",
+      "pcr": "205",
+      "txt": "605",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Premium",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1006",
+      "vpid": "206",
+      "audio_tracks": [
+        {
+          "pid": "306",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "406",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "506",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "106",
+      "pcr": "206",
+      "txt": "606",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 5",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1007",
+      "vpid": "207",
+      "audio_tracks": [
+        {
+          "pid": "307",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "507",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "107",
+      "pcr": "207",
+      "txt": "607",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 4",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1009",
+      "vpid": "209",
+      "audio_tracks": [
+        {
+          "pid": "309",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "409",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "509",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "109",
+      "pcr": "209",
+      "txt": "609",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai GR Parlamento",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1012",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "112",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Isoradio",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1013",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "113",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 3 Classica",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1014",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "114",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio Kids",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1015",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "115",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio Live Napoli",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1016",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "116",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio Techete'",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1017",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "117",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio Tutta Italiana",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1018",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "118",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 1 Sport",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1019",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "119",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "No Name Radio powered by Rai",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1020",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "120",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 4 HD",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1025",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "125",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Scuola HD",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1027",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "127",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Storia HD",
+      "country": "Italia",
+      "category": "History",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1028",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "128",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Premium HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1029",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "129",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 2",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1010",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "310",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "110",
+      "pcr": "310",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 3",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1011",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "311",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "111",
+      "pcr": "311",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 1",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1022",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "322",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "122",
+      "pcr": "322",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "OTA-A",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1050",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "7001",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12606.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 4",
+      "nid": "8572",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1251",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1252",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1253",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1260",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lazio",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1261",
+      "vpid": "271",
+      "audio_tracks": [
+        {
+          "pid": "371",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "471",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "271",
+      "txt": "671",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Toscana",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1262",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Umbria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1263",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lazio HD",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1264",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Toscana",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1265",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Umbria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1266",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1268",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "143",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1401",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1402",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1403",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1410",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR FVG",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1411",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 Bis",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1412",
+      "vpid": "272",
+      "audio_tracks": [
+        {
+          "pid": "372",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "472",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "272",
+      "txt": "672",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Valle d'Aosta",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1413",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR FVG",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1414",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 Bis",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1415",
+      "vpid": "272",
+      "audio_tracks": [
+        {
+          "pid": "372",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "472",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "272",
+      "txt": "672",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Valle d'Aosta",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1416",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1418",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 5",
+      "nid": "8572",
+      "tid": "173",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio MF1 Roma",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "301",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "301",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 AO",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "2",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "302",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 AN",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "3",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "303",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 BA",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "4",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "304",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "104",
+      "pcr": "304",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 BO",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "5",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "305",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "105",
+      "pcr": "305",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 BZ",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "6",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "306",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "106",
+      "pcr": "306",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 CA",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "7",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "307",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "107",
+      "pcr": "307",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 CB",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "8",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "308",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "108",
+      "pcr": "308",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 CS",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "9",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "309",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "109",
+      "pcr": "309",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 FI",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "10",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "310",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "110",
+      "pcr": "310",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 GE",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "11",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "311",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "111",
+      "pcr": "311",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 MI",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "12",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "312",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "112",
+      "pcr": "312",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 NA",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "13",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "313",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "113",
+      "pcr": "313",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 PA",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "14",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "314",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "114",
+      "pcr": "314",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 PE",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "15",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "315",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "115",
+      "pcr": "315",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 PG",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "16",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "316",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "116",
+      "pcr": "316",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 PZ",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "17",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "317",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "117",
+      "pcr": "317",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 TN",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "18",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "318",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "118",
+      "pcr": "318",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 TO",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "19",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "319",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "119",
+      "pcr": "319",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 TS",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "20",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "320",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "120",
+      "pcr": "320",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 VE",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "21",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "321",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "121",
+      "pcr": "321",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 SDT",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "22",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "322",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "122",
+      "pcr": "322",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio1 SLV",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "23",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "323",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "123",
+      "pcr": "323",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 1",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "56",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "356",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "156",
+      "pcr": "356",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 3",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "57",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "357",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "157",
+      "pcr": "357",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio GR Parlamento",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "58",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "358",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "158",
+      "pcr": "358",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio 2",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "59",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "359",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "159",
+      "pcr": "359",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio Classica",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "60",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "360",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "160",
+      "pcr": "360",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Isoradio",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "61",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "361",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "161",
+      "pcr": "361",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai Radio2 BZ",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "111",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "411",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "211",
+      "pcr": "411",
+      "txt": "",
+      "frequency": "12627.00",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 2",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1351",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1352",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1353",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1360",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Veneto",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1361",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Emilia Romagna",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1362",
+      "vpid": "272",
+      "audio_tracks": [
+        {
+          "pid": "372",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "472",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "272",
+      "txt": "672",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lombardia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1363",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Veneto",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1364",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Emilia-Romagna HD",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1365",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lombardia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1366",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1368",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12627.30",
+      "polarization": "H",
+      "symbol_rate": "35295",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+16416",
+      "modulation": "8PSKStream 1",
+      "nid": "8572",
+      "tid": "163",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1201",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1202",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1203",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1210",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Abruzzo HD",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1211",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Molise",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1212",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lazio",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1213",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Abruzzo HD",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1214",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Molise",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1215",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lazio",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1216",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1218",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 7",
+      "nid": "8572",
+      "tid": "133",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1501",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1502",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1503",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1510",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Marche",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1511",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Umbria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1512",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Abruzzo",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1513",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Marche",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1514",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Umbria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1515",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Abruzzo",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1516",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1518",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 8",
+      "nid": "8572",
+      "tid": "193",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1601",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1602",
+      "vpid": "202",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "402",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "502",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "102",
+      "pcr": "202",
+      "txt": "602",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1603",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1610",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "170",
+      "pcr": "270",
+      "txt": "",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Campania",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1611",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "171",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1612",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "172",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Calabria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1613",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "173",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Campania",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1614",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "174",
+      "pcr": "270",
+      "txt": "671",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1615",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "175",
+      "pcr": "270",
+      "txt": "672",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 TGR Calabria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1616",
+      "vpid": "270",
+      "audio_tracks": [
+        {
+          "pid": "370",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "470",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "176",
+      "pcr": "270",
+      "txt": "673",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai News 24",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1618",
+      "vpid": "203",
+      "audio_tracks": [
+        {
+          "pid": "303",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "178",
+      "pcr": "203",
+      "txt": "603",
+      "frequency": "12690.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 10",
+      "nid": "8572",
+      "tid": "213",
+      "satellite_pos": "5.0W"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "3403",
+      "vpid": "514",
+      "audio_tracks": [
+        {
+          "pid": "652",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "697",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "256",
+      "pcr": "514",
+      "txt": "",
+      "frequency": "12690.30",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 1",
+      "nid": "318",
+      "tid": "1",
+      "satellite_pos": "5.0W"
+    }
+  ]
+}
