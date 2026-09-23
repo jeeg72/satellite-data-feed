@@ -1,0 +1,38 @@
+{
+  "type": "bouquet",
+  "label": "rai — 9.0E",
+  "bouquet_id": "rai",
+  "satellite_pos": "9.0E",
+  "updated_at": "2026-09-23T17:23:34.799972",
+  "count": 1,
+  "channels": [
+    {
+      "channel_name": "RAI Africa",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "Irdeto 2",
+      "sid": "115",
+      "vpid": "1151",
+      "audio_tracks": [
+        {
+          "pid": "1152",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1150",
+      "pcr": "1151",
+      "txt": "",
+      "frequency": "11900.10",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "158",
+      "tid": "5900",
+      "satellite_pos": "9.0E"
+    }
+  ]
+}
