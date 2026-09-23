@@ -1,0 +1,1129 @@
+{
+  "type": "bouquet",
+  "label": "rai — 13.0E",
+  "bouquet_id": "rai",
+  "satellite_pos": "13.0E",
+  "updated_at": "2026-09-23T17:23:34.799972",
+  "count": 38,
+  "channels": [
+    {
+      "channel_name": "Rai YoYo HD",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "RAISky ItaliaTivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "8511",
+      "vpid": "512",
+      "audio_tracks": [
+        {
+          "pid": "650",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1104",
+      "pcr": "512",
+      "txt": "576",
+      "frequency": "10992.16",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "12400",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai Radio 2 Visual",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAISky ItaliaTivùSat",
+      "encryption": "FTA + Nagravision 3 + Mediaguard 2 + VideoGuard",
+      "sid": "8512",
+      "vpid": "513",
+      "audio_tracks": [
+        {
+          "pid": "651",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1105",
+      "pcr": "513",
+      "txt": "577",
+      "frequency": "10992.16",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "12400",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai News 24 HD",
+      "country": "Italia",
+      "category": "News",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "17711",
+      "vpid": "1810",
+      "audio_tracks": [
+        {
+          "pid": "1811",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1981",
+      "pcr": "1810",
+      "txt": "571",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai Gulp HD",
+      "country": "Italia",
+      "category": "Children",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "17712",
+      "vpid": "1820",
+      "audio_tracks": [
+        {
+          "pid": "1821",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1982",
+      "pcr": "1820",
+      "txt": "587",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai Sport HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA + Nagravision 3",
+      "sid": "17714",
+      "vpid": "1840",
+      "audio_tracks": [
+        {
+          "pid": "1841",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1842",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "1843",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1984",
+      "pcr": "1840",
+      "txt": "572",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 5 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17716",
+      "vpid": "1860",
+      "audio_tracks": [
+        {
+          "pid": "1861",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1862",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "1863",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1986",
+      "pcr": "1860",
+      "txt": "584",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Uninettuno University TV",
+      "country": "Italia",
+      "category": "Cultural",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "17718",
+      "vpid": "1880",
+      "audio_tracks": [
+        {
+          "pid": "1881",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1988",
+      "pcr": "1880",
+      "txt": "",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Puglia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17731",
+      "vpid": "801",
+      "audio_tracks": [
+        {
+          "pid": "901",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1901",
+      "pcr": "801",
+      "txt": "501",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Basilicata",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17732",
+      "vpid": "802",
+      "audio_tracks": [
+        {
+          "pid": "902",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1902",
+      "pcr": "802",
+      "txt": "502",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Calabria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17733",
+      "vpid": "803",
+      "audio_tracks": [
+        {
+          "pid": "903",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1903",
+      "pcr": "803",
+      "txt": "503",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Sicilia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17734",
+      "vpid": "804",
+      "audio_tracks": [
+        {
+          "pid": "904",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1904",
+      "pcr": "804",
+      "txt": "504",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Liguria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17735",
+      "vpid": "805",
+      "audio_tracks": [
+        {
+          "pid": "905",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1905",
+      "pcr": "805",
+      "txt": "505",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Toscana",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17736",
+      "vpid": "806",
+      "audio_tracks": [
+        {
+          "pid": "906",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1906",
+      "pcr": "806",
+      "txt": "506",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Umbria",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17737",
+      "vpid": "807",
+      "audio_tracks": [
+        {
+          "pid": "907",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1907",
+      "pcr": "807",
+      "txt": "507",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Marche",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17738",
+      "vpid": "808",
+      "audio_tracks": [
+        {
+          "pid": "908",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1908",
+      "pcr": "808",
+      "txt": "508",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Piemonte",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17739",
+      "vpid": "809",
+      "audio_tracks": [
+        {
+          "pid": "909",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1909",
+      "pcr": "809",
+      "txt": "509",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lombardia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17740",
+      "vpid": "810",
+      "audio_tracks": [
+        {
+          "pid": "910",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1910",
+      "pcr": "810",
+      "txt": "510",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Emilia Romagna",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17741",
+      "vpid": "811",
+      "audio_tracks": [
+        {
+          "pid": "911",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1911",
+      "pcr": "811",
+      "txt": "511",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Veneto",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17742",
+      "vpid": "812",
+      "audio_tracks": [
+        {
+          "pid": "912",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1912",
+      "pcr": "812",
+      "txt": "512",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Südtirol",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17743",
+      "vpid": "813",
+      "audio_tracks": [
+        {
+          "pid": "913",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1913",
+      "pcr": "813",
+      "txt": "513",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Valle d'Aosta",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17744",
+      "vpid": "814",
+      "audio_tracks": [
+        {
+          "pid": "914",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1914",
+      "pcr": "814",
+      "txt": "514",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Sardegna",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17745",
+      "vpid": "815",
+      "audio_tracks": [
+        {
+          "pid": "915",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1915",
+      "pcr": "815",
+      "txt": "515",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Abruzzo",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17746",
+      "vpid": "816",
+      "audio_tracks": [
+        {
+          "pid": "916",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1916",
+      "pcr": "816",
+      "txt": "516",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Molise",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17747",
+      "vpid": "817",
+      "audio_tracks": [
+        {
+          "pid": "917",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1917",
+      "pcr": "817",
+      "txt": "517",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Campania",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17748",
+      "vpid": "818",
+      "audio_tracks": [
+        {
+          "pid": "918",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1918",
+      "pcr": "818",
+      "txt": "518",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Friuli Venezia Giulia",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17749",
+      "vpid": "819",
+      "audio_tracks": [
+        {
+          "pid": "919",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1919",
+      "pcr": "819",
+      "txt": "519",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Furlanija Julijska Krajina",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17750",
+      "vpid": "820",
+      "audio_tracks": [
+        {
+          "pid": "920",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1920",
+      "pcr": "820",
+      "txt": "520",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Trentino Alto Adige Trento",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17751",
+      "vpid": "821",
+      "audio_tracks": [
+        {
+          "pid": "921",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1921",
+      "pcr": "821",
+      "txt": "521",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Trentino Alto Adige Bolzano",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17752",
+      "vpid": "822",
+      "audio_tracks": [
+        {
+          "pid": "922",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1922",
+      "pcr": "822",
+      "txt": "522",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 TGR Lazio",
+      "country": "Italia",
+      "category": "Regional",
+      "bouquet": "RAITivùSat",
+      "encryption": "Nagravision 3",
+      "sid": "17753",
+      "vpid": "823",
+      "audio_tracks": [
+        {
+          "pid": "923",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1923",
+      "pcr": "823",
+      "txt": "523",
+      "frequency": "11013.00",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12500",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA",
+      "sid": "3401",
+      "vpid": "501",
+      "audio_tracks": [
+        {
+          "pid": "601",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "611",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "621",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1101",
+      "pcr": "501",
+      "txt": "567",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 2 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA + Nagravision 3 + Mediaguard",
+      "sid": "3402",
+      "vpid": "502",
+      "audio_tracks": [
+        {
+          "pid": "602",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "612",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "622",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1102",
+      "pcr": "502",
+      "txt": "568",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 3 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAITivùSat",
+      "encryption": "FTA",
+      "sid": "3403",
+      "vpid": "503",
+      "audio_tracks": [
+        {
+          "pid": "603",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "613",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1103",
+      "pcr": "503",
+      "txt": "569",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai 4K",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "Nagravision 3",
+      "sid": "3407",
+      "vpid": "507",
+      "audio_tracks": [
+        {
+          "pid": "607",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "617",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1107",
+      "pcr": "507",
+      "txt": "",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Senato italiano",
+      "country": "Italia",
+      "category": "Politics",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "3408",
+      "vpid": "508",
+      "audio_tracks": [
+        {
+          "pid": "608",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "708",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1108",
+      "pcr": "508",
+      "txt": "",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai Radio 1",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "3441",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "641",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1121",
+      "pcr": "641",
+      "txt": "",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai Radio 2",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "3442",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "642",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1122",
+      "pcr": "642",
+      "txt": "",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    },
+    {
+      "channel_name": "Rai Radio 3",
+      "country": "",
+      "category": "",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "3443",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "643",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1123",
+      "pcr": "643",
+      "txt": "",
+      "frequency": "11766.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5200",
+      "satellite_pos": "13.0E"
+    }
+  ]
+}
