@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-09-23T08:00:02.474633",
-  "count": 1020,
+  "updated_at": "2026-09-23T12:00:03.201716",
+  "count": 1021,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -5279,6 +5279,34 @@
       "pmt": "96",
       "pcr": "101",
       "txt": "",
+      "frequency": "10993.75",
+      "polarization": "H",
+      "symbol_rate": "22000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1",
+      "tid": "1035",
+      "satellite_pos": "19.2E"
+    },
+    {
+      "channel_name": "RTL UHD",
+      "country": "Germania",
+      "category": "General",
+      "bouquet": "HD +Sky Deutschland",
+      "encryption": "Nagravision 3 + VideoGuard",
+      "sid": "10",
+      "vpid": "1023",
+      "audio_tracks": [
+        {
+          "pid": "1027",
+          "format": "",
+          "language": "ger"
+        }
+      ],
+      "pmt": "99",
+      "pcr": "1023",
+      "txt": "32",
       "frequency": "10993.75",
       "polarization": "H",
       "symbol_rate": "22000",
