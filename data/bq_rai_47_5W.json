@@ -1,0 +1,43 @@
+{
+  "type": "bouquet",
+  "label": "rai — 47.5W",
+  "bouquet_id": "rai",
+  "satellite_pos": "47.5W",
+  "updated_at": "2026-09-23T17:23:34.799972",
+  "count": 1,
+  "channels": [
+    {
+      "channel_name": "Rai Italia",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "Irdeto 2",
+      "sid": "7002",
+      "vpid": "712",
+      "audio_tracks": [
+        {
+          "pid": "722",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "732",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "702",
+      "pcr": "712",
+      "txt": "",
+      "frequency": "4095.00",
+      "polarization": "L",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1",
+      "tid": "6",
+      "satellite_pos": "47.5W"
+    }
+  ]
+}
