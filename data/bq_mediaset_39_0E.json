@@ -1,0 +1,66 @@
+{
+  "type": "bouquet",
+  "label": "mediaset — 39.0E",
+  "bouquet_id": "mediaset",
+  "satellite_pos": "39.0E",
+  "updated_at": "2026-09-23T17:23:34.799972",
+  "count": 2,
+  "channels": [
+    {
+      "channel_name": "Rai 2",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTring Digital",
+      "encryption": "FTA",
+      "sid": "4450",
+      "vpid": "4451",
+      "audio_tracks": [
+        {
+          "pid": "4452",
+          "format": "aac",
+          "language": "ita"
+        }
+      ],
+      "pmt": "282",
+      "pcr": "4451",
+      "txt": "",
+      "frequency": "10930.00",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "926",
+      "tid": "1020",
+      "satellite_pos": "39.0E"
+    },
+    {
+      "channel_name": "Mediaset Italia",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "MediasetTring Digital",
+      "encryption": "FTA",
+      "sid": "4700",
+      "vpid": "4701",
+      "audio_tracks": [
+        {
+          "pid": "4702",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "285",
+      "pcr": "4701",
+      "txt": "",
+      "frequency": "10930.00",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "926",
+      "tid": "1020",
+      "satellite_pos": "39.0E"
+    }
+  ]
+}
