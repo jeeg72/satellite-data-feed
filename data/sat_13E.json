@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-09-24T12:00:02.648653",
+  "updated_at": "2026-09-24T13:07:48.915836",
   "count": 1511,
   "channels": [
     {
@@ -12335,7 +12335,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
@@ -12357,7 +12357,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
@@ -12379,7 +12379,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
@@ -12401,7 +12401,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
@@ -12423,7 +12423,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
@@ -12445,7 +12445,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
@@ -12467,7 +12467,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
@@ -12489,7 +12489,7 @@
       "standard": "DVB-S2X",
       "modulation": "16APSKStream 1",
       "nid": "2",
-      "tid": "1000",
+      "tid": "1001",
       "satellite_pos": "13.0E"
     },
     {
