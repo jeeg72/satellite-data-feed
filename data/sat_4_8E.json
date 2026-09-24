@@ -1,0 +1,7964 @@
+{
+  "type": "satellite",
+  "label": "4_8E",
+  "satellite_pos": "4.8E",
+  "updated_at": "2026-09-24T13:07:48.915836",
+  "count": 274,
+  "channels": [
+    {
+      "channel_name": "Wedding Channel Africa",
+      "country": "non definito",
+      "category": "Intrattenimento",
+      "bouquet": "WC",
+      "encryption": "FTA",
+      "sid": "2",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "202",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "204",
+      "pcr": "201",
+      "txt": "",
+      "frequency": "3922.00",
+      "polarization": "L",
+      "symbol_rate": "14152",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "FUFA TV",
+      "country": "Uganda",
+      "category": "Various",
+      "bouquet": "SES:5O",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "257",
+      "audio_tracks": [
+        {
+          "pid": "258",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "256",
+      "pcr": "259",
+      "txt": "",
+      "frequency": "3928.00",
+      "polarization": "L",
+      "symbol_rate": "20603",
+      "fec": "3/5",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "0",
+      "tid": "0",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Global TV Nigeria",
+      "country": "Nigeria",
+      "category": "General",
+      "bouquet": "Global",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "4113",
+      "audio_tracks": [
+        {
+          "pid": "4352",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4096",
+      "pcr": "4097",
+      "txt": "",
+      "frequency": "3930.00",
+      "polarization": "L",
+      "symbol_rate": "12402",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "0",
+      "tid": "0",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "3934.00",
+      "polarization": "L",
+      "symbol_rate": "62703",
+      "fec": "3/5",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1",
+      "tid": "4096",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TVC News",
+      "country": "Nigeria",
+      "category": "News",
+      "bouquet": "Harmonic",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "613",
+      "audio_tracks": [
+        {
+          "pid": "5112",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "256",
+      "pcr": "613",
+      "txt": "",
+      "frequency": "3934.00",
+      "polarization": "L",
+      "symbol_rate": "62703",
+      "fec": "3/5",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1",
+      "tid": "4096",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TVC Entertainment",
+      "country": "Nigeria",
+      "category": "Intrattenimento",
+      "bouquet": "TVC2",
+      "encryption": "FTA",
+      "sid": "2",
+      "vpid": "612",
+      "audio_tracks": [
+        {
+          "pid": "5113",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "356",
+      "pcr": "612",
+      "txt": "",
+      "frequency": "3934.00",
+      "polarization": "L",
+      "symbol_rate": "62703",
+      "fec": "3/5",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1",
+      "tid": "4096",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TVGE International",
+      "country": "Equatorial Guinea",
+      "category": "General",
+      "bouquet": "Harmonic",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "301",
+      "audio_tracks": [
+        {
+          "pid": "302",
+          "format": "",
+          "language": "esp"
+        },
+        {
+          "pid": "303",
+          "format": "",
+          "language": "esp"
+        }
+      ],
+      "pmt": "304",
+      "pcr": "301",
+      "txt": "",
+      "frequency": "3952.30",
+      "polarization": "R",
+      "symbol_rate": "22702",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "8192",
+      "tid": "4096",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Radio_Nacional",
+      "country": "",
+      "category": "",
+      "bouquet": "Harmonic",
+      "encryption": "FTA",
+      "sid": "2",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "306",
+          "format": "",
+          "language": "esp"
+        },
+        {
+          "pid": "307",
+          "format": "",
+          "language": "esp"
+        }
+      ],
+      "pmt": "305",
+      "pcr": "306",
+      "txt": "",
+      "frequency": "3952.30",
+      "polarization": "R",
+      "symbol_rate": "22702",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "8192",
+      "tid": "4096",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "RTV (Resurrection TV)",
+      "country": "non definito",
+      "category": "Religious",
+      "bouquet": "RTV",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "308",
+      "audio_tracks": [
+        {
+          "pid": "256",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "220",
+      "pcr": "308",
+      "txt": "",
+      "frequency": "3955.00",
+      "polarization": "R",
+      "symbol_rate": "19452",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "0",
+      "tid": "1",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Africa TV Feed 3",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13911",
+      "vpid": "6701",
+      "audio_tracks": [
+        {
+          "pid": "6702",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "6511",
+      "pcr": "6701",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Africa TV Feed 1",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13914",
+      "vpid": "6731",
+      "audio_tracks": [
+        {
+          "pid": "6732",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "6514",
+      "pcr": "6731",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Africa TV Feed 2",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13917",
+      "vpid": "6761",
+      "audio_tracks": [
+        {
+          "pid": "6762",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "6517",
+      "pcr": "6761",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English (E Af.)",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13901",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6602",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6501",
+      "pcr": "6602",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English (W Af.)",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13902",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6612",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6502",
+      "pcr": "6612",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English (Europe)",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13907",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6662",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6507",
+      "pcr": "6662",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English Mid-East",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13908",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6662",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6508",
+      "pcr": "6662",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English News",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13910",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6692",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6510",
+      "pcr": "6692",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Arabic",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13916",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6752",
+          "format": "",
+          "language": "ara"
+        }
+      ],
+      "pmt": "6516",
+      "pcr": "6752",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Dari",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13928",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6872",
+          "format": "",
+          "language": "fas"
+        }
+      ],
+      "pmt": "6528",
+      "pcr": "6872",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Farsi",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13929",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6882",
+          "format": "",
+          "language": "fas"
+        }
+      ],
+      "pmt": "6529",
+      "pcr": "6882",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC French (Africa)",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13930",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6892",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "6530",
+      "pcr": "6892",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Gahuza",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13931",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6902",
+          "format": "",
+          "language": "kin"
+        }
+      ],
+      "pmt": "6531",
+      "pcr": "6902",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Hausa",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13932",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6912",
+          "format": "",
+          "language": "hau"
+        }
+      ],
+      "pmt": "6532",
+      "pcr": "6912",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Pashto",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13942",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7012",
+          "format": "",
+          "language": "pus"
+        }
+      ],
+      "pmt": "6542",
+      "pcr": "7012",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Multichoice 1",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13949",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7082",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6549",
+      "pcr": "7082",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Multichoice 2",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13950",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7092",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6550",
+      "pcr": "7092",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Multichoice 3",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13951",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7102",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6551",
+      "pcr": "7102",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Somali",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13955",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7142",
+          "format": "",
+          "language": "som"
+        }
+      ],
+      "pmt": "6555",
+      "pcr": "7142",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Swahili",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13960",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7192",
+          "format": "",
+          "language": "swa"
+        }
+      ],
+      "pmt": "6560",
+      "pcr": "7192",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 1",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13983",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7422",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6583",
+      "pcr": "7422",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 2",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13984",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7432",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6584",
+      "pcr": "7432",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 3",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13985",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7442",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6585",
+      "pcr": "7442",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 4",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13986",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7452",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6586",
+      "pcr": "7452",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 5",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13987",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7462",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6587",
+      "pcr": "7462",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 6",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13988",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7472",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6588",
+      "pcr": "7472",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 7",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13989",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7482",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6589",
+      "pcr": "7482",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 8",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13990",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7492",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6590",
+      "pcr": "7492",
+      "txt": "",
+      "frequency": "4000.00",
+      "polarization": "R",
+      "symbol_rate": "18200",
+      "fec": "1/2",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "315",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA KAKUMA",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3001",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1001",
+      "pcr": "3001",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Kigali Rwanda",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "2",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3002",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1002",
+      "pcr": "3002",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA1 - Africa",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "3",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3003",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1003",
+      "pcr": "3003",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Brazzaville Republic of Congo",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "4",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3004",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1004",
+      "pcr": "3004",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nouakchott Mauritania",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "5",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3005",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1005",
+      "pcr": "3005",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Bambara and French",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "6",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3006",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1006",
+      "pcr": "3006",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Hargeisa Mogadishu (Somalia)",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "7",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3007",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1007",
+      "pcr": "3007",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA 24 (Source for Picture w/Audio on EU 7WA",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "8",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3008",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1008",
+      "pcr": "3008",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Rwanda and Burundi",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "9",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3009",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1009",
+      "pcr": "3009",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Juba South Sudan",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "10",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3010",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1010",
+      "pcr": "3010",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Accra Ghana Freetown Sierra Leone (VOA E2A 24/7)",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "11",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3011",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1011",
+      "pcr": "3011",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Lome Togo",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "12",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3012",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1012",
+      "pcr": "3012",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Khartoum FM (Sawa Levant/VOA Juba)",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "13",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3013",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1013",
+      "pcr": "3013",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "NDjamena Chad",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "14",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3014",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1014",
+      "pcr": "3014",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Bangui Central African Republic",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "15",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3015",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1015",
+      "pcr": "3015",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Kenya Nairobi (VOA E2A)",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "16",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3016",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1016",
+      "pcr": "3016",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Freetown Sierra Leone/Monrovia Liberia",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "17",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3017",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1017",
+      "pcr": "3017",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Ouagadougou Burkina Faso/Abidjan Ivory Coast (VOA",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "18",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3018",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1018",
+      "pcr": "3018",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Dakar Senegal",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "19",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3019",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1019",
+      "pcr": "3019",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Niamey Niger",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "20",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3020",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1020",
+      "pcr": "3020",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Congo DRC",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "21",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3021",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1021",
+      "pcr": "3021",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Madagascar",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "22",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3022",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1022",
+      "pcr": "3022",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA Zambia",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "23",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3023",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1023",
+      "pcr": "3023",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA Zimbabwe",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "24",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3024",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1024",
+      "pcr": "3024",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA Swahili",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "25",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3025",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1025",
+      "pcr": "3025",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA Accra",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "26",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3026",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1026",
+      "pcr": "3026",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "VOA Ethiopia",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "27",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "3027",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1027",
+      "pcr": "3027",
+      "txt": "",
+      "frequency": "4014.00",
+      "polarization": "R",
+      "symbol_rate": "18202",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "196",
+      "tid": "196",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English (E Af.)",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13901",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6602",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6501",
+      "pcr": "6602",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English (W Af.)",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13902",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6612",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6502",
+      "pcr": "6612",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC English News",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13910",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6692",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6510",
+      "pcr": "6692",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Arabic",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13916",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6752",
+          "format": "",
+          "language": "ara"
+        }
+      ],
+      "pmt": "6516",
+      "pcr": "6752",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC French (Africa)",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13930",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6892",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "6530",
+      "pcr": "6892",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Gahuza",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13931",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6902",
+          "format": "",
+          "language": "kin"
+        }
+      ],
+      "pmt": "6531",
+      "pcr": "6902",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Hausa",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13932",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6912",
+          "format": "",
+          "language": "hau"
+        }
+      ],
+      "pmt": "6532",
+      "pcr": "6912",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Somali",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13955",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7142",
+          "format": "",
+          "language": "som"
+        }
+      ],
+      "pmt": "6555",
+      "pcr": "7142",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 4",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13986",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7452",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6586",
+      "pcr": "7452",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC Afr Feed 6",
+      "country": "",
+      "category": "",
+      "bouquet": "BBC World Service",
+      "encryption": "FTA",
+      "sid": "13988",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "7472",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6588",
+      "pcr": "7472",
+      "txt": "",
+      "frequency": "4087.00",
+      "polarization": "L",
+      "symbol_rate": "10005",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3004",
+      "tid": "322",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Wap TV Nigeria",
+      "country": "Nigeria",
+      "category": "Various",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "100",
+      "audio_tracks": [
+        {
+          "pid": "110",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "7001",
+      "pcr": "100",
+      "txt": "",
+      "frequency": "4094.30",
+      "polarization": "L",
+      "symbol_rate": "15515",
+      "fec": "5/1",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "NTA",
+      "country": "Nigeria",
+      "category": "General",
+      "bouquet": "Adtec Digital",
+      "encryption": "FTA",
+      "sid": "1",
+      "vpid": "481",
+      "audio_tracks": [
+        {
+          "pid": "482",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "480",
+      "pcr": "481",
+      "txt": "",
+      "frequency": "4097.30",
+      "polarization": "L",
+      "symbol_rate": "33655",
+      "fec": "5/1",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "WHTV1",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "5",
+      "vpid": "510",
+      "audio_tracks": [
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "500",
+      "pcr": "510",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "WHTV2",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "6",
+      "vpid": "610",
+      "audio_tracks": [
+        {
+          "pid": "601",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "600",
+      "pcr": "610",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "SIS ONE",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "7",
+      "vpid": "710",
+      "audio_tracks": [
+        {
+          "pid": "701",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "700",
+      "pcr": "710",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "SIS TWO",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "8",
+      "vpid": "810",
+      "audio_tracks": [
+        {
+          "pid": "811",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "800",
+      "pcr": "810",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "SIS EURO",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "9",
+      "vpid": "910",
+      "audio_tracks": [
+        {
+          "pid": "911",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "900",
+      "pcr": "910",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Boyles",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Ltd",
+      "encryption": "Irdeto 2",
+      "sid": "18",
+      "vpid": "2222",
+      "audio_tracks": [
+        {
+          "pid": "1111",
+          "format": "",
+          "language": "esp"
+        }
+      ],
+      "pmt": "256",
+      "pcr": "2222",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "SIS Spanish",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "95",
+      "vpid": "110",
+      "audio_tracks": [
+        {
+          "pid": "101",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "100",
+      "pcr": "110",
+      "txt": "111",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Betfred1",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "160",
+      "vpid": "210",
+      "audio_tracks": [
+        {
+          "pid": "201",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "200",
+      "pcr": "210",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Betfred2",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "162",
+      "vpid": "310",
+      "audio_tracks": [
+        {
+          "pid": "301",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "300",
+      "pcr": "310",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Betfred3",
+      "country": "",
+      "category": "",
+      "bouquet": "SIS Limited",
+      "encryption": "Irdeto 2",
+      "sid": "163",
+      "vpid": "410",
+      "audio_tracks": [
+        {
+          "pid": "401",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "400",
+      "pcr": "410",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "OTA",
+      "country": "",
+      "category": "",
+      "bouquet": "NEP",
+      "encryption": "FTA",
+      "sid": "999",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "32",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11727.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "1+1",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "Viasat Ukraine",
+      "encryption": "FTA",
+      "sid": "6100",
+      "vpid": "1001",
+      "audio_tracks": [
+        {
+          "pid": "1002",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1000",
+      "pcr": "1001",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "1+1",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6101",
+      "vpid": "1011",
+      "audio_tracks": [
+        {
+          "pid": "1012",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1010",
+      "pcr": "1011",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "RAZ-3",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6108",
+      "vpid": "1081",
+      "audio_tracks": [
+        {
+          "pid": "1082",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1080",
+      "pcr": "1081",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TET",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "Viasat Ukraine",
+      "encryption": "FTA",
+      "sid": "6110",
+      "vpid": "1101",
+      "audio_tracks": [
+        {
+          "pid": "1102",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1100",
+      "pcr": "1101",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "PlusPlus",
+      "country": "Ucraina",
+      "category": "Documentaries",
+      "bouquet": "Viasat Ukraine",
+      "encryption": "FTA",
+      "sid": "6112",
+      "vpid": "1121",
+      "audio_tracks": [
+        {
+          "pid": "1122",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1120",
+      "pcr": "1121",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Bigudi TV",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "Viasat Ukraine",
+      "encryption": "FTA",
+      "sid": "6114",
+      "vpid": "1141",
+      "audio_tracks": [
+        {
+          "pid": "1142",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1140",
+      "pcr": "1141",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "2+2",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "Viasat Ukraine",
+      "encryption": "FTA",
+      "sid": "6120",
+      "vpid": "1201",
+      "audio_tracks": [
+        {
+          "pid": "1202",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1200",
+      "pcr": "1201",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Svit+",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6123",
+      "vpid": "1231",
+      "audio_tracks": [
+        {
+          "pid": "1232",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1230",
+      "pcr": "1231",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "1+1 International",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "1plus1 Media",
+      "encryption": "BISS",
+      "sid": "6125",
+      "vpid": "1251",
+      "audio_tracks": [
+        {
+          "pid": "1252",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1250",
+      "pcr": "1251",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "2+2 Marafon",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6127",
+      "vpid": "1271",
+      "audio_tracks": [
+        {
+          "pid": "1272",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1270",
+      "pcr": "1271",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Super+",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6129",
+      "vpid": "1291",
+      "audio_tracks": [
+        {
+          "pid": "1292",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1290",
+      "pcr": "1291",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Bolt",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6133",
+      "vpid": "1331",
+      "audio_tracks": [
+        {
+          "pid": "1332",
+          "format": "aac",
+          "language": "ukr"
+        },
+        {
+          "pid": "1333",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1330",
+      "pcr": "1331",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "24 Kanal",
+      "country": "Ucraina",
+      "category": "News",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6135",
+      "vpid": "1351",
+      "audio_tracks": [
+        {
+          "pid": "1352",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1350",
+      "pcr": "1351",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Animal Planet Eastern Europe",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6141",
+      "vpid": "1411",
+      "audio_tracks": [
+        {
+          "pid": "1412",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1410",
+      "pcr": "1411",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Discovery Channel Eastern Europe",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6143",
+      "vpid": "1431",
+      "audio_tracks": [
+        {
+          "pid": "1432",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1430",
+      "pcr": "1431",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Dorama",
+      "country": "Russia",
+      "category": "Various",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6145",
+      "vpid": "1451",
+      "audio_tracks": [
+        {
+          "pid": "1452",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1450",
+      "pcr": "1451",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Tuso TV",
+      "country": "Ucraina",
+      "category": "Teleshopping",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6148",
+      "vpid": "1481",
+      "audio_tracks": [
+        {
+          "pid": "1482",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1480",
+      "pcr": "1481",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Karavan TV",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6149",
+      "vpid": "1491",
+      "audio_tracks": [
+        {
+          "pid": "1492",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1490",
+      "pcr": "1491",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Army TV",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6150",
+      "vpid": "1501",
+      "audio_tracks": [
+        {
+          "pid": "1502",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1500",
+      "pcr": "1501",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "FilmUA Drama",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat Ukraine",
+      "encryption": "VeriMatrix",
+      "sid": "6152",
+      "vpid": "1521",
+      "audio_tracks": [
+        {
+          "pid": "1522",
+          "format": "aac",
+          "language": "ukr"
+        },
+        {
+          "pid": "1523",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1520",
+      "pcr": "1521",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "FX Russia",
+      "country": "Russia",
+      "category": "Intrattenimento",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6155",
+      "vpid": "1551",
+      "audio_tracks": [
+        {
+          "pid": "1552",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1550",
+      "pcr": "1551",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Unian Serial",
+      "country": "Ucraina",
+      "category": "Series",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6160",
+      "vpid": "6161",
+      "audio_tracks": [
+        {
+          "pid": "6162",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6160",
+      "pcr": "6161",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "FX Life Russia",
+      "country": "Russia",
+      "category": "Lifestyle",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6163",
+      "vpid": "1631",
+      "audio_tracks": [
+        {
+          "pid": "1632",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "1633",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1630",
+      "pcr": "1631",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat True Crime",
+      "country": "Polonia",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6165",
+      "vpid": "1651",
+      "audio_tracks": [
+        {
+          "pid": "1652",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1650",
+      "pcr": "1651",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "NIKI Kids",
+      "country": "Ucraina",
+      "category": "Children",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6167",
+      "vpid": "1671",
+      "audio_tracks": [
+        {
+          "pid": "1672",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1670",
+      "pcr": "1671",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "NIKI Junior",
+      "country": "Ucraina",
+      "category": "Children",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6169",
+      "vpid": "1691",
+      "audio_tracks": [
+        {
+          "pid": "1692",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1690",
+      "pcr": "1691",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Star Cinema",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6171",
+      "vpid": "1711",
+      "audio_tracks": [
+        {
+          "pid": "1712",
+          "format": "aac",
+          "language": "ukr"
+        },
+        {
+          "pid": "1713",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1710",
+      "pcr": "1711",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "National Geographic Ukraine",
+      "country": "Ucraina",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6175",
+      "vpid": "1751",
+      "audio_tracks": [
+        {
+          "pid": "1752",
+          "format": "aac",
+          "language": "ukr"
+        },
+        {
+          "pid": "1753",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1750",
+      "pcr": "1751",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nat Geo Wild Russia",
+      "country": "Russia",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6177",
+      "vpid": "1771",
+      "audio_tracks": [
+        {
+          "pid": "1772",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1770",
+      "pcr": "1771",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Food Network",
+      "country": "Regno Unito",
+      "category": "Cooking",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6179",
+      "vpid": "1791",
+      "audio_tracks": [
+        {
+          "pid": "1792",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1790",
+      "pcr": "1791",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TLC Ukraine",
+      "country": "Ucraina",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6181",
+      "vpid": "1811",
+      "audio_tracks": [
+        {
+          "pid": "1812",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1810",
+      "pcr": "1811",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Travel Channel",
+      "country": "Regno Unito",
+      "category": "Travel",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6183",
+      "vpid": "1831",
+      "audio_tracks": [
+        {
+          "pid": "1832",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "1830",
+      "pcr": "1831",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Rybalka Telekanal",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6185",
+      "vpid": "1851",
+      "audio_tracks": [
+        {
+          "pid": "1852",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1850",
+      "pcr": "1851",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Rozpakuy Hit Line",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6187",
+      "vpid": "1871",
+      "audio_tracks": [
+        {
+          "pid": "1872",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1870",
+      "pcr": "1871",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Plus Plus",
+      "country": "",
+      "category": "",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6188",
+      "vpid": "1121",
+      "audio_tracks": [
+        {
+          "pid": "1122",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1880",
+      "pcr": "1121",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ATR T",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "1plus1 Media",
+      "encryption": "FTA",
+      "sid": "6190",
+      "vpid": "1901",
+      "audio_tracks": [
+        {
+          "pid": "1902",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "1900",
+      "pcr": "1901",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Playboy TV",
+      "country": "Regno Unito",
+      "category": "Erotic",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6195",
+      "vpid": "1951",
+      "audio_tracks": [
+        {
+          "pid": "1952",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1950",
+      "pcr": "1951",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Blue Hustler",
+      "country": "Regno Unito",
+      "category": "Erotic",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "6197",
+      "vpid": "1971",
+      "audio_tracks": [
+        {
+          "pid": "1972",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1970",
+      "pcr": "1971",
+      "txt": "",
+      "frequency": "11765.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "12",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LTV 1",
+      "country": "Lettonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10100",
+      "vpid": "4101",
+      "audio_tracks": [
+        {
+          "pid": "4102",
+          "format": "aac",
+          "language": "lat"
+        }
+      ],
+      "pmt": "4100",
+      "pcr": "4101",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LTV 7",
+      "country": "Lettonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10105",
+      "vpid": "4121",
+      "audio_tracks": [
+        {
+          "pid": "4122",
+          "format": "aac",
+          "language": "lat"
+        }
+      ],
+      "pmt": "4120",
+      "pcr": "4121",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Star Cinema",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10110",
+      "vpid": "4141",
+      "audio_tracks": [
+        {
+          "pid": "4142",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4143",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "4140",
+      "pcr": "4141",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV3 Life",
+      "country": "Lettonia",
+      "category": "Lifestyle",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10115",
+      "vpid": "4161",
+      "audio_tracks": [
+        {
+          "pid": "4162",
+          "format": "aac",
+          "language": "lat"
+        }
+      ],
+      "pmt": "4160",
+      "pcr": "4161",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV 6 Latvia",
+      "country": "Lettonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10120",
+      "vpid": "4181",
+      "audio_tracks": [
+        {
+          "pid": "4182",
+          "format": "aac",
+          "language": "lat"
+        },
+        {
+          "pid": "4183",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4180",
+      "pcr": "4181",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV3 Mini",
+      "country": "Lettonia",
+      "category": "Children",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10125",
+      "vpid": "4201",
+      "audio_tracks": [
+        {
+          "pid": "4202",
+          "format": "aac",
+          "language": "lat"
+        }
+      ],
+      "pmt": "4200",
+      "pcr": "4201",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "3+ Latvija",
+      "country": "Lettonia",
+      "category": "Business",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10130",
+      "vpid": "4221",
+      "audio_tracks": [
+        {
+          "pid": "4222",
+          "format": "aac",
+          "language": "lat"
+        }
+      ],
+      "pmt": "4220",
+      "pcr": "4221",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV8 Lithuania",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10135",
+      "vpid": "4241",
+      "audio_tracks": [
+        {
+          "pid": "4242",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "4240",
+      "pcr": "4241",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LNK",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10140",
+      "vpid": "4261",
+      "audio_tracks": [
+        {
+          "pid": "4262",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "4260",
+      "pcr": "4261",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Baltijos televizija",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10145",
+      "vpid": "4281",
+      "audio_tracks": [
+        {
+          "pid": "4282",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "4280",
+      "pcr": "4281",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV 1 Lithuania",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10150",
+      "vpid": "4301",
+      "audio_tracks": [
+        {
+          "pid": "4302",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "4300",
+      "pcr": "4301",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Kanal 7 Latvia",
+      "country": "Lettonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10155",
+      "vpid": "4321",
+      "audio_tracks": [
+        {
+          "pid": "4342",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4343",
+          "format": "aac",
+          "language": "lat"
+        }
+      ],
+      "pmt": "4320",
+      "pcr": "4321",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TLC Russia",
+      "country": "Russia",
+      "category": "Documentaries",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10165",
+      "vpid": "4361",
+      "audio_tracks": [
+        {
+          "pid": "4362",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "4363",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "4360",
+      "pcr": "4361",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10170",
+      "vpid": "4381",
+      "audio_tracks": [
+        {
+          "pid": "4382",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4383",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4380",
+      "pcr": "4381",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino World",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10175",
+      "vpid": "4401",
+      "audio_tracks": [
+        {
+          "pid": "4402",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "4400",
+      "pcr": "4401",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "National Geographic HD East Europe",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10180",
+      "vpid": "4421",
+      "audio_tracks": [
+        {
+          "pid": "4422",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4423",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4420",
+      "pcr": "4421",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "National_Geographic HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Home 3",
+      "encryption": "FTA",
+      "sid": "10181",
+      "vpid": "4421",
+      "audio_tracks": [
+        {
+          "pid": "6423",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4429",
+      "pcr": "4421",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Explore HD",
+      "country": "Svezia",
+      "category": "Documentaries",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10185",
+      "vpid": "4441",
+      "audio_tracks": [
+        {
+          "pid": "4442",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "4443",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "4440",
+      "pcr": "4441",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat History HD",
+      "country": "",
+      "category": "",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10190",
+      "vpid": "4461",
+      "audio_tracks": [
+        {
+          "pid": "4462",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "4463",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4464",
+          "format": "aac",
+          "language": "lav"
+        }
+      ],
+      "pmt": "4460",
+      "pcr": "4461",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "MyHits TV",
+      "country": "Estonia",
+      "category": "Music",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10200",
+      "vpid": "4501",
+      "audio_tracks": [
+        {
+          "pid": "4502",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4500",
+      "pcr": "4501",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Kidzone",
+      "country": "Estonia",
+      "category": "Children",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10205",
+      "vpid": "4521",
+      "audio_tracks": [
+        {
+          "pid": "4522",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "4523",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "4524",
+          "format": "aac",
+          "language": "lit"
+        },
+        {
+          "pid": "4525",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "4520",
+      "pcr": "4521",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Duo Star",
+      "country": "Estonia",
+      "category": "Intrattenimento",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10210",
+      "vpid": "4541",
+      "audio_tracks": [
+        {
+          "pid": "4542",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "4540",
+      "pcr": "4541",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "FX Russia",
+      "country": "Russia",
+      "category": "Intrattenimento",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10215",
+      "vpid": "4561",
+      "audio_tracks": [
+        {
+          "pid": "4562",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4563",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4560",
+      "pcr": "4561",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Duo 3",
+      "country": "Estonia",
+      "category": "Intrattenimento",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10220",
+      "vpid": "4581",
+      "audio_tracks": [
+        {
+          "pid": "4582",
+          "format": "aac",
+          "language": "lit"
+        },
+        {
+          "pid": "4583",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4584",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "4585",
+          "format": "aac",
+          "language": "lav"
+        }
+      ],
+      "pmt": "4580",
+      "pcr": "4581",
+      "txt": "",
+      "frequency": "11785.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "CurrentTime",
+      "country": "Repubblica Ceca",
+      "category": "News",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10500",
+      "vpid": "5301",
+      "audio_tracks": [
+        {
+          "pid": "5302",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5300",
+      "pcr": "5301",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LRT Televizija",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10505",
+      "vpid": "5321",
+      "audio_tracks": [
+        {
+          "pid": "5322",
+          "format": "aac",
+          "language": "lit"
+        },
+        {
+          "pid": "5323",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "5320",
+      "pcr": "5321",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LRT Televizija",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "TV3 Group",
+      "encryption": "FTA",
+      "sid": "10510",
+      "vpid": "5341",
+      "audio_tracks": [
+        {
+          "pid": "5342",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "5340",
+      "pcr": "5341",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Lietuvos Rytas TV",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10515",
+      "vpid": "5361",
+      "audio_tracks": [
+        {
+          "pid": "5362",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "5360",
+      "pcr": "5361",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ETV 2",
+      "country": "Estonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10520",
+      "vpid": "5381",
+      "audio_tracks": [
+        {
+          "pid": "5382",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "5380",
+      "pcr": "5381",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV3 Gold",
+      "country": "Estonia",
+      "category": "Intrattenimento",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10525",
+      "vpid": "5401",
+      "audio_tracks": [
+        {
+          "pid": "5402",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "5403",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "5400",
+      "pcr": "5401",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "360 TV Latvia",
+      "country": "Lettonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10530",
+      "vpid": "5421",
+      "audio_tracks": [
+        {
+          "pid": "5422",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "5423",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "5420",
+      "pcr": "5421",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Nature CEE",
+      "country": "Svezia",
+      "category": "Documentaries",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10550",
+      "vpid": "5501",
+      "audio_tracks": [
+        {
+          "pid": "5502",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5503",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5500",
+      "pcr": "5501",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Euronews Russian",
+      "country": "Francia",
+      "category": "News",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10555",
+      "vpid": "5521",
+      "audio_tracks": [
+        {
+          "pid": "5522",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5520",
+      "pcr": "5521",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Go3 Film HD",
+      "country": "Estonia",
+      "category": "Movies",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10560",
+      "vpid": "5541",
+      "audio_tracks": [
+        {
+          "pid": "5542",
+          "format": "aac",
+          "language": "lit"
+        },
+        {
+          "pid": "5543",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "5544",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "5545",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5540",
+      "pcr": "5541",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Go3 Sport 1 HD",
+      "country": "Svezia",
+      "category": "Sport",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10565",
+      "vpid": "5561",
+      "audio_tracks": [
+        {
+          "pid": "5562",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "5563",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "5564",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "5560",
+      "pcr": "5561",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Epic Drama HD",
+      "country": "Russia",
+      "category": "Series",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10570",
+      "vpid": "5581",
+      "audio_tracks": [
+        {
+          "pid": "5582",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5583",
+          "format": "aac",
+          "language": "lit"
+        },
+        {
+          "pid": "5584",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5580",
+      "pcr": "5581",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV 3 Estonia HD",
+      "country": "Estonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10575",
+      "vpid": "5601",
+      "audio_tracks": [
+        {
+          "pid": "5602",
+          "format": "aac",
+          "language": "lav"
+        }
+      ],
+      "pmt": "5600",
+      "pcr": "5601",
+      "txt": "5611",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV 3 Latvia HD",
+      "country": "Lettonia",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10580",
+      "vpid": "5621",
+      "audio_tracks": [
+        {
+          "pid": "5622",
+          "format": "aac",
+          "language": "lav"
+        }
+      ],
+      "pmt": "5620",
+      "pcr": "5621",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV 3 Lithuania HD",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10585",
+      "vpid": "5641",
+      "audio_tracks": [
+        {
+          "pid": "5642",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "5640",
+      "pcr": "5641",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Go3 Sport 3",
+      "country": "Estonia",
+      "category": "Sport",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10595",
+      "vpid": "5681",
+      "audio_tracks": [
+        {
+          "pid": "5682",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "5683",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "5684",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "5680",
+      "pcr": "5681",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ETV+",
+      "country": "Estonia",
+      "category": "Various",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10600",
+      "vpid": "5701",
+      "audio_tracks": [
+        {
+          "pid": "5702",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "5703",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "5700",
+      "pcr": "5701",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Duo 6",
+      "country": "Estonia",
+      "category": "Intrattenimento",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10605",
+      "vpid": "5721",
+      "audio_tracks": [
+        {
+          "pid": "5722",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5723",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "5724",
+          "format": "aac",
+          "language": "lit"
+        },
+        {
+          "pid": "5725",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5720",
+      "pcr": "5721",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Eurosport 1",
+      "country": "Francia",
+      "category": "Sport",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10610",
+      "vpid": "5741",
+      "audio_tracks": [
+        {
+          "pid": "5742",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5743",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5740",
+      "pcr": "5741",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Eurosport 2",
+      "country": "Francia",
+      "category": "Sport",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10615",
+      "vpid": "5761",
+      "audio_tracks": [
+        {
+          "pid": "5762",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5763",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5760",
+      "pcr": "5761",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Discovery Channel Eastern Europe",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10620",
+      "vpid": "5781",
+      "audio_tracks": [
+        {
+          "pid": "5782",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5783",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5780",
+      "pcr": "5781",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Discovery_Channel",
+      "country": "",
+      "category": "",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10621",
+      "vpid": "5781",
+      "audio_tracks": [
+        {
+          "pid": "5782",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5783",
+          "format": "",
+          "language": "rus"
+        },
+        {
+          "pid": "5784",
+          "format": "",
+          "language": "lav"
+        }
+      ],
+      "pmt": "5780",
+      "pcr": "5781",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "RADA",
+      "country": "Ucraina",
+      "category": "News",
+      "bouquet": "TV3 Group",
+      "encryption": "FTA",
+      "sid": "10650",
+      "vpid": "5841",
+      "audio_tracks": [
+        {
+          "pid": "5842",
+          "format": "aac",
+          "language": "ukr"
+        },
+        {
+          "pid": "5845",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5840",
+      "pcr": "5841",
+      "txt": "",
+      "frequency": "11938.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "203",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV 6 Lithuania",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10300",
+      "vpid": "4701",
+      "audio_tracks": [
+        {
+          "pid": "4702",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "4700",
+      "pcr": "4701",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV 6 Estonia",
+      "country": "Estonia",
+      "category": "General",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10310",
+      "vpid": "4741",
+      "audio_tracks": [
+        {
+          "pid": "4742",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "4740",
+      "pcr": "4741",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ETV",
+      "country": "Albania",
+      "category": "Music",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10315",
+      "vpid": "4761",
+      "audio_tracks": [
+        {
+          "pid": "4762",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "4760",
+      "pcr": "4761",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Kanal 2",
+      "country": "Estonia",
+      "category": "General",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10320",
+      "vpid": "4781",
+      "audio_tracks": [
+        {
+          "pid": "4782",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "4780",
+      "pcr": "4781",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Duo Drama",
+      "country": "Estonia",
+      "category": "Series",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10325",
+      "vpid": "4801",
+      "audio_tracks": [
+        {
+          "pid": "4802",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "4800",
+      "pcr": "4801",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "3Plus Lithuania",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10330",
+      "vpid": "4821",
+      "audio_tracks": [
+        {
+          "pid": "4822",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "4820",
+      "pcr": "4821",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino Action",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10335",
+      "vpid": "4841",
+      "audio_tracks": [
+        {
+          "pid": "4842",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4843",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4840",
+      "pcr": "4841",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "FilmUA Drama",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10340",
+      "vpid": "4861",
+      "audio_tracks": [
+        {
+          "pid": "4862",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4863",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "4860",
+      "pcr": "4861",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Setanta Sport Evraziya",
+      "country": "Irlanda",
+      "category": "Sport",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10345",
+      "vpid": "4881",
+      "audio_tracks": [
+        {
+          "pid": "4882",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4883",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4880",
+      "pcr": "4881",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV3 Life Estonia",
+      "country": "Estonia",
+      "category": "Lifestyle",
+      "bouquet": "TV Group",
+      "encryption": "VideoGuard",
+      "sid": "10350",
+      "vpid": "4901",
+      "audio_tracks": [
+        {
+          "pid": "4902",
+          "format": "aac",
+          "language": "est"
+        }
+      ],
+      "pmt": "4900",
+      "pcr": "4901",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Disney Channel Russia",
+      "country": "Russia",
+      "category": "Children",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10355",
+      "vpid": "4921",
+      "audio_tracks": [
+        {
+          "pid": "4922",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "4923",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "4920",
+      "pcr": "4921",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Disney Junior Russia",
+      "country": "Russia",
+      "category": "Children",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10360",
+      "vpid": "4941",
+      "audio_tracks": [
+        {
+          "pid": "4942",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "4943",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4940",
+      "pcr": "4941",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "RE:TV",
+      "country": "Bulgaria",
+      "category": "General",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10365",
+      "vpid": "4961",
+      "audio_tracks": [
+        {
+          "pid": "4962",
+          "format": "aac",
+          "language": "lav"
+        }
+      ],
+      "pmt": "4960",
+      "pcr": "4961",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Go3 Sport Open",
+      "country": "Estonia",
+      "category": "Sport",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10370",
+      "vpid": "4981",
+      "audio_tracks": [
+        {
+          "pid": "4982",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "4983",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "4984",
+          "format": "",
+          "language": "lit"
+        }
+      ],
+      "pmt": "4980",
+      "pcr": "4981",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nickelodeon Russia",
+      "country": "Russia",
+      "category": "Children",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10375",
+      "vpid": "5001",
+      "audio_tracks": [
+        {
+          "pid": "5002",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5003",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "5004",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "5005",
+          "format": "aac",
+          "language": "lit"
+        },
+        {
+          "pid": "5006",
+          "format": "aac",
+          "language": "lav"
+        }
+      ],
+      "pmt": "5000",
+      "pcr": "5001",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nick Jr Russia",
+      "country": "Russia",
+      "category": "Children",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10380",
+      "vpid": "5021",
+      "audio_tracks": [
+        {
+          "pid": "5022",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5023",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5020",
+      "pcr": "5021",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nicktoons Russia",
+      "country": "Russia",
+      "category": "Children",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10385",
+      "vpid": "5041",
+      "audio_tracks": [
+        {
+          "pid": "5042",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "5043",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5040",
+      "pcr": "5041",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "BBC News",
+      "country": "Regno Unito",
+      "category": "News",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10395",
+      "vpid": "5081",
+      "audio_tracks": [
+        {
+          "pid": "5082",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5080",
+      "pcr": "5081",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Brazzers TV",
+      "country": "non definito",
+      "category": "Adult",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10400",
+      "vpid": "5101",
+      "audio_tracks": [
+        {
+          "pid": "5102",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5103",
+          "format": "aac",
+          "language": "fra"
+        }
+      ],
+      "pmt": "5100",
+      "pcr": "5101",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Go3 Sport 2 HD Baltics",
+      "country": "Estonia",
+      "category": "Sport",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10405",
+      "vpid": "5121",
+      "audio_tracks": [
+        {
+          "pid": "5122",
+          "format": "aac",
+          "language": "est"
+        },
+        {
+          "pid": "5123",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "5124",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "5120",
+      "pcr": "5121",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "RFM TV",
+      "country": "Francia",
+      "category": "Music",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10410",
+      "vpid": "5141",
+      "audio_tracks": [
+        {
+          "pid": "5142",
+          "format": "aac",
+          "language": "fra"
+        }
+      ],
+      "pmt": "5140",
+      "pcr": "5141",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Playboy TV",
+      "country": "Regno Unito",
+      "category": "Erotic",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10415",
+      "vpid": "5161",
+      "audio_tracks": [
+        {
+          "pid": "5162",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5163",
+          "format": "aac",
+          "language": "fra"
+        }
+      ],
+      "pmt": "5160",
+      "pcr": "5161",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino Comedy",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10420",
+      "vpid": "5181",
+      "audio_tracks": [
+        {
+          "pid": "5182",
+          "format": "aac",
+          "language": "lav"
+        },
+        {
+          "pid": "5183",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "5184",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5180",
+      "pcr": "5181",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LRT Plius",
+      "country": "Lituania",
+      "category": "General",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10445",
+      "vpid": "5221",
+      "audio_tracks": [
+        {
+          "pid": "5222",
+          "format": "aac",
+          "language": "lit"
+        }
+      ],
+      "pmt": "5220",
+      "pcr": "5221",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Riga TV 24",
+      "country": "Lettonia",
+      "category": "News",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10450",
+      "vpid": "5241",
+      "audio_tracks": [
+        {
+          "pid": "5242",
+          "format": "aac",
+          "language": "lat"
+        }
+      ],
+      "pmt": "5240",
+      "pcr": "5241",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "FX Life Russia",
+      "country": "Russia",
+      "category": "Lifestyle",
+      "bouquet": "TV3 Group",
+      "encryption": "VideoGuard",
+      "sid": "10455",
+      "vpid": "5261",
+      "audio_tracks": [
+        {
+          "pid": "5262",
+          "format": "aac",
+          "language": "eng"
+        },
+        {
+          "pid": "5263",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5260",
+      "pcr": "5261",
+      "txt": "",
+      "frequency": "11957.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "GOD Europe",
+      "country": "Regno Unito",
+      "category": "Religious",
+      "bouquet": "UT",
+      "encryption": "FTA",
+      "sid": "4060",
+      "vpid": "2308",
+      "audio_tracks": [
+        {
+          "pid": "2309",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4060",
+      "pcr": "2308",
+      "txt": "",
+      "frequency": "11996.00",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "86",
+      "tid": "6",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "AMB OTA",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "9000",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "4180",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "11996.00",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "86",
+      "tid": "6",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "SES Demo",
+      "country": "Lussemburgo",
+      "category": "Presentations",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7373",
+      "vpid": "731",
+      "audio_tracks": [
+        {
+          "pid": "732",
+          "format": "",
+          "language": "ger"
+        }
+      ],
+      "pmt": "7373",
+      "pcr": "731",
+      "txt": "",
+      "frequency": "12054.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "94",
+      "tid": "4218",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Telekanal STB HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "6510",
+      "vpid": "6511",
+      "audio_tracks": [
+        {
+          "pid": "6512",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6510",
+      "pcr": "6511",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ICTV HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "6520",
+      "vpid": "6521",
+      "audio_tracks": [
+        {
+          "pid": "65226523",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6520",
+      "pcr": "6521",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Novy Kanal HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "6530",
+      "vpid": "6531",
+      "audio_tracks": [
+        {
+          "pid": "6532",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6530",
+      "pcr": "6531",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "We-Ukraine+",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "Streamline Media",
+      "encryption": "FTA",
+      "sid": "6540",
+      "vpid": "7576",
+      "audio_tracks": [
+        {
+          "pid": "7577",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6540",
+      "pcr": "6541",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "OCE HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "6560",
+      "vpid": "6561",
+      "audio_tracks": [
+        {
+          "pid": "6562",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6560",
+      "pcr": "6561",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ICTV 2",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "6570",
+      "vpid": "6571",
+      "audio_tracks": [
+        {
+          "pid": "6572",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "6570",
+      "pcr": "6571",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Tviy Serial",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "6580",
+      "vpid": "6581",
+      "audio_tracks": [
+        {
+          "pid": "6582",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6580",
+      "pcr": "6581",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Galychyna HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "SLM",
+      "encryption": "FTA",
+      "sid": "7540",
+      "vpid": "7541",
+      "audio_tracks": [
+        {
+          "pid": "7542",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "7540",
+      "pcr": "7541",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "We-Ukraine+",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "Streamline Media",
+      "encryption": "FTA",
+      "sid": "7575",
+      "vpid": "7576",
+      "audio_tracks": [
+        {
+          "pid": "7577",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7575",
+      "pcr": "7576",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Espreso TV HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7580",
+      "vpid": "7581",
+      "audio_tracks": [
+        {
+          "pid": "7582",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7580",
+      "pcr": "7581",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "TV Kiev",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7590",
+      "vpid": "7591",
+      "audio_tracks": [
+        {
+          "pid": "7592",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7590",
+      "pcr": "7591",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "MX",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "BISS",
+      "sid": "800",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "32",
+      "pcr": "4096",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Service 801",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "801",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "33",
+      "pcr": "4097",
+      "txt": "",
+      "frequency": "12072.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "4219",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Rozpakui TV",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "6665",
+      "vpid": "6666",
+      "audio_tracks": [
+        {
+          "pid": "6667",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6665",
+      "pcr": "6666",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Sonata TV",
+      "country": "Ucraina",
+      "category": "Teleshopping",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "6670",
+      "vpid": "6671",
+      "audio_tracks": [
+        {
+          "pid": "6672",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6670",
+      "pcr": "6671",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Pryamiy",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "6690",
+      "vpid": "6691",
+      "audio_tracks": [
+        {
+          "pid": "6692",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6690",
+      "pcr": "6691",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Ukrayinske Radio",
+      "country": "",
+      "category": "",
+      "bouquet": "Suspilne",
+      "encryption": "FTA",
+      "sid": "6600",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6601",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6600",
+      "pcr": "6601",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Radio Promin",
+      "country": "",
+      "category": "",
+      "bouquet": "Suspilne",
+      "encryption": "FTA",
+      "sid": "6602",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6603",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6602",
+      "pcr": "6603",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Radio Culture",
+      "country": "",
+      "category": "",
+      "bouquet": "Suspilne",
+      "encryption": "FTA",
+      "sid": "6604",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6605",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6604",
+      "pcr": "6605",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "RadioTochka",
+      "country": "",
+      "category": "",
+      "bouquet": "Suspilne",
+      "encryption": "FTA",
+      "sid": "6606",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6607",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6606",
+      "pcr": "6607",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Voice",
+      "country": "",
+      "category": "",
+      "bouquet": "Suspilne",
+      "encryption": "FTA",
+      "sid": "6608",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6609",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6608",
+      "pcr": "6609",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "radio nv",
+      "country": "",
+      "category": "",
+      "bouquet": "TRC ERA",
+      "encryption": "FTA",
+      "sid": "6615",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6616",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6615",
+      "pcr": "6616",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ARMY FM",
+      "country": "",
+      "category": "",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "6625",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6626",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6625",
+      "pcr": "6626",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Emmanuel",
+      "country": "",
+      "category": "",
+      "bouquet": "Svitle Radio",
+      "encryption": "FTA",
+      "sid": "6655",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "6656",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6655",
+      "pcr": "6656",
+      "txt": "",
+      "frequency": "12130.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "85",
+      "tid": "16",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Explorer Russia",
+      "country": "Russia",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2505",
+      "vpid": "5051",
+      "audio_tracks": [
+        {
+          "pid": "5052",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5050",
+      "pcr": "5051",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat History",
+      "country": "Svezia",
+      "category": "History",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2507",
+      "vpid": "5071",
+      "audio_tracks": [
+        {
+          "pid": "5072",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5070",
+      "pcr": "5071",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Nature CEE",
+      "country": "Svezia",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2509",
+      "vpid": "5091",
+      "audio_tracks": [
+        {
+          "pid": "5092",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5090",
+      "pcr": "5091",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2511",
+      "vpid": "5111",
+      "audio_tracks": [
+        {
+          "pid": "5112",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "5113",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5110",
+      "pcr": "5111",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino Action",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2513",
+      "vpid": "5131",
+      "audio_tracks": [
+        {
+          "pid": "5132",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "5133",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5130",
+      "pcr": "5131",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino Comedy",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2515",
+      "vpid": "5151",
+      "audio_tracks": [
+        {
+          "pid": "5152",
+          "format": "aac",
+          "language": "rus"
+        },
+        {
+          "pid": "5153",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5150",
+      "pcr": "5151",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Viasat Kino World",
+      "country": "non definito",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2519",
+      "vpid": "5191",
+      "audio_tracks": [
+        {
+          "pid": "5192",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5190",
+      "pcr": "5191",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Epic Drama HD",
+      "country": "Polonia",
+      "category": "Series",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2521",
+      "vpid": "5211",
+      "audio_tracks": [
+        {
+          "pid": "5212",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5210",
+      "pcr": "5211",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Tvoe Kino Hit",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2523",
+      "vpid": "5231",
+      "audio_tracks": [
+        {
+          "pid": "5232",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5230",
+      "pcr": "5231",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Tvoe Kino Action",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2525",
+      "vpid": "5251",
+      "audio_tracks": [
+        {
+          "pid": "5252",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5250",
+      "pcr": "5251",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Tvoe Kino Relax",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2527",
+      "vpid": "5271",
+      "audio_tracks": [
+        {
+          "pid": "5272",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5270",
+      "pcr": "5271",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "UPL.TV",
+      "country": "Ucraina",
+      "category": "Various",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2531",
+      "vpid": "5311",
+      "audio_tracks": [
+        {
+          "pid": "5312",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5310",
+      "pcr": "5311",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Investigation Discovery Russia",
+      "country": "Russia",
+      "category": "Documentaries",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2533",
+      "vpid": "5331",
+      "audio_tracks": [
+        {
+          "pid": "5332",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5330",
+      "pcr": "5331",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Dizi TV",
+      "country": "Turchia",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2537",
+      "vpid": "5371",
+      "audio_tracks": [
+        {
+          "pid": "5372",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5379",
+      "pcr": "5371",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Setanta Sports Ukraine",
+      "country": "Ucraina",
+      "category": "Sport",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2541",
+      "vpid": "5411",
+      "audio_tracks": [
+        {
+          "pid": "5412",
+          "format": "aac",
+          "language": "ukr"
+        },
+        {
+          "pid": "5413",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5410",
+      "pcr": "5411",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Eurosport 1 HD Russia",
+      "country": "Russia",
+      "category": "Sport",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2545",
+      "vpid": "5451",
+      "audio_tracks": [
+        {
+          "pid": "5452",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5450",
+      "pcr": "5451",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Setanta+ Ukraine",
+      "country": "Ucraina",
+      "category": "Sport",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2547",
+      "vpid": "5471",
+      "audio_tracks": [
+        {
+          "pid": "5472",
+          "format": "aac",
+          "language": "ukr"
+        },
+        {
+          "pid": "5473",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5470",
+      "pcr": "5471",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "History 2 HD",
+      "country": "non definito",
+      "category": "History",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2553",
+      "vpid": "5531",
+      "audio_tracks": [
+        {
+          "pid": "5532",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5530",
+      "pcr": "5531",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Cine+ Hit HD",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2557",
+      "vpid": "5571",
+      "audio_tracks": [
+        {
+          "pid": "5572",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5570",
+      "pcr": "5571",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Cine +",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2561",
+      "vpid": "5611",
+      "audio_tracks": [
+        {
+          "pid": "5612",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5610",
+      "pcr": "5611",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Cine+ Kids HD",
+      "country": "Ucraina",
+      "category": "Children",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2563",
+      "vpid": "5631",
+      "audio_tracks": [
+        {
+          "pid": "5632",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5630",
+      "pcr": "5631",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Cine+ Legend",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2565",
+      "vpid": "5651",
+      "audio_tracks": [
+        {
+          "pid": "5652",
+          "format": "aac",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5650",
+      "pcr": "5651",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Hollywood HD Russia",
+      "country": "Russia",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2585",
+      "vpid": "5851",
+      "audio_tracks": [
+        {
+          "pid": "5852",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5850",
+      "pcr": "5851",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Hollywood TV Russia",
+      "country": "Russia",
+      "category": "Movies",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "2588",
+      "vpid": "5881",
+      "audio_tracks": [
+        {
+          "pid": "5882",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "5880",
+      "pcr": "5881",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "History Channel Ukraine",
+      "country": "Ucraina",
+      "category": "History",
+      "bouquet": "Viasat Ukraine",
+      "encryption": "VeriMatrix",
+      "sid": "2700",
+      "vpid": "2701",
+      "audio_tracks": [
+        {
+          "pid": "2702",
+          "format": "",
+          "language": "rus"
+        }
+      ],
+      "pmt": "2700",
+      "pcr": "2701",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Eurosport 2 HD",
+      "country": "Francia",
+      "category": "Sport",
+      "bouquet": "Viasat",
+      "encryption": "VeriMatrix",
+      "sid": "3010",
+      "vpid": "3411",
+      "audio_tracks": [
+        {
+          "pid": "3421",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "3010",
+      "pcr": "3411",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "SK_SW_Viasat",
+      "country": "",
+      "category": "",
+      "bouquet": "Viasat",
+      "encryption": "FTA",
+      "sid": "6138",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "6138",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ST_SW_Viasat",
+      "country": "",
+      "category": "",
+      "bouquet": "Viasat",
+      "encryption": "FTA",
+      "sid": "6171",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "6171",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ST_SW_1CAS",
+      "country": "",
+      "category": "",
+      "bouquet": "Viasat",
+      "encryption": "FTA",
+      "sid": "6173",
+      "vpid": "",
+      "audio_tracks": [],
+      "pmt": "6173",
+      "pcr": "8191",
+      "txt": "",
+      "frequency": "12207.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "68",
+      "tid": "24",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LadBrokes TV 1",
+      "country": "Regno Unito",
+      "category": "Racing",
+      "bouquet": "",
+      "encryption": "Irdeto 2",
+      "sid": "13",
+      "vpid": "1110",
+      "audio_tracks": [
+        {
+          "pid": "101",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "256",
+      "pcr": "1110",
+      "txt": "",
+      "frequency": "12418.30",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "101",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LadBrokes TV 2",
+      "country": "Regno Unito",
+      "category": "Racing",
+      "bouquet": "",
+      "encryption": "Irdeto 2",
+      "sid": "14",
+      "vpid": "1210",
+      "audio_tracks": [
+        {
+          "pid": "201",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "257",
+      "pcr": "1210",
+      "txt": "",
+      "frequency": "12418.30",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "101",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "LadBrokes TV 3",
+      "country": "Regno Unito",
+      "category": "Racing",
+      "bouquet": "",
+      "encryption": "Irdeto 2",
+      "sid": "15",
+      "vpid": "1310",
+      "audio_tracks": [
+        {
+          "pid": "301",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "258",
+      "pcr": "1310",
+      "txt": "",
+      "frequency": "12418.30",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "101",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Coral TV 1",
+      "country": "Regno Unito",
+      "category": "Racing",
+      "bouquet": "",
+      "encryption": "Irdeto 2",
+      "sid": "16",
+      "vpid": "1410",
+      "audio_tracks": [
+        {
+          "pid": "401",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "259",
+      "pcr": "1410",
+      "txt": "",
+      "frequency": "12418.30",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "101",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Coral TV 2",
+      "country": "Regno Unito",
+      "category": "Racing",
+      "bouquet": "",
+      "encryption": "Irdeto 2",
+      "sid": "17",
+      "vpid": "1510",
+      "audio_tracks": [],
+      "pmt": "260",
+      "pcr": "1510",
+      "txt": "",
+      "frequency": "12418.30",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "101",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Inter HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7911",
+      "vpid": "7111",
+      "audio_tracks": [
+        {
+          "pid": "7112",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7911",
+      "pcr": "7111",
+      "txt": "7115",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "NTN HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7913",
+      "vpid": "7131",
+      "audio_tracks": [
+        {
+          "pid": "7132",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7913",
+      "pcr": "7131",
+      "txt": "7135",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Mega HD",
+      "country": "Grecia",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7915",
+      "vpid": "7151",
+      "audio_tracks": [
+        {
+          "pid": "7152",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7915",
+      "pcr": "7151",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "K1 HD",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7917",
+      "vpid": "7171",
+      "audio_tracks": [
+        {
+          "pid": "7172",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7917",
+      "pcr": "7171",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Pixel HD",
+      "country": "Ucraina",
+      "category": "Children",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7923",
+      "vpid": "7231",
+      "audio_tracks": [
+        {
+          "pid": "7232",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7923",
+      "pcr": "7231",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Enter Film HD",
+      "country": "Ucraina",
+      "category": "Movies",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7925",
+      "vpid": "7251",
+      "audio_tracks": [
+        {
+          "pid": "7252",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7925",
+      "pcr": "7251",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Pershiy Ukraine",
+      "country": "Ucraina",
+      "category": "General",
+      "bouquet": "",
+      "encryption": "BISS",
+      "sid": "7931",
+      "vpid": "7311",
+      "audio_tracks": [
+        {
+          "pid": "7312",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7931",
+      "pcr": "7311",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Suspilne Kultura",
+      "country": "Ucraina",
+      "category": "Cultural",
+      "bouquet": "",
+      "encryption": "BISS",
+      "sid": "7933",
+      "vpid": "7331",
+      "audio_tracks": [
+        {
+          "pid": "7332",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7933",
+      "pcr": "7331",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Suspilne Sport",
+      "country": "Ucraina",
+      "category": "Sport",
+      "bouquet": "",
+      "encryption": "BISS",
+      "sid": "7937",
+      "vpid": "7371",
+      "audio_tracks": [
+        {
+          "pid": "7372",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7937",
+      "pcr": "7371",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "Suspilne Krym",
+      "country": "Ucraina",
+      "category": "Series",
+      "bouquet": "",
+      "encryption": "BISS",
+      "sid": "7939",
+      "vpid": "7391",
+      "audio_tracks": [
+        {
+          "pid": "7392",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "7939",
+      "pcr": "7391",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "ERC",
+      "country": "Regno Unito",
+      "category": "Racing",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7950",
+      "vpid": "7501",
+      "audio_tracks": [
+        {
+          "pid": "7502",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "7950",
+      "pcr": "7501",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    },
+    {
+      "channel_name": "English Club HD",
+      "country": "Ucraina",
+      "category": "Intrattenimento",
+      "bouquet": "ECTV",
+      "encryption": "Viaccess 4",
+      "sid": "7990",
+      "vpid": "7991",
+      "audio_tracks": [
+        {
+          "pid": "7992",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "7990",
+      "pcr": "7991",
+      "txt": "",
+      "frequency": "12437.20",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "46",
+      "satellite_pos": "4.8E"
+    }
+  ]
+}
