@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "30W",
   "satellite_pos": "30.0W",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 321,
   "channels": [
     {
@@ -31,7 +31,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal Parlamento",
@@ -59,7 +62,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "GOD Europe",
@@ -87,7 +93,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SonLife Broadcasting Network",
@@ -120,7 +129,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Record HD",
@@ -148,7 +160,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Record News",
@@ -176,7 +191,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP 3",
@@ -204,7 +222,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Feeds 2",
@@ -232,7 +253,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Feeds 3",
@@ -260,7 +284,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Telesur HD",
@@ -288,7 +315,10 @@
       "modulation": "8PSK",
       "nid": "6",
       "tid": "6",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bom",
@@ -321,7 +351,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Aragon TV HD",
@@ -359,7 +392,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1001",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ARAGON RADIO ZARAGOZA",
@@ -387,7 +423,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1001",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ARAGON RADIO HUESCA",
@@ -415,7 +454,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1001",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ARAGON RADIO TERUEL",
@@ -443,7 +485,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1001",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -465,7 +510,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_NACION_PRADO",
@@ -487,7 +535,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_ANDALU_TORRE",
@@ -509,7 +560,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_BALEAR_PRADO",
@@ -531,7 +585,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_CLMANC_PRADO",
@@ -553,7 +610,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R2_NACION_PRADO",
@@ -575,7 +635,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_MADRID_PRADO",
@@ -597,7 +660,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_BALEAR_PRADO",
@@ -619,7 +685,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_CLMANC_PRADO",
@@ -641,7 +710,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R3_NACION_PRADO",
@@ -663,7 +735,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_MADRID_PRADO",
@@ -685,7 +760,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_ANDALU_PRADO",
@@ -707,7 +785,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R4_CATALU_PRADO",
@@ -729,7 +810,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_ARAGON_PRADO",
@@ -751,7 +835,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_CATALU_PRADO",
@@ -773,7 +860,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_MURCIA_PRADO",
@@ -795,7 +885,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_NACION_PRADO",
@@ -817,7 +910,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R1_ARAGON_PRADO",
@@ -839,7 +935,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_CATALU_PRADO",
@@ -861,7 +960,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R5_MURCIA_PRADO",
@@ -883,7 +985,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "60025",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Television Castilla - La Mancha HD",
@@ -916,7 +1021,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCLM TO",
@@ -944,7 +1052,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCLM AB",
@@ -972,7 +1083,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCLM CR",
@@ -1000,7 +1114,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCLM CU",
@@ -1028,7 +1145,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCLM GU",
@@ -1056,7 +1176,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCLM TLV",
@@ -1084,7 +1207,10 @@
       "modulation": "8PSK",
       "nid": "8916",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Onda Cero",
@@ -1112,7 +1238,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Europa FM",
@@ -1140,7 +1269,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "esRadio",
@@ -1168,7 +1300,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RADIO MARIA",
@@ -1196,7 +1331,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cadena 100",
@@ -1224,7 +1362,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ROCK FM",
@@ -1252,7 +1393,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kiss FM",
@@ -1280,7 +1424,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HIT FM",
@@ -1308,7 +1455,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "COPE SAT 2",
@@ -1336,7 +1486,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "COPE",
@@ -1364,7 +1517,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MegaStar",
@@ -1392,7 +1548,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FM ZARAGOZA",
@@ -1420,7 +1579,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FM HUESCA",
@@ -1448,7 +1610,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FM TERUEL",
@@ -1476,7 +1641,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EXTREMADURA FM",
@@ -1504,7 +1672,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP 1",
@@ -1542,7 +1713,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP 2",
@@ -1580,7 +1754,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Record Europa",
@@ -1608,7 +1785,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MEO",
@@ -1630,7 +1810,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP 3",
@@ -1663,7 +1846,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Madeira",
@@ -1696,7 +1882,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Açores",
@@ -1729,7 +1918,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "A Bola TV",
@@ -1757,7 +1949,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Lolly Kids HD",
@@ -1785,7 +1980,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal Cinemundo",
@@ -1813,7 +2011,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "História",
@@ -1841,7 +2042,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Caçavision",
@@ -1869,7 +2073,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito Portugal",
@@ -1902,7 +2109,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Madeira",
@@ -1930,7 +2140,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Açores",
@@ -1958,7 +2171,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ARTV",
@@ -1991,7 +2207,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNN Portugal",
@@ -2019,7 +2238,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Globo",
@@ -2047,7 +2269,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP 1 HD",
@@ -2080,7 +2305,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP 2 HD",
@@ -2113,7 +2341,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC HD",
@@ -2141,7 +2372,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVI HD",
@@ -2169,7 +2403,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP 3",
@@ -2197,7 +2434,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNN Portugal",
@@ -2225,7 +2465,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CMTV",
@@ -2253,7 +2496,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Globo",
@@ -2281,7 +2527,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Porto Canal",
@@ -2309,7 +2558,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "A Bola TV",
@@ -2337,7 +2589,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito",
@@ -2370,7 +2625,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal de Historia",
@@ -2398,7 +2656,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Memoria",
@@ -2426,7 +2687,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ARTV",
@@ -2454,7 +2718,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Africa",
@@ -2482,7 +2749,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Açores",
@@ -2510,7 +2780,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Madeira",
@@ -2538,7 +2811,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Record",
@@ -2566,7 +2842,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Mulher",
@@ -2594,7 +2873,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNN",
@@ -2622,7 +2904,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Comedy Portugal",
@@ -2650,7 +2935,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Movies",
@@ -2678,7 +2966,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews",
@@ -2706,7 +2997,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Venus TV Argentina",
@@ -2734,7 +3028,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sky News International",
@@ -2762,7 +3059,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Playboy TV",
@@ -2790,7 +3090,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC",
@@ -2818,7 +3121,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVI",
@@ -2846,7 +3152,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CMTV",
@@ -2874,7 +3183,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Porto Canal",
@@ -2902,7 +3214,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Memoria",
@@ -2935,7 +3250,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTP Africa",
@@ -2963,7 +3281,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "S+ TV",
@@ -2991,7 +3312,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Mulher",
@@ -3019,7 +3343,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNN",
@@ -3047,7 +3374,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Comedy Portugal",
@@ -3075,7 +3405,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STAR Movies",
@@ -3103,7 +3436,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews",
@@ -3131,7 +3467,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Venus",
@@ -3159,7 +3498,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sky News",
@@ -3187,7 +3529,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Playboy TV",
@@ -3215,7 +3560,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1",
@@ -3243,7 +3591,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 2",
@@ -3271,7 +3622,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 3",
@@ -3299,7 +3653,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RDP África",
@@ -3327,7 +3684,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rádio Lusitânia",
@@ -3355,7 +3715,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cidade FM",
@@ -3383,7 +3746,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Smooth FM",
@@ -3411,7 +3777,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RFM",
@@ -3439,7 +3808,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mega Hits",
@@ -3467,7 +3839,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Renascença",
@@ -3495,7 +3870,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rádio Comercial",
@@ -3523,7 +3901,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "M80",
@@ -3551,7 +3932,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1",
@@ -3579,7 +3963,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 2",
@@ -3607,7 +3994,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 3",
@@ -3635,7 +4025,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RDP África",
@@ -3663,7 +4056,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Lusitânia",
@@ -3691,7 +4087,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cidade FM",
@@ -3719,7 +4118,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Smooth FM",
@@ -3747,7 +4149,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RFM",
@@ -3775,7 +4180,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mega Hits",
@@ -3803,7 +4211,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Renascença",
@@ -3831,7 +4242,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rádio Comercial",
@@ -3859,7 +4273,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "M80",
@@ -3887,7 +4304,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "80s RFM",
@@ -3915,7 +4335,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1 - Fado",
@@ -3943,7 +4366,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1 - Memória",
@@ -3971,7 +4397,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1 - Vida",
@@ -3999,7 +4428,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 2 - Ópera",
@@ -4027,7 +4459,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Oceano Pacífico",
@@ -4055,7 +4490,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RFM Clubbing",
@@ -4083,7 +4521,10 @@
       "modulation": "8PSK",
       "nid": "83",
       "tid": "101",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal Hollywood Portugal",
@@ -4111,7 +4552,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Odisseia",
@@ -4139,7 +4583,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 2",
@@ -4167,7 +4614,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoon Network",
@@ -4200,7 +4650,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal Q",
@@ -4228,7 +4681,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Radical",
@@ -4256,7 +4712,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Caras",
@@ -4284,7 +4743,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fashion TV",
@@ -4312,7 +4774,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MCM Pop",
@@ -4340,7 +4805,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bloomberg",
@@ -4368,7 +4836,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNBC",
@@ -4396,7 +4867,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Galicia",
@@ -4424,7 +4898,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal Panda",
@@ -4452,7 +4929,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "V+TVI",
@@ -4480,7 +4960,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HOT",
@@ -4508,7 +4991,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MCM TOP",
@@ -4536,7 +5022,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mezzo",
@@ -4564,7 +5053,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OneToro TV",
@@ -4592,7 +5084,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Panda Kids",
@@ -4620,7 +5115,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVE 24H",
@@ -4648,7 +5146,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVEi",
@@ -4676,7 +5177,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 5",
@@ -4704,7 +5208,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 1 HD",
@@ -4732,7 +5239,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 6 HD",
@@ -4760,7 +5270,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 2 HD",
@@ -4788,7 +5301,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 3 HD",
@@ -4816,7 +5332,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BTV 1 HD",
@@ -4844,7 +5363,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 7",
@@ -4872,7 +5394,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 24 (I)",
@@ -4900,7 +5425,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Hot",
@@ -4928,7 +5456,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mezzo",
@@ -4956,7 +5487,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OneToro TV",
@@ -4984,7 +5518,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Panda Kids",
@@ -5012,7 +5549,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVE 24h",
@@ -5040,7 +5580,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVE Internacional",
@@ -5068,7 +5611,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC Crime",
@@ -5096,7 +5642,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Noticias",
@@ -5124,7 +5673,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "V+ TVI",
@@ -5152,7 +5704,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 4",
@@ -5185,7 +5740,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal Panda",
@@ -5213,7 +5771,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Hollywood HD",
@@ -5241,7 +5802,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Odisseia",
@@ -5269,7 +5833,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 2",
@@ -5297,7 +5864,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoon Network",
@@ -5330,7 +5900,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal Q",
@@ -5358,7 +5931,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Radical",
@@ -5386,7 +5962,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Caras",
@@ -5414,7 +5993,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fashion TV",
@@ -5442,7 +6024,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MCM Pop",
@@ -5470,7 +6055,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bloomberg",
@@ -5498,7 +6086,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNBC Europe",
@@ -5526,7 +6117,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Galicia",
@@ -5554,7 +6148,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC Crime",
@@ -5582,7 +6179,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 5 HD",
@@ -5610,7 +6210,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 6 HD",
@@ -5638,7 +6241,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 1 HD",
@@ -5666,7 +6272,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 2 HD",
@@ -5694,7 +6303,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 3 HD",
@@ -5722,7 +6334,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BTV HD",
@@ -5750,7 +6365,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV 7",
@@ -5778,7 +6396,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "38",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -5800,7 +6421,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "24 Kitchen HD",
@@ -5828,7 +6452,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STAR Crime HD Portugal",
@@ -5856,7 +6483,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Travel Channel HD",
@@ -5884,7 +6514,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN White HD",
@@ -5912,7 +6545,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Investigation Discovery Portugal",
@@ -5940,7 +6576,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NatGeo Wild HD Spain",
@@ -5968,7 +6607,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 1 Portugal",
@@ -5996,7 +6638,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 4 Portugal",
@@ -6024,7 +6669,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 5 Portugal",
@@ -6052,7 +6700,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Emotion HD",
@@ -6080,7 +6731,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Casa e Cozinha HD",
@@ -6108,7 +6762,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Edition HD",
@@ -6136,7 +6793,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SyFy",
@@ -6164,7 +6824,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TLC",
@@ -6192,7 +6855,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV5 Monde",
@@ -6220,7 +6886,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVI Reality",
@@ -6248,7 +6917,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport TV +",
@@ -6276,7 +6948,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sporting TV",
@@ -6304,7 +6979,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 2 Portugal",
@@ -6332,7 +7010,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 3 Portugal",
@@ -6360,7 +7041,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "E! Entertainment TV",
@@ -6388,7 +7072,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Kids",
@@ -6416,7 +7103,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal NOS",
@@ -6444,7 +7134,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ZAP Viva HD",
@@ -6472,7 +7165,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SYFY",
@@ -6500,7 +7196,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TLC",
@@ -6528,7 +7227,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV5 Monde",
@@ -6556,7 +7258,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVI Reality",
@@ -6584,7 +7289,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SPORT TV+",
@@ -6612,7 +7320,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sporting TV",
@@ -6640,7 +7351,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MTV Portugal",
@@ -6668,7 +7382,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN Movies HD",
@@ -6696,7 +7413,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN White HD",
@@ -6724,7 +7444,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 1 HD",
@@ -6757,7 +7480,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Life HD Portugal",
@@ -6785,7 +7511,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STAR Crime HD Portugal",
@@ -6813,7 +7542,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "24 Kitchen HD",
@@ -6841,7 +7573,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 1 HD",
@@ -6869,7 +7604,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 4",
@@ -6897,7 +7635,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 5",
@@ -6925,7 +7666,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ID Investigation Discovery",
@@ -6953,7 +7697,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Edition",
@@ -6981,7 +7728,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Emotion",
@@ -7009,7 +7759,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National Geographic Wild",
@@ -7037,7 +7790,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Trace Urban",
@@ -7065,7 +7821,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Casa e Cozinha HD",
@@ -7093,7 +7852,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 2 HD",
@@ -7121,7 +7883,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAZN 3",
@@ -7149,7 +7914,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Kids",
@@ -7177,7 +7945,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal NOS",
@@ -7205,7 +7976,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "39",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Action HD",
@@ -7233,7 +8007,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Trace Toca",
@@ -7261,7 +8038,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fuel TV",
@@ -7289,7 +8069,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Caça & Pesca",
@@ -7322,7 +8105,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nick Jr. Portugal",
@@ -7350,7 +8136,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery HD Portugal",
@@ -7378,7 +8167,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Top HD",
@@ -7406,7 +8198,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Motorvision",
@@ -7434,7 +8229,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "News Now",
@@ -7462,7 +8260,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Novelas",
@@ -7490,7 +8291,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal 11 HD",
@@ -7518,7 +8322,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kuriakos TV",
@@ -7546,7 +8353,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC Break",
@@ -7574,7 +8384,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Baby TV",
@@ -7602,7 +8415,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Vin TV",
@@ -7630,7 +8446,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canção Nova",
@@ -7658,7 +8477,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Júnior",
@@ -7691,7 +8513,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National Geographic HD",
@@ -7719,7 +8544,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Channel HD Portugal",
@@ -7747,7 +8575,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN HD",
@@ -7775,7 +8606,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NOS Studios HD",
@@ -7803,7 +8637,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kuriakos TV HD",
@@ -7831,7 +8668,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC Break",
@@ -7859,7 +8699,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Baby TV",
@@ -7887,7 +8730,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Vin TV",
@@ -7915,7 +8761,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canção Nova",
@@ -7943,7 +8792,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Junior",
@@ -7976,7 +8828,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canal de Teste",
@@ -7998,7 +8853,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "11",
@@ -8026,7 +8884,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Channel Portugal",
@@ -8059,7 +8920,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Top",
@@ -8087,7 +8951,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Cine Action",
@@ -8115,7 +8982,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC HD Portugal",
@@ -8143,7 +9013,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Channel HD",
@@ -8171,7 +9044,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nickelodeon Portugal",
@@ -8199,7 +9075,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "News Now",
@@ -8227,7 +9106,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Afro Music Channel",
@@ -8255,7 +9137,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NHK World",
@@ -8283,7 +9168,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SIC Novelas",
@@ -8311,7 +9199,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National Geographic HD",
@@ -8339,7 +9230,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STAR Channel HD",
@@ -8367,7 +9261,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN HD",
@@ -8395,7 +9292,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nick Jr.",
@@ -8423,7 +9323,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NOS Studios HD",
@@ -8451,7 +9354,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TSF",
@@ -8479,7 +9385,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rádio Amalia",
@@ -8507,7 +9416,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Marginal",
@@ -8535,7 +9447,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Oxigénio",
@@ -8563,7 +9478,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radar",
@@ -8591,7 +9509,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rádio Regional",
@@ -8619,7 +9540,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CMR",
@@ -8647,7 +9571,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SuperFM",
@@ -8675,7 +9602,10 @@
       "modulation": "8PSK",
       "nid": "54",
       "tid": "47",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ANTENA 1",
@@ -8703,7 +9633,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ANTENA 2",
@@ -8731,7 +9664,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ANTENA 3",
@@ -8759,7 +9695,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RDP AFRICA",
@@ -8787,7 +9726,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OCASIONAIS",
@@ -8815,7 +9757,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ACORES",
@@ -8843,7 +9788,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ONDA MEDIA",
@@ -8871,7 +9819,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ANT1 MADEIRA",
@@ -8899,7 +9850,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ANT3 MADEIRA",
@@ -8927,7 +9881,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NorteVision",
@@ -8955,7 +9912,10 @@
       "modulation": "8PSK",
       "nid": "65535",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NORTEradio",
@@ -8983,7 +9943,10 @@
       "modulation": "8PSK",
       "nid": "65535",
       "tid": "1",
-      "satellite_pos": "30.0W"
+      "satellite_pos": "30.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
