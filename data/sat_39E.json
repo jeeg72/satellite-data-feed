@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "39E",
   "satellite_pos": "39.0E",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 610,
   "channels": [
     {
@@ -31,7 +31,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurobet 11",
@@ -59,7 +62,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurobet 12",
@@ -87,7 +93,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurobet 13",
@@ -115,7 +124,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurobet 14",
@@ -143,7 +155,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurobet 15",
@@ -171,7 +186,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Virtual Games1",
@@ -199,7 +217,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Virtual Games 2",
@@ -227,7 +248,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Racing Channel",
@@ -255,7 +279,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LiveSports Channel",
@@ -283,7 +310,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Virtual Games 3",
@@ -311,7 +341,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT World HD",
@@ -339,7 +372,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "4E Hellas Orthodox",
@@ -367,7 +403,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RIK1",
@@ -395,7 +434,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RIK2",
@@ -423,7 +465,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RIK3",
@@ -451,7 +496,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RIK4",
@@ -479,7 +527,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ELLADA FM",
@@ -507,7 +558,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Voice Of Greece",
@@ -535,7 +589,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanali 6",
@@ -563,7 +620,10 @@
       "modulation": "8PSK",
       "nid": "10",
       "tid": "10",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -585,7 +645,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Vizion Plus HD",
@@ -613,7 +676,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Classic HD",
@@ -641,7 +707,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fax News",
@@ -669,7 +738,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ABC News (Albania)",
@@ -697,7 +769,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "A1 Report",
@@ -725,7 +800,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "News 24 Albania",
@@ -753,7 +831,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanali 7",
@@ -781,7 +862,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Syri Vision",
@@ -809,7 +893,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Tring",
@@ -837,7 +924,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TIP TV",
@@ -865,7 +955,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Living HD",
@@ -893,7 +986,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Series HD",
@@ -921,7 +1017,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "3 Plus",
@@ -949,7 +1048,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanal D Drama",
@@ -977,7 +1079,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Smile (Albania)",
@@ -1005,7 +1110,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Shqip",
@@ -1033,7 +1141,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Super HD",
@@ -1061,7 +1172,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Action HD",
@@ -1089,7 +1203,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Life",
@@ -1117,7 +1234,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Comedy",
@@ -1145,7 +1265,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Fantasy",
@@ -1173,7 +1296,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Planet",
@@ -1201,7 +1327,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring World",
@@ -1229,7 +1358,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Sport News",
@@ -1257,7 +1389,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport 1 HD Albania",
@@ -1290,7 +1425,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport 2 HD Albania",
@@ -1318,7 +1456,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport 3 HD Albania",
@@ -1351,7 +1492,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport 4 HD Albania",
@@ -1384,7 +1528,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Folk Plus",
@@ -1412,7 +1559,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Sport 5 HD",
@@ -1440,7 +1590,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Desire",
@@ -1468,7 +1621,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Elrodi TV",
@@ -1496,7 +1652,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTSH 1 HD",
@@ -1524,7 +1683,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Collection HD",
@@ -1552,7 +1714,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Novelas",
@@ -1580,7 +1745,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Top Channel HD",
@@ -1608,7 +1776,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NRG RADIO",
@@ -1636,7 +1807,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1010",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -1658,7 +1832,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTK 1 Sat (Kosovo)",
@@ -1686,7 +1863,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Original",
@@ -1714,7 +1894,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kids",
@@ -1742,7 +1925,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Muse",
@@ -1770,7 +1956,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Family HD",
@@ -1798,7 +1987,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring History",
@@ -1826,7 +2018,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BBF",
@@ -1854,7 +2049,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1",
@@ -1882,7 +2080,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bubble",
@@ -1910,7 +2111,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews Albania",
@@ -1938,7 +2142,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SuperSport HD-1",
@@ -1971,7 +2178,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SuperSport 2 Africa HD",
@@ -1999,7 +2209,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTSH Sport",
@@ -2027,7 +2240,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SuperSport HD-3",
@@ -2060,7 +2276,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2",
@@ -2088,7 +2307,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SuperSport HD-4",
@@ -2121,7 +2343,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Supersport 5 HD (Albania)",
@@ -2154,7 +2379,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Turkish Stories",
@@ -2182,7 +2410,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Italia",
@@ -2210,7 +2441,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Supersport 6 HD Albania",
@@ -2243,7 +2477,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SuperSport 7 Africa HD",
@@ -2271,7 +2508,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Klan HD",
@@ -2299,7 +2539,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Top News",
@@ -2327,7 +2570,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Klan Kosova",
@@ -2355,7 +2601,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Klan Plus",
@@ -2383,7 +2632,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Klan Music",
@@ -2411,7 +2663,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Klan News",
@@ -2439,7 +2694,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Supersport 6 HD Albania",
@@ -2472,7 +2730,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tring Sport 7 HD",
@@ -2500,7 +2761,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Panorama TV",
@@ -2528,7 +2792,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Love Radio",
@@ -2556,7 +2823,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -2578,7 +2848,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "160",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EQUtv",
@@ -2606,7 +2879,10 @@
       "modulation": "QPSK",
       "nid": "0",
       "tid": "160",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Al Sumaria HD",
@@ -2639,7 +2915,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Alpha TV Cyprus",
@@ -2667,7 +2946,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antenna TV Cyprus",
@@ -2695,7 +2977,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Omega Channel Cyprus",
@@ -2723,7 +3008,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sigma TV",
@@ -2751,7 +3039,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Capital TV Cyprus",
@@ -2779,7 +3070,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Extra Channel Cyprus",
@@ -2807,7 +3101,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Plus TV Cyprus",
@@ -2835,7 +3132,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Smile TV Cyprus",
@@ -2863,7 +3163,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Vergina TV",
@@ -2891,7 +3194,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sigma TV 2 4K",
@@ -2919,7 +3225,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sigma TV 2 HD",
@@ -2947,7 +3256,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanali 6",
@@ -2975,7 +3287,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 1 HD",
@@ -3003,7 +3318,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 2 HD",
@@ -3031,7 +3349,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STS International",
@@ -3059,7 +3380,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mate Kitchen",
@@ -3087,7 +3411,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 3 HD",
@@ -3115,7 +3442,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Detski Mir",
@@ -3143,7 +3473,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Teleklub",
@@ -3171,7 +3504,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Code Fashion",
@@ -3199,7 +3535,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nashe Kino",
@@ -3227,7 +3566,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bez Bagahz",
@@ -3255,7 +3597,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 1 HD",
@@ -3283,7 +3628,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nova HD Bulgaria",
@@ -3311,7 +3659,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 3 HD",
@@ -3339,7 +3690,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema",
@@ -3367,7 +3721,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 4 HD",
@@ -3395,7 +3752,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 1",
@@ -3428,7 +3788,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cine TV Plus",
@@ -3456,7 +3819,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bloomberg BG",
@@ -3484,7 +3850,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 4",
@@ -3512,7 +3881,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Box TV",
@@ -3540,7 +3912,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BTV Cinema",
@@ -3568,7 +3943,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "bTV Comedy",
@@ -3596,7 +3974,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "bTV Story HD",
@@ -3624,7 +4005,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Channel",
@@ -3657,7 +4041,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Tourism",
@@ -3685,7 +4072,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Peretz",
@@ -3713,7 +4103,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Festival Bulgaria",
@@ -3741,7 +4134,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Love & Crime Bulgaria",
@@ -3769,7 +4165,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Investigation Discovery Xtra",
@@ -3802,7 +4201,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Planeta TV",
@@ -3830,7 +4232,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Planeta HD",
@@ -3858,7 +4263,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Penthouse Gold",
@@ -3886,7 +4294,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "The Voice Bulgaria",
@@ -3914,7 +4325,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 2",
@@ -3942,7 +4356,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bulgaria 24",
@@ -3970,7 +4387,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Ohota & Rybalka",
@@ -3998,7 +4418,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Al Jazeera English",
@@ -4026,7 +4449,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Domashniy",
@@ -4054,7 +4480,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Channel Bulgaria",
@@ -4087,7 +4516,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nickelodeon Bulgaria",
@@ -4115,7 +4547,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "XYPlus",
@@ -4143,7 +4578,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Planeta Folk",
@@ -4171,7 +4609,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fightbox",
@@ -4199,7 +4640,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews Bulgaria",
@@ -4227,7 +4671,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tiankov TV",
@@ -4255,7 +4702,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanal 3",
@@ -4283,7 +4733,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 2",
@@ -4316,7 +4769,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Zhivi",
@@ -4344,7 +4800,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Freedom",
@@ -4372,7 +4831,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNBC Europe HD",
@@ -4400,7 +4862,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "177",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -4422,7 +4887,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Sport 2 HD",
@@ -4450,7 +4918,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Sport HD",
@@ -4478,7 +4949,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemax HD Eastern Europe",
@@ -4506,7 +4980,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemax 2 HD",
@@ -4534,7 +5011,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat History",
@@ -4562,7 +5042,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Epic Drama HD",
@@ -4595,7 +5078,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV 8 Russia",
@@ -4623,7 +5109,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "7/8 TV HD",
@@ -4651,7 +5140,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Italia",
@@ -4679,7 +5171,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Emotion Bulgaria",
@@ -4707,7 +5202,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Stingray Classica HD",
@@ -4735,7 +5233,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BTV HD Bulgaria",
@@ -4763,7 +5264,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "bTV Action HD",
@@ -4791,7 +5295,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Channel Bulgaria",
@@ -4824,7 +5331,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Crime Bulgaria",
@@ -4852,7 +5362,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Life Bulgaria",
@@ -4880,7 +5393,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Animal Planet",
@@ -4908,7 +5424,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN Bulgaria",
@@ -4936,7 +5455,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN Black",
@@ -4964,7 +5486,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN White",
@@ -4992,7 +5517,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bulgaria On Air",
@@ -5020,7 +5548,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Crime & Investigation Network",
@@ -5048,7 +5579,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kino Nova",
@@ -5076,7 +5610,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Super Toons",
@@ -5104,7 +5641,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Code Health",
@@ -5132,7 +5672,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Family",
@@ -5160,7 +5703,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Penthouse Passion",
@@ -5188,7 +5734,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DW-TV (Deutsche Welle)",
@@ -5216,7 +5765,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "English Club",
@@ -5244,7 +5796,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MyZen.tv",
@@ -5277,7 +5832,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "History Channel Eastern Europe",
@@ -5305,7 +5863,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Reality Kings",
@@ -5333,7 +5894,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TLC Bulgaria",
@@ -5366,7 +5930,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Travelxp",
@@ -5394,7 +5961,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Love Nature",
@@ -5427,7 +5997,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Hit Mix",
@@ -5455,7 +6028,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoon Network",
@@ -5483,7 +6059,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DM Sat",
@@ -5511,7 +6090,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Duck TV",
@@ -5539,7 +6121,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EKids",
@@ -5567,7 +6152,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 24 (en Français)",
@@ -5595,7 +6183,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV5 Monde Europe",
@@ -5623,7 +6214,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fix & Foxi",
@@ -5651,7 +6245,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Evrokom HD",
@@ -5679,7 +6276,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sky News International",
@@ -5707,7 +6307,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nova News HD",
@@ -5735,7 +6338,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BH TV",
@@ -5763,7 +6369,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nicktoons Bulgaria",
@@ -5791,7 +6400,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "178",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Code Health",
@@ -5819,7 +6431,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Epic Drama",
@@ -5847,7 +6462,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SKY Showtime 2 HD",
@@ -5880,7 +6498,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dizi TV",
@@ -5913,7 +6534,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nicktoons Bulgaria",
@@ -5941,7 +6565,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nicktoons Bulgaria",
@@ -5969,7 +6596,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Sport HD",
@@ -5997,7 +6627,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Sport 2 HD",
@@ -6025,7 +6658,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 1 HD",
@@ -6053,7 +6689,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 2 HD",
@@ -6081,7 +6720,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 3 HD",
@@ -6109,7 +6751,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 3 HD",
@@ -6137,7 +6782,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX Sport 4 HD",
@@ -6165,7 +6813,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Love Nature HD",
@@ -6198,7 +6849,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TravelXP HD",
@@ -6226,7 +6880,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "The World",
@@ -6254,7 +6911,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Food Network",
@@ -6287,7 +6947,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Super Toons",
@@ -6315,7 +6978,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ТVSB",
@@ -6343,7 +7009,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bulgaria 24",
@@ -6371,7 +7040,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "H2",
@@ -6399,7 +7071,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO Bulgaria",
@@ -6432,7 +7107,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 2 Bulgaria",
@@ -6465,7 +7143,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 3 Bulgaria",
@@ -6498,7 +7179,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 4",
@@ -6526,7 +7210,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Auto Motor Sport",
@@ -6554,7 +7241,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Chasse et Pêche",
@@ -6582,7 +7272,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "7",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Film Mánia",
@@ -6610,7 +7303,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Brazzers TV",
@@ -6638,7 +7334,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Private TV",
@@ -6666,7 +7365,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVR Sport",
@@ -6694,7 +7396,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HGTV",
@@ -6722,7 +7427,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dizi TV",
@@ -6750,7 +7458,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DocuBox",
@@ -6778,7 +7489,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "JimJam Romania",
@@ -6806,7 +7520,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Erdély TV",
@@ -6834,7 +7551,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nickelodeon Hungary",
@@ -6867,7 +7587,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Paprika",
@@ -6895,7 +7618,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Explore",
@@ -6923,7 +7649,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "E! Entertainment TV",
@@ -6951,7 +7680,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Crime & Investigation Network",
@@ -6979,7 +7711,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTL KETTO",
@@ -7007,7 +7742,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "4! Story TV",
@@ -7035,7 +7773,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Speranta TV",
@@ -7063,7 +7804,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Traditional TV",
@@ -7091,7 +7835,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "15",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "7/8 TV",
@@ -7119,7 +7866,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Animal Planet",
@@ -7147,7 +7897,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 24 (in English)",
@@ -7175,7 +7928,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "24 Kitchen",
@@ -7203,7 +7959,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "History Channel Eastern Europe",
@@ -7231,7 +7990,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BBC Earth",
@@ -7259,7 +8021,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arena Action",
@@ -7287,7 +8052,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bulgaria On Air",
@@ -7315,7 +8083,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dorcel XXX HD",
@@ -7343,7 +8114,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tiankov Folk",
@@ -7371,7 +8145,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews Bulgaria",
@@ -7399,7 +8176,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "XYPlus",
@@ -7427,7 +8207,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX One",
@@ -7455,7 +8238,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bloomberg BG",
@@ -7483,7 +8269,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rodina TV",
@@ -7511,7 +8300,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "VIVACOM Arena HD",
@@ -7539,7 +8331,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pickbox HD",
@@ -7567,7 +8362,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat True Crime",
@@ -7595,7 +8393,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arena Comedy",
@@ -7623,7 +8424,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arena Life",
@@ -7651,7 +8455,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "The Voice Bulgaria",
@@ -7679,7 +8486,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fen TV HD",
@@ -7707,7 +8517,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Balkanika",
@@ -7735,7 +8548,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Planeta Folk",
@@ -7763,7 +8579,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Folklor TV",
@@ -7791,7 +8610,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fen Folk TV",
@@ -7819,7 +8641,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Magic TV (Bulgaria)",
@@ -7847,7 +8672,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoon Network Eastern Europe",
@@ -7880,7 +8708,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito Balkans",
@@ -7913,7 +8744,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Evrokom",
@@ -7941,7 +8775,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Skat TV",
@@ -7969,7 +8806,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Oone Bulgaria",
@@ -8002,7 +8842,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Peretz International",
@@ -8030,7 +8873,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BH TV",
@@ -8058,7 +8904,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SKY Showtime 1 HD",
@@ -8091,7 +8940,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Marquee TV HD",
@@ -8119,7 +8971,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Vivid TV",
@@ -8147,7 +9002,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio 1 Rock",
@@ -8175,7 +9033,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NRJ",
@@ -8203,7 +9064,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BG Radio",
@@ -8231,7 +9095,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Darik Radio",
@@ -8259,7 +9126,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tangra MegaRock",
@@ -8287,7 +9157,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Payner",
@@ -8315,7 +9188,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "radio Vitosha E",
@@ -8343,7 +9219,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "radio Vitosha W",
@@ -8371,7 +9250,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "radio Veselina E",
@@ -8399,7 +9281,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "radio Veselina W",
@@ -8427,7 +9312,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "radio Magic FM",
@@ -8455,7 +9343,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "The Voice",
@@ -8483,7 +9374,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "radio Veselina N",
@@ -8511,7 +9405,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "radio Veselina S",
@@ -8539,7 +9436,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -8561,7 +9461,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanali Voulis",
@@ -8589,7 +9492,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT 1",
@@ -8617,7 +9523,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT 2 Sport",
@@ -8645,7 +9554,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT 3",
@@ -8673,7 +9585,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT 1 HD",
@@ -8706,7 +9621,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT News",
@@ -8734,7 +9652,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ErtNews Radio",
@@ -8762,7 +9683,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kosmos",
@@ -8790,7 +9714,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Trito Maestro",
@@ -8818,7 +9745,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Deftero Paradosiaka",
@@ -8846,7 +9776,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Trito",
@@ -8874,7 +9807,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Deftero 103,7",
@@ -8902,7 +9838,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DefteroLaika",
@@ -8930,7 +9869,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Era Sport",
@@ -8958,7 +9900,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Voice Of Greece",
@@ -8986,7 +9931,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Zeppelin",
@@ -9014,7 +9962,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kosmos Jazz",
@@ -9042,7 +9993,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT2 SPORT HD",
@@ -9070,7 +10024,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT 3 HD",
@@ -9098,7 +10055,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT 1",
@@ -9126,7 +10086,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RIK Sat",
@@ -9154,7 +10117,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV5 Monde Europe",
@@ -9182,7 +10148,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT Cosmos",
@@ -9210,7 +10179,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ERT News",
@@ -9238,7 +10210,10 @@
       "modulation": "QPSK",
       "nid": "8492",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Channel HD Romania",
@@ -9266,7 +10241,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 1 HD",
@@ -9294,7 +10272,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Investigation Discovery HD",
@@ -9327,7 +10308,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Motorvision HD",
@@ -9355,7 +10339,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TLC HD Romania",
@@ -9383,7 +10370,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 2 HD Hungary",
@@ -9416,7 +10406,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 3 HD Romania",
@@ -9444,7 +10437,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena Stars HD",
@@ -9472,7 +10468,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "B1 TV HD",
@@ -9500,7 +10499,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemaraton HD",
@@ -9528,7 +10530,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 3 HD",
@@ -9556,7 +10561,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Trinitas HD",
@@ -9584,7 +10592,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU",
@@ -9606,7 +10617,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU CAM",
@@ -9628,7 +10642,10 @@
       "modulation": "8PSK",
       "nid": "167",
       "tid": "5228",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Crime & Investigation Network",
@@ -9656,7 +10673,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Da Vinci Learning",
@@ -9684,7 +10704,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Travel TV Bulgaria",
@@ -9712,7 +10735,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Travel Channel",
@@ -9740,7 +10766,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HGTV",
@@ -9773,7 +10802,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BG+",
@@ -9801,7 +10833,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat History",
@@ -9829,7 +10864,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Nature CEE",
@@ -9857,7 +10895,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinestar TV 1 HD Bulgaria",
@@ -9890,7 +10931,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CineStar Action and Thriller",
@@ -9923,7 +10967,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nova News",
@@ -9951,7 +10998,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 2",
@@ -9984,7 +11034,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nova Sport Bulgaria",
@@ -10012,7 +11065,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Explore",
@@ -10045,7 +11101,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TLC Bulgaria",
@@ -10078,7 +11137,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BTV Cinema",
@@ -10106,7 +11168,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "bTV Comedy",
@@ -10134,7 +11199,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Investigation Discovery Xtra",
@@ -10167,7 +11235,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Family",
@@ -10195,7 +11266,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Channel Bulgaria",
@@ -10228,7 +11302,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Life Bulgaria",
@@ -10256,7 +11333,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Crime Bulgaria",
@@ -10284,7 +11364,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "bTV Story",
@@ -10312,7 +11395,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "City TV",
@@ -10340,7 +11426,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Channel Bulgaria",
@@ -10373,7 +11462,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nick Jr Bulgaria",
@@ -10406,7 +11498,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Baby TV",
@@ -10434,7 +11529,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nickelodeon Bulgaria",
@@ -10467,7 +11565,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Junior Bulgaria",
@@ -10495,7 +11596,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNN International Europe",
@@ -10523,7 +11627,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 2",
@@ -10551,7 +11658,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Hustler TV",
@@ -10579,7 +11689,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DM Sat",
@@ -10607,7 +11720,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Private TV",
@@ -10635,7 +11751,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV1 Bulgaria",
@@ -10663,7 +11782,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nastoyashcheye Vremya",
@@ -10691,7 +11813,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kino Nova",
@@ -10719,7 +11844,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Channel Bulgaria",
@@ -10752,7 +11880,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema",
@@ -10780,7 +11911,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanal D HD Romania",
@@ -10808,7 +11942,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemax 2 HD",
@@ -10841,7 +11978,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemax HD Eastern Europe",
@@ -10874,7 +12014,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Happy Channel HD Romania",
@@ -10902,7 +12045,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 2 HD Hungary & Romania",
@@ -10935,7 +12081,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 3 HD Central Europe",
@@ -10968,7 +12117,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 2 HD",
@@ -10996,7 +12148,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 1 HD",
@@ -11024,7 +12179,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Acasá TV HD",
@@ -11052,7 +12210,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro Cinema HD",
@@ -11080,7 +12241,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVR Info HD",
@@ -11108,7 +12272,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 4 HD",
@@ -11136,7 +12303,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "1",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -11158,7 +12328,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Agro TV",
@@ -11186,7 +12359,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Junior Bulgaria",
@@ -11219,7 +12395,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 2 HD Bulgaria",
@@ -11252,7 +12431,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nova Sport HD Bulgaria",
@@ -11280,7 +12462,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EroXXX HD",
@@ -11308,7 +12493,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nostalgia Bulgaria",
@@ -11336,7 +12524,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AutoMotorSport HD",
@@ -11364,7 +12555,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "The World",
@@ -11392,7 +12586,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Travel TV Bulgaria",
@@ -11420,7 +12617,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SKY Showtime 1 HD",
@@ -11448,7 +12648,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "VTK",
@@ -11476,7 +12679,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HGTV HD",
@@ -11509,7 +12715,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Ring.BG HD",
@@ -11537,7 +12746,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Kino",
@@ -11565,7 +12777,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National Geographic Bulgaria",
@@ -11598,7 +12813,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NatGeo Wild Central Europe",
@@ -11631,7 +12849,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "24 Kitchen",
@@ -11659,7 +12880,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC Balkan",
@@ -11687,7 +12911,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Sport 3 HD",
@@ -11715,7 +12942,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Soul and Pepper HD",
@@ -11743,7 +12973,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bloomberg Europe",
@@ -11771,7 +13004,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dizi TV",
@@ -11799,7 +13035,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "City TV",
@@ -11827,7 +13066,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SKY Showtime 2 HD",
@@ -11855,7 +13097,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNN International Europe",
@@ -11883,7 +13128,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Brazzers TV",
@@ -11911,7 +13159,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Erox",
@@ -11939,7 +13190,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews English",
@@ -11967,7 +13221,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Lolly Kids HD",
@@ -11995,7 +13252,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TgCom24",
@@ -12023,7 +13283,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mezzo",
@@ -12051,7 +13314,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Magic TV",
@@ -12079,7 +13345,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Explore",
@@ -12112,7 +13381,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MAX One",
@@ -12140,7 +13412,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Nature CEE",
@@ -12168,7 +13443,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Wness TV",
@@ -12201,7 +13479,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Baby TV",
@@ -12229,7 +13510,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BBC News",
@@ -12257,7 +13541,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito Balkans",
@@ -12285,7 +13572,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Skat TV",
@@ -12313,7 +13603,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Jim Jam",
@@ -12341,7 +13634,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nick Jr Bulgaria",
@@ -12374,7 +13670,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MovieStar HD",
@@ -12402,7 +13701,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO HD Bulgaria",
@@ -12435,7 +13737,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rodina TV",
@@ -12463,7 +13768,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 3 HD Central Europe",
@@ -12496,7 +13804,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DSTV",
@@ -12524,7 +13835,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Folklor TV",
@@ -12552,7 +13866,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BG+",
@@ -12580,7 +13897,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Max Movies",
@@ -12608,7 +13928,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV1 Bulgaria",
@@ -12636,7 +13959,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OTA A1 BG DTS3495",
@@ -12658,7 +13984,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OTA A1 BG",
@@ -12680,7 +14009,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "2833",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nat Geo Wild Romania HD",
@@ -12708,7 +14040,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Travel Mix",
@@ -12736,7 +14071,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVR 1 HD",
@@ -12764,7 +14102,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro TV HD",
@@ -12797,7 +14138,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1 HD",
@@ -12825,7 +14169,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO HD Romania",
@@ -12863,7 +14210,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Orange Info (Romania)",
@@ -12891,7 +14241,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Moldova TV",
@@ -12919,7 +14272,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CineWow",
@@ -12947,7 +14303,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Alfa Omega TV",
@@ -12975,7 +14334,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Inedit TV",
@@ -13003,7 +14365,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV 2 Hungary",
@@ -13031,7 +14396,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTL Harom",
@@ -13064,7 +14432,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro Arena HD",
@@ -13092,7 +14463,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima TV HD",
@@ -13120,7 +14494,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SWDL TX2 HD",
@@ -13142,7 +14519,10 @@
       "modulation": "8PSK",
       "nid": "28",
       "tid": "2",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Alpha TV HD",
@@ -13170,7 +14550,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "101",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Skai HD",
@@ -13198,7 +14581,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "101",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ANT 1 HD",
@@ -13226,7 +14612,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "101",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Open Beyond HD",
@@ -13254,7 +14643,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "101",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Channel HD",
@@ -13282,7 +14674,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "103",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mega HD",
@@ -13310,7 +14705,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "103",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Macedonia TV HD",
@@ -13338,7 +14736,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "103",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Hustler TV",
@@ -13366,7 +14767,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nicktoons Romania",
@@ -13394,7 +14798,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kiss TV",
@@ -13422,7 +14829,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemax 2 Europe",
@@ -13450,7 +14860,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN White Hungary",
@@ -13483,7 +14896,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN Black Hungary",
@@ -13516,7 +14932,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 2 HD Hungary & Romania",
@@ -13544,7 +14963,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National Geographic Romania",
@@ -13572,7 +14994,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 3",
@@ -13600,7 +15025,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport Extra",
@@ -13628,7 +15056,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Hits Romania",
@@ -13656,7 +15087,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Magic TV (Bulgaria)",
@@ -13684,7 +15118,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Warner TV Romania",
@@ -13712,7 +15149,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoon Network Romania",
@@ -13750,7 +15190,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Penthouse Gold",
@@ -13778,7 +15221,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tra La La",
@@ -13806,7 +15252,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Film Cafe",
@@ -13834,7 +15283,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC",
@@ -13862,7 +15314,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVR Cultural",
@@ -13890,7 +15345,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV-AS",
@@ -13918,7 +15376,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "16",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MiniMax Romania",
@@ -13946,7 +15407,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Emotion Romania",
@@ -13974,7 +15438,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "A7 TV",
@@ -14002,7 +15469,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Agro TV",
@@ -14030,7 +15500,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 4",
@@ -14058,7 +15531,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NatGeo Wild Central Europe",
@@ -14086,7 +15562,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews Romania",
@@ -14114,7 +15593,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ One Romania",
@@ -14142,7 +15624,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN Spin Romania",
@@ -14170,7 +15655,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "History",
@@ -14198,7 +15686,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Metropola TV",
@@ -14226,7 +15717,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport Romania",
@@ -14259,7 +15753,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Kino",
@@ -14287,7 +15784,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat History",
@@ -14315,7 +15815,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Nature CEE",
@@ -14343,7 +15846,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Comedy Central Bulgaria & Romania",
@@ -14371,7 +15877,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Digi 24",
@@ -14399,7 +15908,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Investigation Discovery Hungary",
@@ -14432,7 +15944,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tra La La Desene Animate",
@@ -14460,7 +15975,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "18",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Alpha TV Greece",
@@ -14488,7 +16006,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "105",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Skai",
@@ -14516,7 +16037,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "105",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ANT 1",
@@ -14544,7 +16068,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "105",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Open Beyond TV",
@@ -14572,7 +16099,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "105",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Star Channel",
@@ -14600,7 +16130,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "105",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mega Channel",
@@ -14628,7 +16161,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "105",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Macedonia TV",
@@ -14656,7 +16192,10 @@
       "modulation": "8PSK",
       "nid": "8492",
       "tid": "105",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 1 HD",
@@ -14684,7 +16223,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BNT 1 HD",
@@ -14712,7 +16254,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EKids",
@@ -14740,7 +16285,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Ring BG HD",
@@ -14768,7 +16316,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "bTV Action HD",
@@ -14796,7 +16347,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Emotion Bulgaria",
@@ -14824,7 +16378,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National Geographic HD East Europe",
@@ -14857,7 +16414,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diema Sport 3 HD",
@@ -14885,7 +16445,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Planeta HD",
@@ -14913,7 +16476,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BTV HD Bulgaria",
@@ -14941,7 +16507,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NatGeo Wild HD",
@@ -14974,7 +16543,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nova HD Bulgaria",
@@ -15002,7 +16574,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Lovno Ribarski club",
@@ -15030,7 +16605,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemax East Europe",
@@ -15063,7 +16641,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinemax 2 Europe",
@@ -15096,7 +16677,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viasat Kino",
@@ -15124,7 +16708,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AMC Balkan",
@@ -15152,7 +16739,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Filmbox+ Love & Crime Bulgaria",
@@ -15180,7 +16770,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Movie Star",
@@ -15208,7 +16801,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nostalgia Bulgaria",
@@ -15236,7 +16832,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "5",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -15258,7 +16857,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Happy Channel Romania",
@@ -15286,7 +16888,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 1",
@@ -15314,7 +16919,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVR 1",
@@ -15342,7 +16950,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVR 2",
@@ -15370,7 +16981,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Diva Universal Romania",
@@ -15398,7 +17012,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Party Mix",
@@ -15426,7 +17043,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito Central & East Europe",
@@ -15464,7 +17084,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanal D Romania",
@@ -15492,7 +17115,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 2 Romania & Hungary",
@@ -15520,7 +17146,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Epic Drama",
@@ -15548,7 +17177,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "M1 - Magyar TV",
@@ -15576,7 +17208,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Magyar TV 2",
@@ -15604,7 +17239,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Chefi.ro",
@@ -15632,7 +17270,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cool TV",
@@ -15660,7 +17301,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nostalgia TV Romania",
@@ -15688,7 +17332,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CineMax",
@@ -15716,7 +17363,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EMI TV",
@@ -15744,7 +17394,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Itsy Bitsy",
@@ -15772,7 +17425,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "13",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1",
@@ -15800,7 +17456,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena Stars",
@@ -15828,7 +17487,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 3 Romania",
@@ -15856,7 +17518,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AXN Romania",
@@ -15889,7 +17554,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "B1 TV",
@@ -15917,7 +17585,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Favorit TV",
@@ -15945,7 +17616,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Junior Romania",
@@ -15973,7 +17647,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National TV",
@@ -16001,7 +17678,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima TV",
@@ -16029,7 +17709,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Realitatea Plus",
@@ -16057,7 +17740,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Disney Channel Romania, Bulgaria & Ukraine",
@@ -16085,7 +17771,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima Sport 2",
@@ -16113,7 +17802,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Duna TV",
@@ -16141,7 +17833,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Film +",
@@ -16169,7 +17864,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTL Klub",
@@ -16197,7 +17895,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Orizont TV",
@@ -16225,7 +17926,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Acasá TV",
@@ -16253,7 +17957,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro TV",
@@ -16281,7 +17988,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nick Jr Romania",
@@ -16309,7 +18019,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SWDL TX14 HD",
@@ -16331,7 +18044,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "14",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -16353,7 +18069,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro TV",
@@ -16381,7 +18100,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Acasá TV",
@@ -16409,7 +18131,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro TV International",
@@ -16437,7 +18162,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro Cinema",
@@ -16465,7 +18193,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro Arena",
@@ -16493,7 +18224,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Acasá Gold HD",
@@ -16521,7 +18255,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TEST HD 2",
@@ -16549,7 +18286,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TEST HD",
@@ -16577,7 +18317,10 @@
       "modulation": "8PSK",
       "nid": "5",
       "tid": "5212",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 1",
@@ -16605,7 +18348,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena Stars",
@@ -16633,7 +18379,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena 3 Romania",
@@ -16661,7 +18410,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Happy Channel Romania",
@@ -16689,7 +18441,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Zu TV",
@@ -16717,7 +18472,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena International",
@@ -16745,7 +18503,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antena HD",
@@ -16773,7 +18534,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Zu",
@@ -16801,7 +18565,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Romantic",
@@ -16829,7 +18596,10 @@
       "modulation": "8PSK",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro Cinema",
@@ -16857,7 +18627,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pro Arena",
@@ -16885,7 +18658,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Channel Romania",
@@ -16918,7 +18694,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Etno TV",
@@ -16946,7 +18725,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Taraf TV",
@@ -16974,7 +18756,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Trinitas TV",
@@ -17002,7 +18787,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV5 Monde Europe",
@@ -17030,7 +18818,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TVR 3",
@@ -17058,7 +18849,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Romania TV",
@@ -17086,7 +18880,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "N 24 Plus",
@@ -17114,7 +18911,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Acasá Gold HD",
@@ -17142,7 +18942,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "U TV Romania",
@@ -17170,7 +18973,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bollywood Classic TV",
@@ -17198,7 +19004,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Prima News",
@@ -17226,7 +19035,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "1 Music Channel",
@@ -17254,7 +19066,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO 3 Romania",
@@ -17282,7 +19097,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HBO Romania",
@@ -17310,7 +19128,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanal D2",
@@ -17338,7 +19159,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SWDL TX17 HD",
@@ -17360,7 +19184,10 @@
       "modulation": "QPSK",
       "nid": "28",
       "tid": "17",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanal D HD Romania",
@@ -17388,7 +19215,10 @@
       "modulation": "8PSK",
       "nid": "1337",
       "tid": "6",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
