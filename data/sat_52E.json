@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-09-25T12:53:02.985618",
-  "count": 329,
+  "updated_at": "2026-09-25T16:00:02.752731",
+  "count": 330,
   "channels": [
     {
       "channel_name": "Nahade Azadi",
@@ -2149,6 +2149,37 @@
       ],
       "pmt": "818",
       "pcr": "1603",
+      "txt": "",
+      "frequency": "10845.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "9/1",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "115",
+      "tid": "524",
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Taina TV",
+      "country": "Russia",
+      "category": "Various",
+      "bouquet": "Älem TV",
+      "encryption": "Conax",
+      "sid": "819",
+      "vpid": "3181",
+      "audio_tracks": [
+        {
+          "pid": "3182",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "819",
+      "pcr": "3181",
       "txt": "",
       "frequency": "10845.70",
       "polarization": "H",
