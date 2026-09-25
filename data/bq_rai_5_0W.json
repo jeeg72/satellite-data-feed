@@ -3,7 +3,7 @@
   "label": "rai — 5.0W",
   "bouquet_id": "rai",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 160,
   "channels": [
     {
@@ -26,7 +26,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -69,7 +72,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -107,7 +113,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -135,7 +144,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -168,7 +180,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -201,7 +216,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -234,7 +252,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -267,7 +288,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -300,7 +324,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -333,7 +360,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -366,7 +396,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -394,7 +427,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -437,7 +473,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -475,7 +514,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -503,7 +545,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -536,7 +581,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -569,7 +617,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -602,7 +653,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -635,7 +689,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -668,7 +725,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -701,7 +761,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -734,7 +797,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -762,7 +828,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -800,7 +869,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -828,7 +900,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -861,7 +936,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -904,7 +982,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -942,7 +1023,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -970,7 +1054,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -1003,7 +1090,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -1036,7 +1126,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -1069,7 +1162,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -1102,7 +1198,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -1135,7 +1234,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -1168,7 +1270,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -1201,7 +1306,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -1229,7 +1337,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Sport HD",
@@ -1262,7 +1373,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Movie HD",
@@ -1300,7 +1414,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Gulp",
@@ -1333,7 +1450,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Yoyo",
@@ -1366,7 +1486,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Premium",
@@ -1404,7 +1527,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 5",
@@ -1442,7 +1568,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 4",
@@ -1480,7 +1609,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai GR Parlamento",
@@ -1508,7 +1640,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Isoradio",
@@ -1536,7 +1671,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 3 Classica",
@@ -1564,7 +1702,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Kids",
@@ -1592,7 +1733,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Live Napoli",
@@ -1620,7 +1764,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Techete'",
@@ -1648,7 +1795,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Tutta Italiana",
@@ -1676,7 +1826,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 1 Sport",
@@ -1704,7 +1857,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "No Name Radio powered by Rai",
@@ -1732,7 +1888,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 4 HD",
@@ -1760,7 +1919,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Scuola HD",
@@ -1788,7 +1950,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Storia HD",
@@ -1816,7 +1981,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Premium HD",
@@ -1844,7 +2012,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 2",
@@ -1872,7 +2043,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 3",
@@ -1900,7 +2074,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 1",
@@ -1928,7 +2105,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OTA-A",
@@ -1950,7 +2130,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -1993,7 +2176,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -2031,7 +2217,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -2059,7 +2248,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -2092,7 +2284,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -2125,7 +2320,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -2158,7 +2356,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -2191,7 +2392,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio HD",
@@ -2224,7 +2428,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -2257,7 +2464,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -2290,7 +2500,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -2318,7 +2531,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -2340,7 +2556,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -2383,7 +2602,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -2421,7 +2643,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -2449,7 +2674,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -2482,7 +2710,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR FVG",
@@ -2515,7 +2746,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 Bis",
@@ -2548,7 +2782,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -2581,7 +2818,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR FVG",
@@ -2614,7 +2854,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 Bis",
@@ -2647,7 +2890,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -2680,7 +2926,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -2708,7 +2957,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio MF1 Roma",
@@ -2736,7 +2988,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 AO",
@@ -2764,7 +3019,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 AN",
@@ -2792,7 +3050,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 BA",
@@ -2820,7 +3081,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 BO",
@@ -2848,7 +3112,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 BZ",
@@ -2876,7 +3143,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 CA",
@@ -2904,7 +3174,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 CB",
@@ -2932,7 +3205,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 CS",
@@ -2960,7 +3236,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 FI",
@@ -2988,7 +3267,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 GE",
@@ -3016,7 +3298,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 MI",
@@ -3044,7 +3329,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 NA",
@@ -3072,7 +3360,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PA",
@@ -3100,7 +3391,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PE",
@@ -3128,7 +3422,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PG",
@@ -3156,7 +3453,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PZ",
@@ -3184,7 +3484,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 TN",
@@ -3212,7 +3515,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 TO",
@@ -3240,7 +3546,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 TS",
@@ -3268,7 +3577,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 VE",
@@ -3296,7 +3608,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 SDT",
@@ -3324,7 +3639,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 SLV",
@@ -3352,7 +3670,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 1",
@@ -3380,7 +3701,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 3",
@@ -3408,7 +3732,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio GR Parlamento",
@@ -3436,7 +3763,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 2",
@@ -3464,7 +3794,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Classica",
@@ -3492,7 +3825,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Isoradio",
@@ -3520,7 +3856,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio2 BZ",
@@ -3548,7 +3887,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -3591,7 +3933,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -3629,7 +3974,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -3657,7 +4005,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -3690,7 +4041,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -3723,7 +4077,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia Romagna",
@@ -3756,7 +4113,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -3789,7 +4149,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -3822,7 +4185,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia-Romagna HD",
@@ -3855,7 +4221,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -3888,7 +4257,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -3916,7 +4288,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -3959,7 +4334,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -3997,7 +4375,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -4025,7 +4406,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -4058,7 +4442,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo HD",
@@ -4091,7 +4478,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -4124,7 +4514,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -4157,7 +4550,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo HD",
@@ -4190,7 +4586,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -4223,7 +4622,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -4256,7 +4658,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -4284,7 +4689,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -4327,7 +4735,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -4365,7 +4776,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -4393,7 +4807,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -4426,7 +4843,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -4459,7 +4879,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -4492,7 +4915,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -4525,7 +4951,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -4558,7 +4987,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -4591,7 +5023,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -4624,7 +5059,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -4652,7 +5090,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -4674,7 +5115,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -4717,7 +5161,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -4755,7 +5202,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -4783,7 +5233,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -4816,7 +5269,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -4849,7 +5305,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -4882,7 +5341,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -4915,7 +5377,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -4948,7 +5413,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -4981,7 +5449,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -5014,7 +5485,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -5042,7 +5516,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -5075,7 +5552,10 @@
       "modulation": "8PSKStream 1",
       "nid": "318",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
