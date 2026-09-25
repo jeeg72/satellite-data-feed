@@ -3,7 +3,7 @@
   "label": "tivusat — 13.0E",
   "bouquet_id": "tivusat",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 68,
   "channels": [
     {
@@ -32,7 +32,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12100",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Super!",
@@ -65,7 +68,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12100",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai YoYo HD",
@@ -93,7 +99,10 @@
       "modulation": "QPSK",
       "nid": "318",
       "tid": "12400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 2 Visual",
@@ -121,7 +130,10 @@
       "modulation": "QPSK",
       "nid": "318",
       "tid": "12400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Premium HD",
@@ -159,7 +171,10 @@
       "modulation": "QPSK",
       "nid": "318",
       "tid": "12400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Sport HD",
@@ -197,7 +212,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 5 HD",
@@ -235,7 +253,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -263,7 +284,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -291,7 +315,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -319,7 +346,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -347,7 +377,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -375,7 +408,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -403,7 +439,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -431,7 +470,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -459,7 +501,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Piemonte",
@@ -487,7 +532,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -515,7 +563,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia Romagna",
@@ -543,7 +594,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -571,7 +625,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Südtirol",
@@ -599,7 +656,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -627,7 +687,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -655,7 +718,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -683,7 +749,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -711,7 +780,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -739,7 +811,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Friuli Venezia Giulia",
@@ -767,7 +842,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Furlanija Julijska Krajina",
@@ -795,7 +873,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Trentino Alto Adige Trento",
@@ -823,7 +904,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Trentino Alto Adige Bolzano",
@@ -851,7 +935,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -879,7 +966,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12500",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Real Time HD Italia",
@@ -912,7 +1002,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "300",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DMAX HD Italia",
@@ -945,7 +1038,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "300",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Food Network HD Italy",
@@ -978,7 +1074,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "300",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Channel HD Italy",
@@ -1011,7 +1110,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "300",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Italy HD",
@@ -1044,7 +1146,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "300",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -1066,7 +1171,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "1000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Turbo Italy",
@@ -1099,7 +1207,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "1000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Giallo HD",
@@ -1132,7 +1243,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "1000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nove HD",
@@ -1165,7 +1279,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "1000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "HGTV Italy HD",
@@ -1198,7 +1315,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "1000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cine34",
@@ -1226,7 +1346,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Virgin Radio",
@@ -1254,7 +1377,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Monte Carlo",
@@ -1282,7 +1408,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "20 Mediaset HD",
@@ -1315,7 +1444,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 1 HD",
@@ -1348,7 +1480,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale 5 HD",
@@ -1381,7 +1516,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rete 4 HD",
@@ -1414,7 +1552,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iris",
@@ -1447,7 +1588,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Boing",
@@ -1475,7 +1619,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La5",
@@ -1508,7 +1655,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Extra",
@@ -1536,7 +1686,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Italia Due",
@@ -1569,7 +1722,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TOPcrime",
@@ -1602,7 +1758,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito Italy",
@@ -1630,7 +1789,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Focus",
@@ -1663,7 +1825,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "27 Twentyseven HD",
@@ -1696,7 +1861,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -1734,7 +1902,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "5200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -1772,7 +1943,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "5200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -1805,7 +1979,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "5200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 4 HD",
@@ -1843,7 +2020,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "5200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Movie HD",
@@ -1881,7 +2061,10 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "5200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La7 Cinema",
@@ -1909,7 +2092,10 @@
       "modulation": "8PSK",
       "nid": "190",
       "tid": "6000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La 7 HD",
@@ -1937,7 +2123,10 @@
       "modulation": "8PSK",
       "nid": "190",
       "tid": "6000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV 2000",
@@ -1965,7 +2154,10 @@
       "modulation": "8PSK",
       "nid": "190",
       "tid": "6000",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cielo",
@@ -1998,7 +2190,10 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "cielo",
@@ -2031,7 +2226,10 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV8 HD (Italy)",
@@ -2064,7 +2262,10 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV8 HD",
@@ -2097,7 +2298,10 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
