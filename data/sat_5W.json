@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "5W",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 569,
   "channels": [
     {
@@ -31,7 +31,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Aquitaine",
@@ -69,7 +72,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Auvergne",
@@ -107,7 +113,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Alpes",
@@ -145,7 +154,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Limousin",
@@ -183,7 +195,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Rhone-Alpes",
@@ -221,7 +236,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Provence-Alpes",
@@ -259,7 +277,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Languedoc Roussillon",
@@ -297,7 +318,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Bretagne",
@@ -335,7 +359,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20600",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ETB 1",
@@ -363,7 +390,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ETB 3",
@@ -391,7 +421,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Picardie",
@@ -429,7 +462,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Nord Pas-de-Calais",
@@ -467,7 +503,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Lorraine",
@@ -505,7 +544,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Nice",
@@ -543,7 +585,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Champagne-Ardennes",
@@ -581,7 +626,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Alsace",
@@ -619,7 +667,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Midi-Pyrénées",
@@ -657,7 +708,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Corse Via Stella",
@@ -690,7 +744,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20500",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TF 1",
@@ -728,7 +785,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "M6 HD",
@@ -766,7 +826,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arte HD",
@@ -809,7 +872,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LCI HD",
@@ -837,7 +903,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 5 HD",
@@ -875,7 +944,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "W9 HD",
@@ -913,7 +985,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "6ter",
@@ -951,7 +1026,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TMC HD",
@@ -989,7 +1067,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TFX",
@@ -1022,7 +1103,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LCP HD",
@@ -1050,7 +1134,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Via Vosges",
@@ -1078,7 +1165,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "KTO",
@@ -1106,7 +1196,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Nouvelle Aquitaine",
@@ -1134,7 +1227,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20400",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -1156,7 +1252,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NRJ IDF",
@@ -1184,7 +1283,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NOSTALGIE IDF",
@@ -1212,7 +1314,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DATA NRJGROUP",
@@ -1234,7 +1339,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DATA LMN",
@@ -1256,7 +1364,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DATA RDS TDF",
@@ -1278,7 +1389,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-RTL",
@@ -1300,7 +1414,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-EUROPE1",
@@ -1322,7 +1439,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-RFM",
@@ -1344,7 +1464,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-EUROPE2",
@@ -1366,7 +1489,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NRJ",
@@ -1394,7 +1520,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CHERIE FM",
@@ -1422,7 +1551,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RIRE ET CHANSONS",
@@ -1450,7 +1582,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NOSTALGIE",
@@ -1478,7 +1613,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CANAL EVENT",
@@ -1506,7 +1644,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SKYROCK-SAT",
@@ -1534,7 +1675,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DATA NRJGROUP",
@@ -1556,7 +1700,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-RIRE ET CHANSONS",
@@ -1578,7 +1725,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-NOSTALGIE",
@@ -1600,7 +1750,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAB_M1_M2",
@@ -1622,7 +1775,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DATA LMN",
@@ -1644,7 +1800,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DATA RDS TDF",
@@ -1666,7 +1825,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-RTL2",
@@ -1688,7 +1850,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MPX-FUN",
@@ -1710,7 +1875,10 @@
       "modulation": "QPSK",
       "nid": "8442",
       "tid": "3",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ALOUETTE",
@@ -1738,7 +1906,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ALOUETTE - SECOURS",
@@ -1766,7 +1937,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TF1 Séries Films",
@@ -1804,7 +1978,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "L´Equipe 21",
@@ -1842,7 +2019,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RMC Story",
@@ -1880,7 +2060,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RMC Découverte",
@@ -1918,7 +2101,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RMC Life",
@@ -1956,7 +2142,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Novo 19",
@@ -1994,7 +2183,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNews HD",
@@ -2022,7 +2214,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BFM TV HD",
@@ -2050,7 +2245,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "T18",
@@ -2078,7 +2276,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CStar HD",
@@ -2111,7 +2312,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Gulli HD",
@@ -2144,7 +2348,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CANAL SAV",
@@ -2166,7 +2373,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI PARIS ILE-DE-FRANCE",
@@ -2194,7 +2404,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI ALSACE",
@@ -2222,7 +2435,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI ARMORIQUE",
@@ -2250,7 +2466,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI AUXERRE",
@@ -2278,7 +2497,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI AZUR",
@@ -2306,7 +2528,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI NORMANDIE CAEN",
@@ -2334,7 +2559,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI BEARN BIGORRE",
@@ -2362,7 +2590,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI BELFORT-MONTBELIARD",
@@ -2390,7 +2621,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI BERRY",
@@ -2418,7 +2652,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI BESANCON",
@@ -2446,7 +2683,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI BOURGOGNE",
@@ -2474,7 +2714,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI BREIZH IZEL",
@@ -2502,7 +2745,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI CHAMPAGNE-ARDENNE",
@@ -2530,7 +2776,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI COTENTIN",
@@ -2558,7 +2807,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI CREUSE",
@@ -2586,7 +2838,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI DROME ARDECHE",
@@ -2614,7 +2869,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI RCFM",
@@ -2642,7 +2900,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI GARD LOZERE",
@@ -2670,7 +2931,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI GASCOGNE",
@@ -2698,7 +2962,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI GIRONDE",
@@ -2726,7 +2993,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI NORMANDIE ROUEN",
@@ -2754,7 +3024,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI HERAULT",
@@ -2782,7 +3055,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI ISERE",
@@ -2810,7 +3086,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI LA ROCHELLE",
@@ -2838,7 +3117,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI LIMOUSIN",
@@ -2866,7 +3148,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI LOIRE OCEAN",
@@ -2894,7 +3179,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI LORRAINE NORD",
@@ -2922,7 +3210,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI MAINE",
@@ -2950,7 +3241,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI MAYENNE",
@@ -2978,7 +3272,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI NORD",
@@ -3006,7 +3303,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI ORLEANS",
@@ -3034,7 +3334,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI PAYS BASQUE",
@@ -3062,7 +3365,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI PAYS D'AUVERGNE",
@@ -3090,7 +3396,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI PAYS DE SAVOIE",
@@ -3118,7 +3427,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI PERIGORD",
@@ -3146,7 +3458,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI PICARDIE",
@@ -3174,7 +3489,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI POITOU",
@@ -3202,7 +3520,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI PROVENCE",
@@ -3230,7 +3551,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI ROUSSILLON",
@@ -3258,7 +3582,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI SAINT-ETIENNE LOIRE",
@@ -3286,7 +3613,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI SUD LORRAINE",
@@ -3314,7 +3644,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI OCCITANIE",
@@ -3342,7 +3675,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI TOURAINE",
@@ -3370,7 +3706,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI VAUCLUSE",
@@ -3398,7 +3737,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FRANCE INTER",
@@ -3426,7 +3768,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FRANCE CULTURE",
@@ -3454,7 +3799,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FRANCE MUSIQUE",
@@ -3482,7 +3830,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FIP",
@@ -3510,7 +3861,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FRANCE INFO",
@@ -3538,7 +3892,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NOSTALGIE",
@@ -3566,7 +3923,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NRJ",
@@ -3594,7 +3954,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RIRE ET CHANSONS",
@@ -3622,7 +3985,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CHERIE FM",
@@ -3650,7 +4016,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EUROPE 1",
@@ -3678,7 +4047,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "EUROPE 2",
@@ -3706,7 +4078,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RFM",
@@ -3734,7 +4109,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RADIO AFRICA N01",
@@ -3762,7 +4140,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NOVA",
@@ -3790,7 +4171,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20100",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Paris IDF",
@@ -3818,7 +4202,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Alsace",
@@ -3846,7 +4233,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Armorique",
@@ -3874,7 +4264,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Auxerre",
@@ -3902,7 +4295,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Azur",
@@ -3930,7 +4326,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Normandie Caen",
@@ -3958,7 +4357,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Bearn",
@@ -3986,7 +4388,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Belfort Montbeliard",
@@ -4014,7 +4419,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Berry",
@@ -4042,7 +4450,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Besancon",
@@ -4070,7 +4481,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Bourgogne",
@@ -4098,7 +4512,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Breizh Izel",
@@ -4126,7 +4543,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Champagne",
@@ -4154,7 +4574,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI  Cotentin",
@@ -4182,7 +4605,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Creuse",
@@ -4210,7 +4636,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Drome Ardeche",
@@ -4238,7 +4667,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI RCFM",
@@ -4266,7 +4698,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Gard Lozere",
@@ -4294,7 +4729,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Gascogne",
@@ -4322,7 +4760,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Gironde",
@@ -4350,7 +4791,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Normandie Rouen",
@@ -4378,7 +4822,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Herault",
@@ -4406,7 +4853,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Isere",
@@ -4434,7 +4884,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI La Rochelle",
@@ -4462,7 +4915,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Limousin",
@@ -4490,7 +4946,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Loire Ocean",
@@ -4518,7 +4977,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Lorraine Nord",
@@ -4546,7 +5008,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Maine",
@@ -4574,7 +5039,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Mayenne",
@@ -4602,7 +5070,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Natio",
@@ -4630,7 +5101,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Nord",
@@ -4658,7 +5132,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Orleans",
@@ -4686,7 +5163,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Pays Basque",
@@ -4714,7 +5194,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Pays d Auvergne",
@@ -4742,7 +5225,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Pays de Savoie",
@@ -4770,7 +5256,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Perigord",
@@ -4798,7 +5287,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Picardie",
@@ -4826,7 +5318,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Poitou",
@@ -4854,7 +5349,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Provence",
@@ -4882,7 +5380,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Roussillon",
@@ -4910,7 +5411,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Saint Etienne",
@@ -4938,7 +5442,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Sud Lorraine",
@@ -4966,7 +5473,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Occitanie",
@@ -4994,7 +5504,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Touraine",
@@ -5022,7 +5535,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICI Vaucluse",
@@ -5050,7 +5566,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF",
@@ -5078,7 +5597,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Pays de l'Ain",
@@ -5106,7 +5628,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Hautes-Alpes",
@@ -5134,7 +5659,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Orne",
@@ -5162,7 +5690,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF en Berry",
@@ -5190,7 +5721,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF en Bourgogne",
@@ -5218,7 +5752,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Franche-Comté",
@@ -5246,7 +5783,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Drôme-Ardèche",
@@ -5274,7 +5814,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Bordeaux",
@@ -5302,7 +5845,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Alpha Rennes",
@@ -5330,7 +5876,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Touraine",
@@ -5358,7 +5907,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Isère",
@@ -5386,7 +5938,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Loir et Cher",
@@ -5414,7 +5969,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Haute-Loire",
@@ -5442,7 +6000,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Anjou",
@@ -5470,7 +6031,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Reims-Ardennes",
@@ -5498,7 +6062,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Coeur de Champagne",
@@ -5526,7 +6093,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Lyon",
@@ -5554,7 +6124,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Savoie",
@@ -5582,7 +6155,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Haute-Savoie",
@@ -5610,7 +6186,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Haute-Normandie",
@@ -5638,7 +6217,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Vaucluse",
@@ -5666,7 +6248,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Vendée",
@@ -5694,7 +6279,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Poitou",
@@ -5722,7 +6310,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Limousin",
@@ -5750,7 +6341,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RCF Jerico-Moselle",
@@ -5778,7 +6372,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RF Contrib",
@@ -5806,7 +6403,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Esperance",
@@ -5834,7 +6434,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "GENETIKO COMMUNICATION",
@@ -5892,7 +6495,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tiers-RDS",
@@ -5914,7 +6520,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RDS TDF",
@@ -5936,7 +6545,10 @@
       "modulation": "QPSK",
       "nid": "1375",
       "tid": "13010",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -5958,7 +6570,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sec TDF1",
@@ -5986,7 +6601,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sec TDF2",
@@ -6014,7 +6632,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sec TDF3",
@@ -6042,7 +6663,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Classique",
@@ -6070,7 +6694,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RMC",
@@ -6098,7 +6725,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BFM",
@@ -6126,7 +6756,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France Inter",
@@ -6154,7 +6787,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France Culture",
@@ -6182,7 +6818,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France Musique",
@@ -6210,7 +6849,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FIP",
@@ -6238,7 +6880,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France Info",
@@ -6266,7 +6911,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MFM",
@@ -6294,7 +6942,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sud Radio",
@@ -6322,7 +6973,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TDF-RDS1",
@@ -6344,7 +6998,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TDF-RDS2",
@@ -6366,7 +7023,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tiers-RDS",
@@ -6388,7 +7048,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TWC-SIRC",
@@ -6410,7 +7073,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Oui FM",
@@ -6432,7 +7098,10 @@
       "modulation": "QPSK",
       "nid": "144",
       "tid": "10001",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NOSTALGIE",
@@ -6460,7 +7129,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1000",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NRJ",
@@ -6488,7 +7160,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1000",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTL 9",
@@ -6521,7 +7196,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mangas",
@@ -6554,7 +7232,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AB 1",
@@ -6587,7 +7268,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Automoto La Chaine",
@@ -6615,7 +7299,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Padel Time TV",
@@ -6643,7 +7330,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Ushuaia TV",
@@ -6671,7 +7361,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Trek",
@@ -6699,7 +7392,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Animaux",
@@ -6732,7 +7428,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Science et Vie",
@@ -6760,7 +7459,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Toute l´Histoire",
@@ -6788,7 +7490,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Chasse et Pêche",
@@ -6816,7 +7521,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Action",
@@ -6849,7 +7557,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV Breizh",
@@ -6882,7 +7593,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Crime District",
@@ -6915,7 +7629,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "XXL",
@@ -6943,7 +7660,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dorcel TV",
@@ -6971,7 +7691,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Téva",
@@ -7004,7 +7727,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Equidia Live",
@@ -7032,7 +7758,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20200",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -7054,7 +7783,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 2 HD",
@@ -7092,7 +7824,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Sat HD",
@@ -7125,7 +7860,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 4 HD",
@@ -7163,7 +7901,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "franceinfo:",
@@ -7191,7 +7932,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Fransat Info HD",
@@ -7219,7 +7963,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU TWISE USB",
@@ -7241,7 +7988,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU DSR3031",
@@ -7263,7 +8013,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU SIRIUS 4K",
@@ -7285,7 +8038,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU SIRIUS 9852",
@@ -7307,7 +8063,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU ALDEN",
@@ -7329,7 +8088,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU S9640",
@@ -7351,7 +8113,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU Neo13",
@@ -7373,7 +8138,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU Neotion Pro",
@@ -7395,7 +8163,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU S3340",
@@ -7417,7 +8188,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SSU SIRIUS III",
@@ -7439,7 +8213,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20300",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Sat",
@@ -7477,7 +8254,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Opsis TV",
@@ -7499,7 +8279,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ARTE.TV",
@@ -7521,7 +8304,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Franche-Comté",
@@ -7559,7 +8345,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Caen",
@@ -7597,7 +8386,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Bourgogne",
@@ -7635,7 +8427,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Orléans",
@@ -7673,7 +8468,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Paris Ile-de-France",
@@ -7711,7 +8509,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Haute-Normandie",
@@ -7749,7 +8550,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Nantes",
@@ -7787,7 +8591,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Poitou-Charentes",
@@ -7825,7 +8632,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20800",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 2 UHD",
@@ -7863,7 +8673,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20700",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 2 UHD",
@@ -7901,7 +8714,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20700",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Test UHD - TNT R9",
@@ -7939,7 +8755,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20700",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Test UHD",
@@ -7977,7 +8796,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20700",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FRANSAT UHD",
@@ -8005,7 +8827,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20700",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DVB-SIS - TNT R9",
@@ -8027,7 +8852,10 @@
       "modulation": "8PSK",
       "nid": "1375",
       "tid": "20700",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -8049,7 +8877,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -8092,7 +8923,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -8130,7 +8964,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -8158,7 +8995,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -8191,7 +9031,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -8224,7 +9067,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -8257,7 +9103,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -8290,7 +9139,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -8323,7 +9175,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -8356,7 +9211,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -8389,7 +9247,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -8417,7 +9278,10 @@
       "modulation": "QPSKStream 4",
       "nid": "8572",
       "tid": "203",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TeleNorba",
@@ -8445,7 +9309,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Teledue",
@@ -8473,7 +9340,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Antenna Sud",
@@ -8501,7 +9371,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TG Norba 24",
@@ -8529,7 +9402,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Norba Television",
@@ -8557,7 +9433,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TRM H24",
@@ -8585,7 +9464,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Telesveva",
@@ -8613,7 +9495,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Telerama",
@@ -8641,7 +9526,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Telebari",
@@ -8669,7 +9557,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TeleFoggia",
@@ -8697,7 +9588,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tele Padre Pio",
@@ -8725,7 +9619,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tele Dehon",
@@ -8753,7 +9650,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La Nuova TV",
@@ -8781,7 +9681,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale 7",
@@ -8809,7 +9712,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Foggia TV",
@@ -8837,7 +9743,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Teleregione Color",
@@ -8865,7 +9774,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Taranto TV",
@@ -8893,7 +9805,10 @@
       "modulation": "8PSKStream 9",
       "nid": "8572",
       "tid": "34816",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -8936,7 +9851,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -8974,7 +9892,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -9002,7 +9923,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -9035,7 +9959,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -9068,7 +9995,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -9101,7 +10031,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -9134,7 +10067,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -9167,7 +10103,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -9200,7 +10139,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -9233,7 +10175,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -9261,7 +10206,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "153",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -9299,7 +10247,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -9337,7 +10288,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -9365,7 +10319,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -9398,7 +10355,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia HD",
@@ -9431,7 +10391,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Piemonte HD",
@@ -9464,7 +10427,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia-Romagna",
@@ -9497,7 +10463,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia HD",
@@ -9530,7 +10499,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Piemonte HD",
@@ -9563,7 +10535,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia-Romagna",
@@ -9596,7 +10571,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -9624,7 +10602,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -9667,7 +10648,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -9705,7 +10689,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -9733,7 +10720,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Trentino HD",
@@ -9766,7 +10756,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Alto Adige",
@@ -9799,7 +10792,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 Südtirol HD",
@@ -9832,7 +10828,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Trentino HD",
@@ -9865,7 +10864,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Alto Adige",
@@ -9898,7 +10900,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 Südtirol HD",
@@ -9931,7 +10936,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -9959,7 +10967,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -10002,7 +11013,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -10040,7 +11054,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -10068,7 +11085,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -10101,7 +11121,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -10134,7 +11157,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -10167,7 +11193,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -10200,7 +11229,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -10233,7 +11265,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -10266,7 +11301,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -10299,7 +11337,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -10327,7 +11368,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAB TEST",
@@ -10349,7 +11393,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MEDIA DAB",
@@ -10371,7 +11418,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DAB Naz",
@@ -10393,7 +11443,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -10426,7 +11479,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "183",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Videolina",
@@ -10454,7 +11510,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "L'Unione TV",
@@ -10482,7 +11541,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sardegna Uno Sat",
@@ -10510,7 +11572,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tele Costa Smeralda",
@@ -10538,7 +11603,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Sardegna TV",
@@ -10566,7 +11634,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TTSTV",
@@ -10594,7 +11665,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Teleregione Live",
@@ -10622,7 +11696,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TeleSardegna",
@@ -10650,7 +11727,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Uno 4",
@@ -10678,7 +11758,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Catalan TV",
@@ -10706,7 +11789,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Gallura TV",
@@ -10734,7 +11820,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Televizione Sarda",
@@ -10762,7 +11851,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale Italia",
@@ -10790,7 +11882,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale Italia Sardegna",
@@ -10818,7 +11913,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SuperTV Aristanis",
@@ -10846,7 +11944,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ODEON 24 Sardegna",
@@ -10874,7 +11975,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CANALE ITALIA",
@@ -10902,7 +12006,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RADIO SINTONY INT.",
@@ -10930,7 +12037,10 @@
       "modulation": "8PSKStream 11",
       "nid": "8572",
       "tid": "43009",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -10952,7 +12062,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7 HD",
@@ -10980,7 +12093,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La7 Cinema",
@@ -11008,7 +12124,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7 HD",
@@ -11036,7 +12155,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7CINEMA",
@@ -11064,7 +12186,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La 7 HD",
@@ -11092,7 +12217,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7CINEMA",
@@ -11120,7 +12248,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7CINEMA TEST",
@@ -11148,7 +12279,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La 7",
@@ -11176,7 +12310,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 121",
@@ -11204,7 +12341,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arte Italia 124",
@@ -11232,7 +12372,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arte Italia 125",
@@ -11260,7 +12403,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 126",
@@ -11288,7 +12434,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 127",
@@ -11316,7 +12465,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 135",
@@ -11344,7 +12496,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 134",
@@ -11372,7 +12527,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 161",
@@ -11400,7 +12558,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 156",
@@ -11428,7 +12589,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 136",
@@ -11456,7 +12620,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 154",
@@ -11484,7 +12651,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 148",
@@ -11512,7 +12682,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 143",
@@ -11540,7 +12713,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 164",
@@ -11568,7 +12744,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 142",
@@ -11596,7 +12775,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 160",
@@ -11624,7 +12806,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 159",
@@ -11652,7 +12837,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ITALIA 155",
@@ -11680,7 +12868,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7 TEST",
@@ -11702,7 +12893,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7 Servizi on demand",
@@ -11724,7 +12918,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Caccia e Pesca",
@@ -11746,7 +12943,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7 TEST",
@@ -11768,7 +12968,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LA7 Test",
@@ -11790,7 +12993,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FRANCE 24",
@@ -11812,7 +13018,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "263",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -11850,7 +13059,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -11883,7 +13095,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 2 Visual",
@@ -11911,7 +13126,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Scuola HD",
@@ -11939,7 +13157,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -11972,7 +13193,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 4 HD",
@@ -12000,7 +13224,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24 HD",
@@ -12028,7 +13255,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Storia HD",
@@ -12056,7 +13286,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Sport HD",
@@ -12084,7 +13317,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Movie HD",
@@ -12112,7 +13348,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Gulp HD",
@@ -12140,7 +13379,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai YoYo HD",
@@ -12168,7 +13410,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Premium HD",
@@ -12196,7 +13441,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SMTV San Marino HD",
@@ -12224,7 +13472,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 4K",
@@ -12252,7 +13503,10 @@
       "modulation": "8PSKStream 5",
       "nid": "0",
       "tid": "0",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Sport HD",
@@ -12285,7 +13539,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Movie HD",
@@ -12323,7 +13580,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Gulp",
@@ -12356,7 +13616,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Yoyo",
@@ -12389,7 +13652,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Premium",
@@ -12427,7 +13693,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 5",
@@ -12465,7 +13734,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 4",
@@ -12503,7 +13775,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai GR Parlamento",
@@ -12531,7 +13806,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Isoradio",
@@ -12559,7 +13837,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 3 Classica",
@@ -12587,7 +13868,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Kids",
@@ -12615,7 +13899,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Live Napoli",
@@ -12643,7 +13930,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Techete'",
@@ -12671,7 +13961,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Tutta Italiana",
@@ -12699,7 +13992,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 1 Sport",
@@ -12727,7 +14023,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "No Name Radio powered by Rai",
@@ -12755,7 +14054,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 4 HD",
@@ -12783,7 +14085,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Scuola HD",
@@ -12811,7 +14116,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Storia HD",
@@ -12839,7 +14147,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Premium HD",
@@ -12867,7 +14178,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 2",
@@ -12895,7 +14209,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 3",
@@ -12923,7 +14240,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 1",
@@ -12951,7 +14271,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OTA-A",
@@ -12973,7 +14296,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8572",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio MF1 Roma",
@@ -13001,7 +14327,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 AO",
@@ -13029,7 +14358,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 AN",
@@ -13057,7 +14389,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 BA",
@@ -13085,7 +14420,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 BO",
@@ -13113,7 +14451,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 BZ",
@@ -13141,7 +14482,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 CA",
@@ -13169,7 +14513,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 CB",
@@ -13197,7 +14544,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 CS",
@@ -13225,7 +14575,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 FI",
@@ -13253,7 +14606,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 GE",
@@ -13281,7 +14637,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 MI",
@@ -13309,7 +14668,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 NA",
@@ -13337,7 +14699,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PA",
@@ -13365,7 +14730,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PE",
@@ -13393,7 +14761,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PG",
@@ -13421,7 +14792,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 PZ",
@@ -13449,7 +14823,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 TN",
@@ -13477,7 +14854,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 TO",
@@ -13505,7 +14885,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 TS",
@@ -13533,7 +14916,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 VE",
@@ -13561,7 +14947,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 SDT",
@@ -13589,7 +14978,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio1 SLV",
@@ -13617,7 +15009,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 1",
@@ -13645,7 +15040,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 3",
@@ -13673,7 +15071,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio GR Parlamento",
@@ -13701,7 +15102,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio 2",
@@ -13729,7 +15133,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio Classica",
@@ -13757,7 +15164,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Isoradio",
@@ -13785,7 +15195,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai Radio2 BZ",
@@ -13813,7 +15226,10 @@
       "modulation": "8PSKStream 2",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -13856,7 +15272,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -13894,7 +15313,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -13922,7 +15344,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -13955,7 +15380,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -13988,7 +15416,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -14021,7 +15452,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -14054,7 +15488,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio HD",
@@ -14087,7 +15524,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -14120,7 +15560,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -14153,7 +15596,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -14181,7 +15627,10 @@
       "modulation": "8PSKStream 3",
       "nid": "8572",
       "tid": "143",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -14203,7 +15652,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -14246,7 +15698,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -14284,7 +15739,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -14312,7 +15770,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -14345,7 +15806,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR FVG",
@@ -14378,7 +15842,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 Bis",
@@ -14411,7 +15878,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -14444,7 +15914,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR FVG",
@@ -14477,7 +15950,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 Bis",
@@ -14510,7 +15986,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -14543,7 +16022,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -14571,7 +16053,10 @@
       "modulation": "8PSKStream 5",
       "nid": "8572",
       "tid": "173",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -14614,7 +16099,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -14652,7 +16140,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -14680,7 +16171,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -14713,7 +16207,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -14746,7 +16243,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia Romagna",
@@ -14779,7 +16279,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -14812,7 +16315,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -14845,7 +16351,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia-Romagna HD",
@@ -14878,7 +16387,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -14911,7 +16423,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -14939,7 +16454,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8572",
       "tid": "163",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "BFM TV HD",
@@ -14967,7 +16485,10 @@
       "modulation": "8PSKStream 2",
       "nid": "8442",
       "tid": "2",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CNews HD",
@@ -14995,7 +16516,10 @@
       "modulation": "8PSKStream 2",
       "nid": "8442",
       "tid": "2",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "CStar HD",
@@ -15028,7 +16552,10 @@
       "modulation": "8PSKStream 2",
       "nid": "8442",
       "tid": "2",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Gulli HD",
@@ -15066,7 +16593,10 @@
       "modulation": "8PSKStream 2",
       "nid": "8442",
       "tid": "2",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "T18",
@@ -15094,7 +16624,10 @@
       "modulation": "8PSKStream 2",
       "nid": "8442",
       "tid": "2",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Novo 19",
@@ -15132,7 +16665,10 @@
       "modulation": "8PSKStream 2",
       "nid": "8442",
       "tid": "2",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TF1 Séries Films",
@@ -15170,7 +16706,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "10",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "L´Equipe 21",
@@ -15203,7 +16742,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "10",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RMC Life",
@@ -15241,7 +16783,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "10",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RMC Découverte",
@@ -15279,7 +16824,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "10",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RMC Story",
@@ -15317,7 +16865,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "10",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -15339,7 +16890,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -15382,7 +16936,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -15420,7 +16977,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -15448,7 +17008,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -15481,7 +17044,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -15514,7 +17080,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -15547,7 +17116,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -15580,7 +17152,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -15613,7 +17188,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -15646,7 +17224,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -15679,7 +17260,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -15707,7 +17291,10 @@
       "modulation": "8PSKStream 10",
       "nid": "8572",
       "tid": "213",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -15750,7 +17337,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -15788,7 +17378,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -15816,7 +17409,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -15849,7 +17445,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo HD",
@@ -15882,7 +17481,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -15915,7 +17517,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -15948,7 +17553,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo HD",
@@ -15981,7 +17589,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -16014,7 +17625,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -16047,7 +17661,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -16075,7 +17692,10 @@
       "modulation": "8PSKStream 7",
       "nid": "8572",
       "tid": "133",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -16118,7 +17738,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -16156,7 +17779,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -16184,7 +17810,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -16217,7 +17846,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -16250,7 +17882,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -16283,7 +17918,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -16316,7 +17954,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -16349,7 +17990,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -16382,7 +18026,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -16415,7 +18062,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai News 24",
@@ -16443,7 +18093,10 @@
       "modulation": "8PSKStream 8",
       "nid": "8572",
       "tid": "193",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -16476,7 +18129,10 @@
       "modulation": "8PSKStream 1",
       "nid": "318",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "M6 HD",
@@ -16514,7 +18170,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "W9 HD",
@@ -16552,7 +18211,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arte HD",
@@ -16595,7 +18257,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 5 HD",
@@ -16633,7 +18298,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "6ter",
@@ -16671,7 +18339,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arte.Tv",
@@ -16693,7 +18364,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Paris Première HD",
@@ -16731,7 +18405,10 @@
       "modulation": "8PSKStream 4",
       "nid": "8442",
       "tid": "4",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -16753,7 +18430,10 @@
       "modulation": "8PSKStream 6",
       "nid": "8442",
       "tid": "6",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TF 1",
@@ -16791,7 +18471,10 @@
       "modulation": "8PSKStream 6",
       "nid": "8442",
       "tid": "6",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TMC HD",
@@ -16829,7 +18512,10 @@
       "modulation": "8PSKStream 6",
       "nid": "8442",
       "tid": "6",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TFX",
@@ -16867,7 +18553,10 @@
       "modulation": "8PSKStream 6",
       "nid": "8442",
       "tid": "6",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LCP HD",
@@ -16895,7 +18584,10 @@
       "modulation": "8PSKStream 6",
       "nid": "8442",
       "tid": "6",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "LCI HD",
@@ -16923,7 +18615,10 @@
       "modulation": "8PSKStream 6",
       "nid": "8442",
       "tid": "6",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 2 HD",
@@ -16961,7 +18656,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 4 HD",
@@ -16999,7 +18697,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Franceinfo: HD",
@@ -17027,7 +18728,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "France 3 Sat HD",
@@ -17065,7 +18769,10 @@
       "modulation": "8PSKStream 1",
       "nid": "8442",
       "tid": "1",
-      "satellite_pos": "5.0W"
+      "satellite_pos": "5.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
