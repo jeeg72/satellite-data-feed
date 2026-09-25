@@ -3,7 +3,7 @@
   "label": "mediaset — 39.0E",
   "bouquet_id": "mediaset",
   "satellite_pos": "39.0E",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 2,
   "channels": [
     {
@@ -32,7 +32,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Italia",
@@ -60,7 +63,10 @@
       "modulation": "8PSK",
       "nid": "926",
       "tid": "1020",
-      "satellite_pos": "39.0E"
+      "satellite_pos": "39.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
