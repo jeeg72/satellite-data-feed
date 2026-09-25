@@ -3,7 +3,7 @@
   "label": "rai — 47.5W",
   "bouquet_id": "rai",
   "satellite_pos": "47.5W",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 1,
   "channels": [
     {
@@ -37,7 +37,10 @@
       "modulation": "8PSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "47.5W"
+      "satellite_pos": "47.5W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
