@@ -3,7 +3,7 @@
   "label": "mediaset — 13.0E",
   "bouquet_id": "mediaset",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 17,
   "channels": [
     {
@@ -32,7 +32,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Virgin Radio",
@@ -60,7 +63,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Monte Carlo",
@@ -88,7 +94,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "20 Mediaset HD",
@@ -121,7 +130,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 1 HD",
@@ -154,7 +166,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale 5 HD",
@@ -187,7 +202,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rete 4 HD",
@@ -220,7 +238,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iris",
@@ -253,7 +274,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Boing",
@@ -281,7 +305,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La5",
@@ -314,7 +341,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TgCom24",
@@ -342,7 +372,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Extra",
@@ -370,7 +403,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Italia Due",
@@ -403,7 +439,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TOPcrime",
@@ -436,7 +475,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito Italy",
@@ -464,7 +506,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Focus",
@@ -497,7 +542,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "27 Twentyseven HD",
@@ -530,7 +578,10 @@
       "modulation": "8PSK",
       "nid": "272",
       "tid": "1200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
