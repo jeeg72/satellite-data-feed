@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-09-25T00:00:01.909790",
-  "count": 330,
+  "updated_at": "2026-09-25T04:00:02.248140",
+  "count": 329,
   "channels": [
     {
       "channel_name": "Nahade Azadi",
@@ -4327,34 +4327,6 @@
       ],
       "pmt": "1800",
       "pcr": "1801",
-      "txt": "",
-      "frequency": "10887.40",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "8478",
-      "tid": "8478",
-      "satellite_pos": "52.0E"
-    },
-    {
-      "channel_name": "Project Leon",
-      "country": "non definito",
-      "category": "Various",
-      "bouquet": "WNS",
-      "encryption": "FTA",
-      "sid": "20",
-      "vpid": "2001",
-      "audio_tracks": [
-        {
-          "pid": "2002",
-          "format": "aac",
-          "language": "far"
-        }
-      ],
-      "pmt": "2000",
-      "pcr": "2001",
       "txt": "",
       "frequency": "10887.40",
       "polarization": "V",
