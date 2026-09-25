@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 329,
   "channels": [
     {
@@ -31,7 +31,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Derakhte Zendegi",
@@ -59,7 +62,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Meta Film HD",
@@ -87,7 +93,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Afghanistan International HD",
@@ -115,7 +124,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "PMC Planeta",
@@ -143,7 +155,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Moallem TV",
@@ -171,7 +186,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "4U Family",
@@ -199,7 +217,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran Wire",
@@ -227,7 +248,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "1 TV",
@@ -255,7 +279,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Afra Film HD",
@@ -283,7 +310,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "PMC Royale",
@@ -311,7 +341,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tapesh 2 HD",
@@ -339,7 +372,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "PBC Tapesh TV",
@@ -367,7 +403,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sun Music TV",
@@ -395,7 +434,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "PMC Radio",
@@ -423,7 +465,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Setareh TV",
@@ -451,7 +496,10 @@
       "modulation": "QPSK",
       "nid": "4478",
       "tid": "4478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Avang TV",
@@ -479,7 +527,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mellig TV",
@@ -507,7 +558,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "VOA Persian HD",
@@ -535,7 +589,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pulse TV Farsi",
@@ -563,7 +620,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Net TV Farsi",
@@ -591,7 +651,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Sport",
@@ -619,7 +682,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinex",
@@ -647,7 +713,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cafe Film",
@@ -675,7 +744,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FX HD Farsi",
@@ -703,7 +775,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Gord Afarid TV",
@@ -731,7 +806,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Gord Afarid TV",
@@ -759,7 +837,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FX 2 HD",
@@ -787,7 +868,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DEJ TV",
@@ -815,7 +899,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Samad TV",
@@ -843,7 +930,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Farda",
@@ -871,7 +961,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cheshm e Oghab",
@@ -899,7 +992,10 @@
       "modulation": "QPSK",
       "nid": "5478",
       "tid": "5478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -921,7 +1017,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Family HD",
@@ -949,7 +1048,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TBN Nejat",
@@ -977,7 +1079,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Cinema",
@@ -1005,7 +1110,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana 3",
@@ -1033,7 +1141,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Iranian",
@@ -1061,7 +1172,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Comedy",
@@ -1089,7 +1203,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Series",
@@ -1117,7 +1234,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Home+ HD",
@@ -1145,7 +1265,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Sports 2",
@@ -1173,7 +1296,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Music HD",
@@ -1201,7 +1327,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Nostalgia",
@@ -1229,7 +1358,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Nostalgia",
@@ -1257,7 +1389,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Gold Star TV",
@@ -1285,7 +1420,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Documentary HD",
@@ -1313,7 +1451,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Teen",
@@ -1341,7 +1482,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Folk",
@@ -1369,7 +1513,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Korea",
@@ -1397,7 +1544,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "4Kurd",
@@ -1425,7 +1575,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Classic TV",
@@ -1453,7 +1606,10 @@
       "modulation": "QPSK",
       "nid": "7478",
       "tid": "7478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport-1",
@@ -1481,7 +1637,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport-2",
@@ -1509,7 +1668,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport-3",
@@ -1537,7 +1699,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sport-4",
@@ -1570,7 +1735,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FX HD Russian",
@@ -1603,7 +1771,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "National Geographic Russia HD",
@@ -1636,7 +1807,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nat Geo Wild Russia HD",
@@ -1669,7 +1843,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FX Life HD Russia",
@@ -1702,7 +1879,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "UDAR HD",
@@ -1730,7 +1910,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-811",
@@ -1758,7 +1941,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-812",
@@ -1786,7 +1972,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-813",
@@ -1814,7 +2003,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "History HD Europe",
@@ -1842,7 +2034,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinoman",
@@ -1870,7 +2065,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mir Seriala",
@@ -1898,7 +2096,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radnoe Kino",
@@ -1926,7 +2127,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV XXI",
@@ -1954,7 +2158,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-821",
@@ -1982,7 +2189,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rossiya Roman",
@@ -2010,7 +2220,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Russian Detective",
@@ -2038,7 +2251,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rus Bestseller",
@@ -2066,7 +2282,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red Music",
@@ -2094,7 +2313,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red Music Retro",
@@ -2122,7 +2344,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RED Premium",
@@ -2150,7 +2375,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RED Docu.",
@@ -2178,7 +2406,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red Thriller",
@@ -2206,7 +2437,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red Junior",
@@ -2234,7 +2468,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red Music Mix HD",
@@ -2262,7 +2499,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red Comedy HD",
@@ -2290,7 +2530,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red India HD",
@@ -2318,7 +2561,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "524",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kalemeh TV",
@@ -2346,7 +2592,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Your Time TV",
@@ -2374,7 +2623,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Haray Radio",
@@ -2402,7 +2654,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Moj TV",
@@ -2430,7 +2685,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran Wire",
@@ -2458,7 +2716,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran TV Network",
@@ -2486,7 +2747,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AVA Series",
@@ -2514,7 +2778,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SOLH TV",
@@ -2542,7 +2809,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Payam E Doost",
@@ -2570,7 +2840,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran e Farda",
@@ -2598,7 +2871,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kanal Jadid",
@@ -2626,7 +2902,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Pars TV",
@@ -2654,7 +2933,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Khane Honarmandan",
@@ -2682,7 +2964,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICC (Iranian Cinema Channel)",
@@ -2710,7 +2995,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Payam TV",
@@ -2738,7 +3026,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sharq TV",
@@ -2766,7 +3057,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eslah TV",
@@ -2794,7 +3088,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "OXIR",
@@ -2822,7 +3119,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dunya naw TV - Farah",
@@ -2850,7 +3150,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SL Two",
@@ -2878,7 +3181,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Navahang",
@@ -2906,7 +3212,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AVA Family",
@@ -2934,7 +3243,10 @@
       "modulation": "QPSK",
       "nid": "6478",
       "tid": "6478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MY5 Uzbekistan",
@@ -2962,7 +3274,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ZOR TV",
@@ -2995,7 +3310,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Milliy TV",
@@ -3023,7 +3341,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sevimli",
@@ -3051,7 +3372,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dasturxon TV",
@@ -3084,7 +3408,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Renessans TV",
@@ -3112,7 +3439,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV 8 Turkey",
@@ -3140,7 +3470,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-911",
@@ -3168,7 +3501,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-912",
@@ -3196,7 +3532,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-913",
@@ -3224,7 +3563,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-914",
@@ -3252,7 +3594,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-915",
@@ -3280,7 +3625,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-916",
@@ -3308,7 +3656,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-917",
@@ -3336,7 +3687,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-918",
@@ -3364,7 +3718,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-919",
@@ -3392,7 +3749,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-920",
@@ -3420,7 +3780,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-921",
@@ -3448,7 +3811,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ORT International (Perviy kanal Vsemirnaja set)",
@@ -3476,7 +3842,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTR Planeta",
@@ -3504,7 +3873,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NTV Mir",
@@ -3532,7 +3904,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Domashniy International",
@@ -3560,7 +3935,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TNT international",
@@ -3588,7 +3966,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STS International",
@@ -3616,7 +3997,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RBC TV",
@@ -3644,7 +4028,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Vostok TV",
@@ -3672,7 +4059,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Euronews Russian",
@@ -3700,7 +4090,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kineko HD",
@@ -3733,7 +4126,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sapfir HD",
@@ -3766,7 +4162,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "QSport",
@@ -3794,7 +4193,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dorama",
@@ -3827,7 +4229,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Saga HD",
@@ -3855,7 +4260,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinoliving HD",
@@ -3888,7 +4296,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "525",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Navid TV",
@@ -3916,7 +4327,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Javan",
@@ -3944,7 +4358,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Maah TV",
@@ -3972,7 +4389,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "SL One",
@@ -4000,7 +4420,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Payam Aramesh HD",
@@ -4028,7 +4451,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Woman TV Farsi",
@@ -4056,7 +4482,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICNet 3",
@@ -4084,7 +4513,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arko TV",
@@ -4112,7 +4544,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Datis TV",
@@ -4140,7 +4575,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran Republic TV",
@@ -4168,7 +4606,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arax TV",
@@ -4196,7 +4637,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Khane Film",
@@ -4224,7 +4668,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICNet",
@@ -4252,7 +4699,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Royal TV",
@@ -4280,7 +4730,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tamadon HD",
@@ -4308,7 +4761,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Javan",
@@ -4336,7 +4792,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rah-e-Farda TV",
@@ -4364,7 +4823,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Araz Radio",
@@ -4392,7 +4854,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Omid Dana TV",
@@ -4420,7 +4885,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MBC Persia",
@@ -4448,7 +4916,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ICNet 2",
@@ -4476,7 +4947,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Simaye Azadi HD",
@@ -4509,7 +4983,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Payam",
@@ -4537,7 +5014,10 @@
       "modulation": "QPSK",
       "nid": "8478",
       "tid": "8478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -4559,7 +5039,10 @@
       "modulation": "8PSK",
       "nid": "3622",
       "tid": "104",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "iFilm Dari",
@@ -4587,7 +5070,10 @@
       "modulation": "8PSK",
       "nid": "3622",
       "tid": "104",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sahar Afghanistan",
@@ -4615,7 +5101,10 @@
       "modulation": "8PSK",
       "nid": "3622",
       "tid": "104",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran Nama HD",
@@ -4643,7 +5132,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran TV Network",
@@ -4671,7 +5163,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Setareh TV",
@@ -4699,7 +5194,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "247Box",
@@ -4727,7 +5225,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Simaye Azadi Iran National TV",
@@ -4755,7 +5256,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Omid-E-Iran",
@@ -4783,7 +5287,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persian Music Channel",
@@ -4811,7 +5318,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MTC",
@@ -4839,7 +5349,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "4U TV Iranian",
@@ -4867,7 +5380,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Royal TV",
@@ -4895,7 +5411,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Meraj TV",
@@ -4923,7 +5442,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran Film HD",
@@ -4951,7 +5473,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MBC Persia HD",
@@ -4979,7 +5504,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arax TV",
@@ -5007,7 +5535,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Datis TV",
@@ -5035,7 +5566,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Project Leon",
@@ -5063,7 +5597,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Afghanistan International HD",
@@ -5091,7 +5628,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Afghanistan International",
@@ -5119,7 +5659,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Afghanistan Intl Radio",
@@ -5147,7 +5690,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Payam",
@@ -5175,7 +5721,10 @@
       "modulation": "QPSK",
       "nid": "9478",
       "tid": "9478",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Sport",
@@ -5203,7 +5752,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Sports 2",
@@ -5231,7 +5783,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Sports 3",
@@ -5259,7 +5814,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana SetMix",
@@ -5287,7 +5845,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Sports 4",
@@ -5315,7 +5876,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Fight HD",
@@ -5343,7 +5907,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Reality",
@@ -5371,7 +5938,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Medical",
@@ -5399,7 +5969,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "4Turk HD",
@@ -5427,7 +6000,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana China",
@@ -5455,7 +6031,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Podcast",
@@ -5483,7 +6062,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Voyage",
@@ -5511,7 +6093,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Persiana Rap",
@@ -5539,7 +6124,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "4",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AVA Family",
@@ -5567,7 +6155,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "AVA Series",
@@ -5595,7 +6186,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FX HD Farsi",
@@ -5623,7 +6217,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "FX 2 HD",
@@ -5651,7 +6248,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran Wire",
@@ -5679,7 +6279,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "DEJ TV",
@@ -5707,7 +6310,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Setareh TV",
@@ -5735,7 +6341,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran International",
@@ -5763,7 +6372,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "6",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Shabakeh7",
@@ -5791,7 +6403,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran International HD",
@@ -5819,7 +6434,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iran International",
@@ -5847,7 +6465,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nour TV",
@@ -5875,7 +6496,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tamadon HD",
@@ -5903,7 +6527,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Ravi",
@@ -5931,7 +6558,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Zed TV",
@@ -5959,7 +6589,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Komala TV",
@@ -5987,7 +6620,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kurd Channel HD",
@@ -6015,7 +6651,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sat 7 Pars",
@@ -6043,7 +6682,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mohabat TV",
@@ -6071,7 +6713,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "316 TV",
@@ -6099,7 +6744,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "3",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -6121,7 +6769,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "ORT International (Perviy kanal Vsemirnaja set)",
@@ -6149,7 +6800,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RTR Planeta",
@@ -6177,7 +6831,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rossiya 24",
@@ -6205,7 +6862,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NTV Mir",
@@ -6233,7 +6893,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Podeba",
@@ -6261,7 +6924,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TNT (Russia)",
@@ -6289,7 +6955,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TNT4 International",
@@ -6317,7 +6986,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Karusel",
@@ -6345,7 +7017,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Domashniy International",
@@ -6373,7 +7048,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Ren TV International",
@@ -6401,7 +7079,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Friday International",
@@ -6429,7 +7110,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Peretz",
@@ -6457,7 +7141,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TV3 International",
@@ -6485,7 +7172,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mosfilm Zolotaya Kollektsiya",
@@ -6513,7 +7203,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju TV1000",
@@ -6546,7 +7239,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju TV1000 action",
@@ -6579,7 +7275,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju TV1000 Russian",
@@ -6607,7 +7306,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju+ Premiere",
@@ -6635,7 +7337,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju+ Megahit",
@@ -6663,7 +7368,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju+ Comedy",
@@ -6691,7 +7399,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju Explore",
@@ -6724,7 +7435,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju History",
@@ -6757,7 +7471,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju Nature",
@@ -6790,7 +7507,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Viju+ Sport",
@@ -6823,7 +7543,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Match Planeta",
@@ -6856,7 +7579,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mult",
@@ -6884,7 +7610,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NSTV",
@@ -6912,7 +7641,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STS International",
@@ -6940,7 +7672,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Izvestia",
@@ -6968,7 +7703,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Detski Mir",
@@ -6996,7 +7734,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "O! International",
@@ -7024,7 +7765,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "521",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Altyn Asyr",
@@ -7052,7 +7796,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Yaslyk",
@@ -7080,7 +7827,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Miras",
@@ -7108,7 +7858,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Turkmenistan TV",
@@ -7166,7 +7919,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Watan",
@@ -7194,7 +7950,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Char-tarapdan",
@@ -7222,7 +7981,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Miras",
@@ -7250,7 +8012,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Owaz",
@@ -7278,7 +8043,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Asgabat TV",
@@ -7306,7 +8074,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Turkmen Owazy",
@@ -7334,7 +8105,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Turkmenistan Sport",
@@ -7392,7 +8166,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Arkadag",
@@ -7420,7 +8197,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Turkmen Radio",
@@ -7463,7 +8243,10 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinopokaz HD",
@@ -7496,7 +8279,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinopremyera HD",
@@ -7524,7 +8310,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mujskoe Kino HD",
@@ -7552,7 +8341,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinomix HD",
@@ -7580,7 +8372,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinosemia",
@@ -7608,7 +8403,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "NTV+ Kinohit",
@@ -7636,7 +8434,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Indijskoe Kino",
@@ -7664,7 +8465,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinokomedia",
@@ -7692,7 +8496,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinosvidania",
@@ -7720,7 +8527,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nashe Novoe Kino",
@@ -7748,7 +8558,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kinoserija",
@@ -7776,7 +8589,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radnoe Kino",
@@ -7804,7 +8620,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "India TV (Russia)",
@@ -7832,7 +8651,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Red (Russia)",
@@ -7865,7 +8687,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Black (Russia)",
@@ -7898,7 +8723,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Sci Fi Channel Russia",
@@ -7931,7 +8759,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kuhnya TV",
@@ -7959,7 +8790,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Auto Plus (Russia)",
@@ -7987,7 +8821,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Super Heros",
@@ -8015,7 +8852,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Animal Planet HD",
@@ -8048,7 +8888,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Tochka.RF",
@@ -8076,7 +8919,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "MMA-TV.com",
@@ -8104,7 +8950,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Boxing TV",
@@ -8132,7 +8981,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "STS Kids",
@@ -8160,7 +9012,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dikaya Okhota",
@@ -8188,7 +9043,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dikaya Rybalka",
@@ -8216,7 +9074,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "V gostyakh u skazki HD",
@@ -8244,7 +9105,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Zhivi",
@@ -8272,7 +9136,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "365 dnei TV",
@@ -8300,7 +9167,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "KVN",
@@ -8328,7 +9198,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "МУЗЫКА LIVE",
@@ -8361,7 +9234,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "KHL Prime HD",
@@ -8389,7 +9265,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Amedia Premium HD",
@@ -8417,7 +9296,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "522",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -8439,7 +9321,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Bollywood HD",
@@ -8467,7 +9352,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-702",
@@ -8495,7 +9383,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 1 HD Russia",
@@ -8528,7 +9419,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Eurosport 2 HD Russia",
@@ -8561,7 +9455,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Investigation Discovery Russia",
@@ -8594,7 +9491,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TLC Russia",
@@ -8627,7 +9527,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Discovery Channel Eastern Europe",
@@ -8660,7 +9563,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nick Jr Russia",
@@ -8693,7 +9599,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nick Jr Russia",
@@ -8726,7 +9635,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Т24",
@@ -8754,7 +9666,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Dom Kino",
@@ -8782,7 +9697,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Om Ino Yemim",
@@ -8810,7 +9728,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cinéma",
@@ -8838,7 +9759,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Amedia Hit HD",
@@ -8866,7 +9790,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Amedia Premium HD",
@@ -8894,7 +9821,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Moya Planeta",
@@ -8922,7 +9852,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-722",
@@ -8950,7 +9883,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-727",
@@ -8978,7 +9914,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Service-728",
@@ -9006,7 +9945,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mir 24",
@@ -9034,7 +9976,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mir TV",
@@ -9062,7 +10007,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "U-TV",
@@ -9090,7 +10038,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TNT Myzicalni",
@@ -9118,7 +10069,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Telekanal Zvezda",
@@ -9146,7 +10100,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Kuhnya TV",
@@ -9174,7 +10131,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Auto Plus (Russia)",
@@ -9202,7 +10162,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "viju+ Planet",
@@ -9230,7 +10193,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "viju+ Serial",
@@ -9258,7 +10224,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "viju TV1000 Novella",
@@ -9286,7 +10255,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Terra",
@@ -9314,7 +10286,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Big Planet HD",
@@ -9347,7 +10322,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Biz TV",
@@ -9375,7 +10353,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Biz Music",
@@ -9403,7 +10384,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Biz Cinema",
@@ -9431,7 +10415,10 @@
       "modulation": "8PSK",
       "nid": "115",
       "tid": "523",
-      "satellite_pos": "52.0E"
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
