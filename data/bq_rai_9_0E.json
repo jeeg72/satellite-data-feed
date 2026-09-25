@@ -3,7 +3,7 @@
   "label": "rai — 9.0E",
   "bouquet_id": "rai",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 1,
   "channels": [
     {
@@ -32,7 +32,10 @@
       "modulation": "8PSK",
       "nid": "158",
       "tid": "5900",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
