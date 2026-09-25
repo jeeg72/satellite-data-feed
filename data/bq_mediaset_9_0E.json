@@ -3,7 +3,7 @@
   "label": "mediaset — 9.0E",
   "bouquet_id": "mediaset",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-09-25T12:00:01.985548",
+  "updated_at": "2026-09-25T12:53:02.985618",
   "count": 53,
   "channels": [
     {
@@ -32,7 +32,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito Italy",
@@ -60,7 +63,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Boing Plus",
@@ -88,7 +94,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Boing Plus",
@@ -116,7 +125,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Boing",
@@ -144,7 +156,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cartoonito HD",
@@ -172,7 +187,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "QVC Italia HD",
@@ -200,7 +218,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TOPcrime",
@@ -233,7 +254,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Focus",
@@ -266,7 +290,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cine34",
@@ -294,7 +321,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TOPcrime HD",
@@ -327,7 +357,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Cine34 HD",
@@ -355,7 +388,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Focus HD",
@@ -388,7 +424,10 @@
       "modulation": "16APSKStream 4",
       "nid": "272",
       "tid": "905",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R101 TV",
@@ -416,7 +455,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La5",
@@ -449,7 +491,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iris",
@@ -482,7 +527,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Italia Due",
@@ -515,7 +563,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Italia2 HD",
@@ -548,7 +599,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "27Twentyseven HD",
@@ -581,7 +635,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "27 Twentyseven",
@@ -614,7 +671,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "R101 TV",
@@ -642,7 +702,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TgCom24",
@@ -670,7 +733,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "TGCOM24 HD",
@@ -698,7 +764,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio 105",
@@ -726,7 +795,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RADIO 105",
@@ -754,7 +826,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "La5 HD",
@@ -787,7 +862,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Iris HD",
@@ -820,7 +898,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "27Twentyseven HD",
@@ -853,7 +934,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "tivu' la guida",
@@ -875,7 +959,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rete 4 HD",
@@ -908,7 +995,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rete 4 HD",
@@ -941,7 +1031,10 @@
       "modulation": "16APSKStream 90",
       "nid": "272",
       "tid": "111",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -963,7 +1056,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale 5 HD",
@@ -996,7 +1092,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 1 HD",
@@ -1029,7 +1128,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia 1 HD",
@@ -1062,7 +1164,10 @@
       "modulation": "16APSKStream 90",
       "nid": "272",
       "tid": "111",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "20 Mediaset HD",
@@ -1095,7 +1200,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "20 Mediaset HD",
@@ -1128,7 +1236,10 @@
       "modulation": "16APSKStream 90",
       "nid": "272",
       "tid": "111",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Extra HD",
@@ -1156,7 +1267,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rete4 HD",
@@ -1189,7 +1303,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale5 HD",
@@ -1222,7 +1339,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia1 HD",
@@ -1255,7 +1375,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "20Mediaset HD",
@@ -1288,7 +1411,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Test HEVC Main10",
@@ -1316,7 +1442,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Rete4 HD",
@@ -1349,7 +1478,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Canale5 HD",
@@ -1382,7 +1514,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Italia1 HD",
@@ -1415,7 +1550,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "20Mediaset HD",
@@ -1448,7 +1586,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Mediaset Extra HD",
@@ -1476,7 +1617,10 @@
       "modulation": "16APSKStream 1",
       "nid": "272",
       "tid": "930",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Nome",
@@ -1498,7 +1642,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio R101",
@@ -1526,7 +1673,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "RADIO 105",
@@ -1554,7 +1704,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "VIRGIN RADIO",
@@ -1582,7 +1735,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     },
     {
       "channel_name": "Radio Monte Carlo",
@@ -1610,7 +1766,10 @@
       "modulation": "16APSKStream 2",
       "nid": "272",
       "tid": "901",
-      "satellite_pos": "9.0E"
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
     }
   ]
 }
