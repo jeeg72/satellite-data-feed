@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-09-25T12:53:02.985618",
+  "updated_at": "2026-09-25T16:00:02.752731",
   "count": 606,
   "channels": [
     {
@@ -7733,7 +7733,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "QVC Extra",
+      "channel_name": "QVC Christmas",
       "country": "Regno Unito",
       "category": "Teleshopping",
       "bouquet": "Sky Digital",
@@ -19590,7 +19590,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Sky Bourne HD",
+      "channel_name": "Sky Jurassic HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
