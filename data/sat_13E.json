@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-09-27T08:00:02.060247",
-  "count": 1509,
+  "updated_at": "2026-09-27T12:00:02.662669",
+  "count": 1510,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -17590,6 +17590,37 @@
       ],
       "pmt": "1042",
       "pcr": "5175",
+      "txt": "",
+      "frequency": "11411.00",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Private HD",
+      "country": "",
+      "category": "",
+      "bouquet": "AustriasatPlatforma Canal+Polsat Box",
+      "encryption": "Nagravision 3 + Viaccess 4 + Irdeto 2 + Conax",
+      "sid": "14243",
+      "vpid": "5176",
+      "audio_tracks": [
+        {
+          "pid": "5144",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1043",
+      "pcr": "5176",
       "txt": "",
       "frequency": "11411.00",
       "polarization": "H",
