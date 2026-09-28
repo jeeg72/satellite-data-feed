@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-09-28T16:00:01.957685",
+  "updated_at": "2026-09-28T20:00:01.815530",
   "count": 1512,
   "channels": [
     {
@@ -40190,7 +40190,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Fast & Furious Collection HD",
+      "channel_name": "Adventure Collection HD",
       "country": "Italia",
       "category": "Movies",
       "bouquet": "Sky Italia",
