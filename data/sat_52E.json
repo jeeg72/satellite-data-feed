@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-09-29T16:00:01.873010",
-  "count": 330,
+  "updated_at": "2026-09-29T20:00:01.837160",
+  "count": 328,
   "channels": [
     {
       "channel_name": "Nahade Azadi",
@@ -1225,37 +1225,6 @@
       ],
       "pmt": "800",
       "pcr": "801",
-      "txt": "",
-      "frequency": "10804.00",
-      "polarization": "H",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "7478",
-      "tid": "7478",
-      "satellite_pos": "52.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Home+ HD",
-      "country": "non definito",
-      "category": "Intrattenimento",
-      "bouquet": "Persiana Cast",
-      "encryption": "FTA",
-      "sid": "10",
-      "vpid": "1001",
-      "audio_tracks": [
-        {
-          "pid": "1002",
-          "format": "aac",
-          "language": "far"
-        }
-      ],
-      "pmt": "1000",
-      "pcr": "1001",
       "txt": "",
       "frequency": "10804.00",
       "polarization": "H",
@@ -3017,37 +2986,6 @@
       ],
       "pmt": "4200",
       "pcr": "4201",
-      "txt": "",
-      "frequency": "10845.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "6478",
-      "tid": "6478",
-      "satellite_pos": "52.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Payam TV",
-      "country": "Iraq",
-      "category": "General",
-      "bouquet": "WNS",
-      "encryption": "FTA",
-      "sid": "43",
-      "vpid": "4301",
-      "audio_tracks": [
-        {
-          "pid": "4302",
-          "format": "aac",
-          "language": ""
-        }
-      ],
-      "pmt": "4300",
-      "pcr": "4301",
       "txt": "",
       "frequency": "10845.70",
       "polarization": "V",
