@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "42E",
   "satellite_pos": "42.0E",
-  "updated_at": "2026-09-29T16:00:01.873010",
-  "count": 621,
+  "updated_at": "2026-09-29T20:00:01.837160",
+  "count": 620,
   "channels": [
     {
       "channel_name": "Star TV",
@@ -9769,37 +9769,6 @@
       ],
       "pmt": "1321",
       "pcr": "121",
-      "txt": "",
-      "frequency": "12034.20",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "66",
-      "tid": "3",
-      "satellite_pos": "42.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "ASFTV",
-      "country": "Turchia",
-      "category": "General",
-      "bouquet": "DEMIROREN MEDYA",
-      "encryption": "FTA",
-      "sid": "11323",
-      "vpid": "123",
-      "audio_tracks": [
-        {
-          "pid": "223",
-          "format": "",
-          "language": "tur"
-        }
-      ],
-      "pmt": "1323",
-      "pcr": "123",
       "txt": "",
       "frequency": "12034.20",
       "polarization": "V",
