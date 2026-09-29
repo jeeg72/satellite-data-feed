@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "0_8W",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-09-29T16:00:01.873010",
-  "count": 1045,
+  "updated_at": "2026-09-29T20:00:01.837160",
+  "count": 1043,
   "channels": [
     {
       "channel_name": "Nome",
@@ -12013,37 +12013,6 @@
       ],
       "pmt": "2501",
       "pcr": "2502",
-      "txt": "",
-      "frequency": "11746.70",
-      "polarization": "H",
-      "symbol_rate": "30000",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "187",
-      "tid": "2807",
-      "satellite_pos": "0.8W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Dusk International",
-      "country": "non definito",
-      "category": "Various",
-      "bouquet": "Telly",
-      "encryption": "Nagravision 3",
-      "sid": "7026",
-      "vpid": "2602",
-      "audio_tracks": [
-        {
-          "pid": "2603",
-          "format": "aac",
-          "language": "eng"
-        }
-      ],
-      "pmt": "2601",
-      "pcr": "2602",
       "txt": "",
       "frequency": "11746.70",
       "polarization": "H",
@@ -28137,37 +28106,6 @@
       ],
       "pmt": "2501",
       "pcr": "2502",
-      "txt": "",
-      "frequency": "12303.00",
-      "polarization": "V",
-      "symbol_rate": "30000",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "187",
-      "tid": "2807",
-      "satellite_pos": "0.8W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Dusk International",
-      "country": "non definito",
-      "category": "Various",
-      "bouquet": "Telly",
-      "encryption": "Nagravision 3",
-      "sid": "7026",
-      "vpid": "2602",
-      "audio_tracks": [
-        {
-          "pid": "2603",
-          "format": "aac",
-          "language": "eng"
-        }
-      ],
-      "pmt": "2601",
-      "pcr": "2602",
       "txt": "",
       "frequency": "12303.00",
       "polarization": "V",
