@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-09-29T16:00:01.873010",
-  "count": 606,
+  "updated_at": "2026-09-29T20:00:01.837160",
+  "count": 608,
   "channels": [
     {
       "channel_name": "Nome",
@@ -2752,9 +2752,9 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Sky History 2",
+      "channel_name": "Mystery X",
       "country": "Regno Unito",
-      "category": "History",
+      "category": "Documentaries",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "50374",
@@ -5258,6 +5258,78 @@
       "pmt": "258",
       "pcr": "2367",
       "txt": "2370",
+      "frequency": "11305.00",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2109",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "2113",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "2113",
+      "vpid": "2335",
+      "audio_tracks": [
+        {
+          "pid": "2336",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "2337",
+          "format": "",
+          "language": "nar"
+        }
+      ],
+      "pmt": "256",
+      "pcr": "2335",
+      "txt": "2338",
+      "frequency": "11305.00",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2109",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "2114",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "2114",
+      "vpid": "2339",
+      "audio_tracks": [
+        {
+          "pid": "2371",
+          "format": "",
+          "language": "nar"
+        },
+        {
+          "pid": "2340",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "260",
+      "pcr": "2339",
+      "txt": "2372",
       "frequency": "11305.00",
       "polarization": "H",
       "symbol_rate": "27500",
