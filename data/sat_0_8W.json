@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "0_8W",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-09-30T20:00:01.985768",
-  "count": 1043,
+  "updated_at": "2026-10-01T00:00:01.945280",
+  "count": 1057,
   "channels": [
     {
       "channel_name": "Nome",
@@ -12090,6 +12090,68 @@
       "pls_number": 0
     },
     {
+      "channel_name": "Òcko",
+      "country": "Repubblica Ceca",
+      "category": "Music",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "7029",
+      "vpid": "2902",
+      "audio_tracks": [
+        {
+          "pid": "2903",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2901",
+      "pcr": "2902",
+      "txt": "",
+      "frequency": "11746.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2807",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Prima COOL Slovakia",
+      "country": "Slovacchia",
+      "category": "Intrattenimento",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "7030",
+      "vpid": "3002",
+      "audio_tracks": [
+        {
+          "pid": "3003",
+          "format": "aac",
+          "language": "cze"
+        }
+      ],
+      "pmt": "3001",
+      "pcr": "3002",
+      "txt": "",
+      "frequency": "11746.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2807",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
       "channel_name": "Animax",
       "country": "Regno Unito",
       "category": "Children",
@@ -19039,6 +19101,109 @@
       ],
       "pmt": "2501",
       "pcr": "2502",
+      "txt": "",
+      "frequency": "11976.80",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2802",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Auto Motor Sport",
+      "country": "Germania",
+      "category": "Sport",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "2026",
+      "vpid": "2602",
+      "audio_tracks": [
+        {
+          "pid": "2603",
+          "format": "aac",
+          "language": "cze"
+        },
+        {
+          "pid": "2604",
+          "format": "aac",
+          "language": "hun"
+        }
+      ],
+      "pmt": "2601",
+      "pcr": "2602",
+      "txt": "",
+      "frequency": "11976.80",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2802",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "CNN International Europe",
+      "country": "Regno Unito",
+      "category": "News",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "2027",
+      "vpid": "2702",
+      "audio_tracks": [
+        {
+          "pid": "2703",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "2701",
+      "pcr": "2702",
+      "txt": "",
+      "frequency": "11976.80",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2802",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "CS Film",
+      "country": "Repubblica Ceca",
+      "category": "Movies",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "2028",
+      "vpid": "2802",
+      "audio_tracks": [
+        {
+          "pid": "2803",
+          "format": "aac",
+          "language": "cze"
+        },
+        {
+          "pid": "2804",
+          "format": "aac",
+          "language": "mul"
+        }
+      ],
+      "pmt": "2801",
+      "pcr": "2802",
       "txt": "",
       "frequency": "11976.80",
       "polarization": "H",
@@ -27817,6 +27982,42 @@
       "pls_number": 0
     },
     {
+      "channel_name": "Canal+ Sport HD Slovakia",
+      "country": "Slovacchia",
+      "category": "Sport",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "7015",
+      "vpid": "1502",
+      "audio_tracks": [
+        {
+          "pid": "1503",
+          "format": "aac",
+          "language": "slk"
+        },
+        {
+          "pid": "1504",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1501",
+      "pcr": "1502",
+      "txt": "",
+      "frequency": "12303.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2807",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
       "channel_name": "Film Europe",
       "country": "non definito",
       "category": "Movies",
@@ -28169,6 +28370,68 @@
       "pmt": "2801",
       "pcr": "2802",
       "txt": "501",
+      "frequency": "12303.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2807",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Òcko",
+      "country": "Repubblica Ceca",
+      "category": "Music",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "7029",
+      "vpid": "2902",
+      "audio_tracks": [
+        {
+          "pid": "2903",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2901",
+      "pcr": "2902",
+      "txt": "",
+      "frequency": "12303.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2807",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Prima COOL Slovakia",
+      "country": "Slovacchia",
+      "category": "Intrattenimento",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "7030",
+      "vpid": "3002",
+      "audio_tracks": [
+        {
+          "pid": "3003",
+          "format": "aac",
+          "language": "cze"
+        }
+      ],
+      "pmt": "3001",
+      "pcr": "3002",
+      "txt": "",
       "frequency": "12303.00",
       "polarization": "V",
       "symbol_rate": "30000",
@@ -30191,6 +30454,37 @@
       "pls_number": 0
     },
     {
+      "channel_name": "Filmbox+ Comedy Czech",
+      "country": "Repubblica Ceca",
+      "category": "Movies",
+      "bouquet": "Focus SatTelly",
+      "encryption": "Nagravision 3 + Irdeto 2 + Conax + Cryptoworks",
+      "sid": "6027",
+      "vpid": "2702",
+      "audio_tracks": [
+        {
+          "pid": "2703",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2701",
+      "pcr": "2702",
+      "txt": "",
+      "frequency": "12379.50",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2806",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
       "channel_name": "Nova International",
       "country": "Repubblica Ceca",
       "category": "General",
@@ -30207,6 +30501,42 @@
       ],
       "pmt": "2801",
       "pcr": "2802",
+      "txt": "",
+      "frequency": "12379.50",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2806",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Lala TV",
+      "country": "Repubblica Ceca",
+      "category": "Children",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "6029",
+      "vpid": "2902",
+      "audio_tracks": [
+        {
+          "pid": "2903",
+          "format": "aac",
+          "language": "slk"
+        },
+        {
+          "pid": "2904",
+          "format": "aac",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2901",
+      "pcr": "2902",
       "txt": "",
       "frequency": "12379.50",
       "polarization": "V",
@@ -30279,6 +30609,42 @@
       ],
       "pmt": "3101",
       "pcr": "3102",
+      "txt": "",
+      "frequency": "12379.50",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2806",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Nova Sport 6",
+      "country": "Repubblica Ceca",
+      "category": "Sport",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "6032",
+      "vpid": "3202",
+      "audio_tracks": [
+        {
+          "pid": "3203",
+          "format": "aac",
+          "language": "cze"
+        },
+        {
+          "pid": "3204",
+          "format": "aac",
+          "language": ""
+        }
+      ],
+      "pmt": "3201",
+      "pcr": "3202",
       "txt": "",
       "frequency": "12379.50",
       "polarization": "V",
@@ -31929,6 +32295,104 @@
       ],
       "pmt": "2801",
       "pcr": "2802",
+      "txt": "",
+      "frequency": "12456.40",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2809",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Travelxp",
+      "country": "Regno Unito",
+      "category": "Travel",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "9029",
+      "vpid": "2902",
+      "audio_tracks": [
+        {
+          "pid": "2903",
+          "format": "aac",
+          "language": "cze"
+        },
+        {
+          "pid": "2904",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "2901",
+      "pcr": "2902",
+      "txt": "",
+      "frequency": "12456.40",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2809",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "CANAL+ Action HD Slovakia",
+      "country": "Slovacchia",
+      "category": "Movies",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "9030",
+      "vpid": "3002",
+      "audio_tracks": [
+        {
+          "pid": "3003",
+          "format": "aac",
+          "language": "cze"
+        }
+      ],
+      "pmt": "3001",
+      "pcr": "3002",
+      "txt": "",
+      "frequency": "12456.40",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2809",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "TV Barrandov",
+      "country": "Repubblica Ceca",
+      "category": "Intrattenimento",
+      "bouquet": "Focus SatTelly",
+      "encryption": "Nagravision 3 + Irdeto 2 + Conax + Cryptoworks",
+      "sid": "9031",
+      "vpid": "3102",
+      "audio_tracks": [
+        {
+          "pid": "3103",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "3101",
+      "pcr": "3102",
       "txt": "",
       "frequency": "12456.40",
       "polarization": "V",
