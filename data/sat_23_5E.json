@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-09-30T00:00:01.820740",
-  "count": 665,
+  "updated_at": "2026-09-30T04:00:02.459838",
+  "count": 664,
   "channels": [
     {
       "channel_name": "Star Channel Netherlands",
@@ -6525,37 +6525,6 @@
       ],
       "pmt": "2200",
       "pcr": "2201",
-      "txt": "",
-      "frequency": "12110.00",
-      "polarization": "H",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "3",
-      "tid": "3221",
-      "satellite_pos": "23.5E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "TV8.SK",
-      "country": "Slovacchia",
-      "category": "Various",
-      "bouquet": "M7 Group",
-      "encryption": "FTA",
-      "sid": "15613",
-      "vpid": "2301",
-      "audio_tracks": [
-        {
-          "pid": "2311",
-          "format": "",
-          "language": "slk"
-        }
-      ],
-      "pmt": "2300",
-      "pcr": "2301",
       "txt": "",
       "frequency": "12110.00",
       "polarization": "H",
