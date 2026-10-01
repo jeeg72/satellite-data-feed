@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "0_8W",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-10-01T08:00:02.763279",
-  "count": 1057,
+  "updated_at": "2026-10-01T12:00:01.804627",
+  "count": 1058,
   "channels": [
     {
       "channel_name": "Nome",
@@ -11714,6 +11714,42 @@
       ],
       "pmt": "1401",
       "pcr": "1402",
+      "txt": "",
+      "frequency": "11746.70",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "187",
+      "tid": "2807",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Canal+ Sport HD Slovakia",
+      "country": "Slovacchia",
+      "category": "Sport",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "7015",
+      "vpid": "1502",
+      "audio_tracks": [
+        {
+          "pid": "1503",
+          "format": "aac",
+          "language": "slk"
+        },
+        {
+          "pid": "1504",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1501",
+      "pcr": "1502",
       "txt": "",
       "frequency": "11746.70",
       "polarization": "H",
