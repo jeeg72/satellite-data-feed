@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-01T00:00:01.945280",
-  "count": 1510,
+  "updated_at": "2026-10-01T04:00:01.917239",
+  "count": 1509,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -41451,37 +41451,6 @@
       ],
       "pmt": "914",
       "pcr": "1141",
-      "txt": "",
-      "frequency": "12519.90",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "9000",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Somaliland National TV",
-      "country": "Somalia",
-      "category": "General",
-      "bouquet": "STN",
-      "encryption": "FTA",
-      "sid": "9016",
-      "vpid": "1161",
-      "audio_tracks": [
-        {
-          "pid": "1162",
-          "format": "",
-          "language": "som"
-        }
-      ],
-      "pmt": "916",
-      "pcr": "1161",
       "txt": "",
       "frequency": "12519.90",
       "polarization": "V",
