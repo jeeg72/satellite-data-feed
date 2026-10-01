@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-01T20:00:02.428654",
-  "count": 1518,
+  "updated_at": "2026-10-02T00:00:01.736446",
+  "count": 1519,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -40031,6 +40031,42 @@
         }
       ],
       "pmt": "1023",
+      "pcr": "173",
+      "txt": "701",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Cinema Uno",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3943",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "423",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1024",
       "pcr": "173",
       "txt": "701",
       "frequency": "12418.00",
