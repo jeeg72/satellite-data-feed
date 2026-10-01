@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-01T16:00:02.095533",
-  "count": 608,
+  "updated_at": "2026-10-01T20:00:02.428654",
+  "count": 610,
   "channels": [
     {
       "channel_name": "Nome",
@@ -5330,6 +5330,78 @@
       "pmt": "260",
       "pcr": "2339",
       "txt": "2372",
+      "frequency": "11305.00",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2109",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "2115",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "2115",
+      "vpid": "2375",
+      "audio_tracks": [
+        {
+          "pid": "2380",
+          "format": "",
+          "language": "nar"
+        },
+        {
+          "pid": "2376",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "262",
+      "pcr": "2375",
+      "txt": "2379",
+      "frequency": "11305.00",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2109",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "2116",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "2116",
+      "vpid": "2381",
+      "audio_tracks": [
+        {
+          "pid": "2384",
+          "format": "",
+          "language": "nar"
+        },
+        {
+          "pid": "2382",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "263",
+      "pcr": "2381",
+      "txt": "2383",
       "frequency": "11305.00",
       "polarization": "H",
       "symbol_rate": "27500",
@@ -16221,7 +16293,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Movies 24",
+      "channel_name": "Christmas 24",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
@@ -16891,7 +16963,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Movies 24+",
+      "channel_name": "Christmas 24+",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
