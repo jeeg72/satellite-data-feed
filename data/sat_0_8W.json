@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "0_8W",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-10-01T12:00:01.804627",
+  "updated_at": "2026-10-01T16:00:02.095533",
   "count": 1058,
   "channels": [
     {
@@ -5441,6 +5441,37 @@
       "pls_number": 0
     },
     {
+      "channel_name": "Kuukauden kanava",
+      "country": "Finlandia",
+      "category": "Documentaries",
+      "bouquet": "Allente",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "17084",
+      "vpid": "1538",
+      "audio_tracks": [
+        {
+          "pid": "3572",
+          "format": "",
+          "language": "swe"
+        }
+      ],
+      "pmt": "984",
+      "pcr": "1538",
+      "txt": "6336",
+      "frequency": "10934.40",
+      "polarization": "V",
+      "symbol_rate": "25000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "70",
+      "tid": "10",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
       "channel_name": "DR2 HD",
       "country": "",
       "category": "",
@@ -7608,37 +7639,6 @@
       "pmt": "920",
       "pcr": "1287",
       "txt": "",
-      "frequency": "11260.70",
-      "polarization": "H",
-      "symbol_rate": "25000",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "70",
-      "tid": "33",
-      "satellite_pos": "0.8W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Kuukauden kanava",
-      "country": "Finlandia",
-      "category": "Documentaries",
-      "bouquet": "Allente",
-      "encryption": "Nagravision 3 + VideoGuard + Conax",
-      "sid": "17084",
-      "vpid": "1130",
-      "audio_tracks": [
-        {
-          "pid": "3060",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "984",
-      "pcr": "1130",
-      "txt": "6013",
       "frequency": "11260.70",
       "polarization": "H",
       "symbol_rate": "25000",
