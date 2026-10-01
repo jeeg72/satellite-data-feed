@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-01T08:00:02.763279",
-  "count": 1509,
+  "updated_at": "2026-10-01T12:00:01.804627",
+  "count": 1511,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -13371,37 +13371,6 @@
       ],
       "pmt": "1206",
       "pcr": "1211",
-      "txt": "",
-      "frequency": "11179.00",
-      "polarization": "H",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "13300",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Telecupole",
-      "country": "Italia",
-      "category": "Various",
-      "bouquet": "",
-      "encryption": "FTA",
-      "sid": "4994",
-      "vpid": "1411",
-      "audio_tracks": [
-        {
-          "pid": "1412",
-          "format": "",
-          "language": "ita"
-        }
-      ],
-      "pmt": "1415",
-      "pcr": "1411",
       "txt": "",
       "frequency": "11179.00",
       "polarization": "H",
@@ -39603,37 +39572,6 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Jordan TV",
-      "country": "Giordania",
-      "category": "General",
-      "bouquet": "DU",
-      "encryption": "FTA",
-      "sid": "914",
-      "vpid": "320",
-      "audio_tracks": [
-        {
-          "pid": "333",
-          "format": "",
-          "language": "ara"
-        }
-      ],
-      "pmt": "307",
-      "pcr": "320",
-      "txt": "",
-      "frequency": "12398.80",
-      "polarization": "H",
-      "symbol_rate": "29700",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "8500",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
       "channel_name": "Libya Alwatnya",
       "country": "Libia",
       "category": "General",
@@ -39851,37 +39789,6 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Jordan R1",
-      "country": "",
-      "category": "",
-      "bouquet": "Du",
-      "encryption": "FTA",
-      "sid": "915",
-      "vpid": "",
-      "audio_tracks": [
-        {
-          "pid": "334",
-          "format": "",
-          "language": "ara"
-        }
-      ],
-      "pmt": "308",
-      "pcr": "334",
-      "txt": "",
-      "frequency": "12398.80",
-      "polarization": "H",
-      "symbol_rate": "29700",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "8500",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
       "channel_name": "Kuwait Radio 1",
       "country": "",
       "category": "",
@@ -40062,6 +39969,181 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "8500",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Prime Video Sportsbar",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3940",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "420",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "421",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1121",
+      "pcr": "165",
+      "txt": "",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Sport Business 2",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3945",
+      "vpid": "174",
+      "audio_tracks": [
+        {
+          "pid": "402",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "403",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1122",
+      "pcr": "174",
+      "txt": "",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Cinema Stories",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3946",
+      "vpid": "167",
+      "audio_tracks": [
+        {
+          "pid": "425",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "426",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1010",
+      "pcr": "167",
+      "txt": "711",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Sport Basket",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3952",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1001",
+      "pcr": "160",
+      "txt": "700",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Supertennis HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3954",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "408",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1127",
+      "pcr": "164",
+      "txt": "",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
