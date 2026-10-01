@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "4_8E",
   "satellite_pos": "4.8E",
-  "updated_at": "2026-10-01T20:00:02.428654",
-  "count": 273,
+  "updated_at": "2026-10-02T00:00:01.736446",
+  "count": 272,
   "channels": [
     {
       "channel_name": "Wedding Channel Africa",
@@ -3821,37 +3821,6 @@
       ],
       "pmt": "1880",
       "pcr": "1121",
-      "txt": "",
-      "frequency": "11765.90",
-      "polarization": "H",
-      "symbol_rate": "30000",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "85",
-      "tid": "12",
-      "satellite_pos": "4.8E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "ATR T",
-      "country": "Ucraina",
-      "category": "General",
-      "bouquet": "1plus1 Media",
-      "encryption": "FTA",
-      "sid": "6190",
-      "vpid": "1901",
-      "audio_tracks": [
-        {
-          "pid": "1902",
-          "format": "aac",
-          "language": "ukr"
-        }
-      ],
-      "pmt": "1900",
-      "pcr": "1901",
       "txt": "",
       "frequency": "11765.90",
       "polarization": "H",
