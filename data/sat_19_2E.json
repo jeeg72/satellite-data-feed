@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-01T20:00:02.428654",
-  "count": 1021,
+  "updated_at": "2026-10-02T00:00:01.736446",
+  "count": 1020,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -29789,42 +29789,6 @@
       ],
       "pmt": "97",
       "pcr": "511",
-      "txt": "",
-      "frequency": "12460.50",
-      "polarization": "H",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "133",
-      "tid": "5",
-      "satellite_pos": "19.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "EWTN Europe",
-      "country": "U.S.A.",
-      "category": "Religious",
-      "bouquet": "BetaDigital",
-      "encryption": "FTA",
-      "sid": "62",
-      "vpid": "1023",
-      "audio_tracks": [
-        {
-          "pid": "1024",
-          "format": "",
-          "language": "ger"
-        },
-        {
-          "pid": "1025",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "100",
-      "pcr": "1023",
       "txt": "",
       "frequency": "12460.50",
       "polarization": "H",
