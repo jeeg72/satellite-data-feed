@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-01T16:00:02.095533",
-  "count": 1511,
+  "updated_at": "2026-10-01T20:00:02.428654",
+  "count": 1518,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -40011,6 +40011,78 @@
       "pls_number": 0
     },
     {
+      "channel_name": "Sky Cinema Uno HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3941",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "423",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1023",
+      "pcr": "173",
+      "txt": "701",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Atlantic HD Italia",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3944",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1025",
+      "pcr": "163",
+      "txt": "704",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
       "channel_name": "Sky Sport Business 2",
       "country": "Italia",
       "category": "Sport",
@@ -40083,6 +40155,145 @@
       "pls_number": 0
     },
     {
+      "channel_name": "DAZN 1 HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3947",
+      "vpid": "169",
+      "audio_tracks": [
+        {
+          "pid": "430",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1008",
+      "pcr": "169",
+      "txt": "",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3948",
+      "vpid": "168",
+      "audio_tracks": [
+        {
+          "pid": "428",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "429",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1119",
+      "pcr": "168",
+      "txt": "",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Serie HD",
+      "country": "Italia",
+      "category": "Series",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3949",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "414",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "415",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1126",
+      "pcr": "172",
+      "txt": "705",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Investigation HD",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3950",
+      "vpid": "170",
+      "audio_tracks": [
+        {
+          "pid": "410",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "411",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1017",
+      "pcr": "170",
+      "txt": "712",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
       "channel_name": "Sky Sport Basket",
       "country": "Italia",
       "category": "Sport",
@@ -40105,6 +40316,42 @@
       "pmt": "1001",
       "pcr": "160",
       "txt": "700",
+      "frequency": "12418.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3953",
+      "vpid": "171",
+      "audio_tracks": [
+        {
+          "pid": "412",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "413",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1018",
+      "pcr": "171",
+      "txt": "",
       "frequency": "12418.00",
       "polarization": "V",
       "symbol_rate": "29900",
