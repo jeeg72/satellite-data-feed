@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "4_8E",
   "satellite_pos": "4.8E",
-  "updated_at": "2026-10-01T12:00:01.804627",
-  "count": 274,
+  "updated_at": "2026-10-01T16:00:02.095533",
+  "count": 273,
   "channels": [
     {
       "channel_name": "Wedding Channel Africa",
@@ -7006,37 +7006,6 @@
       ],
       "pmt": "6665",
       "pcr": "6666",
-      "txt": "",
-      "frequency": "12130.30",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "85",
-      "tid": "16",
-      "satellite_pos": "4.8E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Sonata TV",
-      "country": "Ucraina",
-      "category": "Teleshopping",
-      "bouquet": "",
-      "encryption": "FTA",
-      "sid": "6670",
-      "vpid": "6671",
-      "audio_tracks": [
-        {
-          "pid": "6672",
-          "format": "",
-          "language": "ukr"
-        }
-      ],
-      "pmt": "6670",
-      "pcr": "6671",
       "txt": "",
       "frequency": "12130.30",
       "polarization": "V",
