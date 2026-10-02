@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-02T16:00:02.126173",
-  "count": 1022,
+  "updated_at": "2026-10-02T20:00:01.962659",
+  "count": 1023,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -17485,6 +17485,37 @@
       "pmt": "400",
       "pcr": "95",
       "txt": "3000",
+      "frequency": "11778.00",
+      "polarization": "V",
+      "symbol_rate": "29500",
+      "fec": "9/1",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1068",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "CGTN HD",
+      "country": "Cina",
+      "category": "General",
+      "bouquet": "GLOBECAST",
+      "encryption": "FTA",
+      "sid": "5711",
+      "vpid": "7111",
+      "audio_tracks": [
+        {
+          "pid": "7112",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "7110",
+      "pcr": "7111",
+      "txt": "",
       "frequency": "11778.00",
       "polarization": "V",
       "symbol_rate": "29500",
