@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-02T16:00:02.126173",
-  "count": 1518,
+  "updated_at": "2026-10-02T20:00:01.962659",
+  "count": 1520,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -8378,10 +8378,10 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Rai Scuola HD",
+      "channel_name": "Italiana",
       "country": "Italia",
-      "category": "Cultural",
-      "bouquet": "",
+      "category": "General",
+      "bouquet": "RAI",
       "encryption": "FTA",
       "sid": "8521",
       "vpid": "521",
@@ -42474,6 +42474,68 @@
       ],
       "pmt": "601",
       "pcr": "6011",
+      "txt": "",
+      "frequency": "12577.40",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "9300",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Test 1",
+      "country": "",
+      "category": "",
+      "bouquet": "Al Jazeera",
+      "encryption": "FTA",
+      "sid": "1602",
+      "vpid": "6021",
+      "audio_tracks": [
+        {
+          "pid": "6022",
+          "format": "",
+          "language": "ara"
+        }
+      ],
+      "pmt": "602",
+      "pcr": "6021",
+      "txt": "",
+      "frequency": "12577.40",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "9300",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Test 2",
+      "country": "",
+      "category": "",
+      "bouquet": "Al Jazeera",
+      "encryption": "FTA",
+      "sid": "1603",
+      "vpid": "6031",
+      "audio_tracks": [
+        {
+          "pid": "6032",
+          "format": "",
+          "language": "ara"
+        }
+      ],
+      "pmt": "603",
+      "pcr": "6031",
       "txt": "",
       "frequency": "12577.40",
       "polarization": "H",
