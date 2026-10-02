@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-02T00:00:01.736446",
-  "count": 1519,
+  "updated_at": "2026-10-02T04:00:02.059422",
+  "count": 1518,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -33985,37 +33985,6 @@
       ],
       "pmt": "3547",
       "pcr": "3546",
-      "txt": "",
-      "frequency": "12149.50",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "318",
-      "tid": "7200",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Radio Iglesias",
-      "country": "",
-      "category": "",
-      "bouquet": "M-Three satcom",
-      "encryption": "FTA",
-      "sid": "3654",
-      "vpid": "",
-      "audio_tracks": [
-        {
-          "pid": "3548",
-          "format": "",
-          "language": "ita"
-        }
-      ],
-      "pmt": "3549",
-      "pcr": "3548",
       "txt": "",
       "frequency": "12149.50",
       "polarization": "V",
