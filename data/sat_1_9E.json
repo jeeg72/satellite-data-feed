@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "1_9E",
   "satellite_pos": "1.9E",
-  "updated_at": "2026-10-02T16:00:02.126173",
+  "updated_at": "2026-10-02T20:00:01.962659",
   "count": 243,
   "channels": [
     {
@@ -1480,8 +1480,8 @@
       "channel_name": "Epic Drama HD",
       "country": "Polonia",
       "category": "Series",
-      "bouquet": "neosat",
-      "encryption": "FTA",
+      "bouquet": "Neosat",
+      "encryption": "BulCrypt",
       "sid": "546",
       "vpid": "1730",
       "audio_tracks": [
