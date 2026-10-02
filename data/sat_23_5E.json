@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-10-02T00:00:01.736446",
-  "count": 664,
+  "updated_at": "2026-10-02T04:00:02.059422",
+  "count": 663,
   "channels": [
     {
       "channel_name": "Star Channel Netherlands",
@@ -698,37 +698,6 @@
       "pmt": "2475",
       "pcr": "582",
       "txt": "",
-      "frequency": "11739.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "3",
-      "tid": "3202",
-      "satellite_pos": "23.5E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Mezzo",
-      "country": "Francia",
-      "category": "Music",
-      "bouquet": "Canal DigitaalSkyLinkTV Vlaanderen",
-      "encryption": "Nagravision 3 + Viaccess 5 + Irdeto 2 + Conax",
-      "sid": "6166",
-      "vpid": "566",
-      "audio_tracks": [
-        {
-          "pid": "136",
-          "format": "",
-          "language": "fra"
-        }
-      ],
-      "pmt": "2466",
-      "pcr": "566",
-      "txt": "237",
       "frequency": "11739.00",
       "polarization": "V",
       "symbol_rate": "29900",
