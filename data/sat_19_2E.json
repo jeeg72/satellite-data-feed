@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-02T00:00:01.736446",
-  "count": 1020,
+  "updated_at": "2026-10-02T04:00:02.059422",
+  "count": 1022,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -17485,6 +17485,68 @@
       "pmt": "400",
       "pcr": "95",
       "txt": "3000",
+      "frequency": "11778.00",
+      "polarization": "V",
+      "symbol_rate": "29500",
+      "fec": "9/1",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1068",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "CGTN Documentary HD",
+      "country": "Cina",
+      "category": "Documentaries",
+      "bouquet": "GLOBECAST",
+      "encryption": "FTA",
+      "sid": "5712",
+      "vpid": "7121",
+      "audio_tracks": [
+        {
+          "pid": "7122",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "7120",
+      "pcr": "7121",
+      "txt": "",
+      "frequency": "11778.00",
+      "polarization": "V",
+      "symbol_rate": "29500",
+      "fec": "9/1",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1068",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "CGTN Français HD",
+      "country": "Cina",
+      "category": "General",
+      "bouquet": "GLOBECAST",
+      "encryption": "FTA",
+      "sid": "5713",
+      "vpid": "7131",
+      "audio_tracks": [
+        {
+          "pid": "7132",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "7130",
+      "pcr": "7131",
+      "txt": "",
       "frequency": "11778.00",
       "polarization": "V",
       "symbol_rate": "29500",
