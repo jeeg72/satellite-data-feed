@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-10-02T16:00:02.126173",
-  "count": 328,
+  "updated_at": "2026-10-02T20:00:01.962659",
+  "count": 327,
   "channels": [
     {
       "channel_name": "Nahade Azadi",
@@ -2955,37 +2955,6 @@
       ],
       "pmt": "4100",
       "pcr": "4101",
-      "txt": "",
-      "frequency": "10845.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "6478",
-      "tid": "6478",
-      "satellite_pos": "52.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "ICC (Iranian Cinema Channel)",
-      "country": "U.S.A.",
-      "category": "Movies",
-      "bouquet": "WNS",
-      "encryption": "FTA",
-      "sid": "42",
-      "vpid": "4201",
-      "audio_tracks": [
-        {
-          "pid": "4202",
-          "format": "aac",
-          "language": "far"
-        }
-      ],
-      "pmt": "4200",
-      "pcr": "4201",
       "txt": "",
       "frequency": "10845.70",
       "polarization": "V",
