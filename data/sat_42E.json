@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "42E",
   "satellite_pos": "42.0E",
-  "updated_at": "2026-10-02T16:00:02.126173",
-  "count": 621,
+  "updated_at": "2026-10-02T20:00:01.962659",
+  "count": 619,
   "channels": [
     {
       "channel_name": "Star TV",
@@ -2279,37 +2279,6 @@
       "pls_number": 0
     },
     {
-      "channel_name": "TRT 1 HD",
-      "country": "Turchia",
-      "category": "General",
-      "bouquet": "Digitürk",
-      "encryption": "Irdeto 2",
-      "sid": "16951",
-      "vpid": "2751",
-      "audio_tracks": [
-        {
-          "pid": "2851",
-          "format": "",
-          "language": "tur"
-        }
-      ],
-      "pmt": "33",
-      "pcr": "2751",
-      "txt": "",
-      "frequency": "11305.00",
-      "polarization": "V",
-      "symbol_rate": "30000",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "42",
-      "tid": "43305",
-      "satellite_pos": "42.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
       "channel_name": "CGTN Documentary HD",
       "country": "Cina",
       "category": "Documentaries",
@@ -3455,37 +3424,6 @@
       ],
       "pmt": "601",
       "pcr": "3378",
-      "txt": "",
-      "frequency": "11385.10",
-      "polarization": "V",
-      "symbol_rate": "30000",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "42",
-      "tid": "20101",
-      "satellite_pos": "42.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "TRT Spor HD",
-      "country": "Turchia",
-      "category": "Sport",
-      "bouquet": "Digitürk",
-      "encryption": "Irdeto 2",
-      "sid": "14179",
-      "vpid": "3379",
-      "audio_tracks": [
-        {
-          "pid": "3479",
-          "format": "",
-          "language": "tur"
-        }
-      ],
-      "pmt": "52",
-      "pcr": "3379",
       "txt": "",
       "frequency": "11385.10",
       "polarization": "V",
