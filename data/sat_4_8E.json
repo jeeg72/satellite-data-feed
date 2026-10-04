@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "4_8E",
   "satellite_pos": "4.8E",
-  "updated_at": "2026-10-04T17:10:22.264495",
+  "updated_at": "2026-10-04T17:55:48.427991",
   "count": 272,
   "channels": [
     {
@@ -2349,7 +2349,7 @@
       "frequency": "4094.30",
       "polarization": "L",
       "symbol_rate": "1551",
-      "fec": "5/1",
+      "fec": "5/11",
       "standard": "DVB-S2",
       "modulation": "QPSK",
       "nid": "1",
@@ -2380,7 +2380,7 @@
       "frequency": "4097.30",
       "polarization": "L",
       "symbol_rate": "3365",
-      "fec": "5/1",
+      "fec": "5/11",
       "standard": "DVB-S2",
       "modulation": "QPSK",
       "nid": "1",
