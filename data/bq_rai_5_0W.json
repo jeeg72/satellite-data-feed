@@ -3,7 +3,7 @@
   "label": "rai — 5.0W",
   "bouquet_id": "rai",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-10-04T08:00:02.183025",
+  "updated_at": "2026-10-04T09:07:43.506962",
   "count": 160,
   "channels": [
     {
@@ -27,9 +27,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 1 HD",
@@ -73,9 +73,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 2 HD",
@@ -114,9 +114,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -145,9 +145,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -181,9 +181,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -217,9 +217,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -253,9 +253,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -289,9 +289,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -325,9 +325,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -361,9 +361,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -397,9 +397,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -428,9 +428,9 @@
       "nid": "8572",
       "tid": "203",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 1 HD",
@@ -474,9 +474,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 2 HD",
@@ -515,9 +515,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -546,9 +546,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -582,9 +582,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -618,9 +618,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -654,9 +654,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -690,9 +690,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -726,9 +726,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -762,9 +762,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -798,9 +798,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -829,9 +829,9 @@
       "nid": "8572",
       "tid": "153",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 1 HD",
@@ -870,9 +870,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -901,9 +901,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -937,9 +937,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 1 HD",
@@ -983,9 +983,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 2 HD",
@@ -1024,9 +1024,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -1055,9 +1055,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -1091,9 +1091,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -1127,9 +1127,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -1163,9 +1163,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -1199,9 +1199,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -1235,9 +1235,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -1271,9 +1271,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -1307,9 +1307,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -1338,9 +1338,9 @@
       "nid": "8572",
       "tid": "183",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Sport HD",
@@ -1374,9 +1374,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Movie HD",
@@ -1415,9 +1415,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Gulp",
@@ -1451,9 +1451,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Yoyo",
@@ -1487,9 +1487,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Premium",
@@ -1528,9 +1528,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 5",
@@ -1569,9 +1569,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 4",
@@ -1610,9 +1610,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai GR Parlamento",
@@ -1641,9 +1641,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Isoradio",
@@ -1672,9 +1672,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio 3 Classica",
@@ -1703,9 +1703,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio Kids",
@@ -1734,9 +1734,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio Live Napoli",
@@ -1765,9 +1765,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio Techete'",
@@ -1796,9 +1796,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio Tutta Italiana",
@@ -1827,9 +1827,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio 1 Sport",
@@ -1858,9 +1858,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "No Name Radio powered by Rai",
@@ -1889,9 +1889,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 4 HD",
@@ -1920,9 +1920,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Italiana",
@@ -1951,9 +1951,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Storia HD",
@@ -1982,9 +1982,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Premium HD",
@@ -2013,9 +2013,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio 2",
@@ -2044,9 +2044,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio 3",
@@ -2075,9 +2075,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai Radio 1",
@@ -2106,9 +2106,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "OTA-A",
@@ -2131,9 +2131,9 @@
       "nid": "8572",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 4,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 1 HD",
@@ -2177,9 +2177,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 2 HD",
@@ -2218,9 +2218,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai News 24",
@@ -2249,9 +2249,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 HD",
@@ -2285,9 +2285,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -2321,9 +2321,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -2357,9 +2357,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -2393,9 +2393,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Lazio HD",
@@ -2429,9 +2429,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -2465,9 +2465,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -2501,9 +2501,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai News 24",
@@ -2532,9 +2532,9 @@
       "nid": "8572",
       "tid": "143",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 16416
     },
     {
       "channel_name": "Nome",
@@ -2557,9 +2557,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 1 HD",
@@ -2603,9 +2603,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 2 HD",
@@ -2644,9 +2644,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai News 24",
@@ -2675,9 +2675,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 HD",
@@ -2711,9 +2711,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR FVG",
@@ -2747,9 +2747,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 Bis",
@@ -2783,9 +2783,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -2819,9 +2819,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR FVG",
@@ -2855,9 +2855,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 Bis",
@@ -2891,9 +2891,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -2927,9 +2927,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai News 24",
@@ -2958,9 +2958,9 @@
       "nid": "8572",
       "tid": "173",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 5,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio MF1 Roma",
@@ -2989,9 +2989,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 AO",
@@ -3020,9 +3020,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 AN",
@@ -3051,9 +3051,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 BA",
@@ -3082,9 +3082,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 BO",
@@ -3113,9 +3113,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 BZ",
@@ -3144,9 +3144,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 CA",
@@ -3175,9 +3175,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 CB",
@@ -3206,9 +3206,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 CS",
@@ -3237,9 +3237,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 FI",
@@ -3268,9 +3268,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 GE",
@@ -3299,9 +3299,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 MI",
@@ -3330,9 +3330,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 NA",
@@ -3361,9 +3361,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 PA",
@@ -3392,9 +3392,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 PE",
@@ -3423,9 +3423,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 PG",
@@ -3454,9 +3454,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 PZ",
@@ -3485,9 +3485,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 TN",
@@ -3516,9 +3516,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 TO",
@@ -3547,9 +3547,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 TS",
@@ -3578,9 +3578,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 VE",
@@ -3609,9 +3609,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 SDT",
@@ -3640,9 +3640,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio1 SLV",
@@ -3671,9 +3671,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio 1",
@@ -3702,9 +3702,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio 3",
@@ -3733,9 +3733,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio GR Parlamento",
@@ -3764,9 +3764,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio 2",
@@ -3795,9 +3795,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio Classica",
@@ -3826,9 +3826,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Isoradio",
@@ -3857,9 +3857,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai Radio2 BZ",
@@ -3888,9 +3888,9 @@
       "nid": "1",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 1 HD",
@@ -3934,9 +3934,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 2 HD",
@@ -3975,9 +3975,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai News 24",
@@ -4006,9 +4006,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 HD",
@@ -4042,9 +4042,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -4078,9 +4078,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Emilia Romagna",
@@ -4114,9 +4114,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -4150,9 +4150,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -4186,9 +4186,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Emilia-Romagna HD",
@@ -4222,9 +4222,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -4258,9 +4258,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai News 24",
@@ -4289,9 +4289,9 @@
       "nid": "8572",
       "tid": "163",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 16416
     },
     {
       "channel_name": "Rai 1 HD",
@@ -4335,9 +4335,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 2 HD",
@@ -4376,9 +4376,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -4407,9 +4407,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -4443,9 +4443,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo HD",
@@ -4479,9 +4479,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -4515,9 +4515,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -4551,9 +4551,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo HD",
@@ -4587,9 +4587,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -4623,9 +4623,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -4659,9 +4659,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -4690,9 +4690,9 @@
       "nid": "8572",
       "tid": "133",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 7,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 1 HD",
@@ -4736,9 +4736,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 2 HD",
@@ -4777,9 +4777,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -4808,9 +4808,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -4844,9 +4844,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -4880,9 +4880,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -4916,9 +4916,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -4952,9 +4952,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -4988,9 +4988,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -5024,9 +5024,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -5060,9 +5060,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -5091,9 +5091,9 @@
       "nid": "8572",
       "tid": "193",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 8,
+      "pls_number": 131070
     },
     {
       "channel_name": "Nome",
@@ -5116,9 +5116,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 1 HD",
@@ -5162,9 +5162,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 2 HD",
@@ -5203,9 +5203,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -5234,9 +5234,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -5270,9 +5270,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -5306,9 +5306,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -5342,9 +5342,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -5378,9 +5378,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -5414,9 +5414,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -5450,9 +5450,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -5486,9 +5486,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai News 24",
@@ -5517,9 +5517,9 @@
       "nid": "8572",
       "tid": "213",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 10,
+      "pls_number": 131070
     },
     {
       "channel_name": "Rai 3 HD",
@@ -5553,9 +5553,9 @@
       "nid": "318",
       "tid": "1",
       "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070
     }
   ]
 }
