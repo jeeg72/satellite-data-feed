@@ -3,7 +3,7 @@
   "label": "mediaset — 39.0E",
   "bouquet_id": "mediaset",
   "satellite_pos": "39.0E",
-  "updated_at": "2026-10-04T17:10:22.264495",
+  "updated_at": "2026-10-04T17:55:48.427991",
   "count": 2,
   "channels": [
     {
@@ -26,7 +26,7 @@
       "txt": "",
       "frequency": "10930.00",
       "polarization": "H",
-      "symbol_rate": "300005",
+      "symbol_rate": "30000",
       "fec": "5/6",
       "standard": "DVB-S2",
       "modulation": "8PSK",
@@ -57,7 +57,7 @@
       "txt": "",
       "frequency": "10930.00",
       "polarization": "H",
-      "symbol_rate": "300005",
+      "symbol_rate": "30000",
       "fec": "5/6",
       "standard": "DVB-S2",
       "modulation": "8PSK",
