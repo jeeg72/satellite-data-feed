@@ -3,8 +3,8 @@
   "label": "mediaset — 9.0E",
   "bouquet_id": "mediaset",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-10-04T16:44:41.130648",
-  "count": 46,
+  "updated_at": "2026-10-04T17:10:22.264495",
+  "count": 53,
   "channels": [
     {
       "channel_name": "Boing",
@@ -1037,6 +1037,31 @@
       "pls_number": 8
     },
     {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "12149.50",
+      "polarization": "V",
+      "symbol_rate": "314002",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+8",
+      "modulation": "16APSKStream 1",
+      "nid": "272",
+      "tid": "930",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 8
+    },
+    {
       "channel_name": "Canale 5 HD",
       "country": "Italia",
       "category": "General",
@@ -1392,6 +1417,37 @@
       "pls_number": 8
     },
     {
+      "channel_name": "Test HEVC Main10",
+      "country": "",
+      "category": "",
+      "bouquet": "Mediaset",
+      "encryption": "FTA",
+      "sid": "3200",
+      "vpid": "1062",
+      "audio_tracks": [
+        {
+          "pid": "1162",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "200",
+      "pcr": "1062",
+      "txt": "",
+      "frequency": "12149.50",
+      "polarization": "V",
+      "symbol_rate": "314002",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+8",
+      "modulation": "16APSKStream 1",
+      "nid": "272",
+      "tid": "930",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 8
+    },
+    {
       "channel_name": "Rete4 HD",
       "country": "",
       "category": "",
@@ -1564,6 +1620,155 @@
       "satellite_pos": "9.0E",
       "is_multistream": true,
       "ms_isid": 1,
+      "pls_number": 8
+    },
+    {
+      "channel_name": "Nome",
+      "country": "Paese",
+      "category": "Categoria",
+      "bouquet": "Bouquet",
+      "encryption": "Codifica",
+      "sid": "SID",
+      "vpid": "VPID",
+      "audio_tracks": [],
+      "pmt": "PMT",
+      "pcr": "PCR",
+      "txt": "TXT",
+      "frequency": "12149.50",
+      "polarization": "V",
+      "symbol_rate": "314002",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+8",
+      "modulation": "16APSKStream 2",
+      "nid": "272",
+      "tid": "901",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 8
+    },
+    {
+      "channel_name": "Radio R101",
+      "country": "",
+      "category": "",
+      "bouquet": "Mediaset",
+      "encryption": "FTA",
+      "sid": "120",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "1171",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "220",
+      "pcr": "5101",
+      "txt": "",
+      "frequency": "12149.50",
+      "polarization": "V",
+      "symbol_rate": "314002",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+8",
+      "modulation": "16APSKStream 2",
+      "nid": "272",
+      "tid": "901",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 8
+    },
+    {
+      "channel_name": "RADIO 105",
+      "country": "",
+      "category": "",
+      "bouquet": "Mediaset",
+      "encryption": "FTA",
+      "sid": "121",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "1172",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "221",
+      "pcr": "5101",
+      "txt": "",
+      "frequency": "12149.50",
+      "polarization": "V",
+      "symbol_rate": "314002",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+8",
+      "modulation": "16APSKStream 2",
+      "nid": "272",
+      "tid": "901",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 8
+    },
+    {
+      "channel_name": "VIRGIN RADIO",
+      "country": "",
+      "category": "",
+      "bouquet": "Mediaset",
+      "encryption": "FTA",
+      "sid": "122",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "1173",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "222",
+      "pcr": "5101",
+      "txt": "",
+      "frequency": "12149.50",
+      "polarization": "V",
+      "symbol_rate": "314002",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+8",
+      "modulation": "16APSKStream 2",
+      "nid": "272",
+      "tid": "901",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 2,
+      "pls_number": 8
+    },
+    {
+      "channel_name": "Radio Monte Carlo",
+      "country": "",
+      "category": "",
+      "bouquet": "Mediaset",
+      "encryption": "FTA",
+      "sid": "123",
+      "vpid": "",
+      "audio_tracks": [
+        {
+          "pid": "1174",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "223",
+      "pcr": "5101",
+      "txt": "",
+      "frequency": "12149.50",
+      "polarization": "V",
+      "symbol_rate": "314002",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Root+8",
+      "modulation": "16APSKStream 2",
+      "nid": "272",
+      "tid": "901",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 2,
       "pls_number": 8
     }
   ]
