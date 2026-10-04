@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-04T04:00:02.445862",
-  "count": 994,
+  "updated_at": "2026-10-04T08:00:02.183025",
+  "count": 993,
   "channels": [
     {
       "channel_name": "Polonia",
@@ -24491,37 +24491,6 @@
       "pmt": "161",
       "pcr": "701",
       "txt": "2025-03-07+",
-      "frequency": "",
-      "polarization": "",
-      "symbol_rate": "",
-      "fec": "",
-      "standard": "",
-      "modulation": "",
-      "nid": "",
-      "tid": "",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Italia",
-      "country": "Movies",
-      "category": "Sky Italia",
-      "bouquet": "VideoGuard",
-      "encryption": "4204",
-      "sid": "163",
-      "vpid": "413ita414vo",
-      "audio_tracks": [
-        {
-          "pid": "1003",
-          "format": "",
-          "language": ""
-        }
-      ],
-      "pmt": "163",
-      "pcr": "703",
-      "txt": "2026-09-28+",
       "frequency": "",
       "polarization": "",
       "symbol_rate": "",
