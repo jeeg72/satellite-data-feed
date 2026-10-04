@@ -3,7 +3,7 @@
   "label": "rai — 47.5W",
   "bouquet_id": "rai",
   "satellite_pos": "47.5W",
-  "updated_at": "2026-10-04T12:00:02.665333",
+  "updated_at": "2026-10-04T16:44:41.130648",
   "count": 1,
   "channels": [
     {
@@ -31,7 +31,7 @@
       "txt": "",
       "frequency": "4095.00",
       "polarization": "L",
-      "symbol_rate": "30000",
+      "symbol_rate": "300002",
       "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
