@@ -3,7 +3,7 @@
   "label": "rai — 9.0E",
   "bouquet_id": "rai",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-10-04T17:10:22.264495",
+  "updated_at": "2026-10-04T17:55:48.427991",
   "count": 1,
   "channels": [
     {
@@ -26,7 +26,7 @@
       "txt": "",
       "frequency": "11900.10",
       "polarization": "H",
-      "symbol_rate": "275002",
+      "symbol_rate": "27500",
       "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
