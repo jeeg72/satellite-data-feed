@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "30W",
   "satellite_pos": "30.0W",
-  "updated_at": "2026-10-04T17:10:22.264495",
+  "updated_at": "2026-10-04T17:55:48.427991",
   "count": 321,
   "channels": [
     {
@@ -346,7 +346,7 @@
       "frequency": "10913.50",
       "polarization": "H",
       "symbol_rate": "2500",
-      "fec": "9/1",
+      "fec": "9/10",
       "standard": "DVB-S2",
       "modulation": "QPSK",
       "nid": "1",
