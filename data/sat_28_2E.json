@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-05T12:00:02.382363",
+  "updated_at": "2026-10-05T16:00:01.909701",
   "count": 530,
   "channels": [
     {
@@ -17351,7 +17351,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Sky 5* Movies HD",
+      "channel_name": "Sky Animation HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
@@ -17423,7 +17423,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Sky Mockingjay HD",
+      "channel_name": "Sky Transformers HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
