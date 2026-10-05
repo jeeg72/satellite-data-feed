@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-05T12:00:02.382363",
+  "updated_at": "2026-10-05T16:00:01.909701",
   "count": 1104,
   "channels": [
     {
@@ -32357,20 +32357,14 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Test 1",
+      "channel_name": "Al Jazeera Test 1 HD",
       "country": "",
       "category": "",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
       "sid": "1602",
       "vpid": "6021",
-      "audio_tracks": [
-        {
-          "pid": "6022",
-          "format": "",
-          "language": "ara"
-        }
-      ],
+      "audio_tracks": [],
       "pmt": "602",
       "pcr": "6021",
       "txt": "",
@@ -32388,20 +32382,14 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Test 2",
+      "channel_name": "Al Jazeera Test 2 HD",
       "country": "",
       "category": "",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
       "sid": "1603",
       "vpid": "6031",
-      "audio_tracks": [
-        {
-          "pid": "6032",
-          "format": "",
-          "language": "ara"
-        }
-      ],
+      "audio_tracks": [],
       "pmt": "603",
       "pcr": "6031",
       "txt": "",
