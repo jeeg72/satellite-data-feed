@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "42E",
   "satellite_pos": "42.0E",
-  "updated_at": "2026-10-05T12:00:02.382363",
-  "count": 432,
+  "updated_at": "2026-10-05T16:00:01.909701",
+  "count": 431,
   "channels": [
     {
       "channel_name": "Star TV",
@@ -1419,7 +1419,7 @@
         }
       ],
       "pmt": "65",
-      "pcr": "2754",
+      "pcr": "8191",
       "txt": "",
       "frequency": "11305.00",
       "polarization": "V",
@@ -8738,42 +8738,6 @@
       ],
       "pmt": "1908",
       "pcr": "308",
-      "txt": "",
-      "frequency": "12188.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "5/6",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "66",
-      "tid": "9",
-      "satellite_pos": "42.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Teknofest Güneydoĝu",
-      "country": "Turchia",
-      "category": "Intrattenimento",
-      "bouquet": "DEMIROREN MEDYA",
-      "encryption": "FTA",
-      "sid": "1909",
-      "vpid": "109",
-      "audio_tracks": [
-        {
-          "pid": "209",
-          "format": "",
-          "language": "tur"
-        },
-        {
-          "pid": "309",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "1909",
-      "pcr": "109",
       "txt": "",
       "frequency": "12188.00",
       "polarization": "V",
