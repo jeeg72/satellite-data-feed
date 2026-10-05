@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-05T16:00:01.909701",
-  "count": 530,
+  "updated_at": "2026-10-05T20:00:02.262260",
+  "count": 533,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -7653,6 +7653,99 @@
       ],
       "pmt": "258",
       "pcr": "2307",
+      "txt": "",
+      "frequency": "11523.25",
+      "polarization": "H",
+      "symbol_rate": "23000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2093",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "7618",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "7618",
+      "vpid": "2309",
+      "audio_tracks": [
+        {
+          "pid": "2310",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "257",
+      "pcr": "2309",
+      "txt": "",
+      "frequency": "11523.25",
+      "polarization": "H",
+      "symbol_rate": "23000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2093",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "7619",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "7619",
+      "vpid": "2311",
+      "audio_tracks": [
+        {
+          "pid": "2312",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "262",
+      "pcr": "2311",
+      "txt": "",
+      "frequency": "11523.25",
+      "polarization": "H",
+      "symbol_rate": "23000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2093",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "7620",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "7620",
+      "vpid": "2313",
+      "audio_tracks": [
+        {
+          "pid": "2314",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "263",
+      "pcr": "2313",
       "txt": "",
       "frequency": "11523.25",
       "polarization": "H",
