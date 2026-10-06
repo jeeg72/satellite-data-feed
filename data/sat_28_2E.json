@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-06T20:00:02.556622",
+  "updated_at": "2026-10-07T00:00:02.594845",
   "count": 531,
   "channels": [
     {
@@ -4530,9 +4530,9 @@
       "pls_number": 0
     },
     {
-      "channel_name": "2113",
-      "country": "",
-      "category": "",
+      "channel_name": "Nick Junior",
+      "country": "Regno Unito",
+      "category": "Children",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "2113",
@@ -4549,7 +4549,7 @@
           "language": "nar"
         }
       ],
-      "pmt": "256",
+      "pmt": "268",
       "pcr": "2335",
       "txt": "2338",
       "frequency": "11305.00",
@@ -4566,9 +4566,9 @@
       "pls_number": 0
     },
     {
-      "channel_name": "2114",
-      "country": "",
-      "category": "",
+      "channel_name": "Comedy Central UK",
+      "country": "Regno Unito",
+      "category": "Intrattenimento",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "2114",
@@ -4585,7 +4585,7 @@
           "language": "eng"
         }
       ],
-      "pmt": "260",
+      "pmt": "264",
       "pcr": "2339",
       "txt": "2372",
       "frequency": "11305.00",
