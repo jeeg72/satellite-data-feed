@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "5W",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-10-06T00:00:02.472005",
-  "count": 326,
+  "updated_at": "2026-10-06T04:00:01.736324",
+  "count": 327,
   "channels": [
     {
       "channel_name": "TV 5 Monde (France Belgique Suisse)",
@@ -4387,6 +4387,52 @@
       "satellite_pos": "5.0W",
       "is_multistream": true,
       "ms_isid": 9,
+      "pls_number": 131070
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1451",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W",
+      "is_multistream": true,
+      "ms_isid": 0,
       "pls_number": 131070
     },
     {
