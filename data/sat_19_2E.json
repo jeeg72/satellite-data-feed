@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-06T08:00:02.512788",
-  "count": 793,
+  "updated_at": "2026-10-06T12:00:02.615745",
+  "count": 794,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -23865,6 +23865,37 @@
       ],
       "pmt": "1600",
       "pcr": "1610",
+      "txt": "",
+      "frequency": "12402.00",
+      "polarization": "V",
+      "symbol_rate": "29700",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1",
+      "tid": "1100",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "RMC Sport 1 HD",
+      "country": "Francia",
+      "category": "Sport",
+      "bouquet": "Canal+ France",
+      "encryption": "Nagravision 3",
+      "sid": "10019",
+      "vpid": "1910",
+      "audio_tracks": [
+        {
+          "pid": "1921",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "1900",
+      "pcr": "1910",
       "txt": "",
       "frequency": "12402.00",
       "polarization": "V",
