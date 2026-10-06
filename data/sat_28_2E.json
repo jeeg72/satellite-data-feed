@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-06T12:00:02.615745",
-  "count": 533,
+  "updated_at": "2026-10-06T16:00:01.811403",
+  "count": 531,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -2968,42 +2968,6 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Nick Jr Ireland",
-      "country": "Regno Unito",
-      "category": "Children",
-      "bouquet": "Sky Digital",
-      "encryption": "VideoGuard",
-      "sid": "51081",
-      "vpid": "2317",
-      "audio_tracks": [
-        {
-          "pid": "2319",
-          "format": "",
-          "language": "nar"
-        },
-        {
-          "pid": "2318",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "259",
-      "pcr": "2317",
-      "txt": "2320",
-      "frequency": "11141.25",
-      "polarization": "H",
-      "symbol_rate": "23000",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2069",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
       "channel_name": "Nick Alvinnnn!!!",
       "country": "Regno Unito",
       "category": "Children",
@@ -3314,42 +3278,6 @@
       "pmt": "268",
       "pcr": "2353",
       "txt": "2356",
-      "frequency": "11141.25",
-      "polarization": "H",
-      "symbol_rate": "23000",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2069",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "Comedy Central UK",
-      "country": "Regno Unito",
-      "category": "Intrattenimento",
-      "bouquet": "Sky Digital",
-      "encryption": "VideoGuard",
-      "sid": "51093",
-      "vpid": "2367",
-      "audio_tracks": [
-        {
-          "pid": "2369",
-          "format": "",
-          "language": "nar"
-        },
-        {
-          "pid": "2368",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "257",
-      "pcr": "2367",
-      "txt": "2370",
       "frequency": "11141.25",
       "polarization": "H",
       "symbol_rate": "23000",
