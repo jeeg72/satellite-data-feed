@@ -3,8 +3,8 @@
   "label": "rai — 5.0W",
   "bouquet_id": "rai",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-10-06T00:00:02.472005",
-  "count": 122,
+  "updated_at": "2026-10-06T04:00:01.736324",
+  "count": 123,
   "channels": [
     {
       "channel_name": "Rai 1 HD",
@@ -903,6 +903,52 @@
       "pmt": "170",
       "pcr": "270",
       "txt": "",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2PLS: Gold+131070",
+      "modulation": "8PSKStream 3",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W",
+      "is_multistream": true,
+      "ms_isid": 3,
+      "pls_number": 131070
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1451",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
       "frequency": "12564.00",
       "polarization": "V",
       "symbol_rate": "35294",
