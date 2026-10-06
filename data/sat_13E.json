@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-06T08:00:02.512788",
+  "updated_at": "2026-10-06T12:00:02.615745",
   "count": 1104,
   "channels": [
     {
@@ -12294,7 +12294,7 @@
       "country": "Grecia",
       "category": "Sport",
       "bouquet": "NovaTotal TV",
-      "encryption": "FTA",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
       "sid": "751",
       "vpid": "501",
       "audio_tracks": [
@@ -12325,7 +12325,7 @@
       "country": "Serbia",
       "category": "Sport",
       "bouquet": "NovaTotal TV",
-      "encryption": "FTA",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
       "sid": "752",
       "vpid": "501",
       "audio_tracks": [
@@ -12361,7 +12361,7 @@
       "country": "Serbia",
       "category": "Sport",
       "bouquet": "NovaTotal TV",
-      "encryption": "FTA",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
       "sid": "753",
       "vpid": "502",
       "audio_tracks": [
@@ -12397,7 +12397,7 @@
       "country": "",
       "category": "",
       "bouquet": "NovaTotal TV",
-      "encryption": "FTA",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
       "sid": "754",
       "vpid": "502",
       "audio_tracks": [
