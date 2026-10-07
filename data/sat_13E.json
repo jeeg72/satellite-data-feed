@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-07T08:00:02.504964",
-  "count": 1104,
+  "updated_at": "2026-10-07T12:00:01.839767",
+  "count": 1105,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -30495,6 +30495,42 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Sky Voices",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3567",
+      "vpid": "169",
+      "audio_tracks": [
+        {
+          "pid": "407",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "408",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1012",
+      "pcr": "169",
+      "txt": "712",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
