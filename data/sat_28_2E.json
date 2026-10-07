@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-07T00:00:02.594845",
+  "updated_at": "2026-10-07T04:00:02.201843",
   "count": 531,
   "channels": [
     {
@@ -4907,7 +4907,7 @@
       ],
       "pmt": "257",
       "pcr": "2310",
-      "txt": "",
+      "txt": "2315",
       "frequency": "11306.50",
       "polarization": "V",
       "symbol_rate": "27500",
