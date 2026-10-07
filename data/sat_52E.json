@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-10-07T00:00:02.594845",
-  "count": 316,
+  "updated_at": "2026-10-07T04:00:02.201843",
+  "count": 315,
   "channels": [
     {
       "channel_name": "Nahade Azadi",
@@ -6096,37 +6096,6 @@
       ],
       "pmt": "500",
       "pcr": "501",
-      "txt": "",
-      "frequency": "11382.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "1",
-      "tid": "6",
-      "satellite_pos": "52.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0
-    },
-    {
-      "channel_name": "DEJ TV",
-      "country": "non definito",
-      "category": "General",
-      "bouquet": "WNS",
-      "encryption": "FTA",
-      "sid": "6",
-      "vpid": "601",
-      "audio_tracks": [
-        {
-          "pid": "602",
-          "format": "aac",
-          "language": "far"
-        }
-      ],
-      "pmt": "600",
-      "pcr": "601",
       "txt": "",
       "frequency": "11382.00",
       "polarization": "V",
