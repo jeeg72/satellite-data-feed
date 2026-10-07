@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-10-07T08:00:02.504964",
+  "updated_at": "2026-10-07T12:00:01.839767",
   "count": 315,
   "channels": [
     {
@@ -4711,22 +4711,22 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Rah-e-Farda TV",
-      "country": "Afghanistan",
-      "category": "General",
+      "channel_name": "Radio Shemroon",
+      "country": "",
+      "category": "",
       "bouquet": "WNS",
       "encryption": "FTA",
-      "sid": "21",
-      "vpid": "2101",
+      "sid": "20",
+      "vpid": "2001",
       "audio_tracks": [
         {
-          "pid": "2102",
+          "pid": "2002",
           "format": "aac",
           "language": "far"
         }
       ],
-      "pmt": "2100",
-      "pcr": "2101",
+      "pmt": "2000",
+      "pcr": "2001",
       "txt": "",
       "frequency": "10887.40",
       "polarization": "V",
