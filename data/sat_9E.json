@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "9E",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-10-08T08:00:01.934973",
-  "count": 623,
+  "updated_at": "2026-10-08T12:00:02.027352",
+  "count": 624,
   "channels": [
     {
       "channel_name": "TIN - The Israeli Network",
@@ -4823,6 +4823,37 @@
       ],
       "pmt": "312",
       "pcr": "412",
+      "txt": "",
+      "frequency": "12053.60",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "170",
+      "tid": "2",
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "TEST 22",
+      "country": "",
+      "category": "",
+      "bouquet": "Cosmote",
+      "encryption": "VideoGuard",
+      "sid": "1014",
+      "vpid": "414",
+      "audio_tracks": [
+        {
+          "pid": "514",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "314",
+      "pcr": "414",
       "txt": "",
       "frequency": "12053.60",
       "polarization": "H",
