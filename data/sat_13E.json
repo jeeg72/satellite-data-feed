@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-08T08:00:01.934973",
+  "updated_at": "2026-10-08T12:00:02.027352",
   "count": 1105,
   "channels": [
     {
@@ -8206,11 +8206,11 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Test1803",
-      "country": "",
-      "category": "",
+      "channel_name": "Eleven Sports 1 HD",
+      "country": "Polonia",
+      "category": "Sport",
       "bouquet": "Polsat Box",
-      "encryption": "Nagravision 3",
+      "encryption": "Nagravision 3 + Irdeto 2",
       "sid": "1803",
       "vpid": "203",
       "audio_tracks": [
@@ -8218,11 +8218,16 @@
           "pid": "303",
           "format": "",
           "language": "pol"
+        },
+        {
+          "pid": "403",
+          "format": "",
+          "language": "pol"
         }
       ],
       "pmt": "1003",
       "pcr": "203",
-      "txt": "",
+      "txt": "803",
       "frequency": "11116.70",
       "polarization": "V",
       "symbol_rate": "27500",
@@ -8237,11 +8242,11 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Test1804",
-      "country": "",
-      "category": "",
+      "channel_name": "Eleven Sports 2 HD",
+      "country": "Polonia",
+      "category": "Sport",
       "bouquet": "Polsat Box",
-      "encryption": "Nagravision 3",
+      "encryption": "Nagravision 3 + Irdeto 2",
       "sid": "1804",
       "vpid": "204",
       "audio_tracks": [
@@ -8249,11 +8254,16 @@
           "pid": "304",
           "format": "",
           "language": "pol"
+        },
+        {
+          "pid": "404",
+          "format": "",
+          "language": "pol"
         }
       ],
       "pmt": "1004",
       "pcr": "204",
-      "txt": "",
+      "txt": "804",
       "frequency": "11116.70",
       "polarization": "V",
       "symbol_rate": "27500",
@@ -8299,11 +8309,11 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Test1808",
-      "country": "",
-      "category": "",
+      "channel_name": "Eleven Sports 3 HD",
+      "country": "Polonia",
+      "category": "Sport",
       "bouquet": "Polsat Box",
-      "encryption": "Nagravision 3",
+      "encryption": "Nagravision 3 + Irdeto 2",
       "sid": "1808",
       "vpid": "208",
       "audio_tracks": [
@@ -8320,7 +8330,7 @@
       ],
       "pmt": "1008",
       "pcr": "208",
-      "txt": "",
+      "txt": "808",
       "frequency": "11116.70",
       "polarization": "V",
       "symbol_rate": "27500",
