@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-10-08T12:00:02.027352",
-  "count": 540,
+  "updated_at": "2026-10-08T16:00:02.597457",
+  "count": 541,
   "channels": [
     {
       "channel_name": "Star Channel Netherlands",
@@ -6845,6 +6845,37 @@
       "modulation": "8PSK",
       "nid": "3",
       "tid": "3222",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Test 1",
+      "country": "",
+      "category": "",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "6301",
+      "vpid": "6331",
+      "audio_tracks": [
+        {
+          "pid": "6371",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "6301",
+      "pcr": "6331",
+      "txt": "",
+      "frequency": "12148.50",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3223",
       "satellite_pos": "23.5E",
       "is_multistream": false,
       "ms_isid": 0,
