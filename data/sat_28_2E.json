@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-08T08:00:01.934973",
-  "count": 531,
+  "updated_at": "2026-10-08T12:00:02.027352",
+  "count": 534,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -5001,6 +5001,99 @@
       "pmt": "256",
       "pcr": "2344",
       "txt": "2336",
+      "frequency": "11306.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2110",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Ideal World",
+      "country": "Regno Unito",
+      "category": "Teleshopping",
+      "bouquet": "Sky Digital",
+      "encryption": "FTA",
+      "sid": "53385",
+      "vpid": "2316",
+      "audio_tracks": [
+        {
+          "pid": "2321",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "258",
+      "pcr": "2316",
+      "txt": "",
+      "frequency": "11306.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2110",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Must Have Ideas TV",
+      "country": "Regno Unito",
+      "category": "Teleshopping",
+      "bouquet": "Sky Digital",
+      "encryption": "FTA",
+      "sid": "53390",
+      "vpid": "2322",
+      "audio_tracks": [
+        {
+          "pid": "2323",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "261",
+      "pcr": "2322",
+      "txt": "",
+      "frequency": "11306.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2110",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "HobbyMaker",
+      "country": "Regno Unito",
+      "category": "Business",
+      "bouquet": "Sky Digital",
+      "encryption": "FTA",
+      "sid": "53395",
+      "vpid": "2324",
+      "audio_tracks": [
+        {
+          "pid": "2325",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "262",
+      "pcr": "2324",
+      "txt": "",
       "frequency": "11306.50",
       "polarization": "V",
       "symbol_rate": "27500",
