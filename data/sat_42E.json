@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "42E",
   "satellite_pos": "42.0E",
-  "updated_at": "2026-10-09T08:00:01.887706",
-  "count": 430,
+  "updated_at": "2026-10-09T12:00:01.756418",
+  "count": 431,
   "channels": [
     {
       "channel_name": "Star TV",
@@ -239,6 +239,37 @@
       ],
       "pmt": "1706",
       "pcr": "5706",
+      "txt": "",
+      "frequency": "11225.00",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1070",
+      "tid": "50401",
+      "satellite_pos": "42.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "Meltem TV",
+      "country": "Turchia",
+      "category": "General",
+      "bouquet": "TURKSAT",
+      "encryption": "FTA",
+      "sid": "50707",
+      "vpid": "5707",
+      "audio_tracks": [
+        {
+          "pid": "5807",
+          "format": "",
+          "language": "tur"
+        }
+      ],
+      "pmt": "1707",
+      "pcr": "5707",
       "txt": "",
       "frequency": "11225.00",
       "polarization": "V",
