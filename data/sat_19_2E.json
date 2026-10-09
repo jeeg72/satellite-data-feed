@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-09T08:00:01.887706",
-  "count": 794,
+  "updated_at": "2026-10-09T12:00:01.756418",
+  "count": 797,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -18669,6 +18669,99 @@
       "modulation": "QPSK",
       "nid": "1",
       "tid": "1082",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "PGA WF Feed A",
+      "country": "",
+      "category": "",
+      "bouquet": "SES USA",
+      "encryption": "BISS",
+      "sid": "1",
+      "vpid": "1001",
+      "audio_tracks": [
+        {
+          "pid": "10021003100410051006100710081009",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1000",
+      "pcr": "1001",
+      "txt": "",
+      "frequency": "12070.50",
+      "polarization": "H",
+      "symbol_rate": "31428",
+      "fec": "4/5",
+      "standard": "DVB-S2",
+      "modulation": "16APSK",
+      "nid": "1",
+      "tid": "14",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "PGA ANC",
+      "country": "",
+      "category": "",
+      "bouquet": "SES USA",
+      "encryption": "BISS",
+      "sid": "2",
+      "vpid": "8001",
+      "audio_tracks": [
+        {
+          "pid": "80028003800480058006800780088009",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "2000",
+      "pcr": "8001",
+      "txt": "",
+      "frequency": "12070.50",
+      "polarization": "H",
+      "symbol_rate": "31428",
+      "fec": "4/5",
+      "standard": "DVB-S2",
+      "modulation": "16APSK",
+      "nid": "1",
+      "tid": "14",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "MM2 SVC3",
+      "country": "",
+      "category": "",
+      "bouquet": "SES",
+      "encryption": "FTA",
+      "sid": "3",
+      "vpid": "208",
+      "audio_tracks": [
+        {
+          "pid": "256257",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "3000",
+      "pcr": "208",
+      "txt": "",
+      "frequency": "12070.50",
+      "polarization": "H",
+      "symbol_rate": "31428",
+      "fec": "4/5",
+      "standard": "DVB-S2",
+      "modulation": "16APSK",
+      "nid": "1",
+      "tid": "14",
       "satellite_pos": "19.2E",
       "is_multistream": false,
       "ms_isid": 0,
