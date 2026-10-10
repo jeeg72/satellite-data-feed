@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-10T08:00:02.582162",
+  "updated_at": "2026-10-10T12:00:02.336073",
   "count": 533,
   "channels": [
     {
@@ -17244,9 +17244,9 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Sky Scifi/Horror HD",
+      "channel_name": "Sky Sci-Fi HD",
       "country": "Regno Unito",
-      "category": "Movies",
+      "category": "Series",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "3817",
@@ -17496,7 +17496,7 @@
       "pls_number": 0
     },
     {
-      "channel_name": "Sky Transformers HD",
+      "channel_name": "Sky Halloween HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
