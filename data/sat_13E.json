@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-10T08:00:02.582162",
-  "count": 1105,
+  "updated_at": "2026-10-10T12:00:02.336073",
+  "count": 1106,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -1192,6 +1192,37 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "11100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0
+    },
+    {
+      "channel_name": "test17011",
+      "country": "",
+      "category": "",
+      "bouquet": "Polsat Box",
+      "encryption": "FTA",
+      "sid": "17011",
+      "vpid": "211",
+      "audio_tracks": [
+        {
+          "pid": "411",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1011",
+      "pcr": "211",
+      "txt": "",
+      "frequency": "10757.60",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "11200",
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
