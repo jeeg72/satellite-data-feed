@@ -3,7 +3,7 @@
   "label": "rai — 47.5W",
   "bouquet_id": "rai",
   "satellite_pos": "47.5W",
-  "updated_at": "2026-10-10T14:26:50.780882",
+  "updated_at": "2026-10-10T15:24:14.516441",
   "count": 1,
   "channels": [
     {
@@ -44,6 +44,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
