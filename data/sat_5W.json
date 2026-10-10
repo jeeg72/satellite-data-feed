@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "5W",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-10-10T20:00:02.646914",
-  "count": 327,
+  "updated_at": "2026-10-11T00:00:01.928809",
+  "count": 326,
   "channels": [
     {
       "channel_name": "TV 5 Monde (France Belgique Suisse)",
@@ -3808,46 +3808,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "La Nuova TV",
-      "country": "Italia",
-      "category": "Various",
-      "bouquet": "Rai Way",
-      "encryption": "FTA",
-      "sid": "86",
-      "vpid": "486",
-      "audio_tracks": [
-        {
-          "pid": "686",
-          "format": "",
-          "language": "ita"
-        }
-      ],
-      "pmt": "286",
-      "pcr": "486",
-      "txt": "",
-      "frequency": "12535.50",
-      "polarization": "H",
-      "symbol_rate": "35294",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "8572",
-      "tid": "34816",
-      "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 131070,
-      "pls_root": 0,
-      "pls_mode": "gold",
-      "ms_unreliable": false,
-      "ms_suspect": true,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "Rai 1 HD",
       "country": "Italia",
       "category": "General",
@@ -5328,6 +5288,46 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "La Nuova TV",
+      "country": "Italia",
+      "category": "Various",
+      "bouquet": "Rai Way",
+      "encryption": "FTA",
+      "sid": "86",
+      "vpid": "486",
+      "audio_tracks": [
+        {
+          "pid": "686",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "286",
+      "pcr": "486",
+      "txt": "",
+      "frequency": "12535.50",
+      "polarization": "H",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "8572",
+      "tid": "34816",
+      "satellite_pos": "5.0W",
+      "is_multistream": true,
+      "ms_isid": 9,
+      "pls_number": 131070,
+      "pls_root": 0,
+      "pls_mode": "gold",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Canale 7",
       "country": "Italia",
       "category": "General",
@@ -5481,61 +5481,6 @@
       "pls_mode": "gold",
       "ms_unreliable": false,
       "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "Rai 1 HD",
-      "country": "Italia",
-      "category": "General",
-      "bouquet": "RAI",
-      "encryption": "FTA",
-      "sid": "1451",
-      "vpid": "201",
-      "audio_tracks": [
-        {
-          "pid": "300",
-          "format": "",
-          "language": "ita"
-        },
-        {
-          "pid": "301",
-          "format": "ac3",
-          "language": "vo"
-        },
-        {
-          "pid": "401",
-          "format": "",
-          "language": "vo"
-        },
-        {
-          "pid": "501",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "101",
-      "pcr": "201",
-      "txt": "601",
-      "frequency": "12564.00",
-      "polarization": "V",
-      "symbol_rate": "35294",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "8572",
-      "tid": "183",
-      "satellite_pos": "5.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 131070,
-      "pls_root": 0,
-      "pls_mode": "gold",
-      "ms_unreliable": false,
-      "ms_suspect": true,
       "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
@@ -5965,6 +5910,61 @@
       "pmt": "178",
       "pcr": "203",
       "txt": "603",
+      "frequency": "12564.00",
+      "polarization": "V",
+      "symbol_rate": "35294",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "8572",
+      "tid": "183",
+      "satellite_pos": "5.0W",
+      "is_multistream": true,
+      "ms_isid": 1,
+      "pls_number": 131070,
+      "pls_root": 0,
+      "pls_mode": "gold",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Rai 1 HD",
+      "country": "Italia",
+      "category": "General",
+      "bouquet": "RAI",
+      "encryption": "FTA",
+      "sid": "1451",
+      "vpid": "201",
+      "audio_tracks": [
+        {
+          "pid": "300",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "301",
+          "format": "ac3",
+          "language": "vo"
+        },
+        {
+          "pid": "401",
+          "format": "",
+          "language": "vo"
+        },
+        {
+          "pid": "501",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "101",
+      "pcr": "201",
+      "txt": "601",
       "frequency": "12564.00",
       "polarization": "V",
       "symbol_rate": "35294",
@@ -12212,51 +12212,6 @@
       "is_multistream": true,
       "ms_isid": 2,
       "pls_number": 121212,
-      "pls_root": 0,
-      "pls_mode": "gold",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "Rai 3 HD",
-      "country": "Italia",
-      "category": "General",
-      "bouquet": "RAI",
-      "encryption": "FTA",
-      "sid": "3403",
-      "vpid": "514",
-      "audio_tracks": [
-        {
-          "pid": "652",
-          "format": "",
-          "language": "ita"
-        },
-        {
-          "pid": "697",
-          "format": "",
-          "language": "vo"
-        }
-      ],
-      "pmt": "256",
-      "pcr": "514",
-      "txt": "",
-      "frequency": "12690.00",
-      "polarization": "V",
-      "symbol_rate": "35294",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "8572",
-      "tid": "133",
-      "satellite_pos": "5.0W",
-      "is_multistream": true,
-      "ms_isid": 1,
-      "pls_number": 131070,
       "pls_root": 0,
       "pls_mode": "gold",
       "ms_unreliable": false,
