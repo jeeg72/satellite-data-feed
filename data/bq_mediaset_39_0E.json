@@ -3,7 +3,7 @@
   "label": "mediaset — 39.0E",
   "bouquet_id": "mediaset",
   "satellite_pos": "39.0E",
-  "updated_at": "2026-10-10T12:00:02.336073",
+  "updated_at": "2026-10-10T14:10:23.279892",
   "count": 2,
   "channels": [
     {
@@ -35,7 +35,14 @@
       "satellite_pos": "39.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Mediaset Italia",
@@ -66,7 +73,14 @@
       "satellite_pos": "39.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     }
   ]
 }
