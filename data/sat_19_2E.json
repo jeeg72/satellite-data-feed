@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-10T08:00:02.582162",
+  "updated_at": "2026-10-10T12:00:02.336073",
   "count": 797,
   "channels": [
     {
@@ -12775,13 +12775,18 @@
       "channel_name": "France 24 (in English)",
       "country": "Francia",
       "category": "News",
-      "bouquet": "GLOBECAST",
+      "bouquet": "Globecast",
       "encryption": "FTA",
       "sid": "6906",
       "vpid": "606",
       "audio_tracks": [
         {
           "pid": "626",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "646",
           "format": "",
           "language": "eng"
         }
