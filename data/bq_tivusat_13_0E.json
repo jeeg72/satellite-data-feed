@@ -3,7 +3,7 @@
   "label": "tivusat — 13.0E",
   "bouquet_id": "tivusat",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-10T14:26:50.780882",
+  "updated_at": "2026-10-10T15:24:14.516441",
   "count": 67,
   "channels": [
     {
@@ -39,6 +39,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -82,6 +84,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -120,6 +124,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -158,6 +164,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -179,7 +187,7 @@
         },
         {
           "pid": "772",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         },
         {
@@ -206,6 +214,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -227,7 +237,7 @@
         },
         {
           "pid": "1842",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         },
         {
@@ -254,6 +264,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -275,7 +287,7 @@
         },
         {
           "pid": "1862",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         },
         {
@@ -302,6 +314,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -340,6 +354,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -378,6 +394,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -416,6 +434,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -454,6 +474,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -492,6 +514,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -530,6 +554,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -568,6 +594,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -606,6 +634,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -644,6 +674,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -682,6 +714,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -720,6 +754,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -758,6 +794,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -796,6 +834,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -834,6 +874,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -872,6 +914,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -910,6 +954,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -948,6 +994,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -986,6 +1034,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1024,6 +1074,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1062,6 +1114,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1100,6 +1154,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1138,6 +1194,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1176,6 +1234,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1219,6 +1279,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1262,6 +1324,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1305,6 +1369,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1348,6 +1414,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1391,6 +1459,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1434,6 +1504,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1477,6 +1549,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1520,6 +1594,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1563,6 +1639,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1579,7 +1657,7 @@
       "audio_tracks": [
         {
           "pid": "1104",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
@@ -1601,6 +1679,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1617,7 +1697,7 @@
       "audio_tracks": [
         {
           "pid": "1130",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
@@ -1639,6 +1719,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1655,7 +1737,7 @@
       "audio_tracks": [
         {
           "pid": "1126",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
@@ -1677,6 +1759,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1693,12 +1777,12 @@
       "audio_tracks": [
         {
           "pid": "1154",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1254",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -1720,6 +1804,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1736,12 +1822,12 @@
       "audio_tracks": [
         {
           "pid": "1160",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1260",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -1763,6 +1849,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1779,12 +1867,12 @@
       "audio_tracks": [
         {
           "pid": "1158",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1258",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -1806,6 +1894,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1822,12 +1912,12 @@
       "audio_tracks": [
         {
           "pid": "1156",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1256",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -1849,6 +1939,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1865,12 +1957,12 @@
       "audio_tracks": [
         {
           "pid": "1146",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1246",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -1892,6 +1984,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1908,7 +2002,7 @@
       "audio_tracks": [
         {
           "pid": "1110",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
@@ -1930,6 +2024,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1946,12 +2042,12 @@
       "audio_tracks": [
         {
           "pid": "1115",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1215",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -1973,6 +2069,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -1989,7 +2087,7 @@
       "audio_tracks": [
         {
           "pid": "1103",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
@@ -2011,6 +2109,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2027,12 +2127,12 @@
       "audio_tracks": [
         {
           "pid": "1121",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1221",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -2054,6 +2154,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2070,12 +2172,12 @@
       "audio_tracks": [
         {
           "pid": "1151",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1251",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -2097,6 +2199,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2113,7 +2217,7 @@
       "audio_tracks": [
         {
           "pid": "1112",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
@@ -2135,6 +2239,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2151,12 +2257,12 @@
       "audio_tracks": [
         {
           "pid": "1116",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1216",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -2178,6 +2284,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2194,12 +2302,12 @@
       "audio_tracks": [
         {
           "pid": "1138",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "1238",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
@@ -2221,6 +2329,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2242,7 +2352,7 @@
         },
         {
           "pid": "611",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         },
         {
@@ -2269,6 +2379,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2290,7 +2402,7 @@
         },
         {
           "pid": "612",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         },
         {
@@ -2317,6 +2429,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2338,7 +2452,7 @@
         },
         {
           "pid": "613",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
@@ -2360,6 +2474,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2381,7 +2497,7 @@
         },
         {
           "pid": "615",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         },
         {
@@ -2408,6 +2524,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2429,7 +2547,7 @@
         },
         {
           "pid": "616",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         },
         {
@@ -2456,6 +2574,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2472,7 +2592,7 @@
       "audio_tracks": [
         {
           "pid": "1542",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
@@ -2494,6 +2614,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2510,7 +2632,7 @@
       "audio_tracks": [
         {
           "pid": "1442",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
@@ -2532,6 +2654,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2570,6 +2694,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2586,12 +2712,12 @@
       "audio_tracks": [
         {
           "pid": "425",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "426",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
@@ -2613,6 +2739,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2629,12 +2757,12 @@
       "audio_tracks": [
         {
           "pid": "425",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "426",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
@@ -2656,6 +2784,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2672,12 +2802,12 @@
       "audio_tracks": [
         {
           "pid": "434",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "435",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
@@ -2699,6 +2829,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -2715,12 +2847,12 @@
       "audio_tracks": [
         {
           "pid": "434",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "435",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
@@ -2742,6 +2874,8 @@
       "pls_root": 0,
       "pls_mode": "",
       "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
