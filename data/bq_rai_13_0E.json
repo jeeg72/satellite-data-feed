@@ -3,7 +3,7 @@
   "label": "rai — 13.0E",
   "bouquet_id": "rai",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-10T12:00:02.336073",
+  "updated_at": "2026-10-10T14:10:23.279892",
   "count": 35,
   "channels": [
     {
@@ -35,7 +35,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai Radio 2 Visual",
@@ -66,7 +73,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai News 24 HD",
@@ -97,7 +111,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai Gulp HD",
@@ -128,7 +149,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai Sport HD",
@@ -169,7 +197,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 5 HD",
@@ -210,7 +245,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Uninettuno University TV",
@@ -241,7 +283,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Puglia",
@@ -272,7 +321,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Basilicata",
@@ -303,7 +359,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Calabria",
@@ -334,7 +397,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Sicilia",
@@ -365,7 +435,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Liguria",
@@ -396,7 +473,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Toscana",
@@ -427,7 +511,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Umbria",
@@ -458,7 +549,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Marche",
@@ -489,7 +587,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Piemonte",
@@ -520,7 +625,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Lombardia",
@@ -551,7 +663,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Emilia Romagna",
@@ -582,7 +701,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Veneto",
@@ -613,7 +739,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Südtirol",
@@ -644,7 +777,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Valle d'Aosta",
@@ -675,7 +815,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Sardegna",
@@ -706,7 +853,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Abruzzo",
@@ -737,7 +891,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Molise",
@@ -768,7 +929,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Campania",
@@ -799,7 +967,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Friuli Venezia Giulia",
@@ -830,7 +1005,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Furlanija Julijska Krajina",
@@ -861,7 +1043,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Trentino Alto Adige Trento",
@@ -892,7 +1081,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Trentino Alto Adige Bolzano",
@@ -923,7 +1119,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 TGR Lazio",
@@ -954,7 +1157,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 1 HD",
@@ -995,7 +1205,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 2 HD",
@@ -1036,7 +1253,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 3 HD",
@@ -1072,7 +1296,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai 4K",
@@ -1108,7 +1339,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Senato italiano",
@@ -1144,7 +1382,14 @@
       "satellite_pos": "13.0E",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     }
   ]
 }
