@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "30W",
   "satellite_pos": "30.0W",
-  "updated_at": "2026-10-10T12:00:02.336073",
+  "updated_at": "2026-10-10T14:10:23.279892",
   "count": 227,
   "channels": [
     {
@@ -34,7 +34,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal Parlamento",
@@ -65,7 +72,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "GOD Europe",
@@ -96,7 +110,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SonLife Broadcasting Network",
@@ -132,7 +153,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Record HD",
@@ -163,7 +191,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Record News",
@@ -194,7 +229,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP 3",
@@ -225,7 +267,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Feeds 2",
@@ -256,7 +305,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Feeds 3",
@@ -287,7 +343,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Telesur HD",
@@ -318,7 +381,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Bom",
@@ -354,7 +424,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Aragon TV HD",
@@ -395,7 +472,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": true,
       "ms_isid": 0,
-      "pls_number": 174526
+      "pls_number": 174526,
+      "pls_root": 0,
+      "pls_mode": "gold",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Television Castilla - La Mancha HD",
@@ -431,7 +515,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": true,
       "ms_isid": 0,
-      "pls_number": 79463
+      "pls_number": 79463,
+      "pls_root": 0,
+      "pls_mode": "gold",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP 1",
@@ -472,7 +563,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP 2",
@@ -513,7 +611,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Record Europa",
@@ -544,7 +649,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "MEO",
@@ -569,7 +681,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP 3",
@@ -605,7 +724,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Madeira",
@@ -641,7 +767,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Açores",
@@ -677,7 +810,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "A Bola TV",
@@ -708,7 +848,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Lolly Kids HD",
@@ -739,7 +886,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal Cinemundo",
@@ -770,7 +924,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "História",
@@ -801,7 +962,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Caçavision",
@@ -832,7 +1000,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cartoonito Portugal",
@@ -868,7 +1043,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Madeira",
@@ -899,7 +1081,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Açores",
@@ -930,7 +1119,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "ARTV",
@@ -966,7 +1162,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNN Portugal",
@@ -997,7 +1200,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Globo",
@@ -1028,7 +1238,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP 1 HD",
@@ -1064,7 +1281,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP 2 HD",
@@ -1100,7 +1324,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC HD",
@@ -1131,7 +1362,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVI HD",
@@ -1162,7 +1400,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP 3",
@@ -1193,7 +1438,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNN Portugal",
@@ -1224,7 +1476,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CMTV",
@@ -1255,7 +1514,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Globo",
@@ -1286,7 +1552,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Porto Canal",
@@ -1317,7 +1590,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "A Bola TV",
@@ -1348,7 +1628,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cartoonito",
@@ -1384,7 +1671,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal de Historia",
@@ -1415,7 +1709,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Memoria",
@@ -1446,7 +1747,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "ARTV",
@@ -1477,7 +1785,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Africa",
@@ -1508,7 +1823,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Açores",
@@ -1539,7 +1861,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Madeira",
@@ -1570,7 +1899,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Record",
@@ -1601,7 +1937,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Mulher",
@@ -1632,7 +1975,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNN",
@@ -1663,7 +2013,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Star Comedy Portugal",
@@ -1694,7 +2051,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Star Movies",
@@ -1725,7 +2089,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Euronews",
@@ -1756,7 +2127,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Venus TV Argentina",
@@ -1787,7 +2165,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky News International",
@@ -1818,7 +2203,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Playboy TV",
@@ -1849,7 +2241,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC",
@@ -1880,7 +2279,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVI",
@@ -1911,7 +2317,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CMTV",
@@ -1942,7 +2355,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Porto Canal",
@@ -1973,7 +2393,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Memoria",
@@ -2009,7 +2436,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "RTP Africa",
@@ -2040,7 +2474,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "S+ TV",
@@ -2071,7 +2512,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Mulher",
@@ -2102,7 +2550,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNN",
@@ -2133,7 +2588,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Star Comedy Portugal",
@@ -2164,7 +2626,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "STAR Movies",
@@ -2195,7 +2664,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Euronews",
@@ -2226,7 +2702,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Venus",
@@ -2257,7 +2740,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky News",
@@ -2288,7 +2778,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Playboy TV",
@@ -2319,7 +2816,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal Hollywood Portugal",
@@ -2350,7 +2854,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Odisseia",
@@ -2381,7 +2892,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Eurosport 2",
@@ -2412,7 +2930,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cartoon Network",
@@ -2448,7 +2973,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal Q",
@@ -2479,7 +3011,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Radical",
@@ -2510,7 +3049,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Caras",
@@ -2541,7 +3087,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Fashion TV",
@@ -2572,7 +3125,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "MCM Pop",
@@ -2603,7 +3163,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Bloomberg",
@@ -2634,7 +3201,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNBC",
@@ -2665,7 +3239,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Galicia",
@@ -2696,7 +3277,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal Panda",
@@ -2727,7 +3315,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "V+TVI",
@@ -2758,7 +3353,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "HOT",
@@ -2789,7 +3391,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "MCM TOP",
@@ -2820,7 +3429,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Mezzo",
@@ -2851,7 +3467,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "OneToro TV",
@@ -2882,7 +3505,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Panda Kids",
@@ -2913,7 +3543,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVE 24H",
@@ -2944,7 +3581,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVEi",
@@ -2975,7 +3619,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 5",
@@ -3006,7 +3657,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 1 HD",
@@ -3037,7 +3695,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 6 HD",
@@ -3068,7 +3733,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 2 HD",
@@ -3099,7 +3771,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 3 HD",
@@ -3130,7 +3809,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "BTV 1 HD",
@@ -3161,7 +3847,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 7",
@@ -3192,7 +3885,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "France 24 (I)",
@@ -3223,7 +3923,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Hot",
@@ -3254,7 +3961,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Mezzo",
@@ -3285,7 +3999,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "OneToro TV",
@@ -3316,7 +4037,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Panda Kids",
@@ -3347,7 +4075,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVE 24h",
@@ -3378,7 +4113,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVE Internacional",
@@ -3409,7 +4151,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AMC Crime",
@@ -3440,7 +4189,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Noticias",
@@ -3471,7 +4227,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "V+ TVI",
@@ -3502,7 +4265,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 4",
@@ -3538,7 +4308,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal Panda",
@@ -3569,7 +4346,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Hollywood HD",
@@ -3600,7 +4384,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Odisseia",
@@ -3631,7 +4422,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Eurosport 2",
@@ -3662,7 +4460,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cartoon Network",
@@ -3698,7 +4503,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal Q",
@@ -3729,7 +4541,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Radical",
@@ -3760,7 +4579,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Caras",
@@ -3791,7 +4617,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Fashion TV",
@@ -3822,7 +4655,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "MCM Pop",
@@ -3853,7 +4693,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Bloomberg",
@@ -3884,7 +4731,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNBC Europe",
@@ -3915,7 +4769,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Galicia",
@@ -3946,7 +4807,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AMC Crime",
@@ -3977,7 +4845,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 5 HD",
@@ -4008,7 +4883,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 6 HD",
@@ -4039,7 +4921,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 1 HD",
@@ -4070,7 +4959,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 2 HD",
@@ -4101,7 +4997,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 3 HD",
@@ -4132,7 +5035,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "BTV HD",
@@ -4163,7 +5073,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV 7",
@@ -4194,7 +5111,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "24 Kitchen HD",
@@ -4225,7 +5149,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "STAR Crime HD Portugal",
@@ -4256,7 +5187,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Travel Channel HD",
@@ -4287,7 +5225,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AXN White HD",
@@ -4318,7 +5263,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Investigation Discovery Portugal",
@@ -4349,7 +5301,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "NatGeo Wild HD Spain",
@@ -4380,7 +5339,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 1 Portugal",
@@ -4411,7 +5377,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 4 Portugal",
@@ -4442,7 +5415,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 5 Portugal",
@@ -4473,7 +5453,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Emotion HD",
@@ -4504,7 +5491,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Casa e Cozinha HD",
@@ -4535,7 +5529,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Edition HD",
@@ -4566,7 +5567,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SyFy",
@@ -4597,7 +5605,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TLC",
@@ -4628,7 +5643,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV5 Monde",
@@ -4659,7 +5681,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVI Reality",
@@ -4690,7 +5719,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport TV +",
@@ -4721,7 +5757,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sporting TV",
@@ -4752,7 +5795,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 2 Portugal",
@@ -4783,7 +5833,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 3 Portugal",
@@ -4814,7 +5871,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "E! Entertainment TV",
@@ -4845,7 +5909,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Kids",
@@ -4876,7 +5947,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal NOS",
@@ -4907,7 +5985,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "ZAP Viva HD",
@@ -4938,7 +6023,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SYFY",
@@ -4969,7 +6061,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TLC",
@@ -5000,7 +6099,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV5 Monde",
@@ -5031,7 +6137,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TVI Reality",
@@ -5062,7 +6175,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SPORT TV+",
@@ -5093,7 +6213,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sporting TV",
@@ -5124,7 +6251,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "MTV Portugal",
@@ -5155,7 +6289,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AXN Movies HD",
@@ -5186,7 +6327,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AXN White HD",
@@ -5217,7 +6365,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Eurosport 1 HD",
@@ -5253,7 +6408,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Star Life HD Portugal",
@@ -5284,7 +6446,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "STAR Crime HD Portugal",
@@ -5315,7 +6484,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "24 Kitchen HD",
@@ -5346,7 +6522,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 1 HD",
@@ -5377,7 +6560,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 4",
@@ -5408,7 +6598,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 5",
@@ -5439,7 +6636,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "ID Investigation Discovery",
@@ -5470,7 +6674,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Edition",
@@ -5501,7 +6712,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Emotion",
@@ -5532,7 +6750,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "National Geographic Wild",
@@ -5563,7 +6788,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Trace Urban",
@@ -5594,7 +6826,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Casa e Cozinha HD",
@@ -5625,7 +6864,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 2 HD",
@@ -5656,7 +6902,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 3",
@@ -5687,7 +6940,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Kids",
@@ -5718,7 +6978,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal NOS",
@@ -5749,7 +7016,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Action HD",
@@ -5780,7 +7054,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Trace Toca",
@@ -5811,7 +7092,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Fuel TV",
@@ -5842,7 +7130,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Caça & Pesca",
@@ -5878,7 +7173,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Nick Jr. Portugal",
@@ -5909,7 +7211,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Discovery HD Portugal",
@@ -5940,7 +7249,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Top HD",
@@ -5971,7 +7287,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Motorvision",
@@ -6002,7 +7325,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "News Now",
@@ -6033,7 +7363,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Novelas",
@@ -6064,7 +7401,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal 11 HD",
@@ -6095,7 +7439,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Kuriakos TV",
@@ -6126,7 +7477,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AMC Break",
@@ -6157,7 +7515,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Baby TV",
@@ -6188,7 +7553,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Vin TV",
@@ -6219,7 +7591,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canção Nova",
@@ -6250,7 +7629,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Disney Júnior",
@@ -6286,7 +7672,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "National Geographic HD",
@@ -6317,7 +7710,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Star Channel HD Portugal",
@@ -6348,7 +7748,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AXN HD",
@@ -6379,7 +7786,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "NOS Studios HD",
@@ -6410,7 +7824,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Kuriakos TV HD",
@@ -6441,7 +7862,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AMC Break",
@@ -6472,7 +7900,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Baby TV",
@@ -6503,7 +7938,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Vin TV",
@@ -6534,7 +7976,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canção Nova",
@@ -6565,7 +8014,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Disney Junior",
@@ -6601,7 +8057,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Canal de Teste",
@@ -6626,7 +8089,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "11",
@@ -6657,7 +8127,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Disney Channel Portugal",
@@ -6693,7 +8170,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Top",
@@ -6724,7 +8208,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Cine Action",
@@ -6755,7 +8246,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AMC HD Portugal",
@@ -6786,7 +8284,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Discovery Channel HD",
@@ -6817,7 +8322,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Nickelodeon Portugal",
@@ -6848,7 +8360,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "News Now",
@@ -6879,7 +8398,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Afro Music Channel",
@@ -6910,7 +8436,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "NHK World",
@@ -6941,7 +8474,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "SIC Novelas",
@@ -6972,7 +8512,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "National Geographic HD",
@@ -7003,7 +8550,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "STAR Channel HD",
@@ -7034,7 +8588,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AXN HD",
@@ -7065,7 +8626,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Nick Jr.",
@@ -7096,7 +8664,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "NOS Studios HD",
@@ -7127,7 +8702,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "NorteVision",
@@ -7158,7 +8740,14 @@
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
-      "pls_number": 0
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     }
   ]
 }
