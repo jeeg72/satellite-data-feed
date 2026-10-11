@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-11T08:00:02.346931",
-  "count": 1105,
+  "updated_at": "2026-10-11T12:00:02.622261",
+  "count": 1106,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -38771,6 +38771,51 @@
       "pmt": "1001",
       "pcr": "161",
       "txt": "701",
+      "frequency": "12466.00",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8800",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Jack Ryan Collection HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "4204",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "413",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "414",
+          "format": "ac3",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1003",
+      "pcr": "163",
+      "txt": "703",
       "frequency": "12466.00",
       "polarization": "V",
       "symbol_rate": "29900",
