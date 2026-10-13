@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-10-13T12:00:02.154477",
-  "count": 541,
+  "updated_at": "2026-10-13T16:00:02.193793",
+  "count": 540,
   "channels": [
     {
       "channel_name": "Star Channel Netherlands",
@@ -7137,51 +7137,6 @@
       ],
       "pmt": "1700",
       "pcr": "1701",
-      "txt": "",
-      "frequency": "12110.00",
-      "polarization": "H",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "3",
-      "tid": "3221",
-      "satellite_pos": "23.5E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "4! Story TV",
-      "country": "Ungheria",
-      "category": "General",
-      "bouquet": "SkyLink",
-      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
-      "sid": "15608",
-      "vpid": "1801",
-      "audio_tracks": [
-        {
-          "pid": "1811",
-          "format": "",
-          "language": "cze"
-        },
-        {
-          "pid": "1812",
-          "format": "",
-          "language": "hun"
-        }
-      ],
-      "pmt": "1800",
-      "pcr": "1801",
       "txt": "",
       "frequency": "12110.00",
       "polarization": "H",
