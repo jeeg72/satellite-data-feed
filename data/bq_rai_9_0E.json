@@ -3,7 +3,7 @@
   "label": "rai — 9.0E",
   "bouquet_id": "rai",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-10-16T00:00:02.158016",
+  "updated_at": "2026-10-16T04:00:02.695365",
   "count": 1,
   "channels": [
     {
@@ -24,7 +24,7 @@
       "pmt": "1150",
       "pcr": "1151",
       "txt": "",
-      "frequency": "11900.60",
+      "frequency": "11900.20",
       "polarization": "H",
       "symbol_rate": "27500",
       "fec": "2/3",
