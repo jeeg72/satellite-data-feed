@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "5W",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-10-16T08:00:02.393440",
+  "updated_at": "2026-10-16T12:00:02.452474",
   "count": 326,
   "channels": [
     {
@@ -5623,7 +5623,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Lombardia HD",
+      "channel_name": "Rai 3 TGR Lombardia",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -5668,7 +5668,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Piemonte HD",
+      "channel_name": "Rai 3 TGR Piemonte",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -5758,7 +5758,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Lombardia HD",
+      "channel_name": "Rai 3 TGR Lombardia",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -5803,7 +5803,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Piemonte HD",
+      "channel_name": "Rai 3 TGR Piemonte",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -6483,7 +6483,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 1 HD",
+      "channel_name": "Rai 1",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -6538,7 +6538,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 2 HD",
+      "channel_name": "Rai 2",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -6628,7 +6628,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Trentino HD",
+      "channel_name": "Rai 3 TGR Trentino",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -6718,7 +6718,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 Südtirol HD",
+      "channel_name": "Rai 3 Südtirol",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -6763,7 +6763,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Trentino HD",
+      "channel_name": "Rai 3 TGR Trentino",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -6853,7 +6853,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 Südtirol HD",
+      "channel_name": "Rai 3 Südtirol",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -6938,7 +6938,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 HD",
+      "channel_name": "Rai 3",
       "country": "",
       "category": "",
       "bouquet": "Rai",
@@ -10468,7 +10468,7 @@
         }
       ],
       "pmt": "172",
-      "pcr": "272",
+      "pcr": "270",
       "txt": "672",
       "frequency": "12627.00",
       "polarization": "H",
@@ -10583,7 +10583,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Emilia-Romagna HD",
+      "channel_name": "Rai 3 TGR Emilia-Romagna",
       "country": "",
       "category": "",
       "bouquet": "RAI",
@@ -10923,7 +10923,7 @@
         }
       ],
       "pmt": "171",
-      "pcr": "271",
+      "pcr": "270",
       "txt": "671",
       "frequency": "12627.00",
       "polarization": "H",
@@ -11038,7 +11038,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Lazio HD",
+      "channel_name": "Rai 3 TGR Lazio",
       "country": "",
       "category": "",
       "bouquet": "RAI",
@@ -12413,7 +12413,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Abruzzo HD",
+      "channel_name": "Rai 3 TGR Abruzzo",
       "country": "",
       "category": "",
       "bouquet": "RAI",
@@ -12548,7 +12548,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Rai 3 TGR Abruzzo HD",
+      "channel_name": "Rai 3 TGR Abruzzo",
       "country": "",
       "category": "",
       "bouquet": "RAI",
