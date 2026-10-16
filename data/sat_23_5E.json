@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-10-16T08:00:02.393440",
-  "count": 541,
+  "updated_at": "2026-10-16T12:00:02.452474",
+  "count": 545,
   "channels": [
     {
       "channel_name": "Star Channel Netherlands",
@@ -5306,6 +5306,56 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "TEST 1",
+      "country": "",
+      "category": "",
+      "bouquet": "SkyLink",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "sid": "13132",
+      "vpid": "2810",
+      "audio_tracks": [
+        {
+          "pid": "2820",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "2821",
+          "format": "",
+          "language": ""
+        },
+        {
+          "pid": "2822",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2800",
+      "pcr": "2810",
+      "txt": "",
+      "frequency": "12070.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "3",
+      "tid": "3219",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "CS Mystery",
       "country": "Repubblica Ceca",
       "category": "Intrattenimento",
@@ -7222,6 +7272,56 @@
       ],
       "pmt": "1900",
       "pcr": "1901",
+      "txt": "",
+      "frequency": "12110.10",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3221",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "TEST2",
+      "country": "",
+      "category": "",
+      "bouquet": "SkyLink",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "sid": "15610",
+      "vpid": "2001",
+      "audio_tracks": [
+        {
+          "pid": "2011",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "2012",
+          "format": "",
+          "language": ""
+        },
+        {
+          "pid": "2013",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2000",
+      "pcr": "2001",
       "txt": "",
       "frequency": "12110.10",
       "polarization": "H",
@@ -10222,6 +10322,56 @@
       ],
       "pmt": "2800",
       "pcr": "597",
+      "txt": "",
+      "frequency": "12187.50",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3225",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "TEST3",
+      "country": "",
+      "category": "",
+      "bouquet": "SkyLink",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "sid": "21171",
+      "vpid": "598",
+      "audio_tracks": [
+        {
+          "pid": "198",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "298",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "398",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "2798",
+      "pcr": "598",
       "txt": "",
       "frequency": "12187.50",
       "polarization": "H",
@@ -14942,6 +15092,56 @@
       ],
       "pmt": "2800",
       "pcr": "2610",
+      "txt": "",
+      "frequency": "12343.50",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3233",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "TEST 4",
+      "country": "",
+      "category": "",
+      "bouquet": "SkyLink",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "sid": "8019",
+      "vpid": "2910",
+      "audio_tracks": [
+        {
+          "pid": "2920",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "2921",
+          "format": "",
+          "language": ""
+        },
+        {
+          "pid": "2922",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2900",
+      "pcr": "2910",
       "txt": "",
       "frequency": "12343.50",
       "polarization": "H",
