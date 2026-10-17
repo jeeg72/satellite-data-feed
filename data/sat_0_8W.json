@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "0_8W",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-10-17T04:00:02.457471",
-  "count": 893,
+  "updated_at": "2026-10-17T08:00:02.275586",
+  "count": 904,
   "channels": [
     {
       "channel_name": "TV 2 Sport HD 1",
@@ -22281,6 +22281,46 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "M2 HD (SVT)",
+      "country": "",
+      "category": "",
+      "bouquet": "Telly",
+      "encryption": "Nagravision 3",
+      "sid": "30525",
+      "vpid": "151",
+      "audio_tracks": [
+        {
+          "pid": "168",
+          "format": "eac3",
+          "language": "hun"
+        }
+      ],
+      "pmt": "1400",
+      "pcr": "151",
+      "txt": "181",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1536",
+      "tid": "705",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "TVR 1 HD",
       "country": "Romania",
       "category": "General",
@@ -22348,6 +22388,56 @@
       "pmt": "1450",
       "pcr": "601",
       "txt": "620",
+      "frequency": "12034.40",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1536",
+      "tid": "705",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Love Nature HD (PS)",
+      "country": "",
+      "category": "",
+      "bouquet": "M7",
+      "encryption": "Irdeto 2",
+      "sid": "30528",
+      "vpid": "1501",
+      "audio_tracks": [
+        {
+          "pid": "1510",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1511",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "1512",
+          "format": "",
+          "language": "hun"
+        }
+      ],
+      "pmt": "1700",
+      "pcr": "1501",
+      "txt": "",
       "frequency": "12034.40",
       "polarization": "V",
       "symbol_rate": "30000",
@@ -27226,6 +27316,106 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "Nicktoons",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct OneFocus SatTelly",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax + Cryptoworks",
+      "sid": "504",
+      "vpid": "5041",
+      "audio_tracks": [
+        {
+          "pid": "5042",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5043",
+          "format": "",
+          "language": "hrv"
+        },
+        {
+          "pid": "5044",
+          "format": "",
+          "language": "ser"
+        },
+        {
+          "pid": "5045",
+          "format": "",
+          "language": "slv"
+        },
+        {
+          "pid": "5046",
+          "format": "",
+          "language": "rus"
+        },
+        {
+          "pid": "5047",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5048",
+          "format": "",
+          "language": "rom"
+        },
+        {
+          "pid": "6042",
+          "format": "",
+          "language": "hun"
+        },
+        {
+          "pid": "6043",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "6044",
+          "format": "",
+          "language": "est"
+        },
+        {
+          "pid": "6045",
+          "format": "",
+          "language": "lit"
+        },
+        {
+          "pid": "6046",
+          "format": "",
+          "language": "lav"
+        },
+        {
+          "pid": "6048",
+          "format": "",
+          "language": "bul"
+        }
+      ],
+      "pmt": "5040",
+      "pcr": "5041",
+      "txt": "5049",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Nickelodeon Europe",
       "country": "Regno Unito",
       "category": "Children",
@@ -27611,6 +27801,121 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "Nickelodeon Europe.",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct OneFocus SatTelly",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax + Cryptoworks",
+      "sid": "515",
+      "vpid": "5051",
+      "audio_tracks": [
+        {
+          "pid": "6055",
+          "format": "",
+          "language": "lit"
+        },
+        {
+          "pid": "6057",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5150",
+      "pcr": "5051",
+      "txt": "5059",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Nick Junior Global.",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct OneFocus Sat",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Conax",
+      "sid": "522",
+      "vpid": "5121",
+      "audio_tracks": [
+        {
+          "pid": "5122",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5123",
+          "format": "",
+          "language": "lit"
+        },
+        {
+          "pid": "5124",
+          "format": "",
+          "language": "rus"
+        },
+        {
+          "pid": "5125",
+          "format": "",
+          "language": "swe"
+        },
+        {
+          "pid": "5126",
+          "format": "",
+          "language": "dan"
+        },
+        {
+          "pid": "5127",
+          "format": "",
+          "language": "nor"
+        },
+        {
+          "pid": "5128",
+          "format": "",
+          "language": "fin"
+        }
+      ],
+      "pmt": "5220",
+      "pcr": "5121",
+      "txt": "5139",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Nick Junior Global..",
       "country": "",
       "category": "",
@@ -27911,6 +28216,151 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "Nick Junior Hungary",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct One",
+      "encryption": "Nagravision 3",
+      "sid": "528",
+      "vpid": "5121",
+      "audio_tracks": [
+        {
+          "pid": "5122",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5129",
+          "format": "",
+          "language": "hun"
+        }
+      ],
+      "pmt": "5280",
+      "pcr": "5121",
+      "txt": "",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Nick Junior Czech",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct OneFocus SatTelly",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax + Cryptoworks",
+      "sid": "529",
+      "vpid": "5121",
+      "audio_tracks": [
+        {
+          "pid": "5122",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5129",
+          "format": "",
+          "language": "hun"
+        },
+        {
+          "pid": "5133",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "5290",
+      "pcr": "5121",
+      "txt": "",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Nick Junior Romania",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct OneFocus Sat",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Conax",
+      "sid": "530",
+      "vpid": "5121",
+      "audio_tracks": [
+        {
+          "pid": "5122",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5129",
+          "format": "",
+          "language": "hun"
+        },
+        {
+          "pid": "5130",
+          "format": "",
+          "language": "rom"
+        }
+      ],
+      "pmt": "5300",
+      "pcr": "5121",
+      "txt": "",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Nicktoons Hungary",
       "country": "Ungheria",
       "category": "Children",
@@ -28046,6 +28496,151 @@
         }
       ],
       "pmt": "5330",
+      "pcr": "5041",
+      "txt": "",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Nickelodeon Hungary.",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct OneFocus SatTelly",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax + Cryptoworks",
+      "sid": "534",
+      "vpid": "5051",
+      "audio_tracks": [
+        {
+          "pid": "5052",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5056",
+          "format": "",
+          "language": "hun"
+        },
+        {
+          "pid": "6053",
+          "format": "",
+          "language": "ukr"
+        }
+      ],
+      "pmt": "5340",
+      "pcr": "5051",
+      "txt": "",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Nick Junior Hungary.",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct One",
+      "encryption": "Nagravision 3",
+      "sid": "535",
+      "vpid": "5121",
+      "audio_tracks": [
+        {
+          "pid": "5122",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5129",
+          "format": "",
+          "language": "hun"
+        }
+      ],
+      "pmt": "5350",
+      "pcr": "5121",
+      "txt": "",
+      "frequency": "12226.20",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "704",
+      "tid": "27",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Nicktoons Hungary.",
+      "country": "",
+      "category": "",
+      "bouquet": "Direct One",
+      "encryption": "Nagravision 3",
+      "sid": "536",
+      "vpid": "5041",
+      "audio_tracks": [
+        {
+          "pid": "5042",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5047",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "6042",
+          "format": "",
+          "language": "hun"
+        }
+      ],
+      "pmt": "5360",
       "pcr": "5041",
       "txt": "",
       "frequency": "12226.20",
