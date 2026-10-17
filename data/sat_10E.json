@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "10E",
   "satellite_pos": "10.0E",
-  "updated_at": "2026-10-17T20:00:02.071172",
+  "updated_at": "2026-10-18T00:00:02.227608",
   "count": 17,
   "channels": [
     {
@@ -669,8 +669,8 @@
       "fec": "9/10",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "",
-      "tid": "",
+      "nid": "1",
+      "tid": "1",
       "satellite_pos": "10.0E",
       "is_multistream": true,
       "ms_isid": 171,
