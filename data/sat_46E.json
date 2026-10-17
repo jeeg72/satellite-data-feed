@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "46E",
   "satellite_pos": "46.0E",
-  "updated_at": "2026-10-17T20:00:02.071172",
+  "updated_at": "2026-10-18T00:00:02.227608",
   "count": 105,
   "channels": [
     {
@@ -29,8 +29,8 @@
       "fec": "1/2",
       "standard": "DVB-S2",
       "modulation": "QPSK",
-      "nid": "1",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -69,8 +69,8 @@
       "fec": "1/2",
       "standard": "DVB-S2",
       "modulation": "QPSK",
-      "nid": "1",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -109,8 +109,8 @@
       "fec": "4/5",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "0",
-      "tid": "4",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -149,8 +149,8 @@
       "fec": "3/5",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "1",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -189,8 +189,8 @@
       "fec": "3/5",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "1",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -229,8 +229,8 @@
       "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "65535",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -429,8 +429,8 @@
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "1",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -469,8 +469,8 @@
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "1",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -629,8 +629,8 @@
       "fec": "8/9",
       "standard": "DVB-S2",
       "modulation": "QPSK",
-      "nid": "8192",
-      "tid": "4096",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -724,7 +724,7 @@
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "QPSK",
-      "nid": "1",
+      "nid": "0",
       "tid": "1",
       "satellite_pos": "46.0E",
       "is_multistream": false,
@@ -764,7 +764,7 @@
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "QPSK",
-      "nid": "1",
+      "nid": "0",
       "tid": "1",
       "satellite_pos": "46.0E",
       "is_multistream": false,
@@ -1009,7 +1009,7 @@
       "fec": "8/9",
       "standard": "DVB-S2",
       "modulation": "QPSK",
-      "nid": "1",
+      "nid": "0",
       "tid": "1",
       "satellite_pos": "46.0E",
       "is_multistream": false,
@@ -1049,8 +1049,8 @@
       "fec": "5/6",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "0",
-      "tid": "1",
+      "nid": "",
+      "tid": "",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -1174,7 +1174,7 @@
       "fec": "3/5",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "65535",
+      "nid": "0",
       "tid": "1",
       "satellite_pos": "46.0E",
       "is_multistream": false,
@@ -1228,7 +1228,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "AMC Movies Africa",
@@ -1268,7 +1268,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Romanza",
@@ -1308,7 +1308,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "National Geographic Channel Africa",
@@ -1348,7 +1348,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Discovery Channel Middle-East & Africa",
@@ -1388,7 +1388,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "ID",
@@ -1428,7 +1428,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Nickelodeon",
@@ -1468,7 +1468,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Boing",
@@ -1508,7 +1508,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Fix & Foxi",
@@ -1548,7 +1548,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Baby TV",
@@ -1588,7 +1588,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cbeebies",
@@ -1628,7 +1628,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Boomerang",
@@ -1668,7 +1668,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "BBC News",
@@ -1708,7 +1708,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNN",
@@ -1748,7 +1748,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Star Plus ME",
@@ -1788,7 +1788,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TBC",
@@ -1828,7 +1828,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Tanzania Safari Channel",
@@ -1868,7 +1868,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Channel 10",
@@ -1908,7 +1908,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "StarTV Tanzania",
@@ -1948,7 +1948,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "ZBC",
@@ -1988,7 +1988,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Mahaasin TV",
@@ -2028,7 +2028,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV Imaan",
@@ -2068,7 +2068,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Upendo TV",
@@ -2108,7 +2108,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Hope Channel",
@@ -2148,7 +2148,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "WRM TV",
@@ -2188,7 +2188,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Emmanuel TV",
@@ -2228,7 +2228,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Arise and Shine TV",
@@ -2268,7 +2268,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Tumaini TV",
@@ -2308,7 +2308,7 @@
       "fixed_from_satellite": false,
       "t2mi": true,
       "t2mi_pid": 4051,
-      "t2mi_plp": 1
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Azam One HD",
@@ -2340,7 +2340,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2351,8 +2351,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2385,7 +2385,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2396,8 +2396,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2425,7 +2425,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2436,8 +2436,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2470,7 +2470,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2481,8 +2481,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2515,7 +2515,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2526,8 +2526,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2560,7 +2560,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2571,8 +2571,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2605,7 +2605,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2616,8 +2616,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2650,7 +2650,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2661,8 +2661,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2695,7 +2695,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2706,8 +2706,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2735,7 +2735,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2746,8 +2746,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2775,7 +2775,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2786,8 +2786,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2815,7 +2815,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2826,8 +2826,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2855,7 +2855,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2866,8 +2866,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2895,7 +2895,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2906,8 +2906,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2935,7 +2935,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2946,8 +2946,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -2975,7 +2975,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -2986,8 +2986,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3015,7 +3015,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3026,8 +3026,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3055,7 +3055,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3066,8 +3066,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3095,7 +3095,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3106,8 +3106,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3135,7 +3135,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3146,8 +3146,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3175,7 +3175,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3186,8 +3186,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3215,7 +3215,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3226,8 +3226,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3260,7 +3260,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3271,8 +3271,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3300,7 +3300,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3311,8 +3311,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3340,7 +3340,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3351,8 +3351,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
@@ -3380,7 +3380,7 @@
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "0",
-      "tid": "0",
+      "tid": "4052",
       "satellite_pos": "46.0E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -3391,8 +3391,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
+      "t2mi": true,
+      "t2mi_pid": 4052,
       "t2mi_plp": 0
     },
     {
