@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "4_8E",
   "satellite_pos": "4.8E",
-  "updated_at": "2026-10-17T08:00:02.275586",
-  "count": 178,
+  "updated_at": "2026-10-17T12:00:01.672030",
+  "count": 181,
   "channels": [
     {
       "channel_name": "WHTV1",
@@ -2451,6 +2451,51 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "TLC_",
+      "country": "",
+      "category": "",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10166",
+      "vpid": "4361",
+      "audio_tracks": [
+        {
+          "pid": "6362",
+          "format": "",
+          "language": ""
+        },
+        {
+          "pid": "6364",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "4360",
+      "pcr": "4361",
+      "txt": "",
+      "frequency": "11785.10",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Viasat Kino",
       "country": "non definito",
       "category": "Movies",
@@ -2585,7 +2630,7 @@
       "country": "",
       "category": "",
       "bouquet": "Home 3",
-      "encryption": "FTA",
+      "encryption": "VideoGuard",
       "sid": "10181",
       "vpid": "4421",
       "audio_tracks": [
@@ -2871,6 +2916,46 @@
         }
       ],
       "pmt": "4560",
+      "pcr": "4561",
+      "txt": "",
+      "frequency": "11785.10",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "201",
+      "satellite_pos": "4.8E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "FX",
+      "country": "",
+      "category": "",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10216",
+      "vpid": "4561",
+      "audio_tracks": [
+        {
+          "pid": "6563",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4569",
       "pcr": "4561",
       "txt": "",
       "frequency": "11785.10",
@@ -5098,6 +5183,46 @@
           "pid": "5263",
           "format": "aac",
           "language": "rus"
+        }
+      ],
+      "pmt": "5260",
+      "pcr": "5261",
+      "txt": "",
+      "frequency": "11957.60",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "85",
+      "tid": "202",
+      "satellite_pos": "4.8E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "FX_Life",
+      "country": "",
+      "category": "",
+      "bouquet": "Home 3",
+      "encryption": "VideoGuard",
+      "sid": "10456",
+      "vpid": "5261",
+      "audio_tracks": [
+        {
+          "pid": "7262",
+          "format": "",
+          "language": ""
         }
       ],
       "pmt": "5260",
