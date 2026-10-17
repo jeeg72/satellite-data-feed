@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-17T16:00:01.957732",
-  "count": 806,
+  "updated_at": "2026-10-17T20:00:02.071172",
+  "count": 808,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -28331,6 +28331,51 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "Sky Sport Bundesliga 3",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Deutschland",
+      "encryption": "VideoGuard",
+      "sid": "287",
+      "vpid": "2047",
+      "audio_tracks": [
+        {
+          "pid": "2050",
+          "format": "eac3",
+          "language": "qab"
+        },
+        {
+          "pid": "2052",
+          "format": "eac3",
+          "language": "qac"
+        }
+      ],
+      "pmt": "103",
+      "pcr": "2047",
+      "txt": "",
+      "frequency": "12304.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "9/10",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "133",
+      "tid": "12",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Sky Sport 3 Germany",
       "country": "Germania",
       "category": "Sport",
@@ -30182,6 +30227,51 @@
       ],
       "pmt": "101",
       "pcr": "1535",
+      "txt": "",
+      "frequency": "12382.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "133",
+      "tid": "11",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Sport 10",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Deutschland",
+      "encryption": "VideoGuard",
+      "sid": "269",
+      "vpid": "2559",
+      "audio_tracks": [
+        {
+          "pid": "2562",
+          "format": "eac3",
+          "language": "qae"
+        },
+        {
+          "pid": "2564",
+          "format": "eac3",
+          "language": "qaf"
+        }
+      ],
+      "pmt": "117",
+      "pcr": "2559",
       "txt": "",
       "frequency": "12382.50",
       "polarization": "H",
