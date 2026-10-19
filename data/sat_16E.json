@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "16E",
   "satellite_pos": "16.0E",
-  "updated_at": "2026-10-19T20:00:01.881375",
-  "count": 657,
+  "updated_at": "2026-10-20T00:00:01.907305",
+  "count": 658,
   "channels": [
     {
       "channel_name": "Arena Premium 3",
@@ -26915,6 +26915,51 @@
       "ms_unreliable": false,
       "ms_suspect": false,
       "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "SNAI TV Virtuali 1",
+      "country": "",
+      "category": "",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "7",
+      "vpid": "410",
+      "audio_tracks": [
+        {
+          "pid": "402",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "600",
+          "format": "",
+          "language": "ita"
+        }
+      ],
+      "pmt": "5007",
+      "pcr": "410",
+      "txt": "",
+      "frequency": "12700.20",
+      "polarization": "H",
+      "symbol_rate": "9880",
+      "fec": "2/3",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "101",
+      "satellite_pos": "16.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
