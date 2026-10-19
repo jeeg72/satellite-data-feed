@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-19T16:00:02.581077",
-  "count": 538,
+  "updated_at": "2026-10-19T20:00:01.881375",
+  "count": 536,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -3366,51 +3366,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Nick Jr Hungary",
-      "country": "Ungheria",
-      "category": "Children",
-      "bouquet": "Sky Digital",
-      "encryption": "VideoGuard",
-      "sid": "51074",
-      "vpid": "2306",
-      "audio_tracks": [
-        {
-          "pid": "2321",
-          "format": "",
-          "language": "nar"
-        },
-        {
-          "pid": "2307",
-          "format": "ac3",
-          "language": "eng"
-        }
-      ],
-      "pmt": "280",
-      "pcr": "2306",
-      "txt": "2312",
-      "frequency": "11141.20",
-      "polarization": "H",
-      "symbol_rate": "23000",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2069",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "MTV Europe",
       "country": "Regno Unito",
       "category": "Music",
@@ -3433,51 +3388,6 @@
       "pmt": "281",
       "pcr": "2322",
       "txt": "2340",
-      "frequency": "11141.20",
-      "polarization": "H",
-      "symbol_rate": "23000",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2069",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "MTV HD",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Digital",
-      "encryption": "VideoGuard",
-      "sid": "51078",
-      "vpid": "2346",
-      "audio_tracks": [
-        {
-          "pid": "2348",
-          "format": "",
-          "language": "nar"
-        },
-        {
-          "pid": "2347",
-          "format": "ac3",
-          "language": "eng"
-        }
-      ],
-      "pmt": "278",
-      "pcr": "2346",
-      "txt": "2349",
       "frequency": "11141.20",
       "polarization": "H",
       "symbol_rate": "23000",
@@ -5711,9 +5621,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "2117",
-      "country": "",
-      "category": "",
+      "channel_name": "Nick Jr. HD UK",
+      "country": "Regno Unito",
+      "category": "Children",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "2117",
@@ -5721,7 +5631,7 @@
       "audio_tracks": [
         {
           "pid": "2388",
-          "format": "eac3",
+          "format": "ac3",
           "language": "eng"
         },
         {
@@ -5730,7 +5640,7 @@
           "language": "nar"
         }
       ],
-      "pmt": "262",
+      "pmt": "275",
       "pcr": "2387",
       "txt": "2389",
       "frequency": "11305.30",
@@ -5756,9 +5666,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "2118",
-      "country": "",
-      "category": "",
+      "channel_name": "MTV HD UK",
+      "country": "Regno Unito",
+      "category": "Music",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "2118",
@@ -5771,11 +5681,11 @@
         },
         {
           "pid": "2394",
-          "format": "eac3",
+          "format": "ac3",
           "language": "eng"
         }
       ],
-      "pmt": "263",
+      "pmt": "276",
       "pcr": "2393",
       "txt": "2392",
       "frequency": "11305.30",
