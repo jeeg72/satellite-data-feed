@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-20T12:00:02.011534",
+  "updated_at": "2026-10-20T16:00:02.382959",
   "count": 823,
   "channels": [
     {
@@ -17616,7 +17616,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Cinema Feelgood",
+      "channel_name": "Sky Cinema Spooky Halloween HD",
       "country": "Germania",
       "category": "Movies",
       "bouquet": "Sky Deutschland",
@@ -17626,8 +17626,13 @@
       "audio_tracks": [
         {
           "pid": "771",
-          "format": "ac3",
+          "format": "eac3",
           "language": "ger"
+        },
+        {
+          "pid": "772",
+          "format": "eac3",
+          "language": "eng"
         }
       ],
       "pmt": "98",
