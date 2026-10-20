@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "39E",
   "satellite_pos": "39.0E",
-  "updated_at": "2026-10-20T08:00:02.634579",
+  "updated_at": "2026-10-20T12:00:02.011534",
   "count": 557,
   "channels": [
     {
@@ -3294,7 +3294,7 @@
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "0",
+      "nid": "1",
       "tid": "0",
       "satellite_pos": "39.0E",
       "is_multistream": false,
