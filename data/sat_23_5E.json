@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-10-21T20:00:02.480197",
-  "count": 542,
+  "updated_at": "2026-10-22T00:00:02.404336",
+  "count": 544,
   "channels": [
     {
       "channel_name": "Star Channel Netherlands",
@@ -7296,6 +7296,56 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "CANAL+ Drama Czechia & Slovakia",
+      "country": "Repubblica Ceca",
+      "category": "Movies",
+      "bouquet": "SkyLink",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "sid": "15610",
+      "vpid": "2001",
+      "audio_tracks": [
+        {
+          "pid": "2011",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "2012",
+          "format": "",
+          "language": ""
+        },
+        {
+          "pid": "2013",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "2000",
+      "pcr": "2001",
+      "txt": "",
+      "frequency": "12110.30",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3221",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Minimax Czechia",
       "country": "Repubblica Ceca",
       "category": "Children",
@@ -10272,6 +10322,56 @@
       ],
       "pmt": "2800",
       "pcr": "597",
+      "txt": "",
+      "frequency": "12187.90",
+      "polarization": "H",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3225",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Canal+ Crime Czechia & Slovakia",
+      "country": "Repubblica Ceca",
+      "category": "Movies",
+      "bouquet": "SkyLink",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "sid": "21171",
+      "vpid": "598",
+      "audio_tracks": [
+        {
+          "pid": "198",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "298",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "398",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "2798",
+      "pcr": "598",
       "txt": "",
       "frequency": "12187.90",
       "polarization": "H",
