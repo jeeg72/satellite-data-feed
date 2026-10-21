@@ -3,7 +3,7 @@
   "label": "mediaset — 39.0E",
   "bouquet_id": "mediaset",
   "satellite_pos": "39.0E",
-  "updated_at": "2026-10-21T08:00:01.804234",
+  "updated_at": "2026-10-21T12:00:02.000573",
   "count": 2,
   "channels": [
     {
@@ -24,7 +24,7 @@
       "pmt": "282",
       "pcr": "4451",
       "txt": "",
-      "frequency": "10930.00",
+      "frequency": "10929.70",
       "polarization": "H",
       "symbol_rate": "30000",
       "fec": "5/6",
@@ -64,7 +64,7 @@
       "pmt": "285",
       "pcr": "4701",
       "txt": "",
-      "frequency": "10930.00",
+      "frequency": "10929.70",
       "polarization": "H",
       "symbol_rate": "30000",
       "fec": "5/6",
