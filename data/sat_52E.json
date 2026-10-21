@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-10-21T20:00:02.480197",
-  "count": 347,
+  "updated_at": "2026-10-22T00:00:02.404336",
+  "count": 348,
   "channels": [
     {
       "channel_name": "Nahade Azadi",
@@ -7657,6 +7657,51 @@
       ],
       "pmt": "3483",
       "pcr": "2080",
+      "txt": "",
+      "frequency": "10928.80",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "8/9",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "115",
+      "tid": "526",
+      "satellite_pos": "52.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "hevc",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "FTV",
+      "country": "",
+      "category": "",
+      "bouquet": "Älem TV",
+      "encryption": "Cryptoguard",
+      "sid": "52636",
+      "vpid": "2220",
+      "audio_tracks": [
+        {
+          "pid": "2221",
+          "format": "aac",
+          "language": "aac"
+        },
+        {
+          "pid": "2222",
+          "format": "aac",
+          "language": "rus"
+        }
+      ],
+      "pmt": "3484",
+      "pcr": "2220",
       "txt": "",
       "frequency": "10928.80",
       "polarization": "H",
