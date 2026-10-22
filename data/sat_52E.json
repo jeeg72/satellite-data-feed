@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "52E",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-10-22T04:00:02.565799",
+  "updated_at": "2026-10-22T08:00:02.309340",
   "count": 348,
   "channels": [
     {
@@ -7743,7 +7743,7 @@
       "pmt": "136",
       "pcr": "1360",
       "txt": "",
-      "frequency": "11204.90",
+      "frequency": "11204.50",
       "polarization": "H",
       "symbol_rate": "2500",
       "fec": "3/4",
@@ -7783,7 +7783,7 @@
       "pmt": "140",
       "pcr": "1400",
       "txt": "",
-      "frequency": "11204.90",
+      "frequency": "11204.50",
       "polarization": "H",
       "symbol_rate": "2500",
       "fec": "3/4",
