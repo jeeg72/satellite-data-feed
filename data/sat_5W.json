@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "5W",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-10-23T12:00:02.658162",
+  "updated_at": "2026-10-23T16:00:01.908893",
   "count": 325,
   "channels": [
     {
@@ -9573,8 +9573,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9623,8 +9623,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9663,8 +9663,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9703,8 +9703,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9748,8 +9748,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9798,8 +9798,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9838,8 +9838,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9878,8 +9878,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9918,8 +9918,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9958,8 +9958,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -9998,8 +9998,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -10038,8 +10038,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -10088,8 +10088,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -10128,8 +10128,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
@@ -10173,8 +10173,8 @@
       "ms_suspect": false,
       "video_format": "hevc",
       "fixed_from_satellite": false,
-      "t2mi": true,
-      "t2mi_pid": 4096,
+      "t2mi": false,
+      "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
