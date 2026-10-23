@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-23T20:00:01.826451",
-  "count": 539,
+  "updated_at": "2026-10-24T00:00:02.328163",
+  "count": 538,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -3468,51 +3468,6 @@
       "pmt": "281",
       "pcr": "2322",
       "txt": "2340",
-      "frequency": "11141.00",
-      "polarization": "H",
-      "symbol_rate": "23000",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2069",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "Comedy Central HD UK",
-      "country": "Regno Unito",
-      "category": "Intrattenimento",
-      "bouquet": "Sky Digital",
-      "encryption": "VideoGuard",
-      "sid": "51079",
-      "vpid": "2397",
-      "audio_tracks": [
-        {
-          "pid": "2396",
-          "format": "",
-          "language": "nar"
-        },
-        {
-          "pid": "2398",
-          "format": "ac3",
-          "language": "eng"
-        }
-      ],
-      "pmt": "271",
-      "pcr": "2397",
-      "txt": "2391",
       "frequency": "11141.00",
       "polarization": "H",
       "symbol_rate": "23000",
