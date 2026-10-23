@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "30W",
   "satellite_pos": "30.0W",
-  "updated_at": "2026-10-23T16:00:01.908893",
+  "updated_at": "2026-10-23T20:00:01.826451",
   "count": 228,
   "channels": [
     {
@@ -548,7 +548,7 @@
       "pmt": "400",
       "pcr": "408",
       "txt": "273",
-      "frequency": "11491.80",
+      "frequency": "11491.40",
       "polarization": "V",
       "symbol_rate": "7522",
       "fec": "8/9",
