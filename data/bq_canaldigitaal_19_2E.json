@@ -1,0 +1,145 @@
+{
+  "type": "bouquet",
+  "label": "canaldigitaal — 19.2E",
+  "bouquet_id": "canaldigitaal",
+  "satellite_pos": "19.2E",
+  "updated_at": "2026-10-25T09:13:35.203913",
+  "count": 3,
+  "channels": [
+    {
+      "channel_name": "Nick Jr..",
+      "country": "",
+      "category": "",
+      "bouquet": "AustriasatCanal DigitaalMTV Networks",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Mediaguard 3 + Cryptoworks",
+      "sid": "28663",
+      "vpid": "3111",
+      "audio_tracks": [
+        {
+          "pid": "3112",
+          "format": "",
+          "language": "ger"
+        },
+        {
+          "pid": "3113",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "3114",
+          "format": "",
+          "language": "fra"
+        },
+        {
+          "pid": "3122",
+          "format": "",
+          "language": "ned"
+        }
+      ],
+      "pmt": "323",
+      "pcr": "3111",
+      "txt": "",
+      "frequency": "11972.50",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1078",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Hustler TV",
+      "country": "U.S.A.",
+      "category": "Adult",
+      "bouquet": "AustriasatCanal DigitaalOrangeTeleSatTV Vlaanderen",
+      "encryption": "Nagravision 3 + Viaccess 3.0 + Irdeto 2 + Mediaguard 3 + Cryptoworks",
+      "sid": "4107",
+      "vpid": "607",
+      "audio_tracks": [
+        {
+          "pid": "147",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "2207",
+      "pcr": "607",
+      "txt": "",
+      "frequency": "12514.75",
+      "polarization": "H",
+      "symbol_rate": "22000",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "53",
+      "tid": "1105",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Bergblick",
+      "country": "Germania",
+      "category": "Documentaries",
+      "bouquet": "AustriasatCanal Digitaal",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Mediaguard 3",
+      "sid": "4115",
+      "vpid": "615",
+      "audio_tracks": [
+        {
+          "pid": "155",
+          "format": "",
+          "language": "ger"
+        }
+      ],
+      "pmt": "2215",
+      "pcr": "615",
+      "txt": "",
+      "frequency": "12514.75",
+      "polarization": "H",
+      "symbol_rate": "22000",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "53",
+      "tid": "1105",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    }
+  ]
+}
