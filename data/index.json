@@ -1,101 +1,161 @@
 {
-  "generated_at": "2026-10-25T08:02:17.437421",
+  "generated_at": "2026-10-25T09:00:04.635825",
   "satellites": [
+    {
+      "label": "55E",
+      "file": "sat_55E.json",
+      "count": 148,
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
     {
       "label": "52E",
       "file": "sat_52E.json",
       "count": 353,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "51_5E",
+      "file": "sat_51_5E.json",
+      "count": 68,
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "46E",
       "file": "sat_46E.json",
       "count": 105,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "42E",
       "file": "sat_42E.json",
       "count": 429,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "39E",
       "file": "sat_39E.json",
       "count": 557,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "36E",
+      "file": "sat_36E.json",
+      "count": 108,
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "28_2E",
       "file": "sat_28_2E.json",
       "count": 538,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "26E",
+      "file": "sat_26E.json",
+      "count": 461,
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "25_5E",
+      "file": "sat_25_5E.json",
+      "count": 25,
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "23_5E",
       "file": "sat_23_5E.json",
       "count": 543,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "19_2E",
       "file": "sat_19_2E.json",
       "count": 808,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "16E",
       "file": "sat_16E.json",
       "count": 658,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "13E",
       "file": "sat_13E.json",
       "count": 1092,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "10E",
       "file": "sat_10E.json",
       "count": 17,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "9E",
       "file": "sat_9E.json",
       "count": 630,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "7E",
+      "file": "sat_7E.json",
+      "count": 45,
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "4_8E",
       "file": "sat_4_8E.json",
       "count": 181,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "3E",
+      "file": "sat_3E.json",
+      "count": 26,
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "1_9E",
       "file": "sat_1_9E.json",
       "count": 159,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "0_8W",
       "file": "sat_0_8W.json",
       "count": 905,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "5W",
       "file": "sat_5W.json",
       "count": 325,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "7W",
+      "file": "sat_7W.json",
+      "count": 535,
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "8W",
+      "file": "sat_8W.json",
+      "count": 230,
+      "updated_at": "2026-10-25T08:56:55.503003"
+    },
+    {
+      "label": "15W",
+      "file": "sat_15W.json",
+      "count": 74,
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "30W",
       "file": "sat_30W.json",
       "count": 228,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     }
   ],
   "bouquets": [
@@ -104,49 +164,49 @@
       "file": "bq_tivusat_13_0E.json",
       "satellite_pos": "13.0E",
       "count": 67,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "rai — 13.0E",
       "file": "bq_rai_13_0E.json",
       "satellite_pos": "13.0E",
       "count": 35,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "rai — 5.0W",
       "file": "bq_rai_5_0W.json",
       "satellite_pos": "5.0W",
       "count": 120,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "rai — 9.0E",
       "file": "bq_rai_9_0E.json",
       "satellite_pos": "9.0E",
       "count": 1,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "mediaset — 13.0E",
       "file": "bq_mediaset_13_0E.json",
       "satellite_pos": "13.0E",
       "count": 17,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "mediaset — 39.0E",
       "file": "bq_mediaset_39_0E.json",
       "satellite_pos": "39.0E",
       "count": 2,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     },
     {
       "label": "mediaset — 9.0E",
       "file": "bq_mediaset_9_0E.json",
       "satellite_pos": "9.0E",
       "count": 47,
-      "updated_at": "2026-10-25T08:00:02.189846"
+      "updated_at": "2026-10-25T08:56:55.503003"
     }
   ]
 }
