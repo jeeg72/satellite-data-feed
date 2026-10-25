@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "30W",
   "satellite_pos": "30.0W",
-  "updated_at": "2026-10-25T20:00:01.788679",
+  "updated_at": "2026-10-26T00:00:01.988239",
   "count": 228,
   "channels": [
     {
@@ -504,8 +504,8 @@
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "",
-      "tid": "",
+      "nid": "8916",
+      "tid": "1001",
       "satellite_pos": "30.0W",
       "is_multistream": false,
       "ms_isid": 0,
