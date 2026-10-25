@@ -1,0 +1,1310 @@
+{
+  "type": "bouquet",
+  "label": "totaltv — 13.0E",
+  "bouquet_id": "totaltv",
+  "satellite_pos": "13.0E",
+  "updated_at": "2026-10-25T09:13:35.203913",
+  "count": 25,
+  "channels": [
+    {
+      "channel_name": "Brazzers TV POL",
+      "country": "",
+      "category": "",
+      "bouquet": "Polsat BoxTotal TV",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + VideoGuard",
+      "sid": "16903",
+      "vpid": "1031",
+      "audio_tracks": [
+        {
+          "pid": "1032",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1033",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "1030",
+      "pcr": "1031",
+      "txt": "",
+      "frequency": "10930.00",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Brazzers TV UM",
+      "country": "",
+      "category": "",
+      "bouquet": "Polsat BoxTotal TV",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + VideoGuard",
+      "sid": "16904",
+      "vpid": "1031",
+      "audio_tracks": [
+        {
+          "pid": "1032",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1033",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "1040",
+      "pcr": "1031",
+      "txt": "",
+      "frequency": "10930.00",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Brazzers TV UM Nova",
+      "country": "",
+      "category": "",
+      "bouquet": "Polsat BoxTotal TV",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + VideoGuard",
+      "sid": "16905",
+      "vpid": "1031",
+      "audio_tracks": [
+        {
+          "pid": "1032",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1033",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "1050",
+      "pcr": "1031",
+      "txt": "",
+      "frequency": "10930.00",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Brazzers HD SBB",
+      "country": "",
+      "category": "",
+      "bouquet": "Total TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "16943",
+      "vpid": "1401",
+      "audio_tracks": [
+        {
+          "pid": "1402",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1403",
+          "format": "",
+          "language": "fra"
+        }
+      ],
+      "pmt": "1430",
+      "pcr": "1401",
+      "txt": "",
+      "frequency": "10930.00",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "12100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "CNN International HD",
+      "country": "U.S.A.",
+      "category": "News",
+      "bouquet": "NovaOrange PolskaPlatforma Canal+Polsat BoxTotal TV",
+      "encryption": "Nagravision 3 + Viaccess 3.0 + Irdeto 2 + VideoGuard + Conax",
+      "sid": "15213",
+      "vpid": "513",
+      "audio_tracks": [
+        {
+          "pid": "831",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "832",
+          "format": "ac3",
+          "language": "eng"
+        }
+      ],
+      "pmt": "313",
+      "pcr": "513",
+      "txt": "593",
+      "frequency": "11257.50",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "300",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Eurosport 1 HD",
+      "country": "Francia",
+      "category": "Sport",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
+      "sid": "701",
+      "vpid": "501",
+      "audio_tracks": [
+        {
+          "pid": "1101",
+          "format": "",
+          "language": "tur"
+        },
+        {
+          "pid": "1102",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1103",
+          "format": "",
+          "language": "ger"
+        },
+        {
+          "pid": "1104",
+          "format": "",
+          "language": "fra"
+        },
+        {
+          "pid": "1105",
+          "format": "",
+          "language": "swe"
+        },
+        {
+          "pid": "1106",
+          "format": "",
+          "language": "fin"
+        },
+        {
+          "pid": "1107",
+          "format": "",
+          "language": "den"
+        },
+        {
+          "pid": "1108",
+          "format": "",
+          "language": "nor"
+        },
+        {
+          "pid": "1109",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1110",
+          "format": "",
+          "language": "tur"
+        },
+        {
+          "pid": "1111",
+          "format": "",
+          "language": "esp"
+        },
+        {
+          "pid": "1112",
+          "format": "",
+          "language": "por"
+        },
+        {
+          "pid": "1113",
+          "format": "",
+          "language": "ned"
+        },
+        {
+          "pid": "1114",
+          "format": "",
+          "language": "pol"
+        },
+        {
+          "pid": "1115",
+          "format": "",
+          "language": "rus"
+        },
+        {
+          "pid": "1116",
+          "format": "",
+          "language": "rom"
+        },
+        {
+          "pid": "1117",
+          "format": "",
+          "language": "gre"
+        },
+        {
+          "pid": "1118",
+          "format": "",
+          "language": "cro"
+        },
+        {
+          "pid": "1119",
+          "format": "",
+          "language": "hun"
+        },
+        {
+          "pid": "1120",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "1121",
+          "format": "",
+          "language": "ser"
+        },
+        {
+          "pid": "1122",
+          "format": "",
+          "language": "bul"
+        }
+      ],
+      "pmt": "71",
+      "pcr": "501",
+      "txt": "",
+      "frequency": "11334.20",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "700",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Eurosport 2 HD",
+      "country": "Francia",
+      "category": "Sport",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
+      "sid": "702",
+      "vpid": "502",
+      "audio_tracks": [
+        {
+          "pid": "1201",
+          "format": "",
+          "language": "tur"
+        },
+        {
+          "pid": "1202",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1203",
+          "format": "",
+          "language": "ger"
+        },
+        {
+          "pid": "1204",
+          "format": "",
+          "language": "fra"
+        },
+        {
+          "pid": "1205",
+          "format": "",
+          "language": "swe"
+        },
+        {
+          "pid": "1206",
+          "format": "",
+          "language": "fin"
+        },
+        {
+          "pid": "1207",
+          "format": "",
+          "language": "den"
+        },
+        {
+          "pid": "1208",
+          "format": "",
+          "language": "nor"
+        },
+        {
+          "pid": "1209",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "1210",
+          "format": "",
+          "language": "tur"
+        },
+        {
+          "pid": "1211",
+          "format": "",
+          "language": "esp"
+        },
+        {
+          "pid": "1212",
+          "format": "",
+          "language": "por"
+        },
+        {
+          "pid": "1213",
+          "format": "",
+          "language": "ned"
+        },
+        {
+          "pid": "1214",
+          "format": "",
+          "language": "pol"
+        },
+        {
+          "pid": "1215",
+          "format": "",
+          "language": "rus"
+        },
+        {
+          "pid": "1216",
+          "format": "",
+          "language": "rom"
+        },
+        {
+          "pid": "1217",
+          "format": "",
+          "language": "gre"
+        },
+        {
+          "pid": "1218",
+          "format": "",
+          "language": "cro"
+        },
+        {
+          "pid": "1219",
+          "format": "",
+          "language": "hun"
+        },
+        {
+          "pid": "1220",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "1221",
+          "format": "",
+          "language": "ser"
+        },
+        {
+          "pid": "1222",
+          "format": "",
+          "language": "bul"
+        }
+      ],
+      "pmt": "72",
+      "pcr": "502",
+      "txt": "",
+      "frequency": "11334.20",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "700",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Eurosport 1 Greek HD",
+      "country": "Grecia",
+      "category": "Sport",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
+      "sid": "751",
+      "vpid": "501",
+      "audio_tracks": [
+        {
+          "pid": "1113",
+          "format": "",
+          "language": ""
+        },
+        {
+          "pid": "1102",
+          "format": "",
+          "language": "gre"
+        }
+      ],
+      "pmt": "121",
+      "pcr": "501",
+      "txt": "",
+      "frequency": "11334.20",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "700",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Eurosport 1 Serbian HD",
+      "country": "Serbia",
+      "category": "Sport",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
+      "sid": "752",
+      "vpid": "501",
+      "audio_tracks": [
+        {
+          "pid": "1116",
+          "format": "",
+          "language": "ser"
+        },
+        {
+          "pid": "1102",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "122",
+      "pcr": "501",
+      "txt": "",
+      "frequency": "11334.20",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "700",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Eurosport 2 Serbian HD",
+      "country": "Serbia",
+      "category": "Sport",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
+      "sid": "753",
+      "vpid": "502",
+      "audio_tracks": [
+        {
+          "pid": "1216",
+          "format": "",
+          "language": "ser"
+        },
+        {
+          "pid": "1202",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "123",
+      "pcr": "502",
+      "txt": "",
+      "frequency": "11334.20",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "700",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Eurosport 2 Greek HD",
+      "country": "",
+      "category": "",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Viaccess 6.0 + Irdeto 2 + VideoGuard",
+      "sid": "754",
+      "vpid": "502",
+      "audio_tracks": [
+        {
+          "pid": "1213",
+          "format": "",
+          "language": "gre"
+        },
+        {
+          "pid": "1202",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "124",
+      "pcr": "502",
+      "txt": "",
+      "frequency": "11334.20",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "700",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Hustler HD SBB",
+      "country": "",
+      "category": "",
+      "bouquet": "Total TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "14247",
+      "vpid": "5174",
+      "audio_tracks": [
+        {
+          "pid": "5136",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1047",
+      "pcr": "5174",
+      "txt": "",
+      "frequency": "11410.90",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Private HD SBB",
+      "country": "",
+      "category": "",
+      "bouquet": "Total TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "14249",
+      "vpid": "5176",
+      "audio_tracks": [
+        {
+          "pid": "5144",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1049",
+      "pcr": "5176",
+      "txt": "",
+      "frequency": "11410.90",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Blue Hustler SBB",
+      "country": "",
+      "category": "",
+      "bouquet": "Total TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "14252",
+      "vpid": "5175",
+      "audio_tracks": [
+        {
+          "pid": "5140",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1052",
+      "pcr": "5175",
+      "txt": "",
+      "frequency": "11410.90",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "1100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Redlight HD",
+      "country": "Italia",
+      "category": "Adult",
+      "bouquet": "NovaPlatforma Canal+Polsat BoxTotal TV",
+      "encryption": "Nagravision 3 + Viaccess 4.0 + Irdeto 2 + Mediaguard 3 + VideoGuard + Conax",
+      "sid": "16932",
+      "vpid": "225",
+      "audio_tracks": [
+        {
+          "pid": "235",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1932",
+      "pcr": "225",
+      "txt": "",
+      "frequency": "11661.40",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "15800",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Travel Channel HD",
+      "country": "Regno Unito",
+      "category": "Travel",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "404",
+      "vpid": "101",
+      "audio_tracks": [
+        {
+          "pid": "103",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "5009",
+      "pcr": "101",
+      "txt": "",
+      "frequency": "11803.90",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5400",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Nat Geo Wild Europe HD",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "405",
+      "vpid": "1101",
+      "audio_tracks": [
+        {
+          "pid": "1102",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "761",
+      "pcr": "1101",
+      "txt": "",
+      "frequency": "11803.90",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5400",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "IDJ Kids HD",
+      "country": "Serbia",
+      "category": "Children",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "413",
+      "vpid": "210",
+      "audio_tracks": [
+        {
+          "pid": "313",
+          "format": "",
+          "language": "gre"
+        },
+        {
+          "pid": "2613",
+          "format": "",
+          "language": "bos"
+        },
+        {
+          "pid": "2614",
+          "format": "",
+          "language": "bul"
+        },
+        {
+          "pid": "2616",
+          "format": "",
+          "language": "mkd"
+        },
+        {
+          "pid": "2617",
+          "format": "",
+          "language": "alb"
+        },
+        {
+          "pid": "2618",
+          "format": "",
+          "language": "cro"
+        },
+        {
+          "pid": "2619",
+          "format": "",
+          "language": "slo"
+        }
+      ],
+      "pmt": "2611",
+      "pcr": "210",
+      "txt": "",
+      "frequency": "11803.90",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5400",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Disney Junior Greece",
+      "country": "Grecia",
+      "category": "Children",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "414",
+      "vpid": "211",
+      "audio_tracks": [
+        {
+          "pid": "314",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "315",
+          "format": "",
+          "language": "gre"
+        }
+      ],
+      "pmt": "61",
+      "pcr": "211",
+      "txt": "",
+      "frequency": "11803.90",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5400",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Novasports Premier League",
+      "country": "Grecia",
+      "category": "Sport",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "415",
+      "vpid": "100",
+      "audio_tracks": [
+        {
+          "pid": "34",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "62",
+          "format": "",
+          "language": "gre"
+        }
+      ],
+      "pmt": "57",
+      "pcr": "100",
+      "txt": "",
+      "frequency": "11803.90",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5400",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Animal Planet HD",
+      "country": "Regno Unito",
+      "category": "Documentaries",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "418",
+      "vpid": "5411",
+      "audio_tracks": [
+        {
+          "pid": "5421",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "5422",
+          "format": "",
+          "language": "lav"
+        }
+      ],
+      "pmt": "5409",
+      "pcr": "5411",
+      "txt": "",
+      "frequency": "11803.90",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "5400",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "E! Eastern Europe HD",
+      "country": "Regno Unito",
+      "category": "Intrattenimento",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "15511",
+      "vpid": "1901",
+      "audio_tracks": [
+        {
+          "pid": "1908",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "265",
+      "pcr": "1901",
+      "txt": "",
+      "frequency": "12129.90",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "7100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Discovery Channel Greece",
+      "country": "Grecia",
+      "category": "Documentaries",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "351",
+      "vpid": "512",
+      "audio_tracks": [
+        {
+          "pid": "650",
+          "format": "",
+          "language": "gre"
+        }
+      ],
+      "pmt": "5309",
+      "pcr": "512",
+      "txt": "",
+      "frequency": "12168.30",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "7300",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "History Channel HD Greece",
+      "country": "Grecia",
+      "category": "History",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "362",
+      "vpid": "1307",
+      "audio_tracks": [
+        {
+          "pid": "651",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "336",
+      "pcr": "1307",
+      "txt": "",
+      "frequency": "12168.30",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "7300",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Da Vinci HD UG",
+      "country": "",
+      "category": "",
+      "bouquet": "NovaTotal TV",
+      "encryption": "Irdeto 2 + VideoGuard",
+      "sid": "390",
+      "vpid": "510",
+      "audio_tracks": [
+        {
+          "pid": "902",
+          "format": "",
+          "language": "mul"
+        }
+      ],
+      "pmt": "51",
+      "pcr": "510",
+      "txt": "",
+      "frequency": "12168.30",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "5/6",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "7300",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    }
+  ]
+}
