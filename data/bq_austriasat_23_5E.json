@@ -1,0 +1,90 @@
+{
+  "type": "bouquet",
+  "label": "austriasat — 23.5E",
+  "bouquet_id": "austriasat",
+  "satellite_pos": "23.5E",
+  "updated_at": "2026-10-25T09:13:35.203913",
+  "count": 2,
+  "channels": [
+    {
+      "channel_name": "Filmbox+ One Netherlands",
+      "country": "Paesi Bassi",
+      "category": "Movies",
+      "bouquet": "AustriasatCanal Digitaal",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Mediaguard 3",
+      "sid": "6094",
+      "vpid": "534",
+      "audio_tracks": [
+        {
+          "pid": "134",
+          "format": "ac3",
+          "language": "ned"
+        }
+      ],
+      "pmt": "2494",
+      "pcr": "534",
+      "txt": "",
+      "frequency": "11739.10",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3202",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "VTM XMAS",
+      "country": "Belgio",
+      "category": "Intrattenimento",
+      "bouquet": "AustriasatTV Vlaanderen",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Mediaguard 3",
+      "sid": "21116",
+      "vpid": "556",
+      "audio_tracks": [
+        {
+          "pid": "126",
+          "format": "",
+          "language": "ned"
+        }
+      ],
+      "pmt": "2686",
+      "pcr": "556",
+      "txt": "",
+      "frequency": "12129.10",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3222",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    }
+  ]
+}
