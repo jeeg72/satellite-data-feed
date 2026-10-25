@@ -3,8 +3,8 @@
   "label": "skyitalia — 13.0E",
   "bouquet_id": "skyitalia",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-09-24T12:00:02.648653",
-  "count": 137,
+  "updated_at": "2026-10-25T09:13:35.203913",
+  "count": 116,
   "channels": [
     {
       "channel_name": "Horse TV HD",
@@ -24,7 +24,7 @@
       "pmt": "1420",
       "pcr": "1421",
       "txt": "",
-      "frequency": "10930.20",
+      "frequency": "10930.00",
       "polarization": "H",
       "symbol_rate": "30000",
       "fec": "2/3",
@@ -32,7 +32,19 @@
       "modulation": "8PSK",
       "nid": "318",
       "tid": "12100",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai YoYo HD",
@@ -52,7 +64,7 @@
       "pmt": "1104",
       "pcr": "512",
       "txt": "576",
-      "frequency": "10992.16",
+      "frequency": "10991.80",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "2/3",
@@ -60,7 +72,19 @@
       "modulation": "QPSK",
       "nid": "318",
       "tid": "12400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Rai Radio 2 Visual",
@@ -80,7 +104,7 @@
       "pmt": "1105",
       "pcr": "513",
       "txt": "577",
-      "frequency": "10992.16",
+      "frequency": "10991.80",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "2/3",
@@ -88,7 +112,19 @@
       "modulation": "QPSK",
       "nid": "318",
       "tid": "12400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Business 2",
@@ -101,19 +137,19 @@
       "audio_tracks": [
         {
           "pid": "402",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "403",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1122",
       "pcr": "174",
       "txt": "",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -121,7 +157,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Stories",
@@ -134,19 +182,19 @@
       "audio_tracks": [
         {
           "pid": "425",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "426",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1010",
       "pcr": "167",
       "txt": "711",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -154,7 +202,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DAZN 1 Italia",
@@ -167,14 +227,14 @@
       "audio_tracks": [
         {
           "pid": "430",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
       "pmt": "1008",
       "pcr": "169",
       "txt": "703",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -182,7 +242,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Prime Video Sportsbar",
@@ -207,7 +279,7 @@
       "pmt": "1121",
       "pcr": "165",
       "txt": "",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -215,7 +287,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Uno",
@@ -228,19 +312,19 @@
       "audio_tracks": [
         {
           "pid": "422",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "423",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1023",
       "pcr": "173",
       "txt": "701",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -248,7 +332,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Uno",
@@ -261,19 +357,19 @@
       "audio_tracks": [
         {
           "pid": "422",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "423",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1024",
       "pcr": "173",
       "txt": "701",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -281,7 +377,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Basket",
@@ -294,19 +402,19 @@
       "audio_tracks": [
         {
           "pid": "400",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "401",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1001",
       "pcr": "160",
       "txt": "700",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -314,7 +422,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -327,19 +447,19 @@
       "audio_tracks": [
         {
           "pid": "412",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "413",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1018",
       "pcr": "171",
       "txt": "",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -347,7 +467,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Supertennis HD",
@@ -367,7 +499,7 @@
       "pmt": "1127",
       "pcr": "164",
       "txt": "",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -375,7 +507,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -400,7 +544,7 @@
       "pmt": "1119",
       "pcr": "168",
       "txt": "722",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -408,7 +552,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Serie HD",
@@ -421,19 +577,19 @@
       "audio_tracks": [
         {
           "pid": "414",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "415",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1126",
       "pcr": "172",
       "txt": "705",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -441,7 +597,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Investigation HD",
@@ -454,19 +622,19 @@
       "audio_tracks": [
         {
           "pid": "410",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "411",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
       "pmt": "1017",
       "pcr": "170",
       "txt": "712",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -474,7 +642,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Atlantic HD Italia",
@@ -487,19 +667,19 @@
       "audio_tracks": [
         {
           "pid": "406",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "407",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1025",
       "pcr": "163",
       "txt": "704",
-      "frequency": "11842.60",
+      "frequency": "11842.20",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -507,51 +687,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "5600",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion BGDL 7790",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "7790",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11842.60",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "5600",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "7798",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11842.60",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "5600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky TG24 HD",
@@ -576,7 +724,7 @@
       "pmt": "1003",
       "pcr": "160",
       "txt": "",
-      "frequency": "11881.00",
+      "frequency": "11880.80",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -584,7 +732,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "5800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky TG24 HD",
@@ -609,7 +769,7 @@
       "pmt": "1004",
       "pcr": "160",
       "txt": "",
-      "frequency": "11881.00",
+      "frequency": "11880.80",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -617,7 +777,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "5800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky TG24 HD",
@@ -637,7 +809,7 @@
       "pmt": "1005",
       "pcr": "160",
       "txt": "",
-      "frequency": "11881.00",
+      "frequency": "11880.80",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -645,7 +817,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "5800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Business 1",
@@ -658,19 +842,19 @@
       "audio_tracks": [
         {
           "pid": "404",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "405",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1006",
       "pcr": "161",
       "txt": "",
-      "frequency": "11881.00",
+      "frequency": "11880.80",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -678,321 +862,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3696",
-      "vpid": "",
-      "audio_tracks": [
-        {
-          "pid": "3120",
-          "format": "",
-          "language": ""
-        }
-      ],
-      "pmt": "86",
-      "pcr": "8190",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Gestione Collegam. Telefonico",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3669",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1107",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Connessione internet Primafila",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3670",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1108",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "FGDL_5800",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3671",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "DL IKUSI EPG",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3673",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "",
-      "pcr": "",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "BGDL_5800",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3674",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "",
-      "pcr": "",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "GFD Service",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3686",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1012",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "BEM Service",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3687",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1011",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion BGDL 3690",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3690",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "TMS Service",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3693",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1109",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "AdSmart Metadata",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3694",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1110",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "BDL Service",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "3695",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "5001",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion FGDL",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "8173",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "95",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11881.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "5800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Nome",
-      "country": "Paese",
-      "category": "Categoria",
-      "bouquet": "Bouquet",
-      "encryption": "Codifica",
-      "sid": "SID",
-      "vpid": "VPID",
-      "audio_tracks": [],
-      "pmt": "PMT",
-      "pcr": "PCR",
-      "txt": "TXT",
-      "frequency": "11957.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Tennis",
@@ -1005,19 +887,19 @@
       "audio_tracks": [
         {
           "pid": "420",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "421",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1105",
       "pcr": "165",
       "txt": "",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1025,7 +907,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Calcio HD",
@@ -1038,11 +932,16 @@
       "audio_tracks": [
         {
           "pid": "480",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
-          "pid": "481482",
+          "pid": "481",
+          "format": "ac3",
+          "language": ""
+        },
+        {
+          "pid": "482",
           "format": "",
           "language": "ben"
         }
@@ -1050,7 +949,7 @@
       "pmt": "1136",
       "pcr": "179",
       "txt": "719",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1058,7 +957,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Calcio HD",
@@ -1071,11 +982,16 @@
       "audio_tracks": [
         {
           "pid": "480",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
-          "pid": "481482",
+          "pid": "481",
+          "format": "ac3",
+          "language": ""
+        },
+        {
+          "pid": "482",
           "format": "",
           "language": "ben"
         }
@@ -1083,7 +999,7 @@
       "pmt": "1137",
       "pcr": "179",
       "txt": "719",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1091,7 +1007,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Uno HD",
@@ -1104,19 +1032,19 @@
       "audio_tracks": [
         {
           "pid": "428",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "429",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1110",
       "pcr": "166",
       "txt": "708",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1124,7 +1052,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport 1 HD Italia",
@@ -1137,11 +1077,16 @@
       "audio_tracks": [
         {
           "pid": "474",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
-          "pid": "475476",
+          "pid": "475",
+          "format": "ac3",
+          "language": ""
+        },
+        {
+          "pid": "476",
           "format": "",
           "language": "ben"
         }
@@ -1149,7 +1094,7 @@
       "pmt": "1138",
       "pcr": "180",
       "txt": "720",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1157,7 +1102,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport 24",
@@ -1170,14 +1127,14 @@
       "audio_tracks": [
         {
           "pid": "400",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
       "pmt": "1102",
       "pcr": "160",
       "txt": "711",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1185,7 +1142,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport24",
@@ -1198,14 +1167,14 @@
       "audio_tracks": [
         {
           "pid": "400",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
       "pmt": "1103",
       "pcr": "160",
       "txt": "711",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1213,7 +1182,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport24",
@@ -1226,14 +1207,14 @@
       "audio_tracks": [
         {
           "pid": "400",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
       "pmt": "1104",
       "pcr": "160",
       "txt": "711",
-      "frequency": "11957.70",
+      "frequency": "11957.30",
       "polarization": "V",
       "symbol_rate": "27500",
       "fec": "3/4",
@@ -1241,95 +1222,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6200",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion BGDL 10991",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "10991",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11957.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "6200",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Dl622",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "10992",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "",
-      "txt": "",
-      "frequency": "11957.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "6200",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Dl621",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "10997",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "",
-      "pcr": "",
-      "txt": "",
-      "frequency": "11957.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "6200",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "10999",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11957.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "6200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport F1",
@@ -1342,19 +1247,19 @@
       "audio_tracks": [
         {
           "pid": "406",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "407",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1122",
       "pcr": "164",
       "txt": "",
-      "frequency": "11996.00",
+      "frequency": "11995.60",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "5/6",
@@ -1362,7 +1267,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport MotoGP",
@@ -1375,19 +1292,19 @@
       "audio_tracks": [
         {
           "pid": "436",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "437",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1123",
       "pcr": "165",
       "txt": "",
-      "frequency": "11996.00",
+      "frequency": "11995.60",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "5/6",
@@ -1395,7 +1312,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Arena",
@@ -1408,19 +1337,19 @@
       "audio_tracks": [
         {
           "pid": "402",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "403",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1111",
       "pcr": "162",
       "txt": "",
-      "frequency": "11996.00",
+      "frequency": "11995.60",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "5/6",
@@ -1428,7 +1357,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport 4k Italia",
@@ -1441,19 +1382,19 @@
       "audio_tracks": [
         {
           "pid": "400",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "401",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1110",
       "pcr": "161",
       "txt": "701",
-      "frequency": "11996.00",
+      "frequency": "11995.60",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "5/6",
@@ -1461,51 +1402,19 @@
       "modulation": "QPSK",
       "nid": "64511",
       "tid": "6400",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion BGDL 11090",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11090",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11996.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "5/6",
-      "standard": "DVB-S2",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "6400",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11095",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "11996.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "5/6",
-      "standard": "DVB-S2",
-      "modulation": "QPSK",
-      "nid": "64511",
-      "tid": "6400",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "hevc",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Comedy Central Italia",
@@ -1530,7 +1439,7 @@
       "pmt": "1156",
       "pcr": "194",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1538,7 +1447,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Nick Junior Italia",
@@ -1563,7 +1484,7 @@
       "pmt": "1155",
       "pcr": "193",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1571,7 +1492,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Collection",
@@ -1584,19 +1517,19 @@
       "audio_tracks": [
         {
           "pid": "426",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "427",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1118",
       "pcr": "179",
       "txt": "702",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1604,7 +1537,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Uno +",
@@ -1617,19 +1562,19 @@
       "audio_tracks": [
         {
           "pid": "430",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "431",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1157",
       "pcr": "160",
       "txt": "707",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1637,7 +1582,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Class CNBC",
@@ -1657,7 +1614,7 @@
       "pmt": "1122",
       "pcr": "163",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1665,7 +1622,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Adventure Italia",
@@ -1678,19 +1647,19 @@
       "audio_tracks": [
         {
           "pid": "436",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "437",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1028",
       "pcr": "173",
       "txt": "703",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1698,7 +1667,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Adventure",
@@ -1711,19 +1692,19 @@
       "audio_tracks": [
         {
           "pid": "436",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "437",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1029",
       "pcr": "173",
       "txt": "703",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1731,7 +1712,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Classica Italy",
@@ -1744,14 +1737,14 @@
       "audio_tracks": [
         {
           "pid": "407",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
       "pmt": "1032",
       "pcr": "181",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1759,7 +1752,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TG24 PrimoPiano",
@@ -1779,7 +1784,7 @@
       "pmt": "1031",
       "pcr": "183",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1787,7 +1792,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Uno +24",
@@ -1800,19 +1817,19 @@
       "audio_tracks": [
         {
           "pid": "422",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "423",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1104",
       "pcr": "164",
       "txt": "704",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1820,7 +1837,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Romance",
@@ -1833,19 +1862,19 @@
       "audio_tracks": [
         {
           "pid": "438",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "439",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1030",
       "pcr": "178",
       "txt": "705",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1853,7 +1882,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky News International",
@@ -1873,7 +1914,7 @@
       "pmt": "1005",
       "pcr": "185",
       "txt": "721",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1881,7 +1922,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Arte HD",
@@ -1894,19 +1947,19 @@
       "audio_tracks": [
         {
           "pid": "404",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "405",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1102",
       "pcr": "162",
       "txt": "701",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1914,7 +1967,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Arte",
@@ -1927,19 +1992,19 @@
       "audio_tracks": [
         {
           "pid": "404",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "405",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1103",
       "pcr": "162",
       "txt": "701",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1947,7 +2012,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "CNN International Europe",
@@ -1967,7 +2044,7 @@
       "pmt": "1112",
       "pcr": "182",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1975,7 +2052,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Deejay TV",
@@ -1989,7 +2078,7 @@
       "pmt": "1149",
       "pcr": "180",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -1997,7 +2086,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Documentari HD",
@@ -2011,7 +2112,7 @@
       "pmt": "1134",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2019,7 +2120,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Info Italia",
@@ -2033,7 +2146,7 @@
       "pmt": "1129",
       "pcr": "174",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2041,7 +2154,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DeA Junior",
@@ -2066,7 +2191,7 @@
       "pmt": "1126",
       "pcr": "171",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2074,7 +2199,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Bambini HD",
@@ -2088,7 +2225,7 @@
       "pmt": "1136",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2096,7 +2233,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "News HD",
@@ -2110,7 +2259,7 @@
       "pmt": "1138",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2118,7 +2267,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cinema HD",
@@ -2132,7 +2293,7 @@
       "pmt": "1141",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2140,7 +2301,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Primafila HD",
@@ -2154,7 +2327,7 @@
       "pmt": "1143",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2162,7 +2335,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sport HD",
@@ -2176,7 +2361,7 @@
       "pmt": "1144",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2184,7 +2369,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Intrattenim. HD",
@@ -2198,7 +2395,7 @@
       "pmt": "1145",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2206,7 +2403,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport HD",
@@ -2220,7 +2429,7 @@
       "pmt": "1148",
       "pcr": "177",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2228,7 +2437,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "DeA Kids",
@@ -2253,7 +2474,7 @@
       "pmt": "1130",
       "pcr": "175",
       "txt": "479",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2261,7 +2482,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Milan Channel",
@@ -2281,7 +2514,7 @@
       "pmt": "1140",
       "pcr": "186",
       "txt": "",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2289,7 +2522,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Caccia e Pesca",
@@ -2314,7 +2559,7 @@
       "pmt": "1124",
       "pcr": "168",
       "txt": "722",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2322,7 +2567,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Boomerang Italia",
@@ -2347,7 +2604,7 @@
       "pmt": "1147",
       "pcr": "188",
       "txt": "476",
-      "frequency": "12034.40",
+      "frequency": "12034.00",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2355,51 +2612,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6600",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion BGDL 11190",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11190",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12034.40",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "6600",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11199",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12034.40",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "6600",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "History Channel Italia",
@@ -2412,19 +2637,19 @@
       "audio_tracks": [
         {
           "pid": "410",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "411",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1015",
       "pcr": "165",
       "txt": "705",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2432,7 +2657,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "History",
@@ -2445,19 +2682,19 @@
       "audio_tracks": [
         {
           "pid": "410",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "411",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1016",
       "pcr": "165",
       "txt": "705",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2465,7 +2702,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Zona DAZN 2",
@@ -2478,14 +2727,14 @@
       "audio_tracks": [
         {
           "pid": "416",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         }
       ],
       "pmt": "1021",
       "pcr": "166",
       "txt": "723",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2493,7 +2742,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Mix",
@@ -2506,19 +2767,19 @@
       "audio_tracks": [
         {
           "pid": "420",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "421",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1023",
       "pcr": "179",
       "txt": "",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2526,7 +2787,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -2539,19 +2812,19 @@
       "audio_tracks": [
         {
           "pid": "414",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "415",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1014",
       "pcr": "164",
       "txt": "",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2559,7 +2832,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cielo",
@@ -2572,19 +2857,19 @@
       "audio_tracks": [
         {
           "pid": "425",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "426",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1017",
       "pcr": "172",
       "txt": "704",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2592,7 +2877,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "cielo",
@@ -2605,19 +2902,19 @@
       "audio_tracks": [
         {
           "pid": "425",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "426",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1027",
       "pcr": "172",
       "txt": "704",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2625,7 +2922,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -2638,19 +2947,19 @@
       "audio_tracks": [
         {
           "pid": "406",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "407",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1013",
       "pcr": "163",
       "txt": "",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2658,7 +2967,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -2671,19 +2992,19 @@
       "audio_tracks": [
         {
           "pid": "412",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "413",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1020",
       "pcr": "176",
       "txt": "",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2691,7 +3012,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Max",
@@ -2704,19 +3037,19 @@
       "audio_tracks": [
         {
           "pid": "418",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "419",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1022",
       "pcr": "178",
       "txt": "",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2724,7 +3057,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV8 HD (Italy)",
@@ -2737,19 +3082,19 @@
       "audio_tracks": [
         {
           "pid": "434",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "435",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1104",
       "pcr": "175",
       "txt": "706",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2757,7 +3102,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "TV8 HD",
@@ -2770,19 +3127,19 @@
       "audio_tracks": [
         {
           "pid": "434",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "435",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1028",
       "pcr": "175",
       "txt": "706",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2790,7 +3147,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Comedy",
@@ -2803,19 +3172,19 @@
       "audio_tracks": [
         {
           "pid": "408",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "409",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1019",
       "pcr": "177",
       "txt": "707",
-      "frequency": "12072.80",
+      "frequency": "12072.30",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2823,51 +3192,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "6800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion BGDL 4190",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "4190",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12072.80",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "6800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "4195",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12072.80",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "6800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Business 3",
@@ -2880,19 +3217,19 @@
       "audio_tracks": [
         {
           "pid": "408",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "409",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1006",
       "pcr": "164",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2900,7 +3237,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Legend",
@@ -2913,19 +3262,19 @@
       "audio_tracks": [
         {
           "pid": "410",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "411",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1007",
       "pcr": "165",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2933,7 +3282,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -2946,19 +3307,19 @@
       "audio_tracks": [
         {
           "pid": "414",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "415",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1009",
       "pcr": "167",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2966,7 +3327,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -2979,19 +3352,19 @@
       "audio_tracks": [
         {
           "pid": "416",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "417",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1010",
       "pcr": "168",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -2999,7 +3372,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -3012,19 +3397,19 @@
       "audio_tracks": [
         {
           "pid": "418",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "419",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1011",
       "pcr": "169",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3032,7 +3417,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Action",
@@ -3045,19 +3442,19 @@
       "audio_tracks": [
         {
           "pid": "400",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "401",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1001",
       "pcr": "160",
       "txt": "701",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3065,7 +3462,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Meteo24",
@@ -3085,7 +3494,7 @@
       "pmt": "1013",
       "pcr": "171",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3093,10 +3502,22 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
-      "channel_name": "DreamWorks Collection HD",
+      "channel_name": "Sky Cinema Family HD",
       "country": "Italia",
       "category": "Movies",
       "bouquet": "Sky Italia",
@@ -3106,19 +3527,19 @@
       "audio_tracks": [
         {
           "pid": "412",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "413",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1008",
       "pcr": "166",
       "txt": "706",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3126,7 +3547,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Golf",
@@ -3139,19 +3572,19 @@
       "audio_tracks": [
         {
           "pid": "404",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "405",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1003",
       "pcr": "162",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3159,7 +3592,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Drama",
@@ -3172,19 +3617,19 @@
       "audio_tracks": [
         {
           "pid": "420",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "421",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1012",
       "pcr": "170",
       "txt": "711",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3192,7 +3637,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Suspense HD",
@@ -3205,19 +3662,19 @@
       "audio_tracks": [
         {
           "pid": "402",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "403",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1002",
       "pcr": "161",
       "txt": "702",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3225,7 +3682,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Nature Italia",
@@ -3238,19 +3707,19 @@
       "audio_tracks": [
         {
           "pid": "406",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "407",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1004",
       "pcr": "163",
       "txt": "704",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3258,7 +3727,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Nature",
@@ -3271,19 +3752,19 @@
       "audio_tracks": [
         {
           "pid": "406",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "407",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1005",
       "pcr": "163",
       "txt": "704",
-      "frequency": "12341.30",
+      "frequency": "12340.90",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3291,87 +3772,619 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8200",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
-      "channel_name": "Fusion Bootloader",
+      "channel_name": "Prime Video Sportsbar",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3940",
+      "vpid": "165",
+      "audio_tracks": [
+        {
+          "pid": "420",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "421",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1121",
+      "pcr": "165",
+      "txt": "",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Cinema Uno HD",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3941",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "423",
+          "format": "ac3",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1023",
+      "pcr": "173",
+      "txt": "701",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Cinema Uno",
       "country": "",
       "category": "",
       "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "4289",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "",
-      "txt": "",
-      "frequency": "12341.30",
+      "encryption": "VideoGuard",
+      "sid": "3943",
+      "vpid": "173",
+      "audio_tracks": [
+        {
+          "pid": "422",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "423",
+          "format": "ac3",
+          "language": ""
+        }
+      ],
+      "pmt": "1024",
+      "pcr": "173",
+      "txt": "701",
+      "frequency": "12417.60",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "64511",
-      "tid": "8200",
-      "satellite_pos": "13.0E"
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
-      "channel_name": "Fusion BGDL 4292",
-      "country": "",
-      "category": "",
+      "channel_name": "Sky Atlantic HD Italia",
+      "country": "Italia",
+      "category": "Intrattenimento",
       "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "4292",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12341.30",
+      "encryption": "VideoGuard",
+      "sid": "3944",
+      "vpid": "163",
+      "audio_tracks": [
+        {
+          "pid": "406",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "407",
+          "format": "ac3",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1025",
+      "pcr": "163",
+      "txt": "704",
+      "frequency": "12417.60",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "64511",
-      "tid": "8200",
-      "satellite_pos": "13.0E"
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
+      "channel_name": "Sky Sport Business 2",
+      "country": "Italia",
+      "category": "Sport",
       "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "4298",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "8191",
+      "encryption": "VideoGuard",
+      "sid": "3945",
+      "vpid": "174",
+      "audio_tracks": [
+        {
+          "pid": "402",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "403",
+          "format": "ac3",
+          "language": ""
+        }
+      ],
+      "pmt": "1122",
+      "pcr": "174",
       "txt": "",
-      "frequency": "12341.30",
+      "frequency": "12417.60",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "64511",
-      "tid": "8200",
-      "satellite_pos": "13.0E"
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
-      "channel_name": "Nome",
-      "country": "Paese",
-      "category": "Categoria",
-      "bouquet": "Bouquet",
-      "encryption": "Codifica",
-      "sid": "SID",
-      "vpid": "VPID",
-      "audio_tracks": [],
-      "pmt": "PMT",
-      "pcr": "PCR",
-      "txt": "TXT",
-      "frequency": "12466.00",
+      "channel_name": "Sky Cinema Stories",
+      "country": "Italia",
+      "category": "Movies",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3946",
+      "vpid": "167",
+      "audio_tracks": [
+        {
+          "pid": "425",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "426",
+          "format": "ac3",
+          "language": ""
+        }
+      ],
+      "pmt": "1010",
+      "pcr": "167",
+      "txt": "711",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "DAZN 1 HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3947",
+      "vpid": "169",
+      "audio_tracks": [
+        {
+          "pid": "430",
+          "format": "ac3",
+          "language": "ita"
+        }
+      ],
+      "pmt": "1008",
+      "pcr": "169",
+      "txt": "",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3948",
+      "vpid": "168",
+      "audio_tracks": [
+        {
+          "pid": "428",
+          "format": "",
+          "language": "ita"
+        },
+        {
+          "pid": "429",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1119",
+      "pcr": "168",
+      "txt": "",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Serie HD",
+      "country": "Italia",
+      "category": "Series",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3949",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "414",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "415",
+          "format": "ac3",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1126",
+      "pcr": "172",
+      "txt": "705",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Investigation HD",
+      "country": "Italia",
+      "category": "Documentaries",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3950",
+      "vpid": "170",
+      "audio_tracks": [
+        {
+          "pid": "410",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "411",
+          "format": "ac3",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1017",
+      "pcr": "170",
+      "txt": "712",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Sport Basket",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3952",
+      "vpid": "160",
+      "audio_tracks": [
+        {
+          "pid": "400",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "401",
+          "format": "ac3",
+          "language": ""
+        }
+      ],
+      "pmt": "1001",
+      "pcr": "160",
+      "txt": "700",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Sport Italia",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3953",
+      "vpid": "171",
+      "audio_tracks": [
+        {
+          "pid": "412",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "413",
+          "format": "ac3",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1018",
+      "pcr": "171",
+      "txt": "",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Supertennis HD",
+      "country": "Italia",
+      "category": "Sport",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3954",
+      "vpid": "164",
+      "audio_tracks": [
+        {
+          "pid": "408",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1127",
+      "pcr": "164",
+      "txt": "",
+      "frequency": "12417.60",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "64511",
+      "tid": "8600",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Voices",
+      "country": "Italia",
+      "category": "Intrattenimento",
+      "bouquet": "Sky Italia",
+      "encryption": "VideoGuard",
+      "sid": "3567",
+      "vpid": "169",
+      "audio_tracks": [
+        {
+          "pid": "407",
+          "format": "ac3",
+          "language": "ita"
+        },
+        {
+          "pid": "408",
+          "format": "ac3",
+          "language": "vo"
+        }
+      ],
+      "pmt": "1012",
+      "pcr": "169",
+      "txt": "712",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3379,7 +4392,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Disney Jr. Central Europe",
@@ -3392,7 +4417,7 @@
       "audio_tracks": [
         {
           "pid": "400",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
@@ -3404,7 +4429,7 @@
       "pmt": "1010",
       "pcr": "162",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3412,7 +4437,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Cinema Restart",
@@ -3426,7 +4463,7 @@
       "pmt": "1000",
       "pcr": "160",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3434,7 +4471,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Crime Italia",
@@ -3447,19 +4496,19 @@
       "audio_tracks": [
         {
           "pid": "421",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "422",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1001",
       "pcr": "161",
       "txt": "701",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3467,40 +4516,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fast & Furious Collection HD",
-      "country": "Italia",
-      "category": "Movies",
-      "bouquet": "Sky Italia",
-      "encryption": "VideoGuard",
-      "sid": "4204",
-      "vpid": "163",
-      "audio_tracks": [
-        {
-          "pid": "413",
-          "format": "",
-          "language": "ita"
-        },
-        {
-          "pid": "414",
-          "format": "",
-          "language": "vo"
-        }
-      ],
-      "pmt": "1003",
-      "pcr": "163",
-      "txt": "703",
-      "frequency": "12466.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Caccia e Pesca",
@@ -3525,7 +4553,7 @@
       "pmt": "1005",
       "pcr": "165",
       "txt": "722",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3533,7 +4561,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "MTV Italia HD",
@@ -3558,7 +4598,7 @@
       "pmt": "1008",
       "pcr": "168",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3566,7 +4606,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Sport Italia",
@@ -3591,7 +4643,7 @@
       "pmt": "1016",
       "pcr": "187",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3599,7 +4651,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Inter TV Shop",
@@ -3619,7 +4683,7 @@
       "pmt": "1014",
       "pcr": "164",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3627,7 +4691,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Nickelodeon Italia",
@@ -3652,7 +4728,7 @@
       "pmt": "1006",
       "pcr": "166",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3660,7 +4736,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Documentaries HD",
@@ -3673,19 +4761,19 @@
       "audio_tracks": [
         {
           "pid": "415",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "416",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1035",
       "pcr": "185",
       "txt": "714",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3693,7 +4781,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Documentaries HD",
@@ -3706,19 +4806,19 @@
       "audio_tracks": [
         {
           "pid": "415",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "416",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1037",
       "pcr": "185",
       "txt": "714",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3726,7 +4826,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Gambero Rosso HD",
@@ -3751,7 +4863,7 @@
       "pmt": "1070",
       "pcr": "170",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3759,7 +4871,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Gambero Rosso HD",
@@ -3784,7 +4908,7 @@
       "pmt": "1170",
       "pcr": "170",
       "txt": "",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3792,7 +4916,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Sky Crime",
@@ -3805,19 +4941,19 @@
       "audio_tracks": [
         {
           "pid": "421",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "422",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
       "pmt": "1101",
       "pcr": "161",
       "txt": "701",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3825,7 +4961,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     },
     {
       "channel_name": "Cartoon Network",
@@ -3838,19 +4986,19 @@
       "audio_tracks": [
         {
           "pid": "402",
-          "format": "",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "403",
-          "format": "",
+          "format": "ac3",
           "language": "vo"
         }
       ],
       "pmt": "1013",
       "pcr": "186",
       "txt": "706",
-      "frequency": "12466.00",
+      "frequency": "12465.50",
       "polarization": "V",
       "symbol_rate": "29900",
       "fec": "3/4",
@@ -3858,95 +5006,19 @@
       "modulation": "8PSK",
       "nid": "64511",
       "tid": "8800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "SDMS Service1",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11065",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1119",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12466.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "8800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "SDMS Service2",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11067",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "1120",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12466.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "8800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "Fusion BGDL 11690",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11690",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "87",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12466.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "8800",
-      "satellite_pos": "13.0E"
-    },
-    {
-      "channel_name": "IEPG Data",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Italia",
-      "encryption": "FTA",
-      "sid": "11699",
-      "vpid": "",
-      "audio_tracks": [],
-      "pmt": "86",
-      "pcr": "8191",
-      "txt": "",
-      "frequency": "12466.00",
-      "polarization": "V",
-      "symbol_rate": "29900",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "64511",
-      "tid": "8800",
-      "satellite_pos": "13.0E"
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
     }
   ]
 }
