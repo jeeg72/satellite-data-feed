@@ -1,0 +1,50 @@
+{
+  "type": "bouquet",
+  "label": "skydigital — 13.0E",
+  "bouquet_id": "skydigital",
+  "satellite_pos": "13.0E",
+  "updated_at": "2026-10-25T09:13:35.203913",
+  "count": 1,
+  "channels": [
+    {
+      "channel_name": "Daystar HD",
+      "country": "U.S.A.",
+      "category": "Religious",
+      "bouquet": "Sky Digital",
+      "encryption": "FTA",
+      "sid": "4608",
+      "vpid": "6081",
+      "audio_tracks": [
+        {
+          "pid": "6082",
+          "format": "ac3",
+          "language": "eng"
+        }
+      ],
+      "pmt": "6080",
+      "pcr": "6081",
+      "txt": "",
+      "frequency": "10727.00",
+      "polarization": "H",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "318",
+      "tid": "11100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    }
+  ]
+}
