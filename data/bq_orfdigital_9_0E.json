@@ -1,0 +1,100 @@
+{
+  "type": "bouquet",
+  "label": "orfdigital — 9.0E",
+  "bouquet_id": "orfdigital",
+  "satellite_pos": "9.0E",
+  "updated_at": "2026-10-25T09:13:35.203913",
+  "count": 2,
+  "channels": [
+    {
+      "channel_name": "ORF 1 HD",
+      "country": "Austria",
+      "category": "General",
+      "bouquet": "ORF Digital",
+      "encryption": "FTA",
+      "sid": "2812",
+      "vpid": "2000",
+      "audio_tracks": [
+        {
+          "pid": "2001",
+          "format": "",
+          "language": "ger"
+        },
+        {
+          "pid": "2002",
+          "format": "",
+          "language": "ger"
+        }
+      ],
+      "pmt": "312",
+      "pcr": "2000",
+      "txt": "2009",
+      "frequency": "12466.10",
+      "polarization": "V",
+      "symbol_rate": "41950",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "16APSK",
+      "nid": "8572",
+      "tid": "6369",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 13,
+      "pls_number": 262140,
+      "pls_root": 8,
+      "pls_mode": "root",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": true,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "ORF Sport+ HD",
+      "country": "Austria",
+      "category": "Sport",
+      "bouquet": "ORF Digital",
+      "encryption": "FTA",
+      "sid": "2813",
+      "vpid": "2010",
+      "audio_tracks": [
+        {
+          "pid": "2011",
+          "format": "",
+          "language": "ger"
+        },
+        {
+          "pid": "2012",
+          "format": "",
+          "language": "mis"
+        }
+      ],
+      "pmt": "313",
+      "pcr": "2010",
+      "txt": "2019",
+      "frequency": "12466.10",
+      "polarization": "V",
+      "symbol_rate": "41950",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "16APSK",
+      "nid": "8572",
+      "tid": "6369",
+      "satellite_pos": "9.0E",
+      "is_multistream": true,
+      "ms_isid": 13,
+      "pls_number": 262140,
+      "pls_root": 8,
+      "pls_mode": "root",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": true,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    }
+  ]
+}
