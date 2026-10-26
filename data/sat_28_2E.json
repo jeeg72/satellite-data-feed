@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-26T08:00:01.911228",
-  "count": 538,
+  "updated_at": "2026-10-26T12:00:02.862626",
+  "count": 537,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -293,51 +293,6 @@
       "pmt": "256",
       "pcr": "5300",
       "txt": "5303",
-      "frequency": "10788.00",
-      "polarization": "V",
-      "symbol_rate": "22999",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2046",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "BBC One West HD",
-      "country": "Regno Unito",
-      "category": "General",
-      "bouquet": "Sky Digital",
-      "encryption": "FTA",
-      "sid": "10321",
-      "vpid": "5100",
-      "audio_tracks": [
-        {
-          "pid": "5105",
-          "format": "",
-          "language": "nar"
-        },
-        {
-          "pid": "5101",
-          "format": "ac3",
-          "language": "eng"
-        }
-      ],
-      "pmt": "262",
-      "pcr": "5100",
-      "txt": "5103",
       "frequency": "10788.00",
       "polarization": "V",
       "symbol_rate": "22999",
@@ -2956,10 +2911,10 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "New Vision TV",
-      "country": "Regno Unito",
-      "category": "Religious",
-      "bouquet": "Sky Digital",
+      "channel_name": "Ary One World",
+      "country": "Pakistan",
+      "category": "News",
+      "bouquet": "BSkyB",
       "encryption": "FTA",
       "sid": "50391",
       "vpid": "2335",
