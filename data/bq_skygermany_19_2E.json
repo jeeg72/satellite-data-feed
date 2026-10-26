@@ -3,7 +3,7 @@
   "label": "skygermany — 19.2E",
   "bouquet_id": "skygermany",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-26T16:00:02.206786",
+  "updated_at": "2026-10-27T00:00:02.749744",
   "count": 151,
   "channels": [
     {
@@ -3457,7 +3457,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Cinema Premieren HD",
+      "channel_name": "Sky Cinema Halloween HD",
       "country": "Germania",
       "category": "Movies",
       "bouquet": "Sky Deutschland",
@@ -3478,7 +3478,7 @@
       ],
       "pmt": "100",
       "pcr": "1279",
-      "txt": "",
+      "txt": "34",
       "frequency": "11914.00",
       "polarization": "H",
       "symbol_rate": "27500",
