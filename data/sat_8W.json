@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "8W",
   "satellite_pos": "8.0W",
-  "updated_at": "2026-10-26T08:00:01.911228",
-  "count": 230,
+  "updated_at": "2026-10-26T12:00:02.862626",
+  "count": 231,
   "channels": [
     {
       "channel_name": "Asil TV",
@@ -1216,12 +1216,12 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera Mubasher",
+      "channel_name": "Al Jazeera 2",
       "country": "Qatar",
-      "category": "News",
+      "category": "General",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "402",
+      "sid": "",
       "vpid": "513",
       "audio_tracks": [
         {
@@ -1256,22 +1256,62 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera English",
+      "channel_name": "Al Jazeera Mubasher",
       "country": "Qatar",
       "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "403",
+      "sid": "",
       "vpid": "514",
       "audio_tracks": [
         {
           "pid": "670",
           "format": "",
-          "language": "eng"
+          "language": "ara"
         }
       ],
       "pmt": "258",
       "pcr": "514",
+      "txt": "",
+      "frequency": "10971.30",
+      "polarization": "V",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1918",
+      "tid": "20200",
+      "satellite_pos": "8.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Al Jazeera English",
+      "country": "Qatar",
+      "category": "News",
+      "bouquet": "Al Jazeera",
+      "encryption": "FTA",
+      "sid": "",
+      "vpid": "517",
+      "audio_tracks": [
+        {
+          "pid": "700",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "261",
+      "pcr": "517",
       "txt": "",
       "frequency": "10971.30",
       "polarization": "V",
@@ -1301,47 +1341,7 @@
       "category": "Documentaries",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "404",
-      "vpid": "517",
-      "audio_tracks": [
-        {
-          "pid": "700",
-          "format": "",
-          "language": "ara"
-        }
-      ],
-      "pmt": "261",
-      "pcr": "517",
-      "txt": "",
-      "frequency": "10971.30",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "3/4",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "1918",
-      "tid": "20200",
-      "satellite_pos": "8.0W",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg2",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "Al Jazeera 2",
-      "country": "Qatar",
-      "category": "General",
-      "bouquet": "Al Jazeera",
-      "encryption": "FTA",
-      "sid": "405",
+      "sid": "",
       "vpid": "520",
       "audio_tracks": [
         {
@@ -3255,6 +3255,46 @@
       ],
       "pmt": "49",
       "pcr": "47",
+      "txt": "",
+      "frequency": "11095.70",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "7/8",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "65535",
+      "tid": "8",
+      "satellite_pos": "8.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "SHEHAB",
+      "country": "",
+      "category": "",
+      "bouquet": "ViewMedia",
+      "encryption": "FTA",
+      "sid": "40",
+      "vpid": "832",
+      "audio_tracks": [
+        {
+          "pid": "1088",
+          "format": "",
+          "language": ""
+        }
+      ],
+      "pmt": "1344",
+      "pcr": "832",
       "txt": "",
       "frequency": "11095.70",
       "polarization": "H",
@@ -6849,12 +6889,12 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Mubasher HD",
-      "country": "non definito",
-      "category": "Various",
+      "channel_name": "Al Jazeera 2 HD",
+      "country": "Qatar",
+      "category": "General",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "502",
+      "sid": "",
       "vpid": "602",
       "audio_tracks": [
         {
@@ -6889,23 +6929,18 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera English HD",
+      "channel_name": "Al Jazeera Mubasher HD",
       "country": "Qatar",
       "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "503",
+      "sid": "",
       "vpid": "603",
       "audio_tracks": [
         {
           "pid": "830",
           "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "257",
-          "format": "ac3",
-          "language": "eng"
+          "language": "ara"
         }
       ],
       "pmt": "153",
@@ -6934,12 +6969,12 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera Documentary HD",
+      "channel_name": "Al Jazeera English HD",
       "country": "Qatar",
-      "category": "Documentaries",
+      "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "504",
+      "sid": "",
       "vpid": "604",
       "audio_tracks": [
         {
@@ -6974,12 +7009,12 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera 2 HD",
+      "channel_name": "Al Jazeera Documentary HD",
       "country": "Qatar",
-      "category": "General",
+      "category": "Documentaries",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "505",
+      "sid": "",
       "vpid": "605",
       "audio_tracks": [
         {
