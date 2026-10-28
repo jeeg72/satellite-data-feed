@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-10-28T12:00:02.017912",
+  "updated_at": "2026-10-28T16:00:01.935078",
   "count": 1089,
   "channels": [
     {
@@ -38234,7 +38234,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Risate all'italiana HD",
+      "channel_name": "Halloween Collection HD",
       "country": "Italia",
       "category": "Movies",
       "bouquet": "SkyItalia",
@@ -38244,13 +38244,13 @@
       "audio_tracks": [
         {
           "pid": "413",
-          "format": "eac3",
+          "format": "ac3",
           "language": "ita"
         },
         {
           "pid": "414",
-          "format": "eac3",
-          "language": "vo"
+          "format": "ac3",
+          "language": "und"
         }
       ],
       "pmt": "1003",
