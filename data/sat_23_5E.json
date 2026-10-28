@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-10-28T08:00:02.458297",
+  "updated_at": "2026-10-28T12:00:02.017912",
   "count": 543,
   "channels": [
     {
@@ -21750,7 +21750,7 @@
       "country": "Ungheria",
       "category": "Movies",
       "bouquet": "M:Sat TV",
-      "encryption": "FTA + Nagravision 3 + Conax",
+      "encryption": "Nagravision 3 + Conax",
       "sid": "20074",
       "vpid": "741",
       "audio_tracks": [
@@ -22110,7 +22110,7 @@
       "country": "Serbia",
       "category": "Regional",
       "bouquet": "M:Sat TV",
-      "encryption": "FTA + Nagravision 3 + Conax",
+      "encryption": "Nagravision 3 + Conax",
       "sid": "20101",
       "vpid": "1011",
       "audio_tracks": [
