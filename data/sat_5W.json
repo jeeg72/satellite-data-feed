@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "5W",
   "satellite_pos": "5.0W",
-  "updated_at": "2026-10-29T20:00:02.414574",
+  "updated_at": "2026-10-30T00:00:03.246392",
   "count": 327,
   "channels": [
     {
@@ -3055,22 +3055,22 @@
       "category": "Documentaries",
       "bouquet": "EUTELSAT",
       "encryption": "Viaccess 4.0",
-      "sid": "306",
-      "vpid": "661",
+      "sid": "",
+      "vpid": "801",
       "audio_tracks": [
         {
-          "pid": "662",
+          "pid": "802",
           "format": "aac",
           "language": "fra"
         },
         {
-          "pid": "663",
+          "pid": "803",
           "format": "aac",
           "language": "eng"
         }
       ],
-      "pmt": "660",
-      "pcr": "661",
+      "pmt": "800",
+      "pcr": "801",
       "txt": "",
       "frequency": "11553.50",
       "polarization": "V",
