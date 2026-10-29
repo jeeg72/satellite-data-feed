@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "16E",
   "satellite_pos": "16.0E",
-  "updated_at": "2026-10-29T00:00:02.242599",
+  "updated_at": "2026-10-29T04:00:02.299126",
   "count": 661,
   "channels": [
     {
@@ -1456,8 +1456,8 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "X1",
-      "country": "Albania",
+      "channel_name": "Vixen HD",
+      "country": "non definito",
       "category": "Adult",
       "bouquet": "Digit Alb",
       "encryption": "Conax",
@@ -1467,7 +1467,7 @@
         {
           "pid": "1262",
           "format": "",
-          "language": "eng"
+          "language": "alb"
         }
       ],
       "pmt": "1260",
