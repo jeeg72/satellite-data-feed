@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-29T08:00:02.628565",
+  "updated_at": "2026-10-29T12:00:02.054106",
   "count": 537,
   "channels": [
     {
@@ -3121,11 +3121,11 @@
       "audio_tracks": [
         {
           "pid": "2306",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
-      "pmt": "256",
+      "pmt": "259",
       "pcr": "2314",
       "txt": "2316",
       "frequency": "11111.75",
@@ -3161,11 +3161,11 @@
       "audio_tracks": [
         {
           "pid": "2325",
-          "format": "",
+          "format": "ac3",
           "language": "eng"
         }
       ],
-      "pmt": "257",
+      "pmt": "264",
       "pcr": "2317",
       "txt": "2326",
       "frequency": "11111.75",
