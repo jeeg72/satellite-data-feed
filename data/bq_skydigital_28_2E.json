@@ -3,7 +3,7 @@
   "label": "skydigital — 28.2E",
   "bouquet_id": "skydigital",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-10-29T20:00:02.414574",
+  "updated_at": "2026-10-30T00:00:03.246392",
   "count": 532,
   "channels": [
     {
@@ -9407,9 +9407,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "7618",
-      "country": "",
-      "category": "",
+      "channel_name": "Star Plus HD",
+      "country": "India",
+      "category": "Intrattenimento",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "7618",
@@ -9421,7 +9421,7 @@
           "language": "eng"
         }
       ],
-      "pmt": "257",
+      "pmt": "264",
       "pcr": "2309",
       "txt": "",
       "frequency": "11523.00",
@@ -9447,9 +9447,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "7619",
-      "country": "",
-      "category": "",
+      "channel_name": "Star Gold HD",
+      "country": "India",
+      "category": "Intrattenimento",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "7619",
@@ -9461,7 +9461,7 @@
           "language": "eng"
         }
       ],
-      "pmt": "262",
+      "pmt": "265",
       "pcr": "2311",
       "txt": "",
       "frequency": "11523.00",
@@ -9487,9 +9487,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "7620",
-      "country": "",
-      "category": "",
+      "channel_name": "Colors Gujarati Cinema",
+      "country": "India",
+      "category": "Movies",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "7620",
@@ -9501,7 +9501,7 @@
           "language": "eng"
         }
       ],
-      "pmt": "263",
+      "pmt": "266",
       "pcr": "2313",
       "txt": "",
       "frequency": "11523.00",
@@ -11212,7 +11212,7 @@
       "frequency": "11626.30",
       "polarization": "V",
       "symbol_rate": "23000",
-      "fec": "3/5",
+      "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "2",
@@ -11257,7 +11257,7 @@
       "frequency": "11626.30",
       "polarization": "V",
       "symbol_rate": "23000",
-      "fec": "3/5",
+      "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "2",
@@ -11302,7 +11302,7 @@
       "frequency": "11626.30",
       "polarization": "V",
       "symbol_rate": "23000",
-      "fec": "3/5",
+      "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "2",
@@ -11347,7 +11347,7 @@
       "frequency": "11626.30",
       "polarization": "V",
       "symbol_rate": "23000",
-      "fec": "3/5",
+      "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "2",
@@ -11392,7 +11392,7 @@
       "frequency": "11626.30",
       "polarization": "V",
       "symbol_rate": "23000",
-      "fec": "3/5",
+      "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "2",
@@ -11437,7 +11437,7 @@
       "frequency": "11626.30",
       "polarization": "V",
       "symbol_rate": "23000",
-      "fec": "3/5",
+      "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "2",
