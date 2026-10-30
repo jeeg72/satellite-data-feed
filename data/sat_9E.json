@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "9E",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-10-30T12:00:03.664391",
+  "updated_at": "2026-10-30T16:00:02.556709",
   "count": 630,
   "channels": [
     {
@@ -15519,7 +15519,7 @@
       "channel_name": "Sesta Rete",
       "country": "Italia",
       "category": "Various",
-      "bouquet": "Global",
+      "bouquet": "INTECGROUP",
       "encryption": "FTA",
       "sid": "1003",
       "vpid": "1320",
@@ -15530,7 +15530,7 @@
           "language": "ita"
         }
       ],
-      "pmt": "303",
+      "pmt": "203",
       "pcr": "1320",
       "txt": "",
       "frequency": "12303.10",
@@ -21481,7 +21481,7 @@
       "channel_name": "Rete 8",
       "country": "Italia",
       "category": "General",
-      "bouquet": "RETE8",
+      "bouquet": "INTECGROUP",
       "encryption": "FTA",
       "sid": "7001",
       "vpid": "2700",
