@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-30T12:00:03.664391",
+  "updated_at": "2026-10-30T16:00:02.556709",
   "count": 816,
   "channels": [
     {
@@ -27236,11 +27236,11 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "MM5-SVC1",
+      "channel_name": "SMPTE 2022-7 Dummyload",
       "country": "",
       "category": "",
-      "bouquet": "SES",
-      "encryption": "BISS",
+      "bouquet": "SES Video",
+      "encryption": "DVB Scrambling",
       "sid": "1",
       "vpid": "2001",
       "audio_tracks": [
@@ -27265,8 +27265,8 @@
           "language": "und"
         }
       ],
-      "pmt": "1001",
-      "pcr": "2001",
+      "pmt": "280",
+      "pcr": "208",
       "txt": "",
       "frequency": "12266.10",
       "polarization": "H",
@@ -27291,11 +27291,11 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "MM5-SVC2",
+      "channel_name": "SMPTE 2022-7 Dummyload",
       "country": "",
       "category": "",
-      "bouquet": "SES",
-      "encryption": "FTA",
+      "bouquet": "SES Video",
+      "encryption": "BISS",
       "sid": "2",
       "vpid": "2002",
       "audio_tracks": [
@@ -27315,57 +27315,7 @@
           "language": "eng"
         }
       ],
-      "pmt": "1002",
-      "pcr": "2002",
-      "txt": "",
-      "frequency": "12266.10",
-      "polarization": "H",
-      "symbol_rate": "31429",
-      "fec": "4/5",
-      "standard": "DVB-S2",
-      "modulation": "16APSK",
-      "nid": "1",
-      "tid": "38",
-      "satellite_pos": "19.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "MM5-SVC3",
-      "country": "",
-      "category": "",
-      "bouquet": "SES",
-      "encryption": "FTA",
-      "sid": "3",
-      "vpid": "1000",
-      "audio_tracks": [
-        {
-          "pid": "1006",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1007",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1008",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "1003",
+      "pmt": "280",
       "pcr": "1000",
       "txt": "",
       "frequency": "12266.10",
@@ -27391,11 +27341,61 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "MM5-SVC4",
+      "channel_name": "SMPTE 2022-7 Dummyload",
       "country": "",
       "category": "",
-      "bouquet": "SES",
-      "encryption": "BISS",
+      "bouquet": "SES Video",
+      "encryption": "DVB Scrambling",
+      "sid": "3",
+      "vpid": "1000",
+      "audio_tracks": [
+        {
+          "pid": "1006",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1007",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1008",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "280",
+      "pcr": "1005",
+      "txt": "",
+      "frequency": "12266.10",
+      "polarization": "H",
+      "symbol_rate": "31429",
+      "fec": "4/5",
+      "standard": "DVB-S2",
+      "modulation": "16APSK",
+      "nid": "1",
+      "tid": "38",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "SMPTE 2022-7 Dummyload",
+      "country": "",
+      "category": "",
+      "bouquet": "SES Video",
+      "encryption": "DVB Scrambling",
       "sid": "4",
       "vpid": "1009",
       "audio_tracks": [
@@ -27420,8 +27420,8 @@
           "language": "eng"
         }
       ],
-      "pmt": "1004",
-      "pcr": "1009",
+      "pmt": "280",
+      "pcr": "1010",
       "txt": "",
       "frequency": "12266.10",
       "polarization": "H",
@@ -34146,22 +34146,22 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Astra Demo",
+      "channel_name": "Sexy Girls TV",
       "country": "",
       "category": "",
-      "bouquet": "",
+      "bouquet": "phabvision",
       "encryption": "FTA",
       "sid": "28537",
-      "vpid": "4096",
+      "vpid": "239",
       "audio_tracks": [
         {
-          "pid": "4097",
+          "pid": "339",
           "format": "",
           "language": "ger"
         }
       ],
-      "pmt": "53",
-      "pcr": "4096",
+      "pmt": "122",
+      "pcr": "239",
       "txt": "",
       "frequency": "12604.40",
       "polarization": "H",
