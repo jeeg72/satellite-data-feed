@@ -3,7 +3,7 @@
   "label": "hdplus — 19.2E",
   "bouquet_id": "hdplus",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-10-31T16:00:02.033955",
+  "updated_at": "2026-10-31T20:00:02.508748",
   "count": 53,
   "channels": [
     {
@@ -26,8 +26,8 @@
       "txt": "",
       "frequency": "10773.25",
       "polarization": "H",
-      "symbol_rate": "22000",
-      "fec": "3/4",
+      "symbol_rate": "29500",
+      "fec": "",
       "standard": "DVB-S2",
       "modulation": "8PSK",
       "nid": "1",
