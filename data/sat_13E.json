@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-11-01T20:00:01.960902",
+  "updated_at": "2026-11-02T00:00:02.518366",
   "count": 1088,
   "channels": [
     {
@@ -31871,8 +31871,8 @@
     },
     {
       "channel_name": "Al Jazeera Live",
-      "country": "",
-      "category": "",
+      "country": "Qatar",
+      "category": "News",
       "bouquet": "Telespazio",
       "encryption": "FTA",
       "sid": "706",
