@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-11-01T12:00:02.184437",
-  "count": 1090,
+  "updated_at": "2026-11-01T16:00:02.542516",
+  "count": 1088,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -21510,46 +21510,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "TRM Network",
-      "country": "Italia",
-      "category": "Various",
-      "bouquet": "Telespazio",
-      "encryption": "FTA",
-      "sid": "16922",
-      "vpid": "1351",
-      "audio_tracks": [
-        {
-          "pid": "1352",
-          "format": "",
-          "language": "ita"
-        }
-      ],
-      "pmt": "1355",
-      "pcr": "1351",
-      "txt": "",
-      "frequency": "11661.40",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "15800",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "Redlight HD",
       "country": "Italia",
       "category": "Adult",
@@ -31910,9 +31870,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera Mubasher",
-      "country": "Qatar",
-      "category": "News",
+      "channel_name": "Al Jazeera Live",
+      "country": "",
+      "category": "",
       "bouquet": "Telespazio",
       "encryption": "FTA",
       "sid": "706",
@@ -37285,51 +37245,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Dubai TV HD",
-      "country": "Emirati del Dubai",
-      "category": "General",
-      "bouquet": "du",
-      "encryption": "FTA",
-      "sid": "905",
-      "vpid": "101",
-      "audio_tracks": [
-        {
-          "pid": "102",
-          "format": "",
-          "language": "ara"
-        },
-        {
-          "pid": "103",
-          "format": "",
-          "language": "ara"
-        }
-      ],
-      "pmt": "100",
-      "pcr": "101",
-      "txt": "",
-      "frequency": "12398.40",
-      "polarization": "H",
-      "symbol_rate": "29700",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "8500",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "Sudan TV",
       "country": "Sudan",
       "category": "General",
@@ -38274,7 +38189,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Halloween Collection HD",
+      "channel_name": "Jason Bourne Collection HD",
       "country": "Italia",
       "category": "Movies",
       "bouquet": "SkyItalia",
@@ -38290,7 +38205,7 @@
         {
           "pid": "414",
           "format": "ac3",
-          "language": "und"
+          "language": "vo"
         }
       ],
       "pmt": "1003",
@@ -40293,14 +40208,20 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera Test 1 HD",
-      "country": "",
-      "category": "",
+      "channel_name": "Al Jazeera Now HD",
+      "country": "Qatar",
+      "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
       "sid": "1602",
       "vpid": "6021",
-      "audio_tracks": [],
+      "audio_tracks": [
+        {
+          "pid": "6022",
+          "format": "",
+          "language": "ara"
+        }
+      ],
       "pmt": "602",
       "pcr": "6021",
       "txt": "",
@@ -40327,14 +40248,20 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera Test 2 HD",
-      "country": "",
-      "category": "",
+      "channel_name": "Al Jazeera Live HD",
+      "country": "Qatar",
+      "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
       "sid": "1603",
       "vpid": "6031",
-      "audio_tracks": [],
+      "audio_tracks": [
+        {
+          "pid": "6032",
+          "format": "",
+          "language": "ara"
+        }
+      ],
       "pmt": "603",
       "pcr": "6031",
       "txt": "",
