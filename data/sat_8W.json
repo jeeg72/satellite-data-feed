@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "8W",
   "satellite_pos": "8.0W",
-  "updated_at": "2026-11-02T20:00:02.122101",
+  "updated_at": "2026-11-03T00:00:02.157183",
   "count": 232,
   "channels": [
     {
@@ -1221,7 +1221,7 @@
       "category": "General",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "402",
       "vpid": "513",
       "audio_tracks": [
         {
@@ -1261,7 +1261,7 @@
       "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "403",
       "vpid": "514",
       "audio_tracks": [
         {
@@ -1301,7 +1301,7 @@
       "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "404",
       "vpid": "517",
       "audio_tracks": [
         {
@@ -1341,7 +1341,7 @@
       "category": "Documentaries",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "405",
       "vpid": "520",
       "audio_tracks": [
         {
@@ -6934,7 +6934,7 @@
       "category": "General",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "502",
       "vpid": "602",
       "audio_tracks": [
         {
@@ -6974,7 +6974,7 @@
       "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "503",
       "vpid": "603",
       "audio_tracks": [
         {
@@ -7014,7 +7014,7 @@
       "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "504",
       "vpid": "604",
       "audio_tracks": [
         {
@@ -7054,7 +7054,7 @@
       "category": "Documentaries",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
-      "sid": "",
+      "sid": "505",
       "vpid": "605",
       "audio_tracks": [
         {
