@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "8W",
   "satellite_pos": "8.0W",
-  "updated_at": "2026-11-03T04:00:02.177902",
+  "updated_at": "2026-11-03T08:00:01.996806",
   "count": 232,
   "channels": [
     {
@@ -1216,9 +1216,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera 2",
+      "channel_name": "Al Jazeera Now",
       "country": "Qatar",
-      "category": "General",
+      "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
       "sid": "402",
@@ -1256,7 +1256,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera Mubasher",
+      "channel_name": "Al Jazeera Live",
       "country": "Qatar",
       "category": "News",
       "bouquet": "Al Jazeera",
@@ -3279,9 +3279,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "SHEHAB",
-      "country": "",
-      "category": "",
+      "channel_name": "Asrar Ahlayat",
+      "country": "non definito",
+      "category": "Various",
       "bouquet": "ViewMedia",
       "encryption": "FTA",
       "sid": "40",
@@ -3290,7 +3290,7 @@
         {
           "pid": "1088",
           "format": "",
-          "language": ""
+          "language": "ara"
         }
       ],
       "pmt": "1344",
@@ -6929,9 +6929,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera 2 HD",
+      "channel_name": "Al Jazeera Now HD",
       "country": "Qatar",
-      "category": "General",
+      "category": "News",
       "bouquet": "Al Jazeera",
       "encryption": "FTA",
       "sid": "502",
@@ -6969,7 +6969,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Al Jazeera Mubasher HD",
+      "channel_name": "Al Jazeera Live HD",
       "country": "Qatar",
       "category": "News",
       "bouquet": "Al Jazeera",
