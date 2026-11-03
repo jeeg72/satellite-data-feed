@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "3E",
   "satellite_pos": "3.0E",
-  "updated_at": "2026-11-03T04:00:02.177902",
+  "updated_at": "2026-11-03T08:00:01.996806",
   "count": 25,
   "channels": [
     {
@@ -46,14 +46,20 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FREE-N",
+      "channel_name": "Canal 2 International",
       "country": "",
       "category": "",
-      "bouquet": "RASCOM",
+      "bouquet": "",
       "encryption": "FTA",
       "sid": "32",
       "vpid": "33",
-      "audio_tracks": [],
+      "audio_tracks": [
+        {
+          "pid": "34",
+          "format": "",
+          "language": ""
+        }
+      ],
       "pmt": "32",
       "pcr": "33",
       "txt": "",
@@ -80,10 +86,10 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Canal 2 International HD",
+      "channel_name": "EQUINOXE TV",
       "country": "",
       "category": "",
-      "bouquet": "BIS-AFRICA",
+      "bouquet": "FTA BIS-AFRICA",
       "encryption": "FTA",
       "sid": "37",
       "vpid": "38",
@@ -154,7 +160,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "CVK-TV",
+      "channel_name": "CIMIDI TV",
       "country": "",
       "category": "",
       "bouquet": "RASCOM",
