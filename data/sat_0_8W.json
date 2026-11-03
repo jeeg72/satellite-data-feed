@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "0_8W",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-11-03T04:00:02.177902",
-  "count": 905,
+  "updated_at": "2026-11-03T08:00:01.996806",
+  "count": 906,
   "channels": [
     {
       "channel_name": "TV 2 Sport HD 1",
@@ -3918,6 +3918,51 @@
       "pmt": "353",
       "pcr": "1001",
       "txt": "6015",
+      "frequency": "10871.90",
+      "polarization": "H",
+      "symbol_rate": "25000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "70",
+      "tid": "72",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Kuukauden kanava",
+      "country": "Finlandia",
+      "category": "Documentaries",
+      "bouquet": "AllenteHome 3",
+      "encryption": "Nagravision 3 + VideoGuard + Conax",
+      "sid": "17084",
+      "vpid": "1535",
+      "audio_tracks": [
+        {
+          "pid": "3365",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "4009",
+          "format": "",
+          "language": "rus"
+        }
+      ],
+      "pmt": "984",
+      "pcr": "1535",
+      "txt": "6175",
       "frequency": "10871.90",
       "polarization": "H",
       "symbol_rate": "25000",
