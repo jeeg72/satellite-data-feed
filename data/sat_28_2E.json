@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-03T04:00:02.177902",
+  "updated_at": "2026-11-03T08:00:01.996806",
   "count": 532,
   "channels": [
     {
@@ -3806,7 +3806,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Nick Jr Too",
+      "channel_name": "Nick Jr Peppa",
       "country": "Regno Unito",
       "category": "Children",
       "bouquet": "Sky Digital",
@@ -3815,14 +3815,14 @@
       "vpid": "2353",
       "audio_tracks": [
         {
-          "pid": "2355",
-          "format": "",
-          "language": "nar"
-        },
-        {
           "pid": "2354",
           "format": "",
           "language": "eng"
+        },
+        {
+          "pid": "2355",
+          "format": "",
+          "language": "nar"
         }
       ],
       "pmt": "268",
@@ -5296,7 +5296,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Nick Jr Too Ireland",
+      "channel_name": "Nick Jr Peppa Ireland",
       "country": "Regno Unito",
       "category": "Children",
       "bouquet": "Sky Digital",
@@ -5305,14 +5305,14 @@
       "vpid": "2360",
       "audio_tracks": [
         {
-          "pid": "2362",
-          "format": "",
-          "language": "nar"
-        },
-        {
           "pid": "2361",
           "format": "",
           "language": "eng"
+        },
+        {
+          "pid": "2362",
+          "format": "",
+          "language": "nar"
         }
       ],
       "pmt": "270",
@@ -5334,7 +5334,7 @@
       "pls_mode": "",
       "ms_unreliable": false,
       "ms_suspect": false,
-      "video_format": "mpeg2",
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -5386,7 +5386,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Nick Alvinnn!!! Ireland",
+      "channel_name": "Nick Sponge Bob Ireland",
       "country": "Regno Unito",
       "category": "Children",
       "bouquet": "Sky Digital",
@@ -5395,14 +5395,14 @@
       "vpid": "2367",
       "audio_tracks": [
         {
-          "pid": "2369",
-          "format": "",
-          "language": "nar"
-        },
-        {
           "pid": "2368",
           "format": "",
           "language": "eng"
+        },
+        {
+          "pid": "2369",
+          "format": "",
+          "language": "nar"
         }
       ],
       "pmt": "258",
@@ -21676,9 +21676,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Sci-Fi HD",
+      "channel_name": "Sky Scifi/Horror HD",
       "country": "Regno Unito",
-      "category": "Series",
+      "category": "Movies",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "3817",
@@ -21901,7 +21901,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Animation HD",
+      "channel_name": "Sky Christmas HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
@@ -21910,14 +21910,14 @@
       "vpid": "521",
       "audio_tracks": [
         {
-          "pid": "653",
-          "format": "",
-          "language": "nar"
-        },
-        {
           "pid": "652",
           "format": "ac3",
           "language": "eng"
+        },
+        {
+          "pid": "653",
+          "format": "",
+          "language": "nar"
         }
       ],
       "pmt": "261",
@@ -21991,7 +21991,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Halloween HD",
+      "channel_name": "Sky Bourne HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
@@ -22000,14 +22000,14 @@
       "vpid": "522",
       "audio_tracks": [
         {
-          "pid": "657",
-          "format": "",
-          "language": "nar"
-        },
-        {
           "pid": "656",
           "format": "ac3",
           "language": "eng"
+        },
+        {
+          "pid": "657",
+          "format": "",
+          "language": "nar"
         }
       ],
       "pmt": "266",
