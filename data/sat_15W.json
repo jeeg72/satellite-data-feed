@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "15W",
   "satellite_pos": "15.0W",
-  "updated_at": "2026-11-03T20:00:02.396621",
+  "updated_at": "2026-11-04T00:00:02.563741",
   "count": 74,
   "channels": [
     {
@@ -1156,9 +1156,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "5 Select",
+      "channel_name": "5 Drama (UK)",
       "country": "Regno Unito",
-      "category": "Intrattenimento",
+      "category": "Series",
       "bouquet": "Channel 5 Broadcasting Ltd",
       "encryption": "DVB Scrambling",
       "sid": "20256",
@@ -1166,12 +1166,12 @@
       "audio_tracks": [
         {
           "pid": "7502",
-          "format": "",
+          "format": "aac",
           "language": "eng"
         },
         {
           "pid": "7506",
-          "format": "",
+          "format": "aac",
           "language": "eng"
         }
       ],
