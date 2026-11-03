@@ -3,7 +3,7 @@
   "label": "neosat — 1.9E",
   "bouquet_id": "neosat",
   "satellite_pos": "1.9E",
-  "updated_at": "2026-11-03T20:00:02.396621",
+  "updated_at": "2026-11-04T00:00:02.563741",
   "count": 147,
   "channels": [
     {
@@ -3742,8 +3742,8 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "TV 1000 Balkan",
-      "country": "Serbia",
+      "channel_name": "Viasat Kino",
+      "country": "non definito",
       "category": "Movies",
       "bouquet": "Neosat",
       "encryption": "Conax",
