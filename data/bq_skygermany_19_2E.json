@@ -3,8 +3,8 @@
   "label": "skygermany — 19.2E",
   "bouquet_id": "skygermany",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-03T20:00:02.396621",
-  "count": 149,
+  "updated_at": "2026-11-04T00:00:02.563741",
+  "count": 150,
   "channels": [
     {
       "channel_name": "Welt HD",
@@ -2479,6 +2479,51 @@
       "pmt": "104",
       "pcr": "2303",
       "txt": "",
+      "frequency": "11759.10",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "9/10",
+      "standard": "DVB-S2",
+      "modulation": "QPSK",
+      "nid": "133",
+      "tid": "2",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Sky Cinema Feelgood",
+      "country": "Germania",
+      "category": "Movies",
+      "bouquet": "Sky Deutschland",
+      "encryption": "VideoGuard",
+      "sid": "139",
+      "vpid": "767",
+      "audio_tracks": [
+        {
+          "pid": "771",
+          "format": "ac3",
+          "language": "ger"
+        },
+        {
+          "pid": "772",
+          "format": "ac3",
+          "language": "eng"
+        }
+      ],
+      "pmt": "98",
+      "pcr": "767",
+      "txt": "34",
       "frequency": "11759.10",
       "polarization": "H",
       "symbol_rate": "27500",
