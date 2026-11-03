@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-03T12:00:02.038217",
-  "count": 815,
+  "updated_at": "2026-11-03T16:00:02.325021",
+  "count": 814,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -17553,51 +17553,6 @@
       "pmt": "104",
       "pcr": "2303",
       "txt": "",
-      "frequency": "11759.10",
-      "polarization": "H",
-      "symbol_rate": "27500",
-      "fec": "9/10",
-      "standard": "DVB-S2",
-      "modulation": "QPSK",
-      "nid": "133",
-      "tid": "2",
-      "satellite_pos": "19.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "Sky Cinema Spooky Halloween HD",
-      "country": "Germania",
-      "category": "Movies",
-      "bouquet": "Sky Deutschland",
-      "encryption": "VideoGuard",
-      "sid": "139",
-      "vpid": "767",
-      "audio_tracks": [
-        {
-          "pid": "771",
-          "format": "eac3",
-          "language": "ger"
-        },
-        {
-          "pid": "772",
-          "format": "eac3",
-          "language": "eng"
-        }
-      ],
-      "pmt": "98",
-      "pcr": "767",
-      "txt": "34",
       "frequency": "11759.10",
       "polarization": "H",
       "symbol_rate": "27500",
