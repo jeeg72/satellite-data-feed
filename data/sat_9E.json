@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "9E",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-11-04T20:00:02.352042",
-  "count": 630,
+  "updated_at": "2026-11-05T00:00:02.124128",
+  "count": 629,
   "channels": [
     {
       "channel_name": "TIN - The Israeli Network",
@@ -14851,51 +14851,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "TEST 5",
-      "country": "",
-      "category": "",
-      "bouquet": "Cosmote",
-      "encryption": "VideoGuard",
-      "sid": "1007",
-      "vpid": "407",
-      "audio_tracks": [
-        {
-          "pid": "507",
-          "format": "",
-          "language": "gre"
-        },
-        {
-          "pid": "607",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "307",
-      "pcr": "407",
-      "txt": "",
-      "frequency": "12283.60",
-      "polarization": "H",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "170",
-      "tid": "5",
-      "satellite_pos": "9.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "Magenta Cinema 1",
       "country": "Grecia",
       "category": "Movies",
@@ -23593,9 +23548,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "TEST 7",
-      "country": "",
-      "category": "",
+      "channel_name": "Novasports1 League HD",
+      "country": "Grecia",
+      "category": "Sport",
       "bouquet": "Cosmote",
       "encryption": "VideoGuard",
       "sid": "1104",
