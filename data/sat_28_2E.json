@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-04T20:00:02.352042",
-  "count": 533,
+  "updated_at": "2026-11-05T00:00:02.124128",
+  "count": 534,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -23058,6 +23058,51 @@
       "pmt": "261",
       "pcr": "2372",
       "txt": "2381",
+      "frequency": "12382.40",
+      "polarization": "H",
+      "symbol_rate": "29500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2035",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "2946",
+      "country": "",
+      "category": "",
+      "bouquet": "BSkyB",
+      "encryption": "FTA",
+      "sid": "2946",
+      "vpid": "2320",
+      "audio_tracks": [
+        {
+          "pid": "2321",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "2322",
+          "format": "",
+          "language": "nar"
+        }
+      ],
+      "pmt": "265",
+      "pcr": "2320",
+      "txt": "2323",
       "frequency": "12382.40",
       "polarization": "H",
       "symbol_rate": "29500",
