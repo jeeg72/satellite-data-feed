@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-04T04:00:02.462345",
-  "count": 532,
+  "updated_at": "2026-11-04T08:00:02.533053",
+  "count": 533,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -22743,6 +22743,51 @@
       "pmt": "256",
       "pcr": "2389",
       "txt": "2394",
+      "frequency": "12382.40",
+      "polarization": "H",
+      "symbol_rate": "29500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2035",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Quest Red",
+      "country": "Regno Unito",
+      "category": "Intrattenimento",
+      "bouquet": "BSkyB",
+      "encryption": "FTA",
+      "sid": "2914",
+      "vpid": "2332",
+      "audio_tracks": [
+        {
+          "pid": "2326",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "2327",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "268",
+      "pcr": "2332",
+      "txt": "2328",
       "frequency": "12382.40",
       "polarization": "H",
       "symbol_rate": "29500",
