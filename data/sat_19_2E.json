@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-04T20:00:02.352042",
-  "count": 815,
+  "updated_at": "2026-11-05T00:00:02.124128",
+  "count": 817,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -8306,6 +8306,46 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "Telesur English",
+      "country": "Venezuela",
+      "category": "News",
+      "bouquet": "TSA",
+      "encryption": "FTA",
+      "sid": "31307",
+      "vpid": "1051",
+      "audio_tracks": [
+        {
+          "pid": "1052",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "1050",
+      "pcr": "1051",
+      "txt": "",
+      "frequency": "11067.50",
+      "polarization": "V",
+      "symbol_rate": "22000",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1040",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Sachsen Eins",
       "country": "Germania",
       "category": "Regional",
@@ -8362,6 +8402,46 @@
       ],
       "pmt": "480",
       "pcr": "1210",
+      "txt": "",
+      "frequency": "11067.50",
+      "polarization": "V",
+      "symbol_rate": "22000",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "1",
+      "tid": "1040",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Daystar HD",
+      "country": "U.S.A.",
+      "category": "Religious",
+      "bouquet": "TSA",
+      "encryption": "FTA",
+      "sid": "31310",
+      "vpid": "1648",
+      "audio_tracks": [
+        {
+          "pid": "1649",
+          "format": "ac3",
+          "language": "esp"
+        }
+      ],
+      "pmt": "1647",
+      "pcr": "1648",
       "txt": "",
       "frequency": "11067.50",
       "polarization": "V",
@@ -20111,7 +20191,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Cinema Halloween HD",
+      "channel_name": "Sky Cinema Premieren HD",
       "country": "Germania",
       "category": "Movies",
       "bouquet": "Sky Deutschland",
