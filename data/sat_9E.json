@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "9E",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-11-05T04:00:02.361242",
-  "count": 629,
+  "updated_at": "2026-11-05T08:00:02.726018",
+  "count": 630,
   "channels": [
     {
       "channel_name": "TIN - The Israeli Network",
@@ -14827,6 +14827,51 @@
       ],
       "pmt": "304",
       "pcr": "404",
+      "txt": "",
+      "frequency": "12283.60",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "170",
+      "tid": "5",
+      "satellite_pos": "9.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Novasports2 League HD",
+      "country": "Grecia",
+      "category": "Sport",
+      "bouquet": "Cosmote",
+      "encryption": "VideoGuard",
+      "sid": "1007",
+      "vpid": "407",
+      "audio_tracks": [
+        {
+          "pid": "507",
+          "format": "",
+          "language": "gre"
+        },
+        {
+          "pid": "607",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "307",
+      "pcr": "407",
       "txt": "",
       "frequency": "12283.60",
       "polarization": "H",
