@@ -3,7 +3,7 @@
   "label": "skydigital — 28.2E",
   "bouquet_id": "skydigital",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-06T20:00:01.940073",
+  "updated_at": "2026-11-07T00:00:02.040337",
   "count": 523,
   "channels": [
     {
@@ -3287,7 +3287,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Nick Alvinnnn!!!",
+      "channel_name": "Nick Sponge Bob",
       "country": "Regno Unito",
       "category": "Children",
       "bouquet": "Sky Digital",
@@ -3296,14 +3296,14 @@
       "vpid": "2363",
       "audio_tracks": [
         {
-          "pid": "2365",
-          "format": "",
-          "language": "nar"
-        },
-        {
           "pid": "2364",
           "format": "",
           "language": "eng"
+        },
+        {
+          "pid": "2365",
+          "format": "",
+          "language": "nar"
         }
       ],
       "pmt": "269",
