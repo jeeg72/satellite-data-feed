@@ -3,7 +3,7 @@
   "label": "alemtv — 52.0E",
   "bouquet_id": "alemtv",
   "satellite_pos": "52.0E",
-  "updated_at": "2026-11-07T16:00:02.610953",
+  "updated_at": "2026-11-07T20:00:02.532716",
   "count": 192,
   "channels": [
     {
@@ -358,16 +358,16 @@
       "bouquet": "Älem TV",
       "encryption": "Conax",
       "sid": "810",
-      "vpid": "1001",
+      "vpid": "216",
       "audio_tracks": [
         {
-          "pid": "1002",
+          "pid": "316",
           "format": "aac",
           "language": "rus"
         }
       ],
       "pmt": "810",
-      "pcr": "1001",
+      "pcr": "216",
       "txt": "",
       "frequency": "10845.40",
       "polarization": "H",
