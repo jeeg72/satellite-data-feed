@@ -3,7 +3,7 @@
   "label": "skyitalia — 13.0E",
   "bouquet_id": "skyitalia",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-11-07T20:00:02.532716",
+  "updated_at": "2026-11-08T00:00:02.685864",
   "count": 116,
   "channels": [
     {
@@ -2071,7 +2071,7 @@
       "country": "",
       "category": "",
       "bouquet": "Sky Italia",
-      "encryption": "FTA",
+      "encryption": "VideoGuard",
       "sid": "11304",
       "vpid": "180",
       "audio_tracks": [],
@@ -4456,7 +4456,7 @@
       "country": "Italia",
       "category": "Movies",
       "bouquet": "Sky Italia",
-      "encryption": "FTA",
+      "encryption": "VideoGuard",
       "sid": "4039",
       "vpid": "160",
       "audio_tracks": [],
