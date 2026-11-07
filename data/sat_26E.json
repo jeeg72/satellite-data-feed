@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "26E",
   "satellite_pos": "26.0E",
-  "updated_at": "2026-11-07T08:00:02.278477",
+  "updated_at": "2026-11-07T12:00:02.484254",
   "count": 469,
   "channels": [
     {
@@ -1170,10 +1170,26 @@
       "country": "Qatar",
       "category": "Sport",
       "bouquet": "beIN SPORTS",
-      "encryption": "FTA",
+      "encryption": "Irdeto 2 + VideoGuard",
       "sid": "8604",
       "vpid": "481",
-      "audio_tracks": [],
+      "audio_tracks": [
+        {
+          "pid": "482",
+          "format": "",
+          "language": "ara"
+        },
+        {
+          "pid": "483",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "484",
+          "format": "ac3",
+          "language": "ara"
+        }
+      ],
       "pmt": "480",
       "pcr": "481",
       "txt": "",
@@ -1294,10 +1310,26 @@
       "country": "Qatar",
       "category": "Sport",
       "bouquet": "beIN",
-      "encryption": "FTA",
+      "encryption": "Irdeto 2 + VideoGuard",
       "sid": "8613",
       "vpid": "561",
-      "audio_tracks": [],
+      "audio_tracks": [
+        {
+          "pid": "562",
+          "format": "",
+          "language": "ara"
+        },
+        {
+          "pid": "563",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "564",
+          "format": "ac3",
+          "language": "ara"
+        }
+      ],
       "pmt": "560",
       "pcr": "561",
       "txt": "",
@@ -1797,10 +1829,26 @@
       "country": "Qatar",
       "category": "Sport",
       "bouquet": "beIN",
-      "encryption": "FTA",
+      "encryption": "Irdeto 2 + VideoGuard",
       "sid": "20434",
       "vpid": "661",
-      "audio_tracks": [],
+      "audio_tracks": [
+        {
+          "pid": "662",
+          "format": "",
+          "language": "ara"
+        },
+        {
+          "pid": "663",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "664",
+          "format": "ac3",
+          "language": "ara"
+        }
+      ],
       "pmt": "660",
       "pcr": "661",
       "txt": "",
