@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-07T08:00:02.278477",
-  "count": 530,
+  "updated_at": "2026-11-07T12:00:02.484254",
+  "count": 529,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -21793,51 +21793,6 @@
       "pmt": "265",
       "pcr": "518",
       "txt": "585",
-      "frequency": "12284.90",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2030",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "Sky Bourne HD",
-      "country": "Regno Unito",
-      "category": "Movies",
-      "bouquet": "Sky Digital",
-      "encryption": "VideoGuard",
-      "sid": "6033",
-      "vpid": "522",
-      "audio_tracks": [
-        {
-          "pid": "656",
-          "format": "ac3",
-          "language": "eng"
-        },
-        {
-          "pid": "657",
-          "format": "",
-          "language": "nar"
-        }
-      ],
-      "pmt": "266",
-      "pcr": "522",
-      "txt": "586",
       "frequency": "12284.90",
       "polarization": "V",
       "symbol_rate": "27500",
