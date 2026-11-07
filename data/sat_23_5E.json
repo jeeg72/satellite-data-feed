@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-11-07T08:00:02.278477",
+  "updated_at": "2026-11-07T12:00:02.484254",
   "count": 544,
   "channels": [
     {
@@ -1444,8 +1444,8 @@
       "channel_name": "Penthouse Reality TV",
       "country": "non definito",
       "category": "Adult",
-      "bouquet": "Canal+ CzechiaSlovakia",
-      "encryption": "Nagravision 3 + Viaccess 5.0 + Mediaguard 3",
+      "bouquet": "Canal DigitaalTV Vlaanderen",
+      "encryption": "Nagravision 3 + Viaccess 2.3 + Mediaguard 3",
       "sid": "7167",
       "vpid": "567",
       "audio_tracks": [
@@ -5874,8 +5874,8 @@
       "channel_name": "National Geographic Wild HD DUT",
       "country": "",
       "category": "",
-      "bouquet": "Canal+ CzechiaSlovakia",
-      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Mediaguard 3",
+      "bouquet": "Canal DigitaalCanal+ CzechiaSlovakiaTV Vlaanderen",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Mediaguard 3 + Cryptoworks",
       "sid": "774",
       "vpid": "1101",
       "audio_tracks": [
@@ -5892,7 +5892,7 @@
       ],
       "pmt": "709",
       "pcr": "1101",
-      "txt": "",
+      "txt": "1106",
       "frequency": "12090.10",
       "polarization": "V",
       "symbol_rate": "29900",
@@ -8305,7 +8305,7 @@
       "country": "Paesi Bassi",
       "category": "Adult",
       "bouquet": "Canal DigitaalCanal+ CzechiaSlovakiaTV Vlaanderen",
-      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Mediaguard 3 + Conax + Cryptoworks",
+      "encryption": "FTA",
       "sid": "21124",
       "vpid": "564",
       "audio_tracks": [
@@ -8675,7 +8675,7 @@
       "country": "non definito",
       "category": "Documentaries",
       "bouquet": "Canal DigitaalCanal+ CzechiaSlovakiaTV Vlaanderen",
-      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax + Cryptoworks",
       "sid": "21271",
       "vpid": "571",
       "audio_tracks": [
@@ -15130,7 +15130,7 @@
       "country": "Slovacchia",
       "category": "General",
       "bouquet": "Canal+ CzechiaSlovakiaVolna Telka",
-      "encryption": "Nagravision 3 + Irdeto 2 + Conax",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
       "sid": "4904",
       "vpid": "5014",
       "audio_tracks": [
