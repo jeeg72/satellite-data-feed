@@ -3,8 +3,8 @@
   "label": "canaldigitaal — 23.5E",
   "bouquet_id": "canaldigitaal",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-11-07T08:00:02.278477",
-  "count": 64,
+  "updated_at": "2026-11-07T12:00:02.484254",
+  "count": 66,
   "channels": [
     {
       "channel_name": "Star Channel Netherlands",
@@ -1012,6 +1012,46 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "Penthouse Reality TV",
+      "country": "non definito",
+      "category": "Adult",
+      "bouquet": "Canal DigitaalTV Vlaanderen",
+      "encryption": "Nagravision 3 + Viaccess 2.3 + Mediaguard 3",
+      "sid": "7167",
+      "vpid": "567",
+      "audio_tracks": [
+        {
+          "pid": "167",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "2967",
+      "pcr": "567",
+      "txt": "",
+      "frequency": "11856.10",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3208",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Retro Music Television",
       "country": "Repubblica Ceca",
       "category": "Music",
@@ -1037,6 +1077,51 @@
       "modulation": "8PSK",
       "nid": "3",
       "tid": "3216",
+      "satellite_pos": "23.5E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "National Geographic Wild HD DUT",
+      "country": "",
+      "category": "",
+      "bouquet": "Canal DigitaalCanal+ CzechiaSlovakiaTV Vlaanderen",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Mediaguard 3 + Cryptoworks",
+      "sid": "774",
+      "vpid": "1101",
+      "audio_tracks": [
+        {
+          "pid": "1102",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "7617",
+          "format": "",
+          "language": "ned"
+        }
+      ],
+      "pmt": "709",
+      "pcr": "1101",
+      "txt": "1106",
+      "frequency": "12090.10",
+      "polarization": "V",
+      "symbol_rate": "29900",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "3",
+      "tid": "3220",
       "satellite_pos": "23.5E",
       "is_multistream": false,
       "ms_isid": 0,
@@ -1856,7 +1941,7 @@
       "country": "Paesi Bassi",
       "category": "Adult",
       "bouquet": "Canal DigitaalCanal+ CzechiaSlovakiaTV Vlaanderen",
-      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Mediaguard 3 + Conax + Cryptoworks",
+      "encryption": "FTA",
       "sid": "21124",
       "vpid": "564",
       "audio_tracks": [
@@ -2016,7 +2101,7 @@
       "country": "non definito",
       "category": "Documentaries",
       "bouquet": "Canal DigitaalCanal+ CzechiaSlovakiaTV Vlaanderen",
-      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax",
+      "encryption": "Nagravision 3 + Viaccess 5.0 + Irdeto 2 + Conax + Cryptoworks",
       "sid": "21271",
       "vpid": "571",
       "audio_tracks": [
