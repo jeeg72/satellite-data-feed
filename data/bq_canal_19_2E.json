@@ -3,7 +3,7 @@
   "label": "canal — 19.2E",
   "bouquet_id": "canal",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-07T08:00:02.278477",
+  "updated_at": "2026-11-07T12:00:02.484254",
   "count": 145,
   "channels": [
     {
@@ -91,7 +91,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8205",
       "vpid": "510",
       "audio_tracks": [
@@ -491,7 +491,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8305",
       "vpid": "510",
       "audio_tracks": [
@@ -531,7 +531,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8306",
       "vpid": "610",
       "audio_tracks": [
@@ -571,7 +571,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8307",
       "vpid": "710",
       "audio_tracks": [
@@ -696,7 +696,7 @@
       "country": "Francia",
       "category": "Movies",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8314",
       "vpid": "1410",
       "audio_tracks": [
@@ -781,7 +781,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8316",
       "vpid": "1610",
       "audio_tracks": [
@@ -876,7 +876,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8318",
       "vpid": "1810",
       "audio_tracks": [
@@ -1276,7 +1276,7 @@
       "country": "Francia",
       "category": "Documentaries",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8910",
       "vpid": "1010",
       "audio_tracks": [
@@ -2031,7 +2031,7 @@
       "country": "Francia",
       "category": "General",
       "bouquet": "Canal+ France",
-      "encryption": "FTA + Nagravision 3",
+      "encryption": "Nagravision 3",
       "sid": "8801",
       "vpid": "110",
       "audio_tracks": [
@@ -2081,7 +2081,7 @@
       "country": "Francia",
       "category": "Movies",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8803",
       "vpid": "310",
       "audio_tracks": [
@@ -2126,7 +2126,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "FTA + Nagravision 3 + Viaccess 3.0",
+      "encryption": "Nagravision 3",
       "sid": "8804",
       "vpid": "410",
       "audio_tracks": [
@@ -2171,7 +2171,7 @@
       "country": "Francia",
       "category": "Children",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8805",
       "vpid": "510",
       "audio_tracks": [
@@ -2306,7 +2306,7 @@
       "country": "Francia",
       "category": "Movies",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8810",
       "vpid": "1010",
       "audio_tracks": [
@@ -2356,7 +2356,7 @@
       "country": "Francia",
       "category": "General",
       "bouquet": "Canal+ France",
-      "encryption": "FTA",
+      "encryption": "Nagravision 3",
       "sid": "8814",
       "vpid": "1410",
       "audio_tracks": [
@@ -2378,7 +2378,7 @@
       ],
       "pmt": "1400",
       "pcr": "1410",
-      "txt": "",
+      "txt": "1441",
       "frequency": "12012.70",
       "polarization": "V",
       "symbol_rate": "29700",
@@ -2446,7 +2446,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "8817",
       "vpid": "1710",
       "audio_tracks": [
@@ -2651,7 +2651,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "9416",
       "vpid": "1610",
       "audio_tracks": [
@@ -2901,7 +2901,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "9424",
       "vpid": "2410",
       "audio_tracks": [
@@ -2941,7 +2941,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "9425",
       "vpid": "2510",
       "audio_tracks": [
@@ -5466,7 +5466,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "9619",
       "vpid": "1910",
       "audio_tracks": [
@@ -5619,7 +5619,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "10001",
       "vpid": "110",
       "audio_tracks": [
@@ -6084,7 +6084,7 @@
       "country": "Francia",
       "category": "Sport",
       "bouquet": "Canal+ France",
-      "encryption": "Nagravision 3 + Viaccess 4.0",
+      "encryption": "Nagravision 3",
       "sid": "10013",
       "vpid": "1310",
       "audio_tracks": [
