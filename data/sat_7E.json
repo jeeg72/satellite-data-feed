@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "7E",
   "satellite_pos": "7.0E",
-  "updated_at": "2026-11-08T16:00:01.911883",
-  "count": 45,
+  "updated_at": "2026-11-08T20:00:02.028833",
+  "count": 43,
   "channels": [
     {
       "channel_name": "ColorBars",
@@ -441,116 +441,6 @@
       ],
       "pmt": "33",
       "pcr": "1011",
-      "txt": "",
-      "frequency": "10762.20",
-      "polarization": "V",
-      "symbol_rate": "30000",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "65535",
-      "tid": "1",
-      "satellite_pos": "7.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "NHL Service-3",
-      "country": "",
-      "category": "",
-      "bouquet": "Telstra",
-      "encryption": "BISS",
-      "sid": "3",
-      "vpid": "1021",
-      "audio_tracks": [
-        {
-          "pid": "1022",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1023",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1024",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1025",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "34",
-      "pcr": "1021",
-      "txt": "",
-      "frequency": "10762.20",
-      "polarization": "V",
-      "symbol_rate": "30000",
-      "fec": "3/4",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "65535",
-      "tid": "1",
-      "satellite_pos": "7.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "NHL Service-4",
-      "country": "",
-      "category": "",
-      "bouquet": "Telstra",
-      "encryption": "BISS",
-      "sid": "4",
-      "vpid": "1031",
-      "audio_tracks": [
-        {
-          "pid": "1032",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1033",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1034",
-          "format": "",
-          "language": "eng"
-        },
-        {
-          "pid": "1035",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "38",
-      "pcr": "1031",
       "txt": "",
       "frequency": "10762.20",
       "polarization": "V",
