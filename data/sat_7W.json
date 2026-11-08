@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "7W",
   "satellite_pos": "7.0W",
-  "updated_at": "2026-11-08T08:00:04.361368",
-  "count": 585,
+  "updated_at": "2026-11-08T12:00:01.825409",
+  "count": 586,
   "channels": [
     {
       "channel_name": "Alatawla Cinema",
@@ -19440,6 +19440,51 @@
       ],
       "pmt": "108",
       "pcr": "208",
+      "txt": "",
+      "frequency": "12168.40",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2048",
+      "tid": "45",
+      "satellite_pos": "7.0W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "OSN Yahala",
+      "country": "Emirati Arabi Uniti",
+      "category": "Various",
+      "bouquet": "OSN",
+      "encryption": "Nagravision 3",
+      "sid": "4509",
+      "vpid": "209",
+      "audio_tracks": [
+        {
+          "pid": "409",
+          "format": "ac3",
+          "language": "ara"
+        },
+        {
+          "pid": "509",
+          "format": "",
+          "language": "vo"
+        }
+      ],
+      "pmt": "109",
+      "pcr": "209",
       "txt": "",
       "frequency": "12168.40",
       "polarization": "V",
