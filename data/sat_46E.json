@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "46E",
   "satellite_pos": "46.0E",
-  "updated_at": "2026-11-08T16:00:01.911883",
+  "updated_at": "2026-11-08T20:00:02.028833",
   "count": 105,
   "channels": [
     {
@@ -809,7 +809,7 @@
       "fec": "2/3",
       "standard": "DVB-S2",
       "modulation": "8PSK",
-      "nid": "8192",
+      "nid": "0",
       "tid": "4096",
       "satellite_pos": "46.0E",
       "is_multistream": false,
@@ -1195,7 +1195,7 @@
       "country": "Regno Unito",
       "category": "Sport",
       "bouquet": "Azam Digital",
-      "encryption": "DVB Scrambling",
+      "encryption": "Nagravision 3",
       "sid": "126",
       "vpid": "2126",
       "audio_tracks": [
@@ -1235,7 +1235,7 @@
       "country": "non definito",
       "category": "Movies",
       "bouquet": "Azam Digital",
-      "encryption": "DVB Scrambling",
+      "encryption": "Nagravision 3",
       "sid": "146",
       "vpid": "2146",
       "audio_tracks": [
@@ -2405,7 +2405,7 @@
       "country": "",
       "category": "",
       "bouquet": "Azam Digital",
-      "encryption": "DVB Scrambling",
+      "encryption": "Nagravision 3",
       "sid": "106",
       "vpid": "2106",
       "audio_tracks": [
@@ -2490,7 +2490,7 @@
       "country": "",
       "category": "",
       "bouquet": "Azam Digital",
-      "encryption": "DVB Scrambling",
+      "encryption": "Nagravision 3",
       "sid": "111",
       "vpid": "2111",
       "audio_tracks": [
@@ -2580,7 +2580,7 @@
       "country": "",
       "category": "",
       "bouquet": "Azam Digital",
-      "encryption": "DVB Scrambling",
+      "encryption": "Nagravision 3",
       "sid": "113",
       "vpid": "2113",
       "audio_tracks": [
@@ -2625,7 +2625,7 @@
       "country": "",
       "category": "",
       "bouquet": "Azam Digital",
-      "encryption": "DVB Scrambling",
+      "encryption": "Nagravision 3",
       "sid": "114",
       "vpid": "2114",
       "audio_tracks": [
@@ -2670,7 +2670,7 @@
       "country": "Tanzania",
       "category": "Sport",
       "bouquet": "Azam Digital",
-      "encryption": "DVB Scrambling",
+      "encryption": "Nagravision 3",
       "sid": "115",
       "vpid": "2115",
       "audio_tracks": [
