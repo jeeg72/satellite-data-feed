@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-09T20:00:02.871757",
-  "count": 530,
+  "updated_at": "2026-11-10T00:00:02.128037",
+  "count": 529,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -18961,51 +18961,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Mix HD",
-      "country": "Regno Unito",
-      "category": "Intrattenimento",
-      "bouquet": "Sky Digital",
-      "encryption": "FTA",
-      "sid": "5052",
-      "vpid": "521",
-      "audio_tracks": [
-        {
-          "pid": "658",
-          "format": "",
-          "language": "nar"
-        },
-        {
-          "pid": "657",
-          "format": "ac3",
-          "language": "eng"
-        }
-      ],
-      "pmt": "258",
-      "pcr": "521",
-      "txt": "584",
-      "frequency": "12168.00",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2024",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "CNBC Europe HD",
       "country": "U.S.A.",
       "category": "Business",
@@ -21816,7 +21771,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Batman HD",
+      "channel_name": "Sky Mad Max HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
