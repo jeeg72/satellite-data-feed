@@ -3,7 +3,7 @@
   "label": "skygermany — 19.2E",
   "bouquet_id": "skygermany",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-09T20:00:02.871757",
+  "updated_at": "2026-11-10T00:00:02.128037",
   "count": 150,
   "channels": [
     {
@@ -1193,22 +1193,17 @@
       "bouquet": "AustriasatORF DigitalSky Deutschland",
       "encryption": "Viaccess 5.0 + Irdeto 2 + VideoGuard + Cryptoworks",
       "sid": "13301",
-      "vpid": "3000",
+      "vpid": "3010",
       "audio_tracks": [
         {
-          "pid": "3001",
+          "pid": "3011",
           "format": "ac3",
           "language": "ger"
-        },
-        {
-          "pid": "3002",
-          "format": "ac3",
-          "language": "mis"
         }
       ],
       "pmt": "301",
-      "pcr": "3000",
-      "txt": "3005",
+      "pcr": "3010",
+      "txt": "3015",
       "frequency": "11273.25",
       "polarization": "H",
       "symbol_rate": "22000",
@@ -1643,22 +1638,17 @@
       "bouquet": "AustriasatORF DigitalSky Deutschland",
       "encryption": "Viaccess 5.0 + Irdeto 2 + VideoGuard + Cryptoworks",
       "sid": "4912",
-      "vpid": "2920",
+      "vpid": "2930",
       "audio_tracks": [
         {
-          "pid": "2921",
+          "pid": "2931",
           "format": "ac3",
           "language": "ger"
-        },
-        {
-          "pid": "2922",
-          "format": "ac3",
-          "language": "mis"
         }
       ],
       "pmt": "108",
-      "pcr": "2920",
-      "txt": "2925",
+      "pcr": "2930",
+      "txt": "2935",
       "frequency": "11302.75",
       "polarization": "H",
       "symbol_rate": "22000",
