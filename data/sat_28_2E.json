@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-10T16:00:02.142383",
+  "updated_at": "2026-11-10T20:00:02.379988",
   "count": 529,
   "channels": [
     {
@@ -22861,9 +22861,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "2946",
-      "country": "",
-      "category": "",
+      "channel_name": "Food Network",
+      "country": "Regno Unito",
+      "category": "Cooking",
       "bouquet": "BSkyB",
       "encryption": "FTA",
       "sid": "2946",
@@ -22880,7 +22880,7 @@
           "language": "nar"
         }
       ],
-      "pmt": "265",
+      "pmt": "269",
       "pcr": "2320",
       "txt": "2323",
       "frequency": "12382.40",
