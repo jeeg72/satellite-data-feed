@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-12T20:00:02.750309",
+  "updated_at": "2026-11-13T00:00:02.027319",
   "count": 530,
   "channels": [
     {
@@ -13881,9 +13881,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "52473",
-      "country": "",
-      "category": "",
+      "channel_name": "CNN International HD",
+      "country": "U.S.A.",
+      "category": "News",
       "bouquet": "Sky Digital",
       "encryption": "VideoGuard",
       "sid": "52473",
