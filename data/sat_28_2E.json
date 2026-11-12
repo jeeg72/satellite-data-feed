@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-12T16:00:02.805417",
-  "count": 529,
+  "updated_at": "2026-11-12T20:00:02.750309",
+  "count": 530,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -13881,6 +13881,51 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "52473",
+      "country": "",
+      "category": "",
+      "bouquet": "Sky Digital",
+      "encryption": "VideoGuard",
+      "sid": "52473",
+      "vpid": "2374",
+      "audio_tracks": [
+        {
+          "pid": "2375",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "2376",
+          "format": "ac3",
+          "language": "eng"
+        }
+      ],
+      "pmt": "262",
+      "pcr": "2374",
+      "txt": "2396",
+      "frequency": "12031.40",
+      "polarization": "H",
+      "symbol_rate": "29500",
+      "fec": "2/3",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "2",
+      "tid": "2017",
+      "satellite_pos": "28.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Food Network +1",
       "country": "Regno Unito",
       "category": "Cooking",
@@ -21771,7 +21816,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Mad Max HD",
+      "channel_name": "The Mummy HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
