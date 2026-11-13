@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-11-13T08:00:02.692561",
+  "updated_at": "2026-11-13T12:00:02.012180",
   "count": 544,
   "channels": [
     {
@@ -10476,9 +10476,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Pink Romance",
+      "channel_name": "Nova S",
       "country": "Serbia",
-      "category": "Movies",
+      "category": "Various",
       "bouquet": "M:Sat TV",
       "encryption": "Nagravision 3 + Conax",
       "sid": "20034",
@@ -10487,7 +10487,7 @@
         {
           "pid": "342",
           "format": "",
-          "language": ""
+          "language": "ser"
         }
       ],
       "pmt": "340",
@@ -10956,9 +10956,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sci Fi Serbia",
+      "channel_name": "N1 Serbia",
       "country": "Serbia",
-      "category": "Series",
+      "category": "General",
       "bouquet": "M:Sat TV",
       "encryption": "Nagravision 3 + Conax",
       "sid": "20178",
@@ -11356,9 +11356,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Fashion TV",
-      "country": "Francia",
-      "category": "Lifestyle",
+      "channel_name": "N1 BiH",
+      "country": "Bosnia Herzegovina",
+      "category": "General",
       "bouquet": "M:Sat TV",
       "encryption": "Nagravision 3 + Conax",
       "sid": "20209",
@@ -11367,7 +11367,7 @@
         {
           "pid": "2092",
           "format": "",
-          "language": "eng"
+          "language": "bos"
         }
       ],
       "pmt": "2090",
@@ -18891,9 +18891,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Eko Vizija",
+      "channel_name": "Insajder TV",
       "country": "Serbia",
-      "category": "Business",
+      "category": "Various",
       "bouquet": "M:Sat TV",
       "encryption": "Nagravision 3 + Conax",
       "sid": "20176",
@@ -18902,7 +18902,7 @@
         {
           "pid": "1762",
           "format": "",
-          "language": ""
+          "language": "ser"
         }
       ],
       "pmt": "1760",
