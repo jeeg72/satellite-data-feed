@@ -3,7 +3,7 @@
   "label": "totaltv — 16.0E",
   "bouquet_id": "totaltv",
   "satellite_pos": "16.0E",
-  "updated_at": "2026-11-13T00:00:02.027319",
+  "updated_at": "2026-11-13T04:00:01.942747",
   "count": 338,
   "channels": [
     {
@@ -10506,7 +10506,7 @@
       "country": "Serbia",
       "category": "Intrattenimento",
       "bouquet": "Total TV",
-      "encryption": "FTA",
+      "encryption": "Irdeto 2 + VideoGuard",
       "sid": "1764",
       "vpid": "264",
       "audio_tracks": [
@@ -12811,7 +12811,7 @@
       "country": "Slovenia",
       "category": "General",
       "bouquet": "Max TVTotal TV",
-      "encryption": "Viaccess 3.0 + Irdeto 2 + VideoGuard",
+      "encryption": "FTA",
       "sid": "68",
       "vpid": "2917",
       "audio_tracks": [
@@ -13826,7 +13826,7 @@
       "country": "Serbia",
       "category": "General",
       "bouquet": "Total TV",
-      "encryption": "FTA",
+      "encryption": "Irdeto 2 + VideoGuard",
       "sid": "1466",
       "vpid": "266",
       "audio_tracks": [
