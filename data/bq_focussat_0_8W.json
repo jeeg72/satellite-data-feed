@@ -3,8 +3,8 @@
   "label": "focussat — 0.8W",
   "bouquet_id": "focussat",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-11-13T08:00:02.692561",
-  "count": 346,
+  "updated_at": "2026-11-13T12:00:02.012180",
+  "count": 348,
   "channels": [
     {
       "channel_name": "Hir TV",
@@ -9916,6 +9916,106 @@
       "ms_unreliable": false,
       "ms_suspect": false,
       "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Spektrum TV Hungary",
+      "country": "Ungheria",
+      "category": "General",
+      "bouquet": "Focus Sat",
+      "encryption": "Nagravision 3 + Irdeto 2 + Conax + Cryptoworks",
+      "sid": "31402",
+      "vpid": "1101",
+      "audio_tracks": [
+        {
+          "pid": "1111",
+          "format": "",
+          "language": "hun"
+        },
+        {
+          "pid": "1112",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "1113",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "1100",
+      "pcr": "1101",
+      "txt": "",
+      "frequency": "12149.80",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1536",
+      "tid": "716",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "AMC Central Europe",
+      "country": "Repubblica Ceca",
+      "category": "Movies",
+      "bouquet": "Focus Sat",
+      "encryption": "Irdeto 2 + Conax + Cryptoworks",
+      "sid": "31403",
+      "vpid": "1201",
+      "audio_tracks": [
+        {
+          "pid": "1211",
+          "format": "",
+          "language": "cze"
+        },
+        {
+          "pid": "1212",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "1213",
+          "format": "",
+          "language": "cze"
+        }
+      ],
+      "pmt": "1200",
+      "pcr": "1201",
+      "txt": "",
+      "frequency": "12149.80",
+      "polarization": "V",
+      "symbol_rate": "30000",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1536",
+      "tid": "716",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
