@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "3E",
   "satellite_pos": "3.0E",
-  "updated_at": "2026-11-14T08:00:02.213074",
-  "count": 23,
+  "updated_at": "2026-11-14T12:00:02.321106",
+  "count": 24,
   "channels": [
     {
       "channel_name": "SUDFM_TV",
@@ -86,6 +86,40 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "Kalangou _Test",
+      "country": "",
+      "category": "",
+      "bouquet": "RASCOM",
+      "encryption": "FTA",
+      "sid": "37",
+      "vpid": "38",
+      "audio_tracks": [],
+      "pmt": "37",
+      "pcr": "38",
+      "txt": "",
+      "frequency": "11430.20",
+      "polarization": "H",
+      "symbol_rate": "18330",
+      "fec": "3/4",
+      "standard": "DVB-S2",
+      "modulation": "8PSK",
+      "nid": "1",
+      "tid": "1",
+      "satellite_pos": "3.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "Exodus-Channel",
       "country": "",
       "category": "",
@@ -126,9 +160,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "CIMIDI TV",
-      "country": "",
-      "category": "",
+      "channel_name": "Cimidi TV",
+      "country": "Congo",
+      "category": "General",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "41",
@@ -137,7 +171,7 @@
         {
           "pid": "59",
           "format": "aac",
-          "language": "aac"
+          "language": "fra"
         }
       ],
       "pmt": "41",
@@ -166,9 +200,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "France 24 (Fr)",
-      "country": "",
-      "category": "",
+      "channel_name": "France 24 (en Français)",
+      "country": "Francia",
+      "category": "News",
       "bouquet": "A",
       "encryption": "FTA",
       "sid": "42",
@@ -206,9 +240,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "CAM10_TELEVISION",
-      "country": "",
-      "category": "",
+      "channel_name": "Cam10 TV",
+      "country": "Cameroun",
+      "category": "General",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "44",
@@ -217,7 +251,7 @@
         {
           "pid": "46",
           "format": "aac",
-          "language": "aac"
+          "language": "fra"
         }
       ],
       "pmt": "44",
@@ -246,9 +280,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "AFRIQUEMEDIA1",
-      "country": "",
-      "category": "",
+      "channel_name": "Afrique Media",
+      "country": "Cameroun",
+      "category": "News",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "48",
@@ -257,7 +291,7 @@
         {
           "pid": "51",
           "format": "",
-          "language": ""
+          "language": "fra"
         },
         {
           "pid": "52",
@@ -291,9 +325,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "INFO TV",
-      "country": "",
-      "category": "",
+      "channel_name": "Info TV Cameroon",
+      "country": "Cameroun",
+      "category": "News",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "53",
@@ -302,7 +336,7 @@
         {
           "pid": "84",
           "format": "",
-          "language": ""
+          "language": "fra"
         }
       ],
       "pmt": "53",
@@ -331,9 +365,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "DASH TV",
-      "country": "",
-      "category": "",
+      "channel_name": "Dash TV",
+      "country": "Cameroun",
+      "category": "General",
       "bouquet": "",
       "encryption": "FTA",
       "sid": "56",
@@ -342,7 +376,7 @@
         {
           "pid": "58",
           "format": "",
-          "language": ""
+          "language": "fra"
         }
       ],
       "pmt": "56",
@@ -371,9 +405,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "TIMES TV",
-      "country": "",
-      "category": "",
+      "channel_name": "Times TV Cameroun",
+      "country": "Cameroun",
+      "category": "General",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "60",
@@ -382,7 +416,7 @@
         {
           "pid": "69",
           "format": "aac",
-          "language": "aac"
+          "language": "fra"
         }
       ],
       "pmt": "60",
@@ -411,9 +445,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "DBTV HD",
-      "country": "",
-      "category": "",
+      "channel_name": "DBTV",
+      "country": "Cameroun",
+      "category": "News",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "62",
@@ -422,7 +456,7 @@
         {
           "pid": "65",
           "format": "",
-          "language": ""
+          "language": "fra"
         }
       ],
       "pmt": "62",
@@ -491,9 +525,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "NTV",
-      "country": "",
-      "category": "",
+      "channel_name": "NTV Cameroun",
+      "country": "Cameroun",
+      "category": "General",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "70",
@@ -502,7 +536,7 @@
         {
           "pid": "75",
           "format": "",
-          "language": ""
+          "language": "fra"
         }
       ],
       "pmt": "73",
@@ -531,9 +565,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "A1-TV",
-      "country": "",
-      "category": "",
+      "channel_name": "A1 TV Cameroun",
+      "country": "Cameroun",
+      "category": "General",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "73",
@@ -542,7 +576,7 @@
         {
           "pid": "72",
           "format": "",
-          "language": ""
+          "language": "fra"
         }
       ],
       "pmt": "70",
@@ -611,9 +645,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Bnews",
-      "country": "",
-      "category": "",
+      "channel_name": "BNews 1",
+      "country": "Cameroun",
+      "category": "News",
       "bouquet": "RASCOM",
       "encryption": "FTA",
       "sid": "107",
@@ -622,7 +656,7 @@
         {
           "pid": "109",
           "format": "aac",
-          "language": "aac"
+          "language": "fra"
         }
       ],
       "pmt": "107",
