@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "9E",
   "satellite_pos": "9.0E",
-  "updated_at": "2026-11-14T12:00:02.321106",
+  "updated_at": "2026-11-14T16:00:02.090810",
   "count": 630,
   "channels": [
     {
@@ -338,6 +338,11 @@
           "pid": "2210",
           "format": "",
           "language": "ger"
+        },
+        {
+          "pid": "2211",
+          "format": "",
+          "language": "eng"
         }
       ],
       "pmt": "2208",
@@ -5391,13 +5396,18 @@
       "audio_tracks": [
         {
           "pid": "2072",
-          "format": "",
+          "format": "ac3",
           "language": "ger"
         },
         {
           "pid": "2073",
-          "format": "ac3",
+          "format": "",
           "language": "ger"
+        },
+        {
+          "pid": "2077",
+          "format": "",
+          "language": "eng"
         }
       ],
       "pmt": "2070",
@@ -6578,6 +6588,11 @@
           "pid": "1802",
           "format": "",
           "language": "eng"
+        },
+        {
+          "pid": "1803",
+          "format": "",
+          "language": "ser"
         }
       ],
       "pmt": "264",
@@ -6620,11 +6635,6 @@
           "language": "eng"
         },
         {
-          "pid": "1903",
-          "format": "ac3",
-          "language": "ger"
-        },
-        {
           "pid": "1905",
           "format": "ac3",
           "language": "fra"
@@ -6635,29 +6645,9 @@
           "language": "pol"
         },
         {
-          "pid": "1907",
-          "format": "ac3",
-          "language": "tur"
-        },
-        {
-          "pid": "1914",
-          "format": "ac3",
-          "language": "cze"
-        },
-        {
-          "pid": "1915",
-          "format": "ac3",
-          "language": "hun"
-        },
-        {
           "pid": "1908",
           "format": "",
           "language": "eng"
-        },
-        {
-          "pid": "1909",
-          "format": "",
-          "language": "ger"
         },
         {
           "pid": "1911",
@@ -6670,19 +6660,14 @@
           "language": "pol"
         },
         {
-          "pid": "1913",
-          "format": "",
-          "language": "tur"
+          "pid": "1914",
+          "format": "ac3",
+          "language": "cze"
         },
         {
           "pid": "1916",
           "format": "",
           "language": "cze"
-        },
-        {
-          "pid": "1917",
-          "format": "",
-          "language": "hun"
         }
       ],
       "pmt": "265",
