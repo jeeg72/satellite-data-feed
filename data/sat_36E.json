@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "36E",
   "satellite_pos": "36.0E",
-  "updated_at": "2026-11-15T08:00:02.589982",
+  "updated_at": "2026-11-15T12:00:01.853809",
   "count": 126,
   "channels": [
     {
@@ -4651,10 +4651,10 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Event HD",
+      "channel_name": "Holi HD",
       "country": "",
       "category": "",
-      "bouquet": "MCK",
+      "bouquet": "Multichoice Africa",
       "encryption": "Irdeto 2",
       "sid": "3402",
       "vpid": "289",
