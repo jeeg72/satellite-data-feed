@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "28_2E",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-16T20:00:02.697304",
-  "count": 528,
+  "updated_at": "2026-11-17T00:00:02.345094",
+  "count": 527,
   "channels": [
     {
       "channel_name": "BBC Parliament HD",
@@ -12601,46 +12601,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "HDTest2",
-      "country": "",
-      "category": "",
-      "bouquet": "Sky Digital",
-      "encryption": "VideoGuard",
-      "sid": "6048",
-      "vpid": "520",
-      "audio_tracks": [
-        {
-          "pid": "651",
-          "format": "ac3",
-          "language": "eng"
-        }
-      ],
-      "pmt": "267",
-      "pcr": "520",
-      "txt": "581",
-      "frequency": "11758.50",
-      "polarization": "H",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "2",
-      "tid": "2003",
-      "satellite_pos": "28.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "SkySpMainEvHD",
       "country": "",
       "category": "",
@@ -21726,7 +21686,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky M:I HD",
+      "channel_name": "Sky xXx HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
