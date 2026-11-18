@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-11-18T20:00:02.794026",
-  "count": 1103,
+  "updated_at": "2026-11-19T00:00:03.322382",
+  "count": 1102,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -38854,7 +38854,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "John Wick Collection",
+      "channel_name": "Ritorno al futuro Collection HD",
       "country": "Italia",
       "category": "Movies",
       "bouquet": "SkyItalia",
@@ -40024,46 +40024,6 @@
       ],
       "pmt": "909",
       "pcr": "1091",
-      "txt": "",
-      "frequency": "12519.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "9000",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg2",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "BogBlagTV",
-      "country": "U.S.A.",
-      "category": "Religious",
-      "bouquet": "STN",
-      "encryption": "FTA",
-      "sid": "9010",
-      "vpid": "1101",
-      "audio_tracks": [
-        {
-          "pid": "1102",
-          "format": "",
-          "language": "eng"
-        }
-      ],
-      "pmt": "910",
-      "pcr": "1101",
       "txt": "",
       "frequency": "12519.70",
       "polarization": "V",
