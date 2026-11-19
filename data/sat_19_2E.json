@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-19T04:00:02.265406",
-  "count": 819,
+  "updated_at": "2026-11-19T08:00:02.405421",
+  "count": 820,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -1521,9 +1521,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Movistar Romance",
+      "channel_name": "Movistar Thriller",
       "country": "Spagna",
-      "category": "Series",
+      "category": "Movies",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30358",
@@ -1537,7 +1537,7 @@
         {
           "pid": "85",
           "format": "",
-          "language": "vo"
+          "language": "dos"
         }
       ],
       "pmt": "1032",
@@ -8971,6 +8971,51 @@
       "t2mi_plp": 0
     },
     {
+      "channel_name": "TEST TOROS",
+      "country": "",
+      "category": "",
+      "bouquet": "Movistar+",
+      "encryption": "FTA",
+      "sid": "30064",
+      "vpid": "172",
+      "audio_tracks": [
+        {
+          "pid": "128",
+          "format": "",
+          "language": "esp"
+        },
+        {
+          "pid": "129",
+          "format": "",
+          "language": "dos"
+        }
+      ],
+      "pmt": "1033",
+      "pcr": "5172",
+      "txt": "",
+      "frequency": "11097.00",
+      "polarization": "V",
+      "symbol_rate": "22000",
+      "fec": "5/6",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "0",
+      "tid": "1042",
+      "satellite_pos": "19.2E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
       "channel_name": "DAZN 1 Bar HD",
       "country": "Germania",
       "category": "Sport",
@@ -9696,9 +9741,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Movistar Terror",
+      "channel_name": "Movistar Navidad",
       "country": "Spagna",
-      "category": "Movies",
+      "category": "Children",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30853",
