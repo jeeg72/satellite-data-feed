@@ -3,7 +3,7 @@
   "label": "digitalplusa — 19.2E",
   "bouquet_id": "digitalplusa",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-19T04:00:02.265406",
+  "updated_at": "2026-11-19T08:00:02.405421",
   "count": 161,
   "channels": [
     {
@@ -737,9 +737,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Movistar Romance",
+      "channel_name": "Movistar Thriller",
       "country": "Spagna",
-      "category": "Series",
+      "category": "Movies",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30358",
@@ -753,7 +753,7 @@
         {
           "pid": "85",
           "format": "",
-          "language": "vo"
+          "language": "dos"
         }
       ],
       "pmt": "1032",
@@ -5567,9 +5567,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Movistar Terror",
+      "channel_name": "Movistar Navidad",
       "country": "Spagna",
-      "category": "Movies",
+      "category": "Children",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30853",
