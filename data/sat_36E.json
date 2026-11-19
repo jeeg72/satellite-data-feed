@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "36E",
   "satellite_pos": "36.0E",
-  "updated_at": "2026-11-19T04:00:02.265406",
+  "updated_at": "2026-11-19T08:00:02.405421",
   "count": 126,
   "channels": [
     {
@@ -1616,17 +1616,17 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Limelight Family",
-      "country": "non definito",
-      "category": "Intrattenimento",
-      "bouquet": "",
+      "channel_name": "Salvation TV",
+      "country": "Nigeria",
+      "category": "Religious",
+      "bouquet": "ViewMedia",
       "encryption": "FTA",
       "sid": "2",
       "vpid": "1021",
       "audio_tracks": [
         {
-          "pid": "1022",
-          "format": "aac",
+          "pid": "1023",
+          "format": "",
           "language": "eng"
         }
       ],
