@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "8W",
   "satellite_pos": "8.0W",
-  "updated_at": "2026-11-20T08:00:02.428923",
+  "updated_at": "2026-11-20T12:00:02.792620",
   "count": 233,
   "channels": [
     {
@@ -7761,10 +7761,26 @@
       "country": "Qatar",
       "category": "Sport",
       "bouquet": "beIN",
-      "encryption": "FTA",
+      "encryption": "Irdeto 2 + VideoGuard",
       "sid": "2226",
       "vpid": "711",
-      "audio_tracks": [],
+      "audio_tracks": [
+        {
+          "pid": "712",
+          "format": "",
+          "language": "ara"
+        },
+        {
+          "pid": "713",
+          "format": "",
+          "language": "eng"
+        },
+        {
+          "pid": "714",
+          "format": "ac3",
+          "language": "ara"
+        }
+      ],
       "pmt": "710",
       "pcr": "711",
       "txt": "",
