@@ -3,8 +3,8 @@
   "label": "digiturk — 42.0E",
   "bouquet_id": "digiturk",
   "satellite_pos": "42.0E",
-  "updated_at": "2026-11-21T12:00:02.551165",
-  "count": 95,
+  "updated_at": "2026-11-21T16:00:02.024311",
+  "count": 93,
   "channels": [
     {
       "channel_name": "BBC News HD",
@@ -2462,51 +2462,6 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "National Geographic HD Turkey",
-      "country": "Turchia",
-      "category": "Documentaries",
-      "bouquet": "Digitürk",
-      "encryption": "Irdeto 2",
-      "sid": "15519",
-      "vpid": "4469",
-      "audio_tracks": [
-        {
-          "pid": "4569",
-          "format": "",
-          "language": "tur"
-        },
-        {
-          "pid": "4669",
-          "format": "",
-          "language": "vo"
-        }
-      ],
-      "pmt": "311",
-      "pcr": "4469",
-      "txt": "",
-      "frequency": "11345.00",
-      "polarization": "V",
-      "symbol_rate": "29750",
-      "fec": "5/6",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "42",
-      "tid": "50600",
-      "satellite_pos": "42.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "beIN H&E",
       "country": "",
       "category": "",
@@ -2528,51 +2483,6 @@
       ],
       "pmt": "55",
       "pcr": "4462",
-      "txt": "",
-      "frequency": "11345.00",
-      "polarization": "V",
-      "symbol_rate": "29750",
-      "fec": "5/6",
-      "standard": "DVB-S",
-      "modulation": "QPSK",
-      "nid": "42",
-      "tid": "50600",
-      "satellite_pos": "42.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "National Geographic Wild HD Polska",
-      "country": "Polonia",
-      "category": "Documentaries",
-      "bouquet": "Digitürk",
-      "encryption": "Irdeto 2",
-      "sid": "15525",
-      "vpid": "4474",
-      "audio_tracks": [
-        {
-          "pid": "4574",
-          "format": "",
-          "language": "tur"
-        },
-        {
-          "pid": "4674",
-          "format": "",
-          "language": "vo"
-        }
-      ],
-      "pmt": "2861",
-      "pcr": "4474",
       "txt": "",
       "frequency": "11345.00",
       "polarization": "V",
