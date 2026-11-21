@@ -3,7 +3,7 @@
   "label": "neosat — 1.9E",
   "bouquet_id": "neosat",
   "satellite_pos": "1.9E",
-  "updated_at": "2026-11-21T12:00:02.551165",
+  "updated_at": "2026-11-21T16:00:02.024311",
   "count": 144,
   "channels": [
     {
@@ -921,7 +921,7 @@
       "country": "Francia",
       "category": "News",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "79",
       "vpid": "2445",
       "audio_tracks": [
@@ -1561,7 +1561,7 @@
       "country": "Regno Unito",
       "category": "News",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "261",
       "vpid": "1305",
       "audio_tracks": [
@@ -2651,7 +2651,7 @@
       "country": "U.S.A.",
       "category": "Business",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "227",
       "vpid": "1135",
       "audio_tracks": [
@@ -3221,7 +3221,7 @@
       "country": "Francia",
       "category": "News",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "104",
       "vpid": "520",
       "audio_tracks": [
@@ -3301,7 +3301,7 @@
       "country": "Regno Unito",
       "category": "News",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "109",
       "vpid": "545",
       "audio_tracks": [
@@ -3381,7 +3381,7 @@
       "country": "Francia",
       "category": "News",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "111",
       "vpid": "555",
       "audio_tracks": [
@@ -3786,7 +3786,7 @@
       "country": "Francia",
       "category": "General",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "128",
       "vpid": "640",
       "audio_tracks": [
@@ -4156,7 +4156,7 @@
       "country": "Corea del Sud",
       "category": "General",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "514",
       "vpid": "1570",
       "audio_tracks": [
@@ -4321,7 +4321,7 @@
       "country": "Cipro",
       "category": "General",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "523",
       "vpid": "1615",
       "audio_tracks": [
@@ -5331,7 +5331,7 @@
       "country": "Serbia",
       "category": "General",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "434",
       "vpid": "1991",
       "audio_tracks": [
@@ -5371,7 +5371,7 @@
       "country": "Spagna",
       "category": "General",
       "bouquet": "Neosat",
-      "encryption": "Conax",
+      "encryption": "FTA",
       "sid": "437",
       "vpid": "2012",
       "audio_tracks": [
