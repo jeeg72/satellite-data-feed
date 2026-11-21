@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "0_8W",
   "satellite_pos": "0.8W",
-  "updated_at": "2026-11-21T12:00:02.551165",
-  "count": 903,
+  "updated_at": "2026-11-21T16:00:02.024311",
+  "count": 904,
   "channels": [
     {
       "channel_name": "TV 2 Sport HD 1",
@@ -5819,7 +5819,7 @@
       "channel_name": "Romania TV",
       "country": "Romania",
       "category": "General",
-      "bouquet": "Romania TV",
+      "bouquet": "RTV HD",
       "encryption": "FTA",
       "sid": "1",
       "vpid": "101",
@@ -5828,9 +5828,14 @@
           "pid": "201",
           "format": "",
           "language": "rom"
+        },
+        {
+          "pid": "202",
+          "format": "",
+          "language": "eng"
         }
       ],
-      "pmt": "100",
+      "pmt": "32",
       "pcr": "101",
       "txt": "",
       "frequency": "11041.70",
@@ -11097,6 +11102,46 @@
       ],
       "pmt": "688",
       "pcr": "1688",
+      "txt": "",
+      "frequency": "11389.30",
+      "polarization": "H",
+      "symbol_rate": "24500",
+      "fec": "7/8",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "0",
+      "tid": "34",
+      "satellite_pos": "0.8W",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Telenor Testcard",
+      "country": "Norvegia",
+      "category": "Various",
+      "bouquet": "",
+      "encryption": "FTA",
+      "sid": "65499",
+      "vpid": "1455",
+      "audio_tracks": [
+        {
+          "pid": "3150",
+          "format": "",
+          "language": "eng"
+        }
+      ],
+      "pmt": "325",
+      "pcr": "1455",
       "txt": "",
       "frequency": "11389.30",
       "polarization": "H",
