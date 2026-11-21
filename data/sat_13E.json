@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-11-21T12:00:02.551165",
-  "count": 1100,
+  "updated_at": "2026-11-21T16:00:02.024311",
+  "count": 1101,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -10569,6 +10569,46 @@
       "ms_unreliable": false,
       "ms_suspect": false,
       "video_format": "mpeg2",
+      "fixed_from_satellite": false,
+      "t2mi": false,
+      "t2mi_pid": 0,
+      "t2mi_plp": 0
+    },
+    {
+      "channel_name": "Glorious TV",
+      "country": "non definito",
+      "category": "Religious",
+      "bouquet": "IPVideoTrans.com",
+      "encryption": "FTA",
+      "sid": "7310",
+      "vpid": "3510",
+      "audio_tracks": [
+        {
+          "pid": "3630",
+          "format": "aac",
+          "language": "eng"
+        }
+      ],
+      "pmt": "4096",
+      "pcr": "3510",
+      "txt": "",
+      "frequency": "11137.30",
+      "polarization": "H",
+      "symbol_rate": "27500",
+      "fec": "3/4",
+      "standard": "DVB-S",
+      "modulation": "QPSK",
+      "nid": "318",
+      "tid": "13100",
+      "satellite_pos": "13.0E",
+      "is_multistream": false,
+      "ms_isid": 0,
+      "pls_number": 0,
+      "pls_root": 0,
+      "pls_mode": "",
+      "ms_unreliable": false,
+      "ms_suspect": false,
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
@@ -22795,7 +22835,7 @@
         },
         {
           "pid": "5305",
-          "format": "",
+          "format": "aac",
           "language": "eng"
         }
       ],
@@ -38814,7 +38854,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Ritorno al futuro Collection HD",
+      "channel_name": "Guardie & Ladri Collection",
       "country": "Italia",
       "category": "Movies",
       "bouquet": "SkyItalia",
