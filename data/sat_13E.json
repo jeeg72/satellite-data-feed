@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-11-21T08:00:02.666057",
-  "count": 1101,
+  "updated_at": "2026-11-21T12:00:02.551165",
+  "count": 1100,
   "channels": [
     {
       "channel_name": "Canal+ 360",
@@ -39899,51 +39899,6 @@
       ],
       "pmt": "905",
       "pcr": "1051",
-      "txt": "",
-      "frequency": "12519.70",
-      "polarization": "V",
-      "symbol_rate": "27500",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "318",
-      "tid": "9000",
-      "satellite_pos": "13.0E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg4",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
-      "channel_name": "Kentron TV",
-      "country": "Armenia",
-      "category": "Various",
-      "bouquet": "STN",
-      "encryption": "FTA",
-      "sid": "9007",
-      "vpid": "1071",
-      "audio_tracks": [
-        {
-          "pid": "1072",
-          "format": "",
-          "language": ""
-        },
-        {
-          "pid": "1073",
-          "format": "",
-          "language": ""
-        }
-      ],
-      "pmt": "907",
-      "pcr": "1071",
       "txt": "",
       "frequency": "12519.70",
       "polarization": "V",
