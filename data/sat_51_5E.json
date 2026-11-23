@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "51_5E",
   "satellite_pos": "51.5E",
-  "updated_at": "2026-11-23T16:00:03.014796",
+  "updated_at": "2026-11-23T20:00:02.308085",
   "count": 68,
   "channels": [
     {
@@ -926,7 +926,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Ля-Минор ТВ",
+      "channel_name": "Музыка LIVE",
       "country": "",
       "category": "",
       "bouquet": "Belintersat",
