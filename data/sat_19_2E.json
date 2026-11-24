@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-24T20:00:02.579104",
+  "updated_at": "2026-11-25T00:00:02.670802",
   "count": 842,
   "channels": [
     {
@@ -15094,13 +15094,13 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT VAMS3",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Vamos 3",
+      "country": "Spagna",
+      "category": "Sport",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30202",
-      "vpid": "160",
+      "vpid": "160!esp",
       "audio_tracks": [
         {
           "pid": "80",
@@ -15229,9 +15229,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT ARAG",
-      "country": "",
-      "category": "",
+      "channel_name": "Aragón Sat",
+      "country": "Spagna",
+      "category": "Regional",
       "bouquet": "Movistar+",
       "encryption": "FTA",
       "sid": "30208",
