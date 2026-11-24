@@ -3,7 +3,7 @@
   "label": "skydigital — 28.2E",
   "bouquet_id": "skydigital",
   "satellite_pos": "28.2E",
-  "updated_at": "2026-11-24T08:00:02.517133",
+  "updated_at": "2026-11-24T12:00:02.182534",
   "count": 517,
   "channels": [
     {
@@ -21362,7 +21362,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Sky Mockingjay HD",
+      "channel_name": "Chipmunks HD",
       "country": "Regno Unito",
       "category": "Movies",
       "bouquet": "Sky Digital",
