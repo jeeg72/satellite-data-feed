@@ -2,8 +2,8 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-26T16:00:02.373735",
-  "count": 842,
+  "updated_at": "2026-11-26T20:00:02.451603",
+  "count": 841,
   "channels": [
     {
       "channel_name": "La 1 UHD",
@@ -15718,7 +15718,7 @@
       "country": "Spagna",
       "category": "Documentaries",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3",
+      "encryption": "Nagravision 3 + Mediaguard",
       "sid": "30804",
       "vpid": "164",
       "audio_tracks": [
@@ -15763,7 +15763,7 @@
       "country": "Spagna",
       "category": "Sport",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3",
+      "encryption": "Nagravision 3 + Mediaguard",
       "sid": "30805",
       "vpid": "165",
       "audio_tracks": [
@@ -15814,76 +15814,11 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "TEST M+LCAMP HD",
-      "country": "",
-      "category": "",
-      "bouquet": "Movistar+",
-      "encryption": "Nagravision 3 + Mediaguard",
-      "sid": "30806",
-      "vpid": "160",
-      "audio_tracks": [
-        {
-          "pid": "80",
-          "format": "",
-          "language": ""
-        },
-        {
-          "pid": "81",
-          "format": "",
-          "language": ""
-        },
-        {
-          "pid": "82",
-          "format": "",
-          "language": ""
-        },
-        {
-          "pid": "83",
-          "format": "",
-          "language": ""
-        },
-        {
-          "pid": "110",
-          "format": "",
-          "language": "eus"
-        },
-        {
-          "pid": "111",
-          "format": "",
-          "language": "glg"
-        }
-      ],
-      "pmt": "1024",
-      "pcr": "160",
-      "txt": "",
-      "frequency": "11435.60",
-      "polarization": "V",
-      "symbol_rate": "22000",
-      "fec": "2/3",
-      "standard": "DVB-S2",
-      "modulation": "8PSK",
-      "nid": "0",
-      "tid": "1016",
-      "satellite_pos": "19.2E",
-      "is_multistream": false,
-      "ms_isid": 0,
-      "pls_number": 0,
-      "pls_root": 0,
-      "pls_mode": "",
-      "ms_unreliable": false,
-      "ms_suspect": false,
-      "video_format": "mpeg2",
-      "fixed_from_satellite": false,
-      "t2mi": false,
-      "t2mi_pid": 0,
-      "t2mi_plp": 0
-    },
-    {
       "channel_name": "Movistar Vamos 3 HD",
       "country": "Spagna",
       "category": "Sport",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3",
+      "encryption": "Nagravision 3 + Mediaguard",
       "sid": "30807",
       "vpid": "161",
       "audio_tracks": [
@@ -15924,7 +15859,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT M+ HITS HD",
+      "channel_name": "M+ HITS HD.",
       "country": "",
       "category": "",
       "bouquet": "Movistar+",
@@ -15974,7 +15909,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT CLASIC",
+      "channel_name": "M+ CLÁSICOS HD.",
       "country": "",
       "category": "",
       "bouquet": "Movistar+",
