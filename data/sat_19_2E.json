@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "19_2E",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-26T08:00:02.756985",
+  "updated_at": "2026-11-26T12:00:02.008756",
   "count": 842,
   "channels": [
     {
@@ -15049,9 +15049,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT NOVA",
-      "country": "",
-      "category": "",
+      "channel_name": "Nova",
+      "country": "Spagna",
+      "category": "General",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30201",
@@ -15139,9 +15139,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT ORIG",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar+ Originales",
+      "country": "Spagna",
+      "category": "Movies",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30206",
@@ -15184,9 +15184,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT AX",
-      "country": "",
-      "category": "",
+      "channel_name": "AXN Spain",
+      "country": "Spagna",
+      "category": "General",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30207",
@@ -15269,9 +15269,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT LA2",
-      "country": "",
-      "category": "",
+      "channel_name": "La 2",
+      "country": "Spagna",
+      "category": "General",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30209",
@@ -15314,9 +15314,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT STAR",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Star Wars",
+      "country": "Spagna",
+      "category": "Movies",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30210",
@@ -15359,9 +15359,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT DRAM",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Drama",
+      "country": "Spagna",
+      "category": "Series",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30212",
@@ -15404,9 +15404,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT DSN",
-      "country": "",
-      "category": "",
+      "channel_name": "Disney Channel Spain",
+      "country": "Spagna",
+      "category": "Children",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30214",
@@ -15449,9 +15449,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT ACC",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Accion",
+      "country": "Spagna",
+      "category": "Movies",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30215",
@@ -15494,9 +15494,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT NGW",
-      "country": "",
-      "category": "",
+      "channel_name": "NatGeo Wild Spain",
+      "country": "Spagna",
+      "category": "Documentaries",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30216",
@@ -15539,9 +15539,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT IBER",
-      "country": "",
-      "category": "",
+      "channel_name": "Canal Iberalia",
+      "country": "Spagna",
+      "category": "General",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30218",
@@ -15579,9 +15579,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT COMED",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Comedia",
+      "country": "Spagna",
+      "category": "Movies",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30219",
@@ -15624,9 +15624,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT DOCU",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar+ Documentales",
+      "country": "Spagna",
+      "category": "Documentaries",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30222",
@@ -15669,9 +15669,9 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT M+ GOLF HD",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Golf HD",
+      "country": "Spagna",
+      "category": "Sport",
       "bouquet": "Movistar+",
       "encryption": "Nagravision 3",
       "sid": "30803",
@@ -15714,22 +15714,22 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT CAZAyPESCA HD",
-      "country": "",
-      "category": "",
+      "channel_name": "Caza y Pesca HD",
+      "country": "Spagna",
+      "category": "Documentaries",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3 + Mediaguard",
+      "encryption": "Nagravision 3",
       "sid": "30804",
       "vpid": "164",
       "audio_tracks": [
         {
           "pid": "96",
-          "format": "",
-          "language": ""
+          "format": "ac3",
+          "language": "esp"
         },
         {
           "pid": "97",
-          "format": "",
+          "format": "ac3",
           "language": ""
         }
       ],
@@ -15752,18 +15752,18 @@
       "pls_mode": "",
       "ms_unreliable": false,
       "ms_suspect": false,
-      "video_format": "mpeg2",
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT DEP",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Deportes 1 HD",
+      "country": "Spagna",
+      "category": "Sport",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3 + Mediaguard",
+      "encryption": "Nagravision 3",
       "sid": "30805",
       "vpid": "165",
       "audio_tracks": [
@@ -15775,12 +15775,12 @@
         {
           "pid": "101",
           "format": "",
-          "language": "eng"
+          "language": ""
         },
         {
           "pid": "102",
           "format": "",
-          "language": "tre"
+          "language": ""
         },
         {
           "pid": "103",
@@ -15807,30 +15807,30 @@
       "pls_mode": "",
       "ms_unreliable": false,
       "ms_suspect": false,
-      "video_format": "mpeg2",
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT M+LCAMPEONES",
+      "channel_name": "TEST M+LCAMP HD",
       "country": "",
       "category": "",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3",
+      "encryption": "Nagravision 3 + Mediaguard",
       "sid": "30806",
       "vpid": "160",
       "audio_tracks": [
         {
           "pid": "80",
-          "format": "ac3",
-          "language": "esp"
+          "format": "",
+          "language": ""
         },
         {
           "pid": "81",
-          "format": "ac3",
-          "language": "dos"
+          "format": "",
+          "language": ""
         },
         {
           "pid": "82",
@@ -15845,12 +15845,12 @@
         {
           "pid": "110",
           "format": "",
-          "language": ""
+          "language": "eus"
         },
         {
           "pid": "111",
           "format": "",
-          "language": ""
+          "language": "glg"
         }
       ],
       "pmt": "1024",
@@ -15872,30 +15872,30 @@
       "pls_mode": "",
       "ms_unreliable": false,
       "ms_suspect": false,
-      "video_format": "mpeg4",
+      "video_format": "mpeg2",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT M+ VAMOS 3",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar Vamos 3 HD",
+      "country": "Spagna",
+      "category": "Sport",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3 + Mediaguard",
+      "encryption": "Nagravision 3",
       "sid": "30807",
       "vpid": "161",
       "audio_tracks": [
         {
           "pid": "84",
-          "format": "",
+          "format": "ac3",
           "language": "esp"
         },
         {
           "pid": "85",
-          "format": "",
-          "language": "eng"
+          "format": "ac3",
+          "language": ""
         }
       ],
       "pmt": "1025",
@@ -16019,28 +16019,28 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "FUT DOCU",
-      "country": "",
-      "category": "",
+      "channel_name": "Movistar+ Documentales HD",
+      "country": "Spagna",
+      "category": "Documentaries",
       "bouquet": "Movistar+",
-      "encryption": "Nagravision 3 + Mediaguard",
+      "encryption": "Nagravision 3",
       "sid": "30815",
       "vpid": "166",
       "audio_tracks": [
         {
           "pid": "104",
-          "format": "",
-          "language": ""
+          "format": "ac3",
+          "language": "esp"
         },
         {
           "pid": "105",
-          "format": "",
+          "format": "ac3",
           "language": ""
         },
         {
           "pid": "106",
           "format": "",
-          "language": ""
+          "language": "ads"
         }
       ],
       "pmt": "1034",
@@ -16062,7 +16062,7 @@
       "pls_mode": "",
       "ms_unreliable": false,
       "ms_suspect": false,
-      "video_format": "mpeg2",
+      "video_format": "mpeg4",
       "fixed_from_satellite": false,
       "t2mi": false,
       "t2mi_pid": 0,
