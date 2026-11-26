@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "13E",
   "satellite_pos": "13.0E",
-  "updated_at": "2026-11-26T12:00:02.008756",
+  "updated_at": "2026-11-26T16:00:02.373735",
   "count": 1101,
   "channels": [
     {
@@ -38854,7 +38854,7 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Guardie & Ladri Collection",
+      "channel_name": "Twilight Collection HD",
       "country": "Italia",
       "category": "Movies",
       "bouquet": "SkyItalia",
@@ -38870,7 +38870,7 @@
         {
           "pid": "414",
           "format": "ac3",
-          "language": "vo"
+          "language": "und"
         }
       ],
       "pmt": "1003",
