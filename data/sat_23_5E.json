@@ -2,7 +2,7 @@
   "type": "satellite",
   "label": "23_5E",
   "satellite_pos": "23.5E",
-  "updated_at": "2026-11-27T08:00:02.184509",
+  "updated_at": "2026-11-27T12:00:02.166206",
   "count": 544,
   "channels": [
     {
@@ -10756,18 +10756,18 @@
       "t2mi_plp": 0
     },
     {
-      "channel_name": "Nick toons Adria",
-      "country": "Croazia",
-      "category": "Children",
-      "bouquet": "M:Sat TV",
-      "encryption": "Nagravision 3 + Conax",
+      "channel_name": "Belle Amie",
+      "country": "Serbia",
+      "category": "Regional",
+      "bouquet": "Telekom Srbija",
+      "encryption": "FTA",
       "sid": "20133",
       "vpid": "1331",
       "audio_tracks": [
         {
           "pid": "1332",
           "format": "",
-          "language": "eng"
+          "language": "ser"
         }
       ],
       "pmt": "1330",
