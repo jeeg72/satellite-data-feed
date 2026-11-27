@@ -3,7 +3,7 @@
   "label": "orfdigital — 19.2E",
   "bouquet_id": "orfdigital",
   "satellite_pos": "19.2E",
-  "updated_at": "2026-11-27T00:00:02.941475",
+  "updated_at": "2026-11-27T04:00:02.689506",
   "count": 16,
   "channels": [
     {
@@ -670,8 +670,8 @@
       "txt": "",
       "frequency": "12663.40",
       "polarization": "H",
-      "symbol_rate": "21571",
-      "fec": "2/3",
+      "symbol_rate": "22000",
+      "fec": "5/6",
       "standard": "DVB-S",
       "modulation": "QPSK",
       "nid": "1",
